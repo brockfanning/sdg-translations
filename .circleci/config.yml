@@ -105,16 +105,22 @@ workflows:
       - build_data:
           filters:
             branches:
-              only: develop
+              only: master
+            tags:
+              only: /.*/
       - build_site:
           requires:
             - build_data
           filters:
             branches:
-              only: develop
+              only: master
+            tags:
+              only: /.*/
       - deploy:
           requires:
             - build_site
           filters:
             branches:
-              only: develop
+              only: master
+            tags:
+              only: /.*/

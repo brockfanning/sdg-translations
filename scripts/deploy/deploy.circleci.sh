@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-git config --global user.email "$GH_EMAIL"
-git config --global user.name "$GH_NAME"
+git config --global user.email "justus.caspers@destatis.de"
+git config --global user.name "$JustusCas"
 
 git clone $CIRCLE_REPOSITORY_URL out
 

@@ -2,7 +2,9 @@ comments_limitations: Other information
 computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
+comparison_sdg: Comparisons to SDG metadata
 goal_meta_link: Link to UN metadata
+goal_meta_national_link_text: Link to national metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
 indicator_name: Indicator name
@@ -76,5 +78,3 @@ target: Target name
 target_id: Target number
 un_custodian_agency: UN custodian agency
 un_designated_tier: UN designated tier
-goal_meta_national_link_text: Link to national metadata
-comparison_sdg: Comparisons to SDG metadata

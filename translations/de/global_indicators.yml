@@ -50,7 +50,7 @@
     40 Prozent der Bevölkerung und der Gesamtbevölkerung
 10.2.1:
   title: Anteil der Bevölkerung, die mit weniger als 50% des Medianeinkommens leben,
-    nach Geschlecht, Alter und Menschen mit Behinderung
+    nach Geschlecht, Alter und Menschen mit Behinderungen
 10.3.1:
   title: Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich
     diskriminiert oder belästigt gefühlt zu haben basierend auf einem Diskriminierungsgrund,
@@ -64,16 +64,16 @@
   title: Anteil der Mitglieder und Stimmrechte der Entwicklungsländer  in internationalen
     Organisationen
 10.7.1:
-  title: Von Beschäftigten getragene Einstellungskosten als Anteil des Jahreseinkommens
+  title: Von Beschäftigten getragene Einstellungskosten als Anteil des monatlichen Einkommens
     des Bestimmungslandes
 10.7.2:
-  title: Anzahl der Staaten mit gut umgesetzter Migrationspolitik
+  title: Anzahl der Staaten mit Migrationspolitik, die eine ordnungsgemäße sichere, regelmäßige und verantwortungsbewusste Migration und Mobilität von Menschen ermöglicht
 10.a.1:
   title: Anteil der Zolltarife auf Einfuhren aus den am wenigsten entwickelten Ländern
     sowie Entwicklungsländer mit Zollfreiheit
 10.b.1:
   title: Gesamte Kapitalströme für Entwicklung, nach Nehmer- und Geberländern und
-    Art des Zahlungsstroms (z. B. öffentliche Entwicklungszusammenarbeit, ausländische
+    Art des Zahlungsstroms (z. B. öffentliche Entwicklungszusammenarbeit (ODA), ausländische
     Direktinvestitionen und sonstige Geldströme)
 10.c.1:
   title: Überweisungskosten  als Anteil am überwiesenen Betrag
@@ -108,7 +108,7 @@
   title: Jahresmittelwerte für Feinstaub (z. B. PM2,5 und PM10) in Städten (bevölkerungsgewichtet)
 11.7.1:
   title: Durchschnittlicher Anteil der bebauten Fläche in Städten, die als Freifläche
-    öffentlich zugänglich ist, nach Geschlecht, Alter und Personen mit Behinderungen
+    öffentlich zugänglich ist, nach Geschlecht, Alter und Menschen mit Behinderungen
 11.7.2:
   title: Anteil der Personen, die in den vergangenen 12 Monaten Opfer körperlicher
     oder sexueller Belästigung wurden, nach Geschlecht, Alter, Behinderungsstatus
@@ -140,7 +140,7 @@
   title: Inländische Materialverwendung, inländische Materialverwendung pro Kopf und
     inländische Materialverwendung pro BIP
 12.3.1:
-  title: Index zu globalen Nahrungsmittelverlusten
+  title: (a) Index der zu globalen LebensNahrungsmittelverlusten und (b) Index der Lebensmittelabfälle
 12.4.1:
   title: Anzahl der Vertragsparteien internationaler multilateraler Umweltabkommen
     über gefährliche Abfälle und andere Chemikalien, die ihren Bekenntnissen und Verpflichtungen
@@ -229,7 +229,7 @@
 14.a.1:
   title: Anteil am gesamten Forschungsbudget für Forschung im Bereich der Meerestechnik
 14.b.1:
-  title: Fortschritt der Staaten hinsichtlich der Umsetzung von gesetzlichen/ regulatorischen/
+  title: Grad der Umsetzung von gesetzlichen/ regulatorischen/
     politischen/ institutionellen Rahmenwerken, die Zugangsrechte für kleine Fischereien
     anerkennen und schützen
 14.c.1:
@@ -268,11 +268,11 @@
     mit dem Aichi-Biodiversitätsziel 2 des Strategischen Plans zur Biodiversität 2011-2020
     beschlossen wurden
 15.a.1:
-  title: Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt
-    und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
+  title: Öffentliche Entwicklungszusammenarbeit (ODA) und öffentliche Ausgaben für den Erhalt
+    und die nachhaltige Nutzung der Biodiversität und der Ökosysteme
 15.b.1:
-  title: Öffentliche Entwicklungszusammenarbeit und öffentliche Ausgaben für den Erhalt
-    und die nachhaltige Nutzung biologischer Vielfalt und der Ökosysteme
+  title: Öffentliche Entwicklungszusammenarbeit (ODA) und öffentliche Ausgaben für den Erhalt
+    und die nachhaltige Nutzung der Biodiversität und der Ökosysteme
 15.c.1:
   title: Anteil der gehandelten Wildtiere, die gewildert oder geschmuggelt wurden
 16.1.1:
@@ -332,9 +332,7 @@
   title: Anteil der Bevölkerung, die mit ihrer letzten Erfahrung mit öffentlichen
     Dienstleistungen zufrieden war
 16.7.1:
-  title: Anteil der Stellen (nach Geschlecht, Alter, Personen mit Behinderungen und
-    Bevölkerungsgruppen) in öffentlichen Institutionen (nationale und lokale Gesetzgebung,
-    öffentlicher Dienst und Judikative) im Vergleich zur nationalen Verteilungen
+  title: Anteil der Stellen (nach Geschlecht, Alter, Personen mit Behinderungen und Bevölkerungsgruppen) in nationalen und lokalen öffentlichen Institutionen einschließlich (a) der(nationale und lokale Gesetzgebung,; (b) des öffentlichern Dienstes; und (c) der Judikativen), im Vergleich zur nationalen Verteilungen, nach Geschlecht, Alter, Menschen mit Behinderungen und Bevölkerungsgruppen
 16.7.2:
   title: Anteil der Bevölkerung, die glaubt, dass die Entscheidungsfindung inklusiv
     und bedarfsgesteuert ist, nach Geschlecht, Alter, Behinderung und Bevölkerungsgruppe
@@ -400,7 +398,7 @@
     für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und
     Entwicklung (OECD)
 17.3.1:
-  title: Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit
+  title: Ausländische Direktinvestitionen, öffentliche Entwicklungszusammenarbeit (ODA)
     und Süd-Süd-Kooperationen als Anteil am gesamten Haushaltsbudget
 17.3.2:
   title: Volumen der (Rück-)Überweisungen (in US-Dollar) als Anteil am gesamten BIP
@@ -455,8 +453,7 @@
 2.a.1:
   title: Der Agriculture Orientation Index für staatliche Ausgaben
 2.a.2:
-  title: Öffentliche Leistungen insgesamt (öffentliche Entwicklungszusammenarbeit
-    plus sonstige öffentliche Ausgaben) für den Landwirtschaftssektor
+  title: Öffentliche Leistungen insgesamt (öffentliche Entwicklungszusammenarbeit(ODA) plus sonstige öffentliche Ausgaben) für den Landwirtschaftssektor
 2.b.1:
   title: Ausfuhrsubventionen für landwirtschaftliche Güter
 2.b.2:
@@ -501,7 +498,7 @@
   title: Anteil der Frauen im gebärfähigen Alter (15-49 Jahre), die ihren Anspruch
     auf Familienplanung durch moderne Methoden umsetzen können
 3.7.2:
-  title: Geburtenrate von Jugendlichen (10-14 Jahre 15-19 Jahre) je 1.000 Frauen derselben
+  title: Geburtenrate bei Jugendlichen (10-14 Jahre 15-19 Jahre) je 1.000 Frauen derselben
     Altersgruppe
 3.8.1:
   title: Abdeckung der grundlegenden Gesundheitsleistungen (definiert als durchschnittliche
@@ -524,10 +521,10 @@
   title: Altersstandardisierte Prävalenz des aktuellen Tabakkonsums bei Personen im
     Alter von 15 Jahren und älter
 3.b.1:
-  title: Anteil der Zielbevölkerung, die alle Impfungen laut nationalen Programm
+  title: Anteil der Zielbevölkerung, die alle Impfungen laut nationalem Programm
     besitzt
 3.b.2:
-  title: Gesamte öffentliche Netto-Entwicklungszusammenarbeit für medizinische Forschung
+  title: Gesamte öffentliche Netto-Entwicklungszusammenarbeit(ODA) für medizinische Forschung
     und grundlegende Gesundheitsversorgung
 3.b.3:
   title: Anteil der Gesundheitseinrichtungen, die über einen Kernsatz relevanter und
@@ -572,7 +569,7 @@
     für Schüler mit Behinderungen (e) Trinkwasser (f) geschlechterspezifischen sanitären
     Anlagen und g) grundlegende Ausstattung zum Händewaschen (gemäß den WASH-Indikator-Definitionen)'
 4.b.1:
-  title: Umfang der Ausgaben öffentlicher Entwicklungszusammenarbeit für Stipendien
+  title: Umfang der Ausgaben öffentlicher Entwicklungszusammenarbeit (ODA) für Stipendien
     nach Sektor und Art des Studiums
 4.c.1:
   title: 'Anteil der Lehrer in: (a) Vorschule (b) Grundschule (c ) Sekundarstufe I
@@ -647,7 +644,7 @@
 6.6.1:
   title: Veränderung des Umfangs wasserbezogener Ökosysteme im Zeitablauf
 6.a.1:
-  title: Betrag der wasser- und sanitärbezogenen öffentlichen Entwicklungszusammenarbeit,
+  title: Betrag der wasser- und sanitärbezogenen öffentlichen Entwicklungszusammenarbeit (ODA),
     die Teil eines geregelten öffentlichen Haushaltsplans ist
 6.b.1:
   title: Anteil der lokalen Verwaltungseinheiten mit etablierten und operativen Strategien
@@ -737,8 +734,8 @@
 9.5.2:
   title: Wissenschaftler (in Vollzeit-Äquivalenten) je eine Million Einwohner
 9.a.1:
-  title: Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit
-    und andere öffentliche Mittel) für Infrastruktu
+  title: Gesamte öffentliche internationale Unterstützung (öffentliche Entwicklungszusammenarbeit (ODA)
+    und sonstige öffentliche Ausgaben) für Infrastruktu
 9.b.1:
   title: Anteil der Wertschöpfung der Medium- und High-Tech-Industrie an der Wertschöpfung
     insgesamt

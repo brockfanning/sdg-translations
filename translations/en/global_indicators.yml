@@ -416,8 +416,7 @@
   title: Number of sustainable tourism strategies or policies and implemented action
     plans with agreed monitoring and evaluation tools
 12.c.1:
-  title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption)
-    and as a proportion of total national expenditure on fossil fuels
+  title: Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels
 13.1.1:
   custodian_agency: United Nations Office for Disaster Reduction (UNISDR)
   definition: 'Death: The number of people who died during the disaster, or directly
@@ -479,8 +478,7 @@
     systemic and individual capacity-building to implement adaptation, mitigation
     and technology transfer, and development actions
 13.a.1:
-  title: Mobilized amount of United States dollars per year between 2020 and 2025
-    accountable towards the $100 billion commitment
+  title: Mobilized amount of United States dollars per year between 2020 and 2025 accountable towards the $100 billion commitment
 13.b.1:
   title: Number of least developed countries and small island developing States that
     are receiving specialized support, and amount of support, including finance, technology
@@ -536,11 +534,7 @@
   title: Progress by countries in the degree of application of a legal/regulatory/policy/institutional
     framework which recognizes and protects access rights for small-scale fisheries
 14.c.1:
-  title: Number of countries making progress in ratifying, accepting and implementing
-    through legal, policy and institutional frameworks, ocean-related instruments
-    that implement international law, as reflected in the United Nations Convention
-    on the Law of the Sea, for the conservation and sustainable use of the oceans
-    and their resources
+  title: Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources
 15.1.1:
   custodian_agency: Food and Agriculture Organization of the United Nations (FAO)
   definition: Forest area as a proportion of total land area
@@ -1073,8 +1067,7 @@
   custodian_agency: Organisation for Economic Co-operation and Development (OECD)
   definition: 'ODA PART: ODA disbursements'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-01.pdf
-  title: Foreign direct investment (FDI), official development assistance and South-South
-    cooperation as a proportion of total domestic budget
+  title: Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget
 17.3.2:
   custodian_agency: World Bank (WB)
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-17-03-02.pdf
@@ -1274,7 +1267,7 @@
     year or period dying before reaching the age of 5 years, if subject to age specific
     mortality rates of that period, expressed per 1000 live births.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-03-02-01.pdf
-  title: Under‐5 mortality rate
+  title: Under-5 mortality rate
 3.2.2:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: The neonatal mortality rate is the probability that a child born in
@@ -1466,9 +1459,7 @@
     proficiency level will be measured relative to new common reading and mathematics
     scales currently in development.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-01-01.pdf
-  title: Proportion of children and young people (a) in grades 2/3; (b) at the end
-    of primary; and (c) at the end of lower secondary achieving at least a minimum
-    proficiency level in (i) reading and (ii) mathematics, by sex
+  title: 'Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex'
 4.2.1:
   custodian_agency: United Nations Children's Fund (UNICEF)
   definition: 'The proportion of children under 5 years of age who are developmentally
@@ -1528,20 +1519,13 @@
     at all levels in: (a) national education policies, (b) curricula, (c) teacher
     education and (d) student assessment'
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-07-01.pdf
-  title: Extent to which (i) global citizenship education and (ii) education for sustainable
-    development, including gender equality and human rights, are mainstreamed at all
-    levels in (a) national education policies; (b) curricula; (c) teacher education;
-    and (d) student assessment
+  title: 'Extent to which (i) global citizenship education and (ii) education for sustainable development, including gender equality and human rights, are mainstreamed at all levels in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment'
 4.a.1:
   custodian_agency: UNESCO Institute for Statistics (UNESCO-UIS)
   definition: The percentage of schools by level of education (primary education)
     with access to the given facility or service.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0A-01.pdf
-  title: Proportion of schools with access to (a) electricity; (b) the Internet for
-    pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure
-    and materials for students with disabilities; (e) basic drinking water; (f) single-sex
-    basic sanitation facilities; and (g) basic handwashing facilities (as per the
-    WASH indicator definitions)
+  title: 'Proportion of schools with access to (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)'
 4.b.1:
   definition: Gross disbursements of total ODA from all donors for scholarships.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0B-01.pdf
@@ -1554,10 +1538,7 @@
     the minimum organized pedagogical teacher training pre-service and in-service
     required for teaching at the relevant level in a given country
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-04-0C-01.pdf
-  title: 'Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary;
-    and (d) upper secondary education who have received at least the minimum organized
-    teacher training (e.g. pedagogical training) pre-service or in-service required
-    for teaching at the relevant level in a given country'
+  title: 'Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country'
 5.1.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-05-01-01.pdf
   title: Whether or not legal frameworks are in place to promote, enforce and monitor
@@ -2019,9 +2000,7 @@
     migrant status
 8.8.2:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-08-02.pdf
-  title: Level of national compliance with labour rights (freedom of association and
-    collective bargaining) based on International Labour Organization (ILO) textual
-    sources and national legislation, by sex and migrant status
+  title: Level of national compliance with labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status
 8.9.1:
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-08-09-01.pdf
   title: Tourism direct GDP as a proportion of total GDP and in growth rate

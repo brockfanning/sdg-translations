@@ -3,13 +3,13 @@ computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
 comparison_sdg: Comparisons to SDG metadata
-doc_meta: Metadata document
 goal_meta_link: Link to UN metadata
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
+info_url_1: Additional Information
 national_data_update_url: Data last updated
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available

@@ -14,7 +14,11 @@ download_csv_title: Download as CSV
 source: Source
 sources: Sources
 geographical_area: Geographical Area
+<<<<<<< HEAD
 unit_of_measurement: 'Copyright:'
+=======
+unit_of_measurement: 'Copyright:' 
+>>>>>>> 47ab8dd203aa7fef9a89afbda3a0d90fab98850d
 footnote: Footnote
 units_type: Units type
 dataset_size_warning: There are too many datasets to show on the chart. Not all

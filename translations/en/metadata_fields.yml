@@ -1,9 +1,7 @@
 comments_limitations: Other information
 computation_calculations: Calculations
 computation_definitions: Definitions
-#workaround copyright in graph:
-#computation_units: Unit of measurement
-computation_units: Copyright
+computation_units: Unit of measurement
 comparison_sdg: Comparisons to SDG metadata
 doc_meta: Metadata document
 goal_meta_link: Link to UN metadata

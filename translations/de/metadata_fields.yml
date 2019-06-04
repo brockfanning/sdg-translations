@@ -1,9 +1,7 @@
 comments_limitations: Weitere Informationen
 computation_calculations: Methodik
 computation_definitions: Definitionen
-#workaround copyright in graph:
-#computation_units: Einheit
-computation_units: Copyright
+computation_units: Einheit
 comparison_sdg: Vergleichbarkeit mit UN Metadaten
 doc_meta: Metadatendokument
 goal_meta_link: Link zu den globalen Metadaten

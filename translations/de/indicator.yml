@@ -36,11 +36,11 @@ select_all: Alle auswählen
 series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
   angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
   wird.
-source: Datenquelle
+source: Datenquelle bd
 sources: Datenquellen
 sub_categories: Disaggregationsdimensionen
 table: Tabelle
-unit_of_measurement: Einheit
+unit_of_measurement: Einheit ad
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.

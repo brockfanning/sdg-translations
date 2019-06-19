@@ -69,12 +69,12 @@ source_statistical_classification_3: Statistical classification
 source_statistical_classification_4: Statistical classification
 source_statistical_classification_5: Statistical classification
 source_statistical_classification_6: Statistical classification
-source_url_1: Link to data source
-source_url_2: Link to data source
-source_url_3: Link to data source
-source_url_4: Link to data source
-source_url_5: Link to data source
-source_url_6: Link to data source
+source_url_1: Link to <br>data source
+source_url_2: Link to <br>data source
+source_url_3: Link to <br>data source
+source_url_4: Link to <br>data source
+source_url_5: Link to <br>data source
+source_url_6: Link to <br>data source
 target: Target name
 target_id: Target number
 un_custodian_agency: UN custodian agency

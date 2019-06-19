@@ -2058,17 +2058,17 @@
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-03-02.pdf
   title: Proportion of small-scale industries with a loan or line of credit
 9.4.1:
-  definition: Carbon dioxide (here after, CO2) emissions per unit value added is an
-    indicator computed as ratio between CO2 emissions from fuel combustion and the
+  definition: Carbon dioxide (here after, CO<sub>2</sub>) emissions per unit value added is an
+    indicator computed as ratio between CO<sub>2</sub> emissions from fuel combustion and the
     value added of associated economic activities. The indicator can be computed for
-    the whole economy (total CO2 emissions/GDP) or for specific sectors, notably the
-    manufacturing sector (CO2 emissions from manufacturing industries per manufacturing
-    value added (MVA).   CO2 emissions per unit of GDP are expressed in kilogrammes
-    of CO2 per USD constant 2010 PPP GDP. CO2 emissions from manufacturing industries
-    per unit of MVA are measured in kilogrammes of CO2 equivalent per unit of MVA
+    the whole economy (total CO<sub>2</sub> emissions/GDP) or for specific sectors, notably the
+    manufacturing sector (CO<sub>2</sub> emissions from manufacturing industries per manufacturing
+    value added (MVA).   CO<sub>2</sub> emissions per unit of GDP are expressed in kilogrammes
+    of CO<sub>2</sub> per USD constant 2010 PPP GDP. CO<sub>2</sub> emissions from manufacturing industries
+    per unit of MVA are measured in kilogrammes of CO<sub>2</sub> equivalent per unit of MVA
     in constant 2010 USD.
   metadata_link: https://unstats.un.org/sdgs/metadata/files/Metadata-09-04-01.pdf
-  title: CO2 emission per unit of value added
+  title: CO<sub>2</sub> emission per unit of value added
 9.5.1:
   custodian_agency: United Nations Educational, Scientific and Cultural Organization
     (UNESCO)

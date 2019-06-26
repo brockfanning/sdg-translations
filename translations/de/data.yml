@@ -34,14 +34,14 @@ At-risk-of-poverty rate (according to Eurostat definition) (%): Armutsgefährdun
 under 18 years: unter 18 Jahren
 
 level of risk of extinction: Gefährdungskategorie
-at risk: gefährdet
-not at risk: nicht gefährdet
-unknown: unbekannt
-rudiments remaining: phänotypische Erhaltungspopulationen
+at risk: Gefährdet
+not at risk: Nicht gefährdet
+unknown: Unbekannt
+rudiments remaining: Phänotypische Erhaltungspopulationen
 breeding programs for preservation: Erhaltungspopulationen
 under observation: Beobachtungspopulationen
 
-Profession: Beruf
+profession: Beruf
 dentistry personnel: Zahnärztliches Personal
 health workers: Gesundheitspersonal
 nursing and midwifery personnel: Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe
@@ -108,7 +108,7 @@ rail transport: Eisenbahnverkehr
 commercial air transport: Luftverkehr
 motorised private transport: Motorisierter Individualverkehr
 inland waterway transport: Binnenschifffahrt
-transport via pipeline crude oil: "Transport in Rohrleitungen: Rohöl"
+"transport via pipeline: crude oil": "Transport in Rohrleitungen: Rohöl"
 
 type of flow: Art der Finanzströme
 ODA (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
@@ -132,21 +132,34 @@ greater north sea: Nordsee
 baltic sea: Ostsee
 
 classification: Klassifikation
-mountain Green Cover Index for Class 3 areas (Elevation 2500-3500 meters): Mountain Green Cover Index für Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
-mountain Green Cover Index for Class 4 areas (Elevation 1500-2500 meters): Mountain Green Cover Index für Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
-mountain Green Cover Index for Class 5 areas (Elevation 1000-1500 meters): Mountain Green Cover Index für Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
-Mountain Green Cover Index for Class 6 areas (Elevation  300-1000 meters): Mountain Green Cover Index für Gebiete der Klasse 6 (Höhe  300-1000 Meter)
+mountain green cover index for class 3 areas (elevation 2500-3500 meters): Mountain Green Cover Index für Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
+mountain green cover index for class 4 areas (elevation 1500-2500 meters): Mountain Green Cover Index für Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
+mountain green cover index for class 5 areas (elevation 1000-1500 meters): Mountain Green Cover Index für Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
+mountain green cover index for class 6 areas (elevation  300 -1000 meters): Mountain Green Cover Index für Gebiete der Klasse 6 (Höhe  300-1000 Meter)
 
 under 14 years: Unter 14 Jahren
 14 to under 18 years: 14 bis unter 18 Jahre
 18 to under 21 years: 18 bis unter 21 Jahre
 21 to under 60 years: 21 bis unter 60 Jahre
+unknown age: Unbekanntes Alter
 
 60 years and over: 60 Jahre und mehr
 
 form of exploitation: Art der Ausbeutung
 sexual exploitation: Sexuelle Ausbeutung
 exploitation of labour: Ausbeutung der Arbeitskraft
+sexual exploitation, under 14 years: Sexuelle Ausbeutung, unter 14 Jahren
+sexual exploitation, 14 to under 18 years: Sexuelle Ausbeutung, 14 bis unter 18 Jahre
+sexual exploitation, 18 to under 21 years: Sexuelle Ausbeutung, 18 bis unter 21 Jahre
+sexual exploitation, 21 to under 60 years: Sexuelle Ausbeutung, 21 bis unter 60 Jahre
+sexual exploitation, male: Sexuelle Ausbeutung, Männlich
+sexual exploitation, female:  Sexuelle Ausbeutung, Weiblich
+exploitation of labour, under 14 years: Ausbeutung der Arbeitskraft, unter 14 Jahren
+exploitation of labour, 14 to under 18 years: Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre
+exploitation of labour, 18 to under 21 years: Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre
+exploitation of labour, 21 to under 60 years: Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
+exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
+exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
 
 speed: Geschwindigkeit
 over 144 Kbps to under 2 Mbps: Über 144 kbit/s bis unter 2 Mbit/s

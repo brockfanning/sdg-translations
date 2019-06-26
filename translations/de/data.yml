@@ -89,9 +89,9 @@ river water bodies: Fließgewässer
 open water bodies: Seen und Talsperren
 
 economic sector: Wirtschaftszweig
-"agriculture, forestry and fishing (NACE Rev. 2, section A)": Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)
-"MIMEC (NACE Rev. 2, sections B, C, D, F)": MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)
-"services (NACE Rev. 2, sections E, G to T)": Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)
+"agriculture, forestry and fishing (nace rev. 2, section a)": Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)
+"mimec (nace rev. 2, sections b, c, d, f)": MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)
+"services (nace rev. 2, sections e, g to t)": Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)
 
 flowing water bodies: Fließgewässer
 standing water bodies: Stehende Gewässer
@@ -133,15 +133,16 @@ greater north sea: Nordsee
 baltic sea: Ostsee
 
 classification: Klassifikation
-mountain green cover index for class 3 areas (elevation 2500-3500 meters): Mountain Green Cover Index für Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
-mountain green cover index for class 4 areas (elevation 1500-2500 meters): Mountain Green Cover Index für Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
-mountain green cover index for class 5 areas (elevation 1000-1500 meters): Mountain Green Cover Index für Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
-mountain green cover index for class 6 areas (elevation  300 -1000 meters): Mountain Green Cover Index für Gebiete der Klasse 6 (Höhe  300-1000 Meter)
+class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
+class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
+class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
+class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe  300-1000 Meter)
 
 under 14 years: Unter 14 Jahren
 14 to under 18 years: 14 bis unter 18 Jahre
 18 to under 21 years: 18 bis unter 21 Jahre
-21 to under 60 years: 21 bis unter 60 Jahre
+21 to under 25 years: 21 bis unter 25 Jahre
+25 years and over: 25 Jahre und mehr
 unknown age: Unbekanntes Alter
 
 60 years and over: 60 Jahre und mehr

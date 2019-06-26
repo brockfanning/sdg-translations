@@ -89,9 +89,9 @@ river water bodies: River water bodies
 open water bodies: Open water bodies
 
 economic sector: Economic sector
-"agriculture, forestry and fishing (NACE Rev. 2, section A)": Agriculture, forestry and fishing (NACE Rev. 2, section A)
-"MIMEC (NACE Rev. 2, sections B, C, D, F)": MIMEC (NACE Rev. 2, sections B, C, D, F)
-"services (NACE Rev. 2, sections E, G to T)": Services (NACE Rev. 2, sections E, G to T)
+"agriculture, forestry and fishing (nace rev. 2, section a)": Agriculture, forestry and fishing (NACE Rev. 2, section A)
+"mimec (nace rev. 2, sections b, c, d, f)": MIMEC (NACE Rev. 2, sections B, C, D, F)
+"services (nace rev. 2, sections e, g to t)": Services (NACE Rev. 2, sections E, G to T)
 
 flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies
@@ -133,15 +133,16 @@ greater north sea: Greater North Sea
 baltic sea: Baltic Sea
 
 classification: Classification
-mountain green cover index for class 3 areas (elevation 2500-3500 meters): Mountain Green Cover Index for Class 3 areas (Elevation 2500-3500 meters)
-mountain green cover index for class 4 areas (elevation 1500-2500 meters): Mountain Green Cover Index for Class 4 areas (Elevation 1500-2500 meters)
-mountain green cover index for class 5 areas (elevation 1000-1500 meters): Mountain Green Cover Index for Class 5 areas (Elevation 1000-1500 meters)
-mountain green cover index for class 6 areas (elevation  300 -1000 meters): Mountain Green Cover Index for Class 6 areas (Elevation  300-1000 meters)
+class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2500-3500 meters)
+class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1500-2500 meters)
+class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1000-1500 meters)
+class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation  300-1000 meters)
 
 under 14 years: Under 14 years
 14 to under 18 years: 14 to under 18 years
 18 to under 21 years: 18 to under 21 years
-21 to under 60 years: 21 to under 60 years
+21 to under 25 years: 21 to under 25 years
+25 years and over: 25 years and over
 unknown age: Unknown Age
 
 60 years and over: 60 years and over

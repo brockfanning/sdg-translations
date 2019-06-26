@@ -31,15 +31,15 @@ year: Year
 At-risk-of-poverty rate (according to Eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
 18 to under 65 years: 18 to under 65 years
 65 years and over: 65 years and over
-under 18 years: under 18 years
+under 18 years: Under 18 years
 
 level of risk of extinction: Level of risk of extinction
-at risk: at risk
-not at risk: not at risk
-unknown: unknown
-rudiments remaining: rudiments remaining
-breeding programs for preservation: breeding programs for preservation
-under observation: under observation
+at risk: At risk
+not at risk: Not at risk
+unknown: Unknown
+rudiments remaining: Rudiments remaining
+breeding programs for preservation: Breeding programs for preservation
+under observation: Under observation
 
 Profession: Profession
 dentistry personnel: Dentistry personnel
@@ -54,3 +54,109 @@ installing software or apps: Installing software or apps
 creating electronic presentations or documents with text, images, tables or charts: Creating electronic presentations or documents with text, images, tables or charts
 transferring files between a computer or other devices: Transferring files between a computer or other devices
 writing a computer program using a programming language: Writing a computer program using a programming language
+
+15 to under 25 years: 15 to under 25 years
+25 to under 45 years: 25 to under 45 years
+45 to under 55 years: 45 to under 55 years
+55 to under 65 years: 55 to under 65 years
+65 years and over: 65 years and over
+
+baden-Wuerttemberg: Baden-Wuerttemberg
+bavaria: Bavaria
+berlin: Berlin
+brandenburg: Brandenburg
+bremen: Bremen
+hamburg: Hamburg
+hesse: Hesse
+mecklenburg western pomerania: Mecklenburg Western Pomerania
+lower saxony: Lower Saxony
+north rhine-westphalia: North Rhine-Westphalia
+rhineland palatinate: Rhineland Palatinate
+saarland: Saarland
+saxony: Saxony
+saxony-anhalt: Saxony-Anhalt
+schleswig-holstein: Schleswig-Holstein
+thuringia: Thuringia
+
+type of treatment: Type of treatment
+untreated wastewater that does not have to undergo treatment: Untreated wastewater that does not have to undergo treatment
+cooling water: Cooling water
+other wastewater that does not have to undergo treatment: Other wastewater that does not have to undergo treatment
+
+water bodies with good quality: Water bodies with good quality
+type of water body: Type of water body
+river water bodies: River water bodies
+open water bodies: Open water bodies
+
+economic sector: Economic sector
+agriculture, forestry and fishing (NACE Rev. 2, section A): Agriculture, forestry and fishing (NACE Rev. 2, section A)
+MIMEC (NACE Rev. 2, sections B, C, D, F): MIMEC (NACE Rev. 2, sections B, C, D, F)
+services (NACE Rev. 2, sections E, G to T): Services (NACE Rev. 2, sections E, G to T)
+
+flowing water bodies: Flowing water bodies
+standing water bodies: Standing water bodies
+
+25 to under 75 years: 25 to under 75 years
+
+type of account: Type of account
+online accounts: Online accounts
+current accounts: Current accounts
+
+mode of transport: Mode of transport
+road transport: Road transport
+rail transport: Rail transport
+commercial air transport: Commercial air transport
+motorised private transport: Motorised private transport
+inland waterway transport: Inland waterway transport
+transport via pipeline crude oil: "Transport via pipeline: crude oil"
+
+type of flow: Type of flow
+ODA (net disbursements): ODA (net disbursements)
+OOF (net disbursements): OOF (net disbursements)
+officially supported export credits (net disbursements): Officially Supported Export Credits (net disbursements)
+private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
+
+18 to under 30 years: 18 to under 30 years
+30 to under 45 years: 30 to under 45 years
+45 to under 65 years: 45 to under 65 years
+mobility impaired people: Mobility impaired people
+
+type of waste treatment: Type of waste treatment
+energy recovery: Energy recovery
+incineration: Incineration
+recovery other than energy recovery: Recovery other than energy recovery
+deposit onto or into land and land treatment and release into water bodies: Deposit onto or into land and land treatment and release into water bodies
+
+sea: Sea
+greater north sea: Greater North Sea
+baltic sea: Baltic Sea
+
+classification: Classification
+mountain Green Cover Index for Class 3 areas (Elevation 2500-3500 meters): Mountain Green Cover Index for Class 3 areas (Elevation 2500-3500 meters)
+mountain Green Cover Index for Class 4 areas (Elevation 1500-2500 meters): Mountain Green Cover Index for Class 4 areas (Elevation 1500-2500 meters)
+mountain Green Cover Index for Class 5 areas (Elevation 1000-1500 meters): Mountain Green Cover Index for Class 5 areas (Elevation 1000-1500 meters)
+mountain Green Cover Index for Class 6 areas (Elevation  300-1000 meters): Mountain Green Cover Index for Class 6 areas (Elevation  300-1000 meters)
+
+under 14 years: Under 14 years
+14 to under 18 years: 14 to under 18 years
+18 to under 21 years: 18 to under 21 years
+21 to under 60 years: 21 to under 60 years
+
+60 years and over: 60 years and over
+
+form of exploitation: Form of exploitation
+sexual exploitation: Sexual exploitation
+exploitation of labour: Exploitation of labour
+
+speed: Speed
+over 144 Kbps to under 2 Mbps: Over 144 Kbps to under 2 Mbps
+2 Mbps to under 10 Mbps: 2 Mbps to under 10 Mbps
+10 Mbps to under 30 Mbps: 10 Mbps to under 30 Mbps
+30 Mbps to under 100 Mbps: 30 Mbps to under 100 Mbps
+100 Mbps and over: 100 Mbps and over
+
+10 to under 16 years: 10 to under 16 years
+16 to under 25 years: 16 to under 25 years
+25 to under 45 years: 25 to under 45 years
+45 to under 65 years: 45 to under 65 years
+65 years and over: 65 years and over

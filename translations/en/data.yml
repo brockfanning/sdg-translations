@@ -89,9 +89,9 @@ river water bodies: River water bodies
 open water bodies: Open water bodies
 
 economic sector: Economic sector
-agriculture, forestry and fishing (NACE Rev. 2, section A): Agriculture, forestry and fishing (NACE Rev. 2, section A)
-MIMEC (NACE Rev. 2, sections B, C, D, F): MIMEC (NACE Rev. 2, sections B, C, D, F)
-services (NACE Rev. 2, sections E, G to T): Services (NACE Rev. 2, sections E, G to T)
+"agriculture, forestry and fishing (NACE Rev. 2, section A)": Agriculture, forestry and fishing (NACE Rev. 2, section A)
+"MIMEC (NACE Rev. 2, sections B, C, D, F)": MIMEC (NACE Rev. 2, sections B, C, D, F)
+"services (NACE Rev. 2, sections E, G to T)": Services (NACE Rev. 2, sections E, G to T)
 
 flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies
@@ -115,6 +115,7 @@ ODA (net disbursements): ODA (net disbursements)
 OOF (net disbursements): OOF (net disbursements)
 officially supported export credits (net disbursements): Officially Supported Export Credits (net disbursements)
 private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
+private sector flows at market terms (net disbursements): Private Sector Flows at market terms (net disbursements)
 
 18 to under 30 years: 18 to under 30 years
 30 to under 45 years: 30 to under 45 years
@@ -151,7 +152,8 @@ exploitation of labour: Exploitation of labour
 sexual exploitation, under 14 years: Sexual exploitation, under 14 years
 sexual exploitation, 14 to under 18 years: Sexual exploitation, 14 to under 18 years
 sexual exploitation, 18 to under 21 years: Sexual exploitation, 18 to under 21 years
-sexual exploitation, 21 to under 60 years: Sexual exploitation, 21 to under 60 years
+sexual exploitation, 21 to under 25 years: Sexual exploitation, 21 to under 25 years
+sexual exploitation, 25 years and over: Sexual exploitation, 25 years and over
 sexual exploitation, male: Sexual exploitation, male
 sexual exploitation, female: Sexual exploitation, female
 exploitation of labour, under 14 years: Exploitation of labour, under 14 years
@@ -162,11 +164,11 @@ exploitation of labour, male: Exploitation of labour, male
 exploitation of labour, female: Exploitation of labour, female
 
 speed: Speed
-over 144 Kbps to under 2 Mbps: Over 144 Kbps to under 2 Mbps
-2 Mbps to under 10 Mbps: 2 Mbps to under 10 Mbps
-10 Mbps to under 30 Mbps: 10 Mbps to under 30 Mbps
-30 Mbps to under 100 Mbps: 30 Mbps to under 100 Mbps
-100 Mbps and over: 100 Mbps and over
+over 144 kbps to under 2 mbps: Over 144 Kbps to under 2 Mbps
+2 mbps to under 10 mbps: 2 Mbps to under 10 Mbps
+10 mbps to under 30 mbps: 10 Mbps to under 30 Mbps
+30 mbps to under 100 mbps: 30 Mbps to under 100 Mbps
+100 mbps and over: 100 Mbps and over
 
 10 to under 16 years: 10 to under 16 years
 16 to under 25 years: 16 to under 25 years

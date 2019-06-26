@@ -89,9 +89,9 @@ river water bodies: Fließgewässer
 open water bodies: Seen und Talsperren
 
 economic sector: Wirtschaftszweig
-agriculture, forestry and fishing (NACE Rev. 2, section A): Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)
-MIMEC (NACE Rev. 2, sections B, C, D, F): MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)
-services (NACE Rev. 2, sections E, G to T): Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)
+"agriculture, forestry and fishing (NACE Rev. 2, section A)": Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)
+"MIMEC (NACE Rev. 2, sections B, C, D, F)": MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)
+"services (NACE Rev. 2, sections E, G to T)": Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)
 
 flowing water bodies: Fließgewässer
 standing water bodies: Stehende Gewässer
@@ -111,10 +111,11 @@ inland waterway transport: Binnenschifffahrt
 "transport via pipeline: crude oil": "Transport in Rohrleitungen: Rohöl"
 
 type of flow: Art der Finanzströme
-ODA (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
-OOF (net disbursements): Andere öffentliche Nettoleistungen (OOF)
+oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
+oof (net disbursements): Andere öffentliche Nettoleistungen (OOF)
 officially supported export credits (net disbursements): Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
 private concessional flows (net disbursements): Private Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)
+private sector flows at market terms (net disbursements): Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
 
 18 to under 30 years: 18 bis unter 30 Jahre
 30 to under 45 years: 30 bis unter 45 Jahre
@@ -151,7 +152,8 @@ exploitation of labour: Ausbeutung der Arbeitskraft
 sexual exploitation, under 14 years: Sexuelle Ausbeutung, unter 14 Jahren
 sexual exploitation, 14 to under 18 years: Sexuelle Ausbeutung, 14 bis unter 18 Jahre
 sexual exploitation, 18 to under 21 years: Sexuelle Ausbeutung, 18 bis unter 21 Jahre
-sexual exploitation, 21 to under 60 years: Sexuelle Ausbeutung, 21 bis unter 60 Jahre
+sexual exploitation, 21 to under 25 years: Sexuelle Ausbeutung, 21 bis unter 25 Jahre
+sexual exploitation, 25 years and over: Sexuelle Ausbeutung, 25 Jahre und mehr
 sexual exploitation, male: Sexuelle Ausbeutung, Männlich
 sexual exploitation, female:  Sexuelle Ausbeutung, Weiblich
 exploitation of labour, under 14 years: Ausbeutung der Arbeitskraft, unter 14 Jahren
@@ -162,11 +164,11 @@ exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
 exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
 
 speed: Geschwindigkeit
-over 144 Kbps to under 2 Mbps: Über 144 kbit/s bis unter 2 Mbit/s
-2 Mbps to under 10 Mbps: 2 Mbit/s bis unter 10 Mbit/s
-10 Mbps to under 30 Mbps: 10 Mbit/s bis unter 30 Mbit/s
-30 Mbps to under 100 Mbps: 30 Mbit/s bis unter 100 Mbit/s
-100 Mbps and over: 100 Mbit/s und mehr
+over 144 kbps to under 2 mbps: Über 144 kbit/s bis unter 2 Mbit/s
+2 mbps to under 10 mbps: 2 Mbit/s bis unter 10 Mbit/s
+10 mbps to under 30 mbps: 10 Mbit/s bis unter 30 Mbit/s
+30 mbps to under 100 mbps: 30 Mbit/s bis unter 100 Mbit/s
+100 mbps and over: 100 Mbit/s und mehr
 
 10 to under 16 years: 10 bis unter 16 Jahre
 16 to under 25 years: 16 bis unter 25 Jahre

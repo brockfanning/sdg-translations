@@ -89,9 +89,9 @@ river water bodies: River water bodies
 open water bodies: Open water bodies
 
 economic sector: Economic sector
-"agriculture, forestry and fishing (nace rev. 2, section a)": Agriculture, forestry and fishing (NACE Rev. 2, section A)
-"mimec (nace rev. 2, sections b, c, d, f)": MIMEC (NACE Rev. 2, sections B, C, D, F)
-"services (nace rev. 2, sections e, g to t)": Services (NACE Rev. 2, sections E, G to T)
+"agriculture, forestry and fishing (nace rev. 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
+"mimec (nace rev. 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
+"services (nace rev. 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G to T)"
 
 flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies

@@ -3,6 +3,7 @@ clear_all: Clear all
 clear_selections: Clear selections
 variable_hint: Available when '%field' is selected
 no_data_hint: No options available because of filters above
+data_footnote: Footnote
 download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: Download Source CSV
@@ -15,7 +16,6 @@ source: Source
 sources: Sources
 geographical_area: Geographical Area
 unit_of_measurement: Copyright
-footnote: Copyright
 units_type: Units type
 dataset_size_warning: There are too many datasets to show on the chart. Not all
   will be shown until you remove some selections.

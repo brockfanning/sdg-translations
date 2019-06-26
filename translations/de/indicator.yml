@@ -1,6 +1,7 @@
 chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
+data_footnote: Anmerkung
 dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden
 download_chart: Grafik im CSV-Format speichern
@@ -14,7 +15,6 @@ download_table: Tabelle im CSV-Format speichern
 edit: Bearbeiten
 edit_data: Daten bearbeiten
 edit_metadata: Metadaten bearbeiten
-footnote: Copyright
 geographical_area: Geographische Abdeckung
 global_metadata: Globale Metadaten
 global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Metadaten

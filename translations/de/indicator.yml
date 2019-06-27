@@ -2,6 +2,7 @@ chart: Grafik
 clear_all: Auswahl aufheben
 clear_selections: Auswahl aufheben
 footnote: Anmerkung
+data_footnote: Anmerkung
 dataset_size_warning: Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden
 download_chart: Grafik im CSV-Format speichern

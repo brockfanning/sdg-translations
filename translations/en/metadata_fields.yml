@@ -79,3 +79,6 @@ target: Target name
 target_id: Target number
 un_custodian_agency: UN custodian agency
 un_designated_tier: UN designated tier
+
+footnote: Specification
+data_footnote: Specification

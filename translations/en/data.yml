@@ -28,6 +28,9 @@ ratio: Ratio
 total: Total
 year: Year
 
+footnote: Specification
+data_footnote: Specification
+
 At-risk-of-poverty rate (according to Eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
 18 to under 65 years: 18 to under 65 years
 65 years and over: 65 years and over

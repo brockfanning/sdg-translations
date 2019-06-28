@@ -34,7 +34,8 @@ data_footnote: Specification
 At-risk-of-poverty rate (according to Eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
 18 to under 65 years: 18 to under 65 years
 65 years and over: 65 years and over
-under 18 years: Under 18 years
+under 18 years: under 18 years
+17 years and under: Under 18 years
 
 level of risk of extinction: Level of risk of extinction
 at risk: At risk

@@ -28,10 +28,12 @@ ratio: Ratio
 total: Total
 year: Year
 
+hiv incidence (per 1 000 inhabitants): HIV INCIDENCE
+
 footnote: Specification
 data_footnote: Specification
 
-At-risk-of-poverty rate (according to Eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
+at-risk-of-poverty rate (according to Eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
 18 to under 65 years: 18 to under 65 years
 65 years and over: 65 years and over
 under 18 years: under 18 years

@@ -46,3 +46,5 @@ unit_of_measurement: Copyright
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
+
+no_data: LoremIpsum123

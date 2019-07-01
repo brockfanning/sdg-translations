@@ -33,15 +33,16 @@ year: Jahr
 at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote (nach Eurostat-Definition) (%)
 #1.2.2
 at-risk-of-poverty or social exclusion (according to eurostat definition) (%): Armutsgefährdung oder soziale Ausgrenzung (nach Eurostat-Definition) (%)
+extensive material deprivation (%): Erhebliche materielle Deprivation (%)
 #1.3.1
 population covered by health insurance (%): Bevölkerung mit Krankenversicherungsschutz (%)
-Unemployed persons with unemployment benefits (%): Arbeitslose Leistungsbezieher (%)
+unemployed persons with unemployment benefits (%): Arbeitslose Leistungsbezieher (%)
 #1.5.3
 strategy for adaptation to climate change (number): Anpassungsstrategie an den Klimawandel (Anzahl)
 #1.a.1
-government spending on foreign economic aid (cofg group 01.2) (%): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2) (%)
+government spending on foreign economic aid (cofog group 01.2) (%): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2) (%)
 #1.a.2
-government spending on education (cofg section 09) (%): Staatsausgaben für Bildung (COFOG Abteilung 09) (%)
+government spending on education (cofog section 09) (%): Staatsausgaben für Bildung (COFOG Abteilung 09) (%)
 
 
 hiv incidence (per 1 000 inhabitants): Auftreten von HIV (pro 1 000 Einwohnern)

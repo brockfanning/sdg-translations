@@ -33,16 +33,18 @@ year: Year
 at-risk-of-poverty rate (according to eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
 #1.2.2
 at-risk-of-poverty or social exclusion (according to eurostat definition) (%): At-risk-of-poverty or social exclusion (according to Eurostat definition) (%)
+extensive material deprivation (%): Extensive material deprivation (%)
 #1.3.1
 population covered by health insurance (%): Population covered by health insurance (%)
-Unemployed persons with unemployment benefits (%): Unemployed persons with unemployment benefits (%)
+unemployed persons with unemployment benefits (%): Unemployed persons with unemployment benefits (%)
 #1.5.3
 strategy for adaptation to climate change (number): Strategy for Adaptation to Climate Change (Number)
 #1.a.1
-government spending on foreign economic aid (cofg group 01.2) (%): Government spending on foreign economic aid (COFOG group 01.2) (%)
+government spending on foreign economic aid (cofog group 01.2) (%): Government spending on foreign economic aid (COFOG group 01.2) (%)
 #1.a.2
-government spending on education (cofg section 09) (%): Government spending on education (COFOG section 09) (%)
-
+government spending on education (cofog section 09) (%): Government spending on education (COFOG section 09) (%)
+government spending on health (cofog section 07) (%): Government spending on health (COFOG section 07) (%)
+government spending on social protection (cofog section 10) (%): Government spending on social protection (COFOG section 10) (%)
 
 hiv incidence (per 1 000 inhabitants): HIV incidence (per 1 000 inhabitants)
 

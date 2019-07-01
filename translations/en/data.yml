@@ -45,6 +45,30 @@ government spending on foreign economic aid (cofog group 01.2) (%): Government s
 government spending on education (cofog section 09) (%): Government spending on education (COFOG section 09) (%)
 government spending on health (cofog section 07) (%): Government spending on health (COFOG section 07) (%)
 government spending on social protection (cofog section 10) (%): Government spending on social protection (COFOG section 10) (%)
+#2.2.1
+stunting among children under the age of 5 years (%): Stunting among children under the age of 5 years (%)
+#2.2.2
+overweight among children under the age of 5 years (%): Overweight among children under the age of 5 years (%)
+wasting among children under the age of 5 years (%): Wasting among children under the age of 5 years (%)
+#2.3.1
+labour productivity in agriculture (2010 = 100): Labour productivity in agriculture (2010 = 100)
+labour productivity in forestry  (2010 = 100): Labour productivity in forestry  (2010 = 100)
+#2.4.1
+agricultural area under productive and organic agriculture practices (%): Agricultural area under productive and organic agriculture practices (%)
+ecological farming area in total agricultural area (%): Ecological farming area in total agricultural area (%)
+#2.5.1
+animal genetic resources (number): Animal genetic resources (Number)
+plant genetic resources (Number): Plant genetic resources (Number)
+#2.5.2
+local livestock breeds (horses, cows, pigs, sheep and goats) (number): Local livestock breeds (horses, cows, pigs, sheep and goats) (Number)
+level of risk of extinction (according to fao classification) (%): Level of risk of extinction (according to FAO classification) (%)
+level of risk of extinction (according to national classification) (%): Level of risk of extinction (according to national classification) (%)
+#2.a.1
+agriculture orientation index for government expenditures: Agriculture orientation index for government expenditures
+#2.a.2
+oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016)): ODA (gross disbursements) to the agriculture sector (Mn USD, constant prices (2016))
+#2.b.2
+export refunds (eur): Export refunds (EUR)
 
 hiv incidence (per 1 000 inhabitants): HIV incidence (per 1 000 inhabitants)
 

@@ -79,7 +79,7 @@ under-five mortality rate (per 1 000 live births): Kindersterblichkeit unter 5 J
 #3.2.2
 neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen <br>(je 1 000 Lebendgeborenen)
 #3.3.1
-hiv incidence (per 1 000 inhabitants): Auftreten von HIV (je 1 000 Einwohnern)
+hiv incidence (per 1 000 inhabitants): Auftreten von HIV <br>(je 1 000 Einwohnern)
 #3.3.2
 tuberculosis incidence (per 100 000 inhabitants): Auftreten von Tuberkulose <br>(je 100 000 Einwohner)
 #3.3.3
@@ -105,6 +105,7 @@ fatalities due to road traffic accidents (per 100 000 inhabitants): Todesfälle 
 giving birth between 10 to under 15 years (per 1 000 women of same age): Geburten im Alter von 10 bis unter 15 Jahren <br>(je 1 000 Frauen gleichen Alters)
 giving birth between 15 to under 20 years (per 1 000 women of same age): Geburten im Alter von 15 bis unter 20 Jahren <br>(je 1 000 Frauen gleichen Alters)
 #3.9.2
+type of disease: Art der Erkrankung
 mortality rate attributed to  (per 100 000 inhabitants): Sterblichkeit aufgrund von <br>(je 100 000 Einwohner)
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
@@ -138,6 +139,10 @@ participation rate of adults in formal and non-formal education and training in 
 #4.4.1
 Persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten (%)
 #4.5.1
+gender parity index of: Geschlechtsparitätsindex zum
+sdg indicator 4-2-2: SDG Indikator 4.2.2
+sdg indicator 4-3-1 (adults): SDG Indikator 4.3.1 (Erwachsene)
+sdg indicator 4-3-1 (youth): SDG Indikator 4.3.1 (Jugendliche)
 
 
 

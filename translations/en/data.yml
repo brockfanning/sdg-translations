@@ -79,7 +79,7 @@ under-five mortality rate (per 1 000 live births): Under-five mortality rate <br
 #3.2.2
 neonatal mortality rate (per 1 000 live births): Neonatal mortality rate <br>(per 1 000 live births)
 #3.3.1
-hiv incidence (per 1 000 inhabitants): HIV incidence (per 1 000 inhabitants)
+hiv incidence (per 1 000 inhabitants): HIV incidence <br>(per 1 000 inhabitants)
 #3.3.2
 tuberculosis incidence (per 100 000 inhabitants): Tuberculosis incidence <br>(per 100 000 inhabitants)
 #3.3.3
@@ -105,6 +105,7 @@ fatalities due to road traffic accidents (per 100 000 inhabitants): Fatalities d
 giving birth between 10 to under 15 years (per 1 000 women of same age): Giving birth between 10 to under 15 years <br>(per 1 000 women of same age)
 giving birth between 15 to under 20 years (per 1 000 women of same age): Giving birth between 15 to under 20 years <br>(per 1 000 women of same age)
 #3.9.2
+type of disease: Type of disease
 mortality rate attributed to  (per 100 000 inhabitants): Mortality rate attributed to <br>(per 100 000 inhabitants):
 diarrhoea: diarrhoea
 intestinal nematode infections: intestinal nematode infections
@@ -138,8 +139,10 @@ participation rate of adults in formal and non-formal education and training in 
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months (%): Persons (10 years and older) with computer-related activities in the last 12 months (%)
 #4.5.1
-
-
+gender parity index of: Gender Parity Index of
+sdg indicator 4-2-2: SDG indicator 4.2.2
+sdg indicator 4-3-1 (adults): SDG indicator 4.3.1 (adults)
+sdg indicator 4-3-1 (youth): SDG indicator 4.3.1 (youth)
 
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide <br>(per 100 000 inhabitants)

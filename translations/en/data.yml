@@ -127,10 +127,11 @@ health workers - practising concept (per 10 000 inhabitants): Health workers - P
 #3.d.1
 average of 13 ihr core capacity scores (%): Average of 13 IHR core capacity scores (%)
 #4.1.1
-"a) children and youths in grades 2/3 with a minimum proficiency level in: mathematics (%)": a) Children and youths in grades 2/3 with a minimum proficiency level in: mathematics (%)"
-"a) children and youths in grades 2/3 with a minimum proficiency level in: reading (%)": "a) Children and youths in grades 2/3 with a minimum proficiency level in: reading (%)"
-"c) children and youths at the end of lower secondary education with a minimum proficiency level in: mathematics (%)": "c) Children and youths at the end of lower secondary education with a minimum proficiency level in: mathematics (%)"
-"c) Children and youths at the end of lower secondary education with a minimum proficiency level in: reading (%)": "c) Children and youths at the end of lower secondary education with a minimum proficiency level in: reading (%)"
+subject: Subject
+a) children and youths in grades 2/3 with a minimum proficiency level in (%): "a) Children and youths in grades 2/3 with a minimum proficiency level in (%):"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Children and youths at the end of lower secondary education with a minimum proficiency level in (%):"
+mathematics: mathematics
+reading: reading
 #4.2.2
 children in child day care at the age of 5 (%): Children in child day care at the age of 5 (%)
 #4.3.1
@@ -144,14 +145,31 @@ sdg indicator 4-2-2: SDG indicator 4.2.2
 sdg indicator 4-3-1 (adults): SDG indicator 4.3.1 (adults)
 sdg indicator 4-3-1 (youth): SDG indicator 4.3.1 (youth)
 #4.6.1
-
+level of proficiency: Level of proficiency
+"adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: a) literacy skills (%)"
+"adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: b) numeracy skills (%)"
+minimum requirement level i: minimum requirement level I
+minimum requirement level ii: minimum requirement level II
 #4.a.1
-
+unit: Unit
+"schools with access to (%):": "Schools with access to (%):"
+a) electricity: a) electricity
+b) the internet for pedagogical purposes: b) the Internet for pedagogical purposes
+c) computers for pedagogical purposes: c) computers for pedagogical purposes
+d) adapted infrastructure and materials for students with disabilities: d) adapted infrastructure and materials for students with disabilities
+e) basic drinking water: e) basic drinking water
+f) single-sex basic sanitation facilities: f) single-sex basic sanitation facilities
+g) basic handwashing facilities (as per the wash indicator definitions): g) basic handwashing facilities (as per the WASH indicator definitions)
 #4.b.1
 oda (gross disbursements) for imputed student costs (mn USD, constant prices (2016)): ODA (gross disbursements) for imputed student costs (Mn USD, constant prices (2016))
 oda (gross disbursements) for scholarships (mn USD, constant prices (2016)): ODA (gross disbursements) for scholarships (Mn USD, constant prices (2016))
 #5.1.1
-
+area of law: Area of Law
+"legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Legal frameworks that promote, enforce and monitor gender equality regarding (%):"
+employment and economic benefits: employment and economic benefits
+marriage and family: marriage and family
+overarching legal frameworks and public life: overarching legal frameworks and public life
+violence against women: violence against women
 #5.2.1
 female victims of criminal offences having/ had a intimate relationship with the suspect (number): Female victims of criminal offences having/ had a intimate relationship with the suspect (Number)
 #5.3.1
@@ -177,18 +195,37 @@ a) population using safely managed sanitation services (%): a) Population using 
 b) population with a bathtub or a shower (%): b) Population with a bathtub or a shower (%)
 #6.3.1
 wastewater safely treated (%): Wastewater safely treated (%)
+type of treatment: Type of treatment
+untreated wastewater that does not have to undergo treatment: Untreated wastewater that does not have to undergo treatment
+cooling water: Cooling water
+other wastewater that does not have to undergo treatment: Other wastewater that does not have to undergo treatment
 #6.3.2
 water bodies with good quality (%): Water bodies with good quality (%)
+water bodies with good quality: Water bodies with good quality
+type of water body: Type of water body
+river water bodies: River water bodies
+open water bodies: Open water bodies
 #6.4.1
 water use efficiency (2010 = 100): Water use efficiency (2010 = 100)
+economic sector: Economic sector
+"agriculture, forestry and fishing (nace rev 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
+"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
+"services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G to T)"
 #6.4.2
-
+level of waterstress: Level of waterstress
+"Level of water stress (%):": "Level of water stress (%):"
+share of withdrawal in renewable water resources: share of withdrawal in renewable water resources
+share of withdrawal in renewable water resources (excluding cooling water): share of withdrawal in renewable water resources (excluding cooling water)
 #6.5.1
 degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements (%)
 #6.5.2
 transboundary basin area with an operational arrangement for water cooperation (%): Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation (%)
 #6.6.1
-
+"Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Sub-indicator 1: Spatial extent of water-related ecosystems (%)"
+"Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Sub-indicator 3:  Quantity discharge of water in rivers (%)"
+"Sub-indicator 4: Water bodies with good quality (%)": "Sub-indicator 4: Water bodies with good quality (%)"
+flowing water bodies: Flowing water bodies
+standing water bodies: Standing water bodies
 #6.a.1
 oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): ODA (gross disbursements) for other related water and sanitation purposes (Mn USD, constant prices (2016))
 oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): ODA (gross disbursements) for water and sanitation (Mn USD, constant prices (2016))
@@ -221,7 +258,7 @@ unemployment rate (15 to under 75 years) (%): Unemployment rate (15 to under 75 
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates) (%): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates) (%)
 #8.7.1
-
+young victims of trafficking in human beings with intent to exploit man power (number): Young victims of trafficking in human beings with intent to exploit man power (Number)
 #8.8.1
 fatal occupational accidents (per 100 000 employees): Fatal occupational accidents <br>(per 100 000 employees)
 non-fatal occupational accidents (per 100 000 employees): Non-fatal occupational accidents <br>(per 100 000 employees)
@@ -235,13 +272,49 @@ a) branches of payment service providers (per 100 000 adults): a) Branches of pa
 b) atms of national payment service providers (per 100 000 adults): b) ATMs of national payment service providers <br>(per 100 000 adults)
 #8.10.2
 accounts at payment service providers (1 000): Accounts at payment service providers <br>(1 000)
+type of account: Type of account
+online accounts: Online accounts
+current accounts: Current accounts
 #8.a.1
 aid for trade commitments (oda and oof) (mn usd, constant prices (2016)): Aid for trade commitments (ODA and OOF) (Mn USD, constant prices (2016))
 aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016)): Aid for trade gross disbursements (ODA and OOF) (Mn USD, constant prices (2016))
-
-
-
-
+#9.1.2
+a) passenger transport (mn pkm): a) Passenger transport (Mn pkm)
+b) freight transport (mn tkm): b) Freight transport (Mn tkm)
+mode of transport: Mode of transport
+road transport: Road transport
+rail transport: Rail transport
+commercial air transport: Commercial air transport
+motorised private transport: Motorised private transport
+inland waterway transport: Inland waterway transport
+"transport via pipeline: crude oil": "Transport via pipeline: crude oil"
+#9.2.1
+manufacturing gross value added as a proportion of gdp (%): Manufacturing gross value added as a proportion of GDP (%)
+manufacturing gross value added as a proportion of total gross value added (%): Manufacturing gross value added as a proportion of total gross value added (%)
+manufacturing gross value added per capita (eur): Manufacturing gross value added per capita (EUR)
+#9.2.2
+manufacturing persons employed (%): Manufacturing persons employed (%)
+#9.3.1
+gross value added of small-scale industries in manufacturing (%): Gross value added of small-scale industries in manufacturing (%)
+#9.4.1
+co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR (constant 2010))
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR (constant 2010))
+#9.5.1
+proportion of r&d expenditures to gdp (%): Proportion of R&D expenditures to GDP (%)
+#9.5.1
+researchers in full-time equivalents (per 1 mn inhabitants): Researchers in full-time equivalents (per 1 Mn inhabitants)
+#9.a.1
+oda (gross disbursements) to infrastructure (mn usd, constant prices (2016)): ODA (gross disbursements) to infrastructure (Mn USD, constant prices (2016))
+oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016)): ODA and OOF (gross disbursements) to infrastructure (Mn USD, constant prices (2016))
+#9.b.1
+gross value added of medium- and high-tech industries to total manufacturing value added (%): Gross value added of medium- and high-tech industries to total manufacturing value added (%)
+gross value added of high-tech industries to total manufacturing value added (%): Gross value added of high-tech industries to total manufacturing value added (%)
+gross value added of medium-high-tech industries to total manufacturing value added (%): Gross value added of medium-high-tech industries to total manufacturing value added (%)
+#9.c.1
+technology: Technology
+"households covered by (%):": "Households covered by (%):"
+3g: "3G"
+lte: LTE
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide <br>(per 100 000 inhabitants)
 victims of intentional homicide (number): Victims of intentional homicide (Number)
@@ -304,37 +377,7 @@ saxony-anhalt: Saxony-Anhalt
 schleswig-holstein: Schleswig-Holstein
 thuringia: Thuringia
 
-type of treatment: Type of treatment
-untreated wastewater that does not have to undergo treatment: Untreated wastewater that does not have to undergo treatment
-cooling water: Cooling water
-other wastewater that does not have to undergo treatment: Other wastewater that does not have to undergo treatment
-
-water bodies with good quality: Water bodies with good quality
-type of water body: Type of water body
-river water bodies: River water bodies
-open water bodies: Open water bodies
-
-economic sector: Economic sector
-"agriculture, forestry and fishing (nace rev. 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
-"mimec (nace rev. 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
-"services (nace rev. 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G to T)"
-
-flowing water bodies: Flowing water bodies
-standing water bodies: Standing water bodies
-
 25 to under 75 years: 25 to under 75 years
-
-type of account: Type of account
-online accounts: Online accounts
-current accounts: Current accounts
-
-mode of transport: Mode of transport
-road transport: Road transport
-rail transport: Rail transport
-commercial air transport: Commercial air transport
-motorised private transport: Motorised private transport
-inland waterway transport: Inland waterway transport
-"transport via pipeline: crude oil": "Transport via pipeline: crude oil"
 
 type of flow: Type of flow
 ODA (net disbursements): ODA (net disbursements)

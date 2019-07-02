@@ -127,31 +127,49 @@ health workers - practising concept (per 10 000 inhabitants): Gesundheitspersona
 #3.d.1
 average of 13 ihr core capacity scores (%): Durchschnitt der 13 IGV-Kapazitäten-Punktwerte (%)
 #4.1.1
-"a) children and youths in grades 2/3 with a minimum proficiency level in: mathematics (%)": "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in: Mathematik (%)"
-"a) Children and youths in grades 2/3 with a minimum proficiency level in: reading (%)": "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in: Lesen (%)"
-"c) Children and youths at the end of lower secondary education with a minimum proficiency level in: mathematics (%)": "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in: Mathematik (%)"
-"c) Children and youths at the end of lower secondary education with a minimum proficiency level in: reading (%)": "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in: Lesen (%)"
+subject: Fach
+a) children and youths in grades 2/3 with a minimum proficiency level in (%): "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in (%):"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in (%):"
+mathematics: Mathematik
+reading: Lesen
 #4.2.2
 children in child day care at the age of 5 (%): Kinder in Kindertagesbetreuung im Alter von 5 Jahren (%)
 #4.3.1
 participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der 15 bis unter 25-Jährigen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten (%)
 participation rate of adults in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten (%)
 #4.4.1
-Persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten (%)
+persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten (%)
 #4.5.1
 gender parity index of: Geschlechtsparitätsindex zum
 sdg indicator 4-2-2: SDG Indikator 4.2.2
 sdg indicator 4-3-1 (adults): SDG Indikator 4.3.1 (Erwachsene)
 sdg indicator 4-3-1 (youth): SDG Indikator 4.3.1 (Jugendliche)
 #4.6.1
-
+level of proficiency: Leistungsniveau
+"adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen (%)"
+"2010,Adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen (%)"
+minimum requirement level i: Mindestniveau Stufe I
+minimum requirement level ii: Mindestniveau Stufe II
 #4.a.1
-
+unit: Einheit
+"Schools with access to (%):": "Schulen mit Zugang zu (%):"
+a) electricity: a) Elektrizität
+b) the internet for pedagogical purposes: b) Internet für pädagogische Zwecke
+c) computers for pedagogical purposes: c) Computer für pädagogische Zwecke
+d) adapted infrastructure and materials for students with disabilities:  d) Infrastruktur und Materialien für Studierende mit Behinderung
+e) basic drinking water: e) Trinkwasser
+f) single-sex basic sanitation facilities: f) geschlechterspezifische, grundlegende sanitäre Anlagen
+g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen (gemäß der WASH Indikator-Definition)
 #4.b.1
 oda (gross disbursements) for imputed student costs (mn USD, constant prices (2016)): Bruttoentwicklungsausgaben für Studienplatzkosten (Mill. USD, konstante Preise (2016))
 oda (gross disbursements) for scholarships (mn USD, constant prices (2016)): Bruttoentwicklungsausgaben für Stipendien (Mill. USD, konstante Preise (2016))
 #5.1.1
-
+area of law: Rechtsgebiet
+"Legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich (%):"
+employment and economic benefits: Erwerbstätigkeit und wirtschaftlicher Nutzen
+marriage and family: Ehe und Familie
+overarching legal frameworks and public life: übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
+violence against women:  Gewalt gegen Frauen
 #5.2.1
 female victims of criminal offences having/ had a intimate relationship with the suspect (number): Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen (Anzahl)
 #5.3.1
@@ -177,18 +195,37 @@ a) population using safely managed sanitation services (%): a) Bevölkerung mit 
 b) population with a bathtub or a shower (%): b) Bevölkerung mit einer Badewanne oder Dusche (%)
 #6.3.1
 wastewater safely treated (%): Sicher behandeltes Abwasser (%)
+type of treatment: Art der Behandlung
+untreated wastewater that does not have to undergo treatment: Abwasser, das keiner Abwasserbehandlung bedarf
+cooling water: Kühlwasser
+other wastewater that does not have to undergo treatment: Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf
 #6.3.2
 water bodies with good quality (%): Gewässer mit guter Wasserqualität (%)
+water bodies with good quality: Gewässer mit guter Wasserqualität
+type of water body: Art des Gewässers
+river water bodies: Fließgewässer
+open water bodies: Seen und Talsperren
 #6.4.1
 water use efficiency (2010 = 100): Wasserproduktivität <br>(2010 = 100)
+economic sector: Wirtschaftszweig
+"agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
+"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
+"services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
 #6.4.2
-
+level of waterstress: Nutzung der Wasserressourcen
+"Level of water stress (%):": "Nutzung der Wasserressourcen (%):"
+share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
+share of withdrawal in renewable water resources (excluding cooling water): Anteil der Gewinnung (ohne Abwasser aus Kühlsystemen) an den erneuerbaren Wasserressourcen
 #6.5.1
 degree of integrated water resources management implementation (%): Degree of integrated water resources management implementation (%)
 #6.5.2
 transboundary basin area with an operational arrangement for water cooperation (%): Transboundary basin area with an operational arrangement for water cooperation (%)
 #6.6.1
-
+"Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Subindikator 1: Fläche der wasserbezogenen Ökosysteme (%)"
+"Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Subindikator 3: Wasserabfluss über Flüsse (%)"
+"Sub-indicator 4: Water bodies with good quality (%)": "Subindikator 4: Gewässer mit guter Wasserqualität (%)"
+flowing water bodies: Fließgewässer
+standing water bodies: Stehende Gewässer
 #6.a.1
 oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für verwandte Zwecke (Mill. USD, konstante Preise (2016))
 oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise (2016))
@@ -221,7 +258,7 @@ unemployment rate (15 to under 75 years) (%): Arbeitslosenquote (15 bis unter 75
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates) (%): ugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten) (%)
 #8.7.1
-
+Young victims of trafficking in human beings with intent to exploit man power (Number): Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft (Anzahl)
 #8.8.1
 fatal occupational accidents (per 100 000 employees): Tödliche Arbeitsunfälle <br>(je 100 000 Beschäftigte)
 non-fatal occupational accidents (per 100 000 employees): Nicht-tödliche Arbeitsunfälle <br>(je 100 000 Beschäftigte)
@@ -235,13 +272,49 @@ a) Branches of payment service providers (per 100 000 adults): a) Zweigstellen v
 b) atms of national payment service providers (per 100 000 adults): b) Bankautomaten von inländischen Zahlungsdienstleistern <br>(je 100 000 Einwohner)
 #8.10.2
 accounts at payment service providers (1 000): Konten bei Zahlungsverkehrsdienstleistern <br>(1 000)
+type of account: Kontoart
+online accounts: Online-Konten
+current accounts: Girokonten
 #8.a.1
 aid for trade commitments (oda and oof) (mn usd, constant prices (2016)): Verpflichtungen zur Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise (2016))
 aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016)): Bruttoauszahlungen für Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise (2016))
-
-
-
-
+#9.1.2
+a) passenger transport (mn pkm): a) Personenverkehr (Mill. Pkm)
+b) freight transport (mn tkm): b) Güterverkehr  (Mill. tkm)
+mode of transport: Verkehrsmittel
+road transport: Straßenverkehr
+rail transport: Eisenbahnverkehr
+commercial air transport: Luftverkehr
+motorised private transport: Motorisierter Individualverkehr
+inland waterway transport: Binnenschifffahrt
+"transport via pipeline: crude oil": "Transport in Rohrleitungen: Rohöl"
+#9.2.1
+manufacturing gross value added as a proportion of gdp (%): Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP (%)
+manufacturing gross value added as a proportion of total gross value added (%): Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt (%)
+manufacturing gross value added per capita (eur): Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf (EUR)
+#9.2.2
+manufacturing persons employed (%): Erwerbstätige im Verarbeitenden Gewerbe (%)
+#9.3.1
+gross value added of small-scale industries in manufacturing (%): Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe (%)
+#9.4.1
+co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR (konstant 2010))
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
+#9.5.1
+proportion of r&d expenditures to gdp (%): Verhältnis der F&E-Ausgaben zum BIP (%)
+#9.5.2
+researchers in full-time equivalents (per 1 mn inhabitants): Wissenschaftler in Vollzeitäquivalenten (je 1 Mill. Einwohner)
+#9.a.1
+oda (gross disbursements) to infrastructure (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Infrastruktur (Mill. USD, konstante Preise (2016))
+oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016)): Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur (Mill. USD, konstante Preise (2016))
+#9.b.1
+gross value added of medium- and high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe (%)
+gross value added of high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe (%)
+gross value added of medium-high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe (%)
+9.c.1
+technology: Technologie
+"Households covered by (%):": "Haushalte, die mit (%):"
+3g: 3G abgedeckt sind
+lte: LTE abgedeckt sind
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung <br> (je 100 000 Einwohner)
 victims of intentional homicide (number): Opfer vorsätzlicher Tötung (Anzahl)
@@ -303,37 +376,7 @@ saxony-anhalt: Sachsen-Anhalt
 schleswig-holstein: Schleswig-Holstein
 thuringia: Thüringen
 
-type of treatment: Art der Behandlung
-untreated wastewater that does not have to undergo treatment: Abwasser, das keiner Abwasserbehandlung bedarf
-cooling water: Kühlwasser
-other wastewater that does not have to undergo treatment: Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf
-
-water bodies with good quality: Gewässer mit guter Wasserqualität
-type of water body: Art des Gewässers
-river water bodies: Fließgewässer
-open water bodies: Seen und Talsperren
-
-economic sector: Wirtschaftszweig
-"agriculture, forestry and fishing (nace rev. 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
-"mimec (nace rev. 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
-"services (nace rev. 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
-
-flowing water bodies: Fließgewässer
-standing water bodies: Stehende Gewässer
-
 25 to under 75 years: 25 bis unter 75 Jahre
-
-type of account: Kontoart
-online accounts: Online-Konten
-current accounts: Girokonten
-
-mode of transport: Verkehrsmittel
-road transport: Straßenverkehr
-rail transport: Eisenbahnverkehr
-commercial air transport: Luftverkehr
-motorised private transport: Motorisierter Individualverkehr
-inland waterway transport: Binnenschifffahrt
-"transport via pipeline: crude oil": "Transport in Rohrleitungen: Rohöl"
 
 type of flow: Art der Finanzströme
 oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)

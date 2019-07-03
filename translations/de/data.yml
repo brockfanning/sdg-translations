@@ -28,6 +28,31 @@ ratio: Verhältnis
 total: Insgesamt
 year: Jahr
 
+#ages
+0 - unknown age: Unbekanntes Alter
+10 to under 16 years: 10 bis unter 16 Jahre
+13 years and under: Unter 14 Jahren
+under 14 years: Unter 14 Jahren
+14 to under 18 years: 14 bis unter 18 Jahre
+15 to under 25 years: 15 bis unter 25 Jahre
+16 to under 25 years: 16 bis unter 25 Jahre
+17 years and under: Unter 18 Jahren
+under 18 years: unter 18 Jahren
+18 to under 65 years: 18 bis unter 65 Jahre
+18 to under 21 years: 18 bis unter 21 Jahre
+18 to under 30 years: 18 bis unter 30 Jahre
+21 to under 25 years: 21 bis unter 25 Jahre
+21 to under 60 years: 21 bis unter 60 Jahre
+25 years and over: 25 Jahre und mehr
+25 to under 45 years: 25 bis unter 45 Jahre
+25 to under 75 years: 25 bis unter 75 Jahre
+30 to under 45 years: 30 bis unter 45 Jahre
+45 to under 55 years: 45 bis unter 55 Jahre
+45 to under 65 years: 45 bis unter 65 Jahre
+55 to under 65 years: 55 bis unter 65 Jahre
+60 years and over: 60 Jahre und mehr
+65 years and over: 65 Jahre und mehr
+
 #units
 #1.2.1
 at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote (nach Eurostat-Definition) (%)
@@ -63,6 +88,13 @@ plant genetic resources (number): Pflanzengenetische Ressourcen (Anzahl)
 local livestock breeds (horses, cows, pigs, sheep and goats) (number): Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen) (Anzahl)
 level of risk of extinction (according to fao classification) (%): Gefährdungskategorie (nach FAO-Klassifikation) (%)
 level of risk of extinction (according to national classification) (%): Gefährdungskategorie (nach nationaler Klassifikation) (%)
+level of risk of extinction: Gefährdungskategorie
+at risk: Gefährdet
+not at risk: Nicht gefährdet
+unknown: Unbekannt
+rudiments remaining: Phänotypische Erhaltungspopulationen
+breeding programs for preservation: Erhaltungspopulationen
+under observation: Beobachtungspopulationen
 #2.a.1
 agriculture orientation index for government expenditures: '"Agriculture Orientation Index" für Staatsausgaben'
 #2.a.2
@@ -96,6 +128,8 @@ d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
 suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit <br>(je 100 000 Einwohner)
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen <br>(1 000)
+type of dependence: Art der Abhängigkeit
+inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
 #3.5.2
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels UN-Faktoren) (Liter puren Alkohols pro Einwohner)
 alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels nationalen Faktoren) (Liter puren Alkohols pro Einwohner)
@@ -124,6 +158,12 @@ coverage of hpv containing vaccine of 15 years old girls (%): HPV-Impfquote bei 
 oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise (2016))
 #3.c.1
 health workers - practising concept (per 10 000 inhabitants): Gesundheitspersonal (mit direktem Patientenkontakt) <br>(je 10 000 Einwohner)
+profession: Beruf
+dentists: Zahnärzte
+health workers: Gesundheitspersonal
+nursing and midwifery personnel: Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe
+pharmacists: Apotheker
+medical doctors: Ärzte
 #3.d.1
 average of 13 ihr core capacity scores (%): Durchschnitt der 13 IGV-Kapazitäten-Punktwerte (%)
 #4.1.1
@@ -139,6 +179,12 @@ participation rate of 15 to under 25 years old persons in formal and non-formal 
 participation rate of adults in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten (%)
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten (%)
+activities: Aktivitäten
+copying or moving of files and folders: Kopieren oder Verschieben von Dateien und Ordnern
+installing software or apps: Installation von Software oder Anwendungen (Apps)
+creating electronic presentations or documents with text, images, tables or charts: Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen
+transferring files between a computer or other devices: Übertragung von Dateien zwischen Computern oder anderen Geräten
+writing a computer program using a programming language: Schreiben eines Programms in einer Programmiersprache
 #4.5.1
 indicator: Indikator
 gender parity index of: Geschlechtsparitätsindex zum
@@ -183,6 +229,22 @@ victims of female genital mutilation (number): Opfer von Verstümmelung weiblich
 time spent on unpaid domestic and care work (%): Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird (%)
 #5.5.1
 seats held by women in national parliament (%): Sitze im nationalen Parlament, die Frauen inne haben (%)
+baden-Wuerttemberg: Baden-Württemberg
+bavaria: Bayern
+berlin: Berlin
+brandenburg: Brandenburg
+bremen: Bremen
+hamburg: Hamburg
+hesse: Hessen
+mecklenburg western pomerania: Mecklenburg-Vorpommern
+lower saxony: Niedersachsen
+north rhine-westphalia: Nordrhein-Westfalen
+rhineland palatinate: Rheinland-Pfalz
+saarland: Saarland
+saxony: Sachsen
+saxony-anhalt: Sachsen-Anhalt
+schleswig-holstein: Schleswig-Holstein
+thuringia: Thüringen
 #5.5.2
 women in managerial positions (%): Frauen in Führungspositionen (%)
 #5.b.1
@@ -348,6 +410,7 @@ population living in households with moisture damages (%): Bevölkerung, in dere
 #11.2.1
 population that has convenient access to public transport (within 500 meters) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern) (%)
 population that has convenient access to public transport (within 10 minutes walking distance) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen) (%)
+mobility impaired people: Menschen mit Mobilitätseinschränkung
 #11.3.1
 land consumption rate  (%): Flächenverbrauchsrate (%)
 population growth rate (%): Bevölkerungsentwicklung (%)
@@ -399,6 +462,9 @@ average ph-concentration in the german bight (ph-value): Durchschnittliche pH-Ko
 #14.4.1
 fish stocks within biologically sustainable levels (%): Nachhaltig befischte Fischbestände (%)
 monitored fish stocks based on the msy approach that are professionally exploited (%): Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen (%)
+sea: Meer
+greater north sea: Nordsee
+baltic sea: Ostsee
 #14.5.1
 protected marine area  (%): Meeresschutzgebiete (%)
 marine key biodiversity areas (kbas) covered by protected areas (%): Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen (%)
@@ -407,7 +473,7 @@ degree of combat illegal, unreported and unregulated fishing: Grad der Bekämpfu
 #14.a.1
 federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur): Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft (Mill. EUR)
 #15.1.1
-Forest area (%): Waldfläche (%)
+forest area (%): Waldfläche (%)
 #15.1.2
 protected terrestrial areas (%): Schutzgebiete an Land (%)
 key biodiversity areas (kbas) covered by protected areas (%): Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen (%)
@@ -456,6 +522,22 @@ sexual exploitation (per 100 000 inhabitants): Sexuelle Ausbeutung <br>(je 100 0
 victims of human trafficking (number): Opfer von Menschenhandel <br>(Anzahl)
 exploitation of labour (number): Ausbeutung der Arbeitskraft <br>(Anzahl)
 sexual exploitation (number): Sexuelle Ausbeutung <br>(Anzahl)
+form of exploitation: Art der Ausbeutung
+sexual exploitation: Sexuelle Ausbeutung
+exploitation of labour: Ausbeutung der Arbeitskraft
+sexual exploitation, under 14 years: Sexuelle Ausbeutung, unter 14 Jahren
+sexual exploitation, 14 to under 18 years: Sexuelle Ausbeutung, 14 bis unter 18 Jahre
+sexual exploitation, 18 to under 21 years: Sexuelle Ausbeutung, 18 bis unter 21 Jahre
+sexual exploitation, 21 to under 25 years: Sexuelle Ausbeutung, 21 bis unter 25 Jahre
+sexual exploitation, 25 years and over: Sexuelle Ausbeutung, 25 Jahre und mehr
+sexual exploitation, male: Sexuelle Ausbeutung, Männlich
+sexual exploitation, female:  Sexuelle Ausbeutung, Weiblich
+exploitation of labour, under 14 years: Ausbeutung der Arbeitskraft, unter 14 Jahren
+exploitation of labour, 14 to under 18 years: Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre
+exploitation of labour, 18 to under 21 years: Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre
+exploitation of labour, 21 to under 60 years: Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
+exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
+exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
 #16.3.1
 a) police reporting rate for physical assault (%): a) Anzeigequote bei Körperverletzung (%)
 c) police reporting rate for robbery (%): c) Anzeigequote bei Raub (%)
@@ -481,118 +563,56 @@ children under 5 years of age whose births have been registered with a civil aut
 public access to information (number): Öffentlicher Zugang zu Informationen (Anzahl)
 #16.a.1
 membership ganhri (category a) (number): Mitgliedschaft GANHRI (Kategorie A) (Anzahl)
-
+#17.1.1
+proportion of total government revenue to gdp (%): Verhältnis der Gesamteinnahmen des Staates zum BIP (%)
+#17.1.2
+proportion of domestic expenditures funded by national taxes (%): Anteil der Staatsausgaben, die durch Steuern finanziert werden (%)
+proportion of domestic expenditures funded by national taxes and insurance contributions (%): Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden (%)
+#17.2.1
+proportion of net oda to gni (%): Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE (%)
+proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%): Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE (%)
+#17.6.2
+Fixed internet broadband access lines (per 100 inhabitants): Internet-Breitband-Zugänge (je 100 Einwohner)
+speed: Geschwindigkeit
+a) over 144 kbps to under 2 mbps: Über 144 kbit/s bis unter 2 Mbit/s
+b) 2 mbps to under 10 mbps: 2 Mbit/s bis unter 10 Mbit/s
+c) 10 mbps to under 30 mbps: 10 Mbit/s bis unter 30 Mbit/s
+d) 30 mbps to under 100 mbps: 30 Mbit/s bis unter 100 Mbit/s
+e) 100 mbps and over: 100 Mbit/s und mehr
+#17.8.1
+population using the internet in the last three months (%): Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat (%)
+#17.9.1
+oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016)): Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise (2016))
+oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016)): Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise (2016))
+#17.13.1
+annual growth rate of real gdp (%): Jährliche Wachstumsrate des realen BIP (%)
+available income of private households (bn eur):  Verfügbares Einkommen privater Haushalte (Mrd. EUR)
+consumption by private households (bn eur): Konsum privater Haushalte (Mrd. EUR)
+debt level of the total public budget (bn eur): Schuldenstand des öffentlichen Gesamthaushaltes (Mrd. EUR)
+government fiscal balance (bn eur): Finanzierungssaldo des Staates (Mrd. EUR)
+goss fixed capital formation (bn eur): Bruttoanlageinvestitionen (Mrd. EUR)
+hours worked by employees (mn h ): Geleistete Arbeitsstunden der Arbeitnehmer (Mill. h)
+hours worked by persons employed (mn h ): Geleistete Arbeitsstunden der Erwerbstätigen (Mill. h)
+labour productivity per hour worked by employee (2010 = 100): Arbeitsproduktivität je geleisteter Arbeitnehmerstunde (2010 = 100)
+labour productivity per hour worked by persons employed (2010 = 100): Arbeitsproduktivität je geleisteter Erwerbstätigenstunde (2010 = 100)
+persons employed (1 000): Erwerbstätige <br>(1 000)
+real gdp per capita (2010 = 100): Reales BIP pro Kopf (2010 = 100)
+trade balance (bn eur): Außenbeitrag (Mrd. EUR)
+#17.14.1
+national sustainable development strategie (number): Nationale nachhaltige Entwicklungsstrategie
+#17.15.1
+proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%): Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit (%)
+proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%): Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit (%)
+Proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden (%)
+#17.18.2
+countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics (number): Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik (Anzahl)
+#17.19.1
+oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn uad, constant prices (2016)): Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
+oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016)): Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
+#17.19.2
+a) at least one population and housing census in the last 10 years conducted (number): a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren (Anzahl)
+b) birth registration (%): b) Registrierung der Geburten (%)
+c) death registration (%): c) Registrierung der Sterbefälle (%)
 
 footnote: Anmerkung
 data_footnote: Anmerkung
-
-18 to under 65 years: 18 bis unter 65 Jahre
-65 years and over: 65 Jahre und mehr
-under 18 years: unter 18 Jahren
-17 years and under: Unter 18 Jahren
-
-level of risk of extinction: Gefährdungskategorie
-at risk: Gefährdet
-not at risk: Nicht gefährdet
-unknown: Unbekannt
-rudiments remaining: Phänotypische Erhaltungspopulationen
-breeding programs for preservation: Erhaltungspopulationen
-under observation: Beobachtungspopulationen
-
-profession: Beruf
-dentists: Zahnärzte
-health workers: Gesundheitspersonal
-nursing and midwifery personnel: Medizinisches Pflegepersonal sowie Personal in der Geburtshilfe
-pharmacists: Apotheker
-medical doctors: Ärzte
-
-type of dependence: Art der Abhängigkeit
-inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
-
-activities: Aktivitäten
-copying or moving of files and folders: Kopieren oder Verschieben von Dateien und Ordnern
-installing software or apps: Installation von Software oder Anwendungen (Apps)
-creating electronic presentations or documents with text, images, tables or charts: Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen
-transferring files between a computer or other devices: Übertragung von Dateien zwischen Computern oder anderen Geräten
-writing a computer program using a programming language: Schreiben eines Programms in einer Programmiersprache
-
-15 to under 25 years: 15 bis unter 25 Jahre
-25 to under 45 years: 25 bis unter 45 Jahre
-45 to under 55 years: 45 bis unter 55 Jahre
-55 to under 65 years: 55 bis unter 65 Jahre
-65 years and over: 65 Jahre und mehr
-
-baden-Wuerttemberg: Baden-Württemberg
-bavaria: Bayern
-berlin: Berlin
-brandenburg: Brandenburg
-bremen: Bremen
-hamburg: Hamburg
-hesse: Hessen
-mecklenburg western pomerania: Mecklenburg-Vorpommern
-lower saxony: Niedersachsen
-north rhine-westphalia: Nordrhein-Westfalen
-rhineland palatinate: Rheinland-Pfalz
-saarland: Saarland
-saxony: Sachsen
-saxony-anhalt: Sachsen-Anhalt
-schleswig-holstein: Schleswig-Holstein
-thuringia: Thüringen
-
-25 to under 75 years: 25 bis unter 75 Jahre
-
-18 to under 30 years: 18 bis unter 30 Jahre
-30 to under 45 years: 30 bis unter 45 Jahre
-45 to under 65 years: 45 bis unter 65 Jahre
-mobility impaired people: Menschen mit Mobilitätseinschränkung
-
-type of waste treatment: Art der Abfallbehandlung
-energy recovery: Energierückgewinnung
-incineration: Verbrennung
-recovery other than energy recovery: Verwertung anderer als die der Energierückgewinnung
-deposit onto or into land and land treatment and release into water bodies: Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern
-
-sea: Meer
-greater north sea: Nordsee
-baltic sea: Ostsee
-
-13 years and under: Unter 14 Jahren
-under 14 years: Unter 14 Jahren
-14 to under 18 years: 14 bis unter 18 Jahre
-18 to under 21 years: 18 bis unter 21 Jahre
-21 to under 25 years: 21 bis unter 25 Jahre
-21 to under 60 years: 21 bis unter 60 Jahre
-25 years and over: 25 Jahre und mehr
-0 - unknown age: Unbekanntes Alter
-
-60 years and over: 60 Jahre und mehr
-
-form of exploitation: Art der Ausbeutung
-sexual exploitation: Sexuelle Ausbeutung
-exploitation of labour: Ausbeutung der Arbeitskraft
-sexual exploitation, under 14 years: Sexuelle Ausbeutung, unter 14 Jahren
-sexual exploitation, 14 to under 18 years: Sexuelle Ausbeutung, 14 bis unter 18 Jahre
-sexual exploitation, 18 to under 21 years: Sexuelle Ausbeutung, 18 bis unter 21 Jahre
-sexual exploitation, 21 to under 25 years: Sexuelle Ausbeutung, 21 bis unter 25 Jahre
-sexual exploitation, 25 years and over: Sexuelle Ausbeutung, 25 Jahre und mehr
-sexual exploitation, male: Sexuelle Ausbeutung, Männlich
-sexual exploitation, female:  Sexuelle Ausbeutung, Weiblich
-exploitation of labour, under 14 years: Ausbeutung der Arbeitskraft, unter 14 Jahren
-exploitation of labour, 14 to under 18 years: Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre
-exploitation of labour, 18 to under 21 years: Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre
-exploitation of labour, 21 to under 60 years: Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
-exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
-exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
-
-speed: Geschwindigkeit
-over 144 kbps to under 2 mbps: Über 144 kbit/s bis unter 2 Mbit/s
-2 mbps to under 10 mbps: 2 Mbit/s bis unter 10 Mbit/s
-10 mbps to under 30 mbps: 10 Mbit/s bis unter 30 Mbit/s
-30 mbps to under 100 mbps: 30 Mbit/s bis unter 100 Mbit/s
-100 mbps and over: 100 Mbit/s und mehr
-
-10 to under 16 years: 10 bis unter 16 Jahre
-16 to under 25 years: 16 bis unter 25 Jahre
-25 to under 45 years: 25 bis unter 45 Jahre
-45 to under 65 years: 45 bis unter 65 Jahre
-65 years and over: 65 Jahre und mehr

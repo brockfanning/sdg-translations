@@ -28,6 +28,31 @@ ratio: Ratio
 total: Total
 year: Year
 
+#ages
+0 - unknown age: Unknown Age
+10 to under 16 years: 10 to under 16 years
+13 years and under: Under 14 years
+under 14 years: Under 14 years
+14 to under 18 years: 14 to under 18 years
+15 to under 25 years: 15 to under 25 years
+16 to under 25 years: 16 to under 25 years
+17 years and under: Under 18 years
+under 18 years: under 18 years
+18 to under 21 years: 18 to under 21 years
+18 to under 30 years: 18 to under 30 years
+18 to under 65 years: 18 to under 65 years
+21 to under 25 years: 21 to under 25 years
+21 to under 60 years: 21 to under 60 years
+25 years and over: 25 years and over
+25 to under 45 years: 25 to under 45 years
+25 to under 75 years: 25 to under 75 years
+30 to under 45 years: 30 to under 45 years
+45 to under 55 years: 45 to under 55 years
+45 to under 65 years: 45 to under 65 years
+55 to under 65 years: 55 to under 65 years
+60 years and over: 60 years and over
+65 years and over: 65 years and over
+
 #units
 #1.2.1
 at-risk-of-poverty rate (according to eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
@@ -63,6 +88,13 @@ plant genetic resources (Number): Plant genetic resources (Number)
 local livestock breeds (horses, cows, pigs, sheep and goats) (number): Local livestock breeds (horses, cows, pigs, sheep and goats) (Number)
 level of risk of extinction (according to fao classification) (%): Level of risk of extinction (according to FAO classification) (%)
 level of risk of extinction (according to national classification) (%): Level of risk of extinction (according to national classification) (%)
+level of risk of extinction: Level of risk of extinction
+at risk: At risk
+not at risk: Not at risk
+unknown: Unknown
+rudiments remaining: Rudiments remaining
+breeding programs for preservation: Breeding programs for preservation
+under observation: Under observation
 #2.a.1
 agriculture orientation index for government expenditures: Agriculture orientation index for government expenditures
 #2.a.2
@@ -96,6 +128,8 @@ d) chronic respiratory disease: d) chronic respiratory disease
 suicide mortality rate (per 100 000 inhabitants): Suicide mortality rate <br>(per 100 000 inhabitants)
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Inpatient treatment of dependence syndrom due to psychoactive substance use <br>(1 000)
+type of dependence: Type of dependence
+inpatient treatment of alcohol dependence: Inpatient treatment of alcohol dependence
 #3.5.2
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by UN factors) (Litres of pure alcohol per capita)
 alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by national factors) (Litres of pure alcohol per capita)
@@ -124,6 +158,12 @@ coverage of hpv containing vaccine of 15 years old girls (%): Coverage of HPV co
 oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016)): ODA (gross disbursements) to medical research and basic health sectors (Mn USD, constant prices (2016))
 #3.c.1
 health workers - practising concept (per 10 000 inhabitants): Health workers - Practising concept <br>(per 10 000 inhabitants)
+profession: Profession
+dentists: Dentists
+health workers: Health workers
+nursing and midwifery personnel: Nursing and midwifery personnel
+pharmacists: Pharmacists
+medical doctors: Medical doctors
 #3.d.1
 average of 13 ihr core capacity scores (%): Average of 13 IHR core capacity scores (%)
 #4.1.1
@@ -139,6 +179,12 @@ participation rate of 15 to under 25 years old persons in formal and non-formal 
 participation rate of adults in formal and non-formal education and training in the previous 12 months (%): Participation rate of adults in formal and non-formal education and training in the previous 12 months (%)
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months (%): Persons (10 years and older) with computer-related activities in the last 12 months (%)
+activities: Activities
+copying or moving of files and folders: Copying or moving of files and folders
+installing software or apps: Installing software or apps
+creating electronic presentations or documents with text, images, tables or charts: Creating electronic presentations or documents with text, images, tables or charts
+transferring files between a computer or other devices: Transferring files between a computer or other devices
+writing a computer program using a programming language: Writing a computer program using a programming language
 #4.5.1
 indicator: Indicator
 gender parity index of: Gender Parity Index of
@@ -183,6 +229,22 @@ victims of female genital mutilation (number): Victims of female genital mutilat
 time spent on unpaid domestic and care work (%): Time spent on unpaid domestic and care work (%)
 #5.5.1
 seats held by women in national parliament (%): Seats held by women in national parliament (%)
+baden-Wuerttemberg: Baden-Wuerttemberg
+bavaria: Bavaria
+berlin: Berlin
+brandenburg: Brandenburg
+bremen: Bremen
+hamburg: Hamburg
+hesse: Hesse
+mecklenburg western pomerania: Mecklenburg Western Pomerania
+lower saxony: Lower Saxony
+north rhine-westphalia: North Rhine-Westphalia
+rhineland palatinate: Rhineland Palatinate
+saarland: Saarland
+saxony: Saxony
+saxony-anhalt: Saxony-Anhalt
+schleswig-holstein: Schleswig-Holstein
+thuringia: Thuringia
 #5.5.2
 women in managerial positions (%): Women in managerial positions (%)
 #5.b.1
@@ -348,6 +410,7 @@ population living in households with moisture damages (%): Population living in 
 #11.2.1
 population that has convenient access to public transport (within 500 meters) (%): Population that has convenient access to public transport (within 500 meters) (%)
 population that has convenient access to public transport (within 10 minutes walking distance) (%): Population that has convenient access to public transport (within 10 minutes walking distance) (%)
+mobility impaired people: Mobility impaired people
 #11.3.1
 land consumption rate  (%): Land consumption rate (%)
 population growth rate (%): Population growth rate (%)
@@ -399,6 +462,9 @@ average ph-concentration in the german bight (ph-value): Average pH-concentratio
 #14.4.1
 fish stocks within biologically sustainable levels (%): Fish stocks within biologically sustainable levels (%)
 monitored fish stocks based on the msy approach that are professionally exploited (%): Monitored fish stocks based on the MSY approach that are professionally exploited (%)
+sea: Sea
+greater north sea: Greater North Sea
+baltic sea: Baltic Sea
 #14.5.1
 protected marine area  (%): Protected marine area (%)
 marine key biodiversity areas (kbas) covered by protected areas (%): Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)
@@ -456,6 +522,22 @@ sexual exploitation (per 100 000 inhabitants): Sexual exploitation <br>(per 100 
 victims of human trafficking (number): Victims of human trafficking (Number)
 exploitation of labour (number): Exploitation of labour (Number)
 sexual exploitation (number): Sexual exploitation (Number)
+form of exploitation: Form of exploitation
+sexual exploitation: Sexual exploitation
+exploitation of labour: Exploitation of labour
+sexual exploitation, under 14 years: Sexual exploitation, under 14 years
+sexual exploitation, 14 to under 18 years: Sexual exploitation, 14 to under 18 years
+sexual exploitation, 18 to under 21 years: Sexual exploitation, 18 to under 21 years
+sexual exploitation, 21 to under 25 years: Sexual exploitation, 21 to under 25 years
+sexual exploitation, 25 years and over: Sexual exploitation, 25 years and over
+sexual exploitation, male: Sexual exploitation, male
+sexual exploitation, female: Sexual exploitation, female
+exploitation of labour, under 14 years: Exploitation of labour, under 14 years
+exploitation of labour, 14 to under 18 years: Exploitation of labour, 14 to under 18 years
+exploitation of labour, 18 to under 21 years: Exploitation of labour, 18 to under 21 years
+exploitation of labour, 21 to under 60 years: Exploitation of labour, 21 to under 60 years
+exploitation of labour, male: Exploitation of labour, male
+exploitation of labour, female: Exploitation of labour, female
 #16.3.1
 a) police reporting rate for physical assault (%): a) Police reporting rate for physical assault (%)
 c) police reporting rate for robbery (%): c) Police reporting rate for robbery (%)
@@ -481,119 +563,56 @@ children under 5 years of age whose births have been registered with a civil aut
 public access to information (number): Public access to information (Number)
 #16.a.1
 membership ganhri (category a) (number): Membership GANHRI (category A) (Number)
-
+#17.1.1
+proportion of total government revenue to gdp (%): Proportion of total government revenue to GDP (%)
+#17.1.2
+proportion of domestic expenditures funded by national taxes (%): Proportion of domestic expenditures funded by national taxes (%)
+proportion of domestic expenditures funded by national taxes and insurance contributions (%): Proportion of domestic expenditures funded by national taxes and insurance contributions (%)
+#17.2.1
+proportion of net oda to gni (%): Proportion of net ODA to GNI (%)
+proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%): Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI (%)
+#17.6.2
+fixed internet broadband access lines (per 100 inhabitants): Fixed internet broadband access lines (per 100 inhabitants)
+speed: Speed
+a) over 144 kbps to under 2 mbps: Over 144 Kbps to under 2 Mbps
+b) 2 mbps to under 10 mbps: 2 Mbps to under 10 Mbps
+c) 10 mbps to under 30 mbps: 10 Mbps to under 30 Mbps
+d) 30 mbps to under 100 mbps: 30 Mbps to under 100 Mbps
+e) 100 mbps and over: 100 Mbps and over
+#17.8.1
+population using the internet in the last three months (%): Population using the internet in the last three months (%)
+#17.9.1
+oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016)): ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation) (Mn USD, constant prices (2016))
+oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016)): ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation) (Mn USD, constant prices (2016))
+#17.13.1
+annual growth rate of real gdp (%): Annual growth rate of real GDP (%)
+available income of private households (bn eur): Available income of private households (Bn EUR)
+consumption by private households (bn eur): Consumption by private households (Bn EUR)
+debt level of the total public budget (bn eur): Debt level of the total public budget (Bn EUR)
+government fiscal balance (bn eur): Government fiscal balance (Bn EUR)
+goss fixed capital formation (bn eur): Gross fixed capital formation (Bn EUR)
+hours worked by employees (mn h ): Hours worked by employees (Mn h )
+hours worked by persons employed (mn h ): Hours worked by persons employed (Mn h )
+labour productivity per hour worked by employee (2010 = 100): Labour productivity per hour worked by employee (2010 = 100)
+labour productivity per hour worked by persons employed (2010 = 100): Labour productivity per hour worked by persons employed (2010 = 100)
+persons employed (1 000): Persons employed (1 000)
+real gdp per capita (2010 = 100): Real GDP per capita (2010 = 100)
+trade balance (bn eur): Trade balance (Bn EUR)
+#17.14.1
+national sustainable development strategie (number): National Sustainable Development Strategie
+#17.15.1
+proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%): Proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%)
+proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%): Proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%)
+proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%)
+#17.18.2
+countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics (number): Countries with nationale statistical legislation exists that complies with the Fundamental Principles of Offical Statistics (Number)
+#19.19.1
+oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn uad, constant prices (2016)): ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries (Mn USD, constant prices (2016))
+oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016)): ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (Mn USD, constant prices (2016))
+#17.19.2
+a) at least one population and housing census in the last 10 years conducted (number): a) At least one population and housing census in the last 10 years conducted (Number)
+b) birth registration (%): b) Birth registration (%)
+c) death registration (%): c) Death registration (%)
 
 footnote: Specification
 data_footnote: Specification
-
-at-risk-of-poverty rate (according to Eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
-18 to under 65 years: 18 to under 65 years
-65 years and over: 65 years and over
-under 18 years: under 18 years
-17 years and under: Under 18 years
-
-level of risk of extinction: Level of risk of extinction
-at risk: At risk
-not at risk: Not at risk
-unknown: Unknown
-rudiments remaining: Rudiments remaining
-breeding programs for preservation: Breeding programs for preservation
-under observation: Under observation
-
-profession: Profession
-dentists: Dentists
-health workers: Health workers
-nursing and midwifery personnel: Nursing and midwifery personnel
-pharmacists: Pharmacists
-medical doctors: Medical doctors
-
-type of dependence: Type of dependence
-inpatient treatment of alcohol dependence: Inpatient treatment of alcohol dependence
-
-activities: Activities
-copying or moving of files and folders: Copying or moving of files and folders
-installing software or apps: Installing software or apps
-creating electronic presentations or documents with text, images, tables or charts: Creating electronic presentations or documents with text, images, tables or charts
-transferring files between a computer or other devices: Transferring files between a computer or other devices
-writing a computer program using a programming language: Writing a computer program using a programming language
-
-15 to under 25 years: 15 to under 25 years
-25 to under 45 years: 25 to under 45 years
-45 to under 55 years: 45 to under 55 years
-55 to under 65 years: 55 to under 65 years
-65 years and over: 65 years and over
-
-baden-Wuerttemberg: Baden-Wuerttemberg
-bavaria: Bavaria
-berlin: Berlin
-brandenburg: Brandenburg
-bremen: Bremen
-hamburg: Hamburg
-hesse: Hesse
-mecklenburg western pomerania: Mecklenburg Western Pomerania
-lower saxony: Lower Saxony
-north rhine-westphalia: North Rhine-Westphalia
-rhineland palatinate: Rhineland Palatinate
-saarland: Saarland
-saxony: Saxony
-saxony-anhalt: Saxony-Anhalt
-schleswig-holstein: Schleswig-Holstein
-thuringia: Thuringia
-
-25 to under 75 years: 25 to under 75 years
-
-18 to under 30 years: 18 to under 30 years
-30 to under 45 years: 30 to under 45 years
-45 to under 65 years: 45 to under 65 years
-mobility impaired people: Mobility impaired people
-
-type of waste treatment: Type of waste treatment
-energy recovery: Energy recovery
-incineration: Incineration
-recovery other than energy recovery: Recovery other than energy recovery
-deposit onto or into land and land treatment and release into water bodies: Deposit onto or into land and land treatment and release into water bodies
-
-sea: Sea
-greater north sea: Greater North Sea
-baltic sea: Baltic Sea
-
-13 years and under: Under 14 years
-under 14 years: Under 14 years
-14 to under 18 years: 14 to under 18 years
-18 to under 21 years: 18 to under 21 years
-21 to under 25 years: 21 to under 25 years
-21 to under 60 years: 21 to under 60 years
-25 years and over: 25 years and over
-0 - unknown age: Unknown Age
-
-60 years and over: 60 years and over
-
-form of exploitation: Form of exploitation
-sexual exploitation: Sexual exploitation
-exploitation of labour: Exploitation of labour
-sexual exploitation, under 14 years: Sexual exploitation, under 14 years
-sexual exploitation, 14 to under 18 years: Sexual exploitation, 14 to under 18 years
-sexual exploitation, 18 to under 21 years: Sexual exploitation, 18 to under 21 years
-sexual exploitation, 21 to under 25 years: Sexual exploitation, 21 to under 25 years
-sexual exploitation, 25 years and over: Sexual exploitation, 25 years and over
-sexual exploitation, male: Sexual exploitation, male
-sexual exploitation, female: Sexual exploitation, female
-exploitation of labour, under 14 years: Exploitation of labour, under 14 years
-exploitation of labour, 14 to under 18 years: Exploitation of labour, 14 to under 18 years
-exploitation of labour, 18 to under 21 years: Exploitation of labour, 18 to under 21 years
-exploitation of labour, 21 to under 60 years: Exploitation of labour, 21 to under 60 years
-exploitation of labour, male: Exploitation of labour, male
-exploitation of labour, female: Exploitation of labour, female
-
-speed: Speed
-over 144 kbps to under 2 mbps: Over 144 Kbps to under 2 Mbps
-2 mbps to under 10 mbps: 2 Mbps to under 10 Mbps
-10 mbps to under 30 mbps: 10 Mbps to under 30 Mbps
-30 mbps to under 100 mbps: 30 Mbps to under 100 Mbps
-100 mbps and over: 100 Mbps and over
-
-10 to under 16 years: 10 to under 16 years
-16 to under 25 years: 16 to under 25 years
-25 to under 45 years: 25 to under 45 years
-45 to under 65 years: 45 to under 65 years
-65 years and over: 65 years and over

@@ -61,7 +61,7 @@ animal genetic resources (number): Tiergenetische Ressourcen (Anzahl)
 plant genetic resources (number): Pflanzengenetische Ressourcen (Anzahl)
 #2.5.2
 local livestock breeds (horses, cows, pigs, sheep and goats) (number): Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen) (Anzahl)
-level of risk of extinction (according to fao classification) (%): Gefährdungskategorie (nach FAO-Klassifikation)
+level of risk of extinction (according to fao classification) (%): Gefährdungskategorie (nach FAO-Klassifikation) (%)
 level of risk of extinction (according to national classification) (%): Gefährdungskategorie (nach nationaler Klassifikation) (%)
 #2.a.1
 agriculture orientation index for government expenditures: '"Agriculture Orientation Index" für Staatsausgaben'
@@ -87,7 +87,7 @@ malaria incidence (per 1 000 inhabitants): Auftreten von Malaria <br>(je 1 000 E
 #3.3.4
 hepatitis b incidence  (per 100 000  inhabitants): Auftreten von Hepatitis B <br>(je 100 000 Einwohner)
 #3.4.1
-mortality rate of persons aged 30 to under 70 years attributed to (1 000): Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von (1 000)
+mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von (1 000):"
 a) cardiovascular disease: a) Herz-Kreislauferkrankungen
 b) cancer: b) bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
@@ -140,6 +140,7 @@ participation rate of adults in formal and non-formal education and training in 
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten (%)
 #4.5.1
+indicator: Indikator
 gender parity index of: Geschlechtsparitätsindex zum
 sdg indicator 4-2-2: SDG Indikator 4.2.2
 sdg indicator 4-3-1 (adults): SDG Indikator 4.3.1 (Erwachsene)
@@ -147,12 +148,12 @@ sdg indicator 4-3-1 (youth): SDG Indikator 4.3.1 (Jugendliche)
 #4.6.1
 level of proficiency: Leistungsniveau
 "adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen (%)"
-"2010,Adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen (%)"
+"adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen (%)"
 minimum requirement level i: Mindestniveau Stufe I
 minimum requirement level ii: Mindestniveau Stufe II
 #4.a.1
 unit: Einheit
-"Schools with access to (%):": "Schulen mit Zugang zu (%):"
+"schools with access to (%):": "Schulen mit Zugang zu (%):"
 a) electricity: a) Elektrizität
 b) the internet for pedagogical purposes: b) Internet für pädagogische Zwecke
 c) computers for pedagogical purposes: c) Computer für pädagogische Zwecke
@@ -161,11 +162,11 @@ e) basic drinking water: e) Trinkwasser
 f) single-sex basic sanitation facilities: f) geschlechterspezifische, grundlegende sanitäre Anlagen
 g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen (gemäß der WASH Indikator-Definition)
 #4.b.1
-oda (gross disbursements) for imputed student costs (mn USD, constant prices (2016)): Bruttoentwicklungsausgaben für Studienplatzkosten (Mill. USD, konstante Preise (2016))
-oda (gross disbursements) for scholarships (mn USD, constant prices (2016)): Bruttoentwicklungsausgaben für Stipendien (Mill. USD, konstante Preise (2016))
+oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Studienplatzkosten (Mill. USD, konstante Preise (2016))
+oda (gross disbursements) for scholarships (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Stipendien (Mill. USD, konstante Preise (2016))
 #5.1.1
 area of law: Rechtsgebiet
-"Legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich (%):"
+"legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich (%):"
 employment and economic benefits: Erwerbstätigkeit und wirtschaftlicher Nutzen
 marriage and family: Ehe und Familie
 overarching legal frameworks and public life: übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
@@ -213,13 +214,13 @@ economic sector: Wirtschaftszweig
 "services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
 #6.4.2
 level of waterstress: Nutzung der Wasserressourcen
-"Level of water stress (%):": "Nutzung der Wasserressourcen (%):"
+"level of water stress (%):": "Nutzung der Wasserressourcen (%):"
 share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
 share of withdrawal in renewable water resources (excluding cooling water): Anteil der Gewinnung (ohne Abwasser aus Kühlsystemen) an den erneuerbaren Wasserressourcen
 #6.5.1
-degree of integrated water resources management implementation (%): Degree of integrated water resources management implementation (%)
+degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements (%)
 #6.5.2
-transboundary basin area with an operational arrangement for water cooperation (%): Transboundary basin area with an operational arrangement for water cooperation (%)
+transboundary basin area with an operational arrangement for water cooperation (%): Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation (%)
 #6.6.1
 "Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Subindikator 1: Fläche der wasserbezogenen Ökosysteme (%)"
 "Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Subindikator 3: Wasserabfluss über Flüsse (%)"
@@ -231,10 +232,10 @@ oda (gross disbursements) for other related water and sanitation purposes (mn us
 oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise (2016))
 #7.1.1
 households and small-sized enterprises connected to the electricity network (1 000): Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind <br>(1 000)
-population with access to electricity (%): Population with access to electricity (%)
+population with access to electricity (%): Bevölkerung mit Zugang zu Elektrizität (%)
 #7.2.1
 renewable energy share in gross final energy consumption (according to national definition) (%): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition) (%)
-renewable energy share in total final energy consumption (according to UN definition) (%): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition) (%)
+renewable energy share in total final energy consumption (according to un definition) (%): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition) (%)
 #7.3.1
 energy intensity measured in terms of primary energy and gdp (2010 = 100): Energieintensität gemessen in Bezug auf Primärenergie und BIP  (2010 = 100)
 energy intensity measured in terms of primary energy and gdp (mj/eur): Energieintensität gemessen in Bezug auf Primärenergie und BIP
@@ -256,9 +257,9 @@ gender pay gap (%): Verdienstabstand (%)
 #8.5.2
 unemployment rate (15 to under 75 years) (%): Arbeitslosenquote (15 bis unter 75 Jahre) (%)
 #8.6.1
-young people (15 to under 25 years) neither in employment nor in education and training  (neet rates) (%): ugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten) (%)
+young people (15 to under 25 years) neither in employment nor in education and training  (neet rates) (%): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten) (%)
 #8.7.1
-Young victims of trafficking in human beings with intent to exploit man power (Number): Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft (Anzahl)
+young victims of trafficking in human beings with intent to exploit man power (number): Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft (Anzahl)
 #8.8.1
 fatal occupational accidents (per 100 000 employees): Tödliche Arbeitsunfälle <br>(je 100 000 Beschäftigte)
 non-fatal occupational accidents (per 100 000 employees): Nicht-tödliche Arbeitsunfälle <br>(je 100 000 Beschäftigte)
@@ -268,7 +269,7 @@ share of tourism industries to total value added (%): Anteil des Tourismusbereic
 persons employed in accommodation (1 000): Tätige Personen im Gastgewerbe <br>(1 000)
 Persons employed in tourism industries (1 000): Erwerbstätige im Tourismus <br>(1 000)
 #8.10.1
-a) Branches of payment service providers (per 100 000 adults): a) Zweigstellen von Zahlungsverkehrsdienstleistern <br>(je 100 000 Einwohner)
+a) branches of payment service providers (per 100 000 adults): a) Zweigstellen von Zahlungsverkehrsdienstleistern <br>(je 100 000 Erwachsenen)
 b) atms of national payment service providers (per 100 000 adults): b) Bankautomaten von inländischen Zahlungsdienstleistern <br>(je 100 000 Einwohner)
 #8.10.2
 accounts at payment service providers (1 000): Konten bei Zahlungsverkehrsdienstleistern <br>(1 000)

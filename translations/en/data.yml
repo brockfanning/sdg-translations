@@ -87,7 +87,7 @@ malaria incidence (per 1 000 inhabitants): Malaria incidence <br>(per 1 000 inha
 #3.3.4
 hepatitis b incidence  (per 100 000  inhabitants): Hepatitis B incidence <br>(per 100 000 inhabitants)
 #3.4.1
-mortality rate of persons aged 30 to under 70 years attributed to (1 000): Mortality rate of persons aged 30 to under 70 years attributed to <br>(1 000)
+mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Mortality rate of persons aged 30 to under 70 years attributed to (1 000):"
 a) cardiovascular disease: a) cardiovascular disease
 b) cancer: b) cancer
 c) diabetes mellitus: c) diabetes mellitus
@@ -140,6 +140,7 @@ participation rate of adults in formal and non-formal education and training in 
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months (%): Persons (10 years and older) with computer-related activities in the last 12 months (%)
 #4.5.1
+indicator: Indicator
 gender parity index of: Gender Parity Index of
 sdg indicator 4-2-2: SDG indicator 4.2.2
 sdg indicator 4-3-1 (adults): SDG indicator 4.3.1 (adults)
@@ -161,8 +162,8 @@ e) basic drinking water: e) basic drinking water
 f) single-sex basic sanitation facilities: f) single-sex basic sanitation facilities
 g) basic handwashing facilities (as per the wash indicator definitions): g) basic handwashing facilities (as per the WASH indicator definitions)
 #4.b.1
-oda (gross disbursements) for imputed student costs (mn USD, constant prices (2016)): ODA (gross disbursements) for imputed student costs (Mn USD, constant prices (2016))
-oda (gross disbursements) for scholarships (mn USD, constant prices (2016)): ODA (gross disbursements) for scholarships (Mn USD, constant prices (2016))
+oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016)): ODA (gross disbursements) for imputed student costs (Mn USD, constant prices (2016))
+oda (gross disbursements) for scholarships (mn usd, constant prices (2016)): ODA (gross disbursements) for scholarships (Mn USD, constant prices (2016))
 #5.1.1
 area of law: Area of Law
 "legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Legal frameworks that promote, enforce and monitor gender equality regarding (%):"
@@ -217,9 +218,9 @@ level of waterstress: Level of waterstress
 share of withdrawal in renewable water resources: share of withdrawal in renewable water resources
 share of withdrawal in renewable water resources (excluding cooling water): share of withdrawal in renewable water resources (excluding cooling water)
 #6.5.1
-degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements (%)
+degree of integrated water resources management implementation (%): Degree of integrated water resources management implementation (%)
 #6.5.2
-transboundary basin area with an operational arrangement for water cooperation (%): Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation (%)
+transboundary basin area with an operational arrangement for water cooperation (%): Transboundary basin area with an operational arrangement for water cooperation (%)
 #6.6.1
 "Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Sub-indicator 1: Spatial extent of water-related ecosystems (%)"
 "Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Sub-indicator 3:  Quantity discharge of water in rivers (%)"
@@ -231,10 +232,10 @@ oda (gross disbursements) for other related water and sanitation purposes (mn us
 oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): ODA (gross disbursements) for water and sanitation (Mn USD, constant prices (2016))
 #7.1.1
 households and small-sized enterprises connected to the electricity network (1 000): Households and small-sized enterprises connected to the electricity network <br>(1 000)
-population with access to electricity (%): Bevölkerung mit Zugang zu Elektrizität (%)
+population with access to electricity (%): Population with access to electricity (%)
 #7.2.1
 renewable energy share in gross final energy consumption (according to national definition) (%): Renewable energy share in gross final energy consumption (according to national definition) (%)
-renewable energy share in total final energy consumption (according to UN definition) (%): Renewable energy share in total final energy consumption (according to UN definition) (%)
+renewable energy share in total final energy consumption (according to un definition) (%): Renewable energy share in total final energy consumption (according to UN definition) (%)
 #7.3.1
 energy intensity measured in terms of primary energy and gdp (2010 = 100): Energy intensity measured in terms of primary energy and GDP (2010 = 100)
 energy intensity measured in terms of primary energy and gdp (mj/eur): Energy intensity measured in terms of primary energy and GDP (MJ/EUR):

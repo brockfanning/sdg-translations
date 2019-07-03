@@ -369,6 +369,33 @@ share of recreational area to settlement and transport areas in cities with more
 rmc (abiotic and biotic material) (mn t): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe) (Mill. t)
 rmc per capita (t per capita): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner (t je Einwohner)
 rmc per real gdp (2010 = 100): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP (t pro realem BIP (2010 = 100))
+#12.2.2
+dmc (abiotic and biotic material) (mn t ): Inländische Materialverwendung (DMC; abiotische und biotische Rohstoffe) (Mill. t)
+dmc per capita (t per capita): Inländische Materialverwendung (DMC) je Einwohner (t je Einwohner)
+dmc per real gdp (2010 = 100): Inländische Materialverwendung (DMC) zum realen BIP (t pro realem BIP (2010 = 100))
+#12.4.1
+compliance with the basel convention (%): Übereinstimmung mit dem Basler Übereinkommen (%)
+compliance with the minamata convention (%): Übereinstimmung mit dem Minamata Übereinkommen (%)
+compliance with the montreal protocol (%): Übereinstimmung mit dem Montrealer Protokoll (%)
+compliance with the rotterdam convention (%): Übereinstimmung mit dem Rotterdamer Übereinkommen (%)
+compliance with the stockholm convention (%): Übereinstimmung mit dem Stockholmer Übereinkommen (%)
+#12.4.2
+type of waste treatment: Art der Abfallbehandlung
+a) Hazardous waste generated per capita (kg per capita): a) Erzeugte gefährliche Abfälle (kg je Einwohner)
+b) Hazardous waste treated (%): b) Behandelte gefährliche Abfälle (%)
+deposit onto or into land and land treatment and release into water bodies: Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern
+energy recovery: Energierückgewinnung
+incineration: Verbrennung
+recovery other than energy recovery: Verwertung anderer als die der Energierückgewinnung
+#12.5.1
+municipal waste recycled (t): Recycelte Siedlungsabfälle (t)
+national recycling rate of municipal waste (%): Nationale Recyclingquote von Siedlungsabfällen (%)
+#12.6.1
+organisations with emas registration (number): Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS) (Anzahl)
+#12.7.1
+sustainability programme: Nachhaltigkeitsstrategie
+
+
 
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung <br> (je 100 000 Einwohner)

@@ -369,6 +369,33 @@ share of recreational area to settlement and transport areas in cities with more
 rmc (abiotic and biotic material) (mn t): RMC (abiotic and biotic material) (Mn t)
 rmc per capita (t per capita): RMC per capita (t per capita)
 rmc per real gdp (2010 = 100): RMC per real GDP (2010 = 100)
+#12.2.2
+dmc (abiotic and biotic material) (mn t ): DMC (abiotic and biotic material) (Mn t)
+dmc per capita (t per capita): DMC per capita (t per capita)
+dmc per real gdp (2010 = 100): DMC per real GDP (2010 = 100)
+#12.4.1
+compliance with the basel convention (%): Compliance with the Basel Convention (%)
+compliance with the minamata convention (%): Compliance with the Minamata Convention (%)
+compliance with the montreal protocol (%): Compliance with the Montreal Protocol (%)
+compliance with the rotterdam convention (%): Compliance with the Rotterdam Convention (%)
+compliance with the stockholm convention (%): Compliance with the Stockholm Convention (%)
+#12.4.2
+type of waste treatment: Type of waste treatment
+a) hazardous waste generated per capita (kg per capita): a) Hazardous waste generated per capita (kg per capita)
+b) hazardous waste treated (%): b) Hazardous waste treated (%)
+deposit onto or into land and land treatment and release into water bodies: deposit onto or into land and land treatment and release into water bodies
+energy recovery: energy recovery
+incineration: incineration
+recovery other than energy recovery: recovery other than energy recovery
+#12.5.1
+municipal waste recycled (t): Municipal waste recycled (t)
+national recycling rate of municipal waste (%): National recycling rate of municipal waste (%)
+#12.6.1
+organisations with emas registration (number): Organisations with EMAS registration (Number)
+#12.7.1
+sustainability programme: Sustainability Programme
+
+
 
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide <br>(per 100 000 inhabitants)

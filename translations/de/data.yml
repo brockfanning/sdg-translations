@@ -38,7 +38,7 @@ extensive material deprivation (%): Erhebliche materielle Deprivation (%)
 population covered by health insurance (%): Bevölkerung mit Krankenversicherungsschutz (%)
 unemployed persons with unemployment benefits (%): Arbeitslose Leistungsbezieher (%)
 #1.5.3
-strategy for adaptation to climate change (number): Anpassungsstrategie an den Klimawandel (Anzahl)
+strategy for adaptation to climate change (number): Anpassungsstrategie an den Klimawandel
 #1.a.1
 government spending on foreign economic aid (cofog group 01-2) (%): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2) (%)
 #1.a.2
@@ -381,8 +381,8 @@ compliance with the rotterdam convention (%): Übereinstimmung mit dem Rotterdam
 compliance with the stockholm convention (%): Übereinstimmung mit dem Stockholmer Übereinkommen (%)
 #12.4.2
 type of waste treatment: Art der Abfallbehandlung
-a) Hazardous waste generated per capita (kg per capita): a) Erzeugte gefährliche Abfälle (kg je Einwohner)
-b) Hazardous waste treated (%): b) Behandelte gefährliche Abfälle (%)
+a) hazardous waste generated per capita (kg per capita): a) Erzeugte gefährliche Abfälle (kg je Einwohner)
+b) hazardous waste treated (%): b) Behandelte gefährliche Abfälle (%)
 deposit onto or into land and land treatment and release into water bodies: Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern
 energy recovery: Energierückgewinnung
 incineration: Verbrennung
@@ -394,6 +394,49 @@ national recycling rate of municipal waste (%): Nationale Recyclingquote von Sie
 organisations with emas registration (number): Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS) (Anzahl)
 #12.7.1
 sustainability programme: Nachhaltigkeitsstrategie
+#14.3.1
+average ph-concentration in the german bight (ph-value): Durchschnittliche pH-Konzentration in der Deutschen Bucht (pH-Wert)
+#14.4.1
+fish stocks within biologically sustainable levels (%): Nachhaltig befischte Fischbestände (%)
+monitored fish stocks based on the msy approach that are professionally exploited (%): Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen (%)
+#14.5.1
+protected marine area  (%): Meeresschutzgebiete (%)
+marine key biodiversity areas (kbas) covered by protected areas (%): Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen (%)
+#14.6.1
+degree of combat illegal, unreported and unregulated fishing: Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei
+#14.a.1
+federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur): Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft (Mill. EUR)
+#15.1.1
+Forest area (%): Waldfläche (%)
+#15.1.2
+protected terrestrial areas (%): Schutzgebiete an Land (%)
+key biodiversity areas (kbas) covered by protected areas (%): Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen (%)
+#15.2.1
+above-ground biomass stock in forest (mn t): Gesamtbestand der obererdigen Biomasse in Wäldern (Mill. t)
+forest area located within protected areas (%): Waldfläche in Schutzgebieten (%)
+forest area net change rate (%): Jährliche Veränderung der Waldfläche (%)
+forest area under an independently verified forest management certification scheme (%): Waldflächen mit einem unabhängig geprüften Wald-Management-System (%)
+#15.4.2
+mountain green cover index (%): "'Mountain Green Cover' Index"
+classification: Klassifikation
+class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
+class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
+class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
+class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe  300-1000 Meter)
+#15.5.1
+red list index (%): Rote Liste Index (%)
+#15.7.1
+documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten (Anzahl)
+seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes (Anzahl)
+#15.a.1
+a) oda (commitments) for biodiversity (mn usd, constant prices (2016)): a) Verpflichtungen (ODA) für Biodiversität (Mill. USD, konstante Preise (2016))
+b) environmental protection expenditure (mn eur): b) Umweltschutzausgaben (Mill. EUR)
+#15.b.1
+a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016)): a) Bruttoentwicklungsausgaben für den Forstsektor (Mill. USD, konstante Preise (2016))
+#15.c.1
+documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten (Anzahl)
+seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes (Anzahl)
+
 
 
 
@@ -474,12 +517,6 @@ deposit onto or into land and land treatment and release into water bodies: Abla
 sea: Meer
 greater north sea: Nordsee
 baltic sea: Ostsee
-
-classification: Klassifikation
-class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
-class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
-class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
-class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe  300-1000 Meter)
 
 13 years and under: Unter 14 Jahren
 under 14 years: Unter 14 Jahren

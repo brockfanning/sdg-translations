@@ -38,7 +38,7 @@ extensive material deprivation (%): Extensive material deprivation (%)
 population covered by health insurance (%): Population covered by health insurance (%)
 unemployed persons with unemployment benefits (%): Unemployed persons with unemployment benefits (%)
 #1.5.3
-strategy for adaptation to climate change (number): Strategy for Adaptation to Climate Change (Number)
+strategy for adaptation to climate change (number): Strategy for Adaptation to Climate Change
 #1.a.1
 government spending on foreign economic aid (cofog group 01-2) (%): Government spending on foreign economic aid (COFOG group 01.2) (%)
 #1.a.2
@@ -362,7 +362,7 @@ goverment spending on recreation, culture and religion (cofog section 8) (bn eur
 total municipal solid waste generated (1 000 t): Total municipal solid waste generated <br>(1 000 t)
 municipal solid waste regularly collected and treated (%): Municipal solid waste regularly collected and treated (%)
 #11.6.2
-population weighted annual mean levels of pm10 (ug/m3): "Population weighted annual mean levels of PM10 (ug/m<sup>3</sup>)"
+population weighted annual mean levels of pm10 (ug/m3): Population weighted annual mean levels of PM10 (ug/m<sup>3</sup>)
 #11.7.1
 share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%)
 #12.2.1
@@ -394,7 +394,48 @@ national recycling rate of municipal waste (%): National recycling rate of munic
 organisations with emas registration (number): Organisations with EMAS registration (Number)
 #12.7.1
 sustainability programme: Sustainability Programme
-
+#14.3.1
+average ph-concentration in the german bight (ph-value): Average pH-concentration in the German Bight (pH-value)
+#14.4.1
+fish stocks within biologically sustainable levels (%): Fish stocks within biologically sustainable levels (%)
+monitored fish stocks based on the msy approach that are professionally exploited (%): Monitored fish stocks based on the MSY approach that are professionally exploited (%)
+#14.5.1
+protected marine area  (%): Protected marine area (%)
+marine key biodiversity areas (kbas) covered by protected areas (%): Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)
+#14.6.1
+degree of combat illegal, unreported and unregulated fishing: Degree of combat illegal, unreported and unregulated fishing
+#14.a.1
+federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur): Federal budget on research and development in the field of coastal, ocean and polar science, geoscience (Mn EUR)
+#15.1.1
+forest area (%): Forest area (%)
+#15.1.2
+protected terrestrial areas (%): Protected terrestrial areas (%)
+key biodiversity areas (kbas) covered by protected areas (%): Key Biodiversity Areas (KBAs) covered by protected areas (%)
+#15.2.1
+above-ground biomass stock in forest (mn t): Above-ground biomass stock in forest (Mn t)
+forest area located within protected areas (%): Forest area located within protected areas (%)
+forest area net change rate (%): Forest area net change rate (%)
+forest area under an independently verified forest management certification scheme (%): Forest area under an independently verified forest management certification scheme (%)
+#15.4.2
+mountain green cover index (%): Mountain Green Cover Index (%)
+classification: Classification
+class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2500-3500 meters)
+class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1500-2500 meters)
+class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1000-1500 meters)
+class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation  300-1000 meters)
+#15.5.1
+red list index (%): Red List Index (%)
+#15.7.1
+documents issued for the import and export of protected species (number): Documents issued for the import and export of protected species (Number)
+seizures by authorities concerning the protection of species (number): Seizures by authorities concerning the protection of species (Number)
+#15.a.1
+a) oda (commitments) for biodiversity (mn usd, constant prices (2016)): a) ODA (commitments) for biodiversity (Mn USD, constant prices (2016))
+b) environmental protection expenditure (mn eur): b) Environmental protection expenditure (Mn EUR)
+#15.b.1
+a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016)): b) ODA (gross disbursements) to the forestry sector (Mn USD, constant prices (2016))
+#15.c.1
+documents issued for the import and export of protected species (number): Documents issued for the import and export of protected species (Number)
+seizures by authorities concerning the protection of species (number): Seizures by authorities concerning the protection of species (Number)
 
 
 #16.1.1
@@ -475,12 +516,6 @@ deposit onto or into land and land treatment and release into water bodies: Depo
 sea: Sea
 greater north sea: Greater North Sea
 baltic sea: Baltic Sea
-
-classification: Classification
-class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2500-3500 meters)
-class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1500-2500 meters)
-class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1000-1500 meters)
-class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation  300-1000 meters)
 
 13 years and under: Under 14 years
 under 14 years: Under 14 years

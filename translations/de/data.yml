@@ -419,10 +419,10 @@ forest area under an independently verified forest management certification sche
 #15.4.2
 mountain green cover index (%): "'Mountain Green Cover' Index"
 classification: Klassifikation
-class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2500-3500 Meter)
-class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1500-2500 Meter)
-class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1000-1500 Meter)
-class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe  300-1000 Meter)
+class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 <br>(Höhe 2 500 - 3 500 Meter)
+class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 <br>(Höhe 1 500 - 2 500 Meter)
+class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 <br>(Höhe 1 000 - 1 500 Meter)
+class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 <br>(Höhe  300 - 1 000 Meter)
 #15.5.1
 red list index (%): Rote Liste Index (%)
 #15.7.1
@@ -436,13 +436,51 @@ a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (20
 #15.c.1
 documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten (Anzahl)
 seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes (Anzahl)
-
-
-
-
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung <br> (je 100 000 Einwohner)
 victims of intentional homicide (number): Opfer vorsätzlicher Tötung (Anzahl)
+#16.1.3
+population subjected to physical violence (%): Bevölkerung, die körperlicher Gewalt ausgesetzt war (%)
+population who were victims of criminal offences (%): Bevölkerung, die Opfer einer Straftat war (%)
+victims of criminal offences (number): Opfer von Straftaten (Anzahl)
+#16.1.4
+population not living in an area with crime, violence or vandalism (%): Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt (%)
+#16.2.1
+children at acute risk of harm with signs of physical or psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung (%)
+children at acute risk of harm with signs of physical abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung (%)
+children at acute risk of harm with signs of psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung (%)
+#16.2.2
+victims of human trafficking (per 100 000 inhabitants): Opfer von Menschenhandel <br>(je 100 000 Einwohner)
+exploitation of labour (per 100 000 inhabitants): Ausbeutung der Arbeitskraft <br>(je 100 000 Einwohner)
+sexual exploitation (per 100 000 inhabitants): Sexuelle Ausbeutung <br>(je 100 000 Einwohner)
+victims of human trafficking (number): Opfer von Menschenhandel <br>(Anzahl)
+exploitation of labour (number): Ausbeutung der Arbeitskraft <br>(Anzahl)
+sexual exploitation (number): Sexuelle Ausbeutung <br>(Anzahl)
+#16.3.1
+a) police reporting rate for physical assault (%): a) Anzeigequote bei Körperverletzung (%)
+c) police reporting rate for robbery (%): c) Anzeigequote bei Raub (%)
+#16.3.2
+unsentenced detainees (%): Nicht-verurteilte Gefangene (%)
+#16.4.2
+seized arms and parts (number): Sichergestellte Waffen und Waffenteile (Anzahl)
+#16.5.1
+population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren) (%)
+private persons (donors) suspected in the context of corruption offences (number): Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten (%)
+#16.5.2
+businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren) (%)
+#16.6.2
+population satisfied with their experience of government services during the previous two years (%): Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war (%)
+#16.7.1
+total female persons in employment (%): Weibliche Erwerbstätige insgesamt (%)
+female employees in public sector (%): Weibliche Beschäftigte des öffentlichen Dienstes (%)
+#16.7.2
+population who considers their experiences with public agencies free of discrimination during the previous two years (%): Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet (%)
+#16.9.1
+children under 5 years of age whose births have been registered with a civil authority (%): Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist (%)
+#16.10.2
+public access to information (number): Öffentlicher Zugang zu Informationen (Anzahl)
+#16.a.1
+membership ganhri (category a) (number): Mitgliedschaft GANHRI (Kategorie A) (Anzahl)
 
 
 footnote: Anmerkung
@@ -523,6 +561,7 @@ under 14 years: Unter 14 Jahren
 14 to under 18 years: 14 bis unter 18 Jahre
 18 to under 21 years: 18 bis unter 21 Jahre
 21 to under 25 years: 21 bis unter 25 Jahre
+21 to under 60 years: 21 bis unter 60 Jahre
 25 years and over: 25 Jahre und mehr
 0 - unknown age: Unbekanntes Alter
 

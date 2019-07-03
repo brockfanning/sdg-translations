@@ -362,7 +362,7 @@ goverment spending on recreation, culture and religion (cofog section 8) (bn eur
 total municipal solid waste generated (1 000 t): Total municipal solid waste generated <br>(1 000 t)
 municipal solid waste regularly collected and treated (%): Municipal solid waste regularly collected and treated (%)
 #11.6.2
-population weighted annual mean levels of pm10 (ug/m3): "Population weighted annual mean levels of PM10 (&micro;g/m3)" #Population weighted annual mean levels of PM10 (ug/m<sup>3</sup>)
+population weighted annual mean levels of pm10 (ug/m3): "&micro;" #Population weighted annual mean levels of PM10 (ug/m<sup>3</sup>)
 #11.7.1
 share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%)
 #12.2.1
@@ -419,10 +419,10 @@ forest area under an independently verified forest management certification sche
 #15.4.2
 mountain green cover index (%): Mountain Green Cover Index (%)
 classification: Classification
-class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2500-3500 meters)
-class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1500-2500 meters)
-class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1000-1500 meters)
-class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation  300-1000 meters)
+class 3 areas (elevation 2500-3500 meters): Class 3 areas <br>(Elevation 2 500 - 3 500 meters)
+class 4 areas (elevation 1500-2500 meters): Class 4 areas <br>(Elevation 1 500 - 2 500 meters)
+class 5 areas (elevation 1000-1500 meters): Class 5 areas <br>(Elevation 1 000 - 1 500 meters)
+class 6 areas (elevation  300 -1000 meters): Class 6 areas <br>(Elevation  300 - 1 000 meters)
 #15.5.1
 red list index (%): Red List Index (%)
 #15.7.1
@@ -436,11 +436,51 @@ a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (20
 #15.c.1
 documents issued for the import and export of protected species (number): Documents issued for the import and export of protected species (Number)
 seizures by authorities concerning the protection of species (number): Seizures by authorities concerning the protection of species (Number)
-
-
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide <br>(per 100 000 inhabitants)
 victims of intentional homicide (number): Victims of intentional homicide (Number)
+#16.1.3
+population subjected to physical violence (%): Population subjected to physical violence (%)
+population who were victims of criminal offences (%): Population who were victims of criminal offences (%)
+victims of criminal offences (number): Victims of criminal offences (Number)
+#16.1.4
+population not living in an area with crime, violence or vandalism (%): Population not living in an area with crime, violence or vandalism (%)
+#16.2.1
+children at acute risk of harm with signs of physical or psychological abuse (%): Children at acute risk of harm with signs of physical or psychological abuse (%)
+children at acute risk of harm with signs of physical abuse (%): Children at acute risk of harm with signs of physical abuse (%)
+children at acute risk of harm with signs of psychological abuse (%): Children at acute risk of harm with signs of psychological abuse (%)
+#16.2.2
+victims of human trafficking (per 100 000 inhabitants): Victims of human trafficking <br>(per 100 000 inhabitants)
+exploitation of labour (per 100 000 inhabitants): Exploitation of labour <br>(per 100 000 inhabitants)
+sexual exploitation (per 100 000 inhabitants): Sexual exploitation <br>(per 100 000 inhabitants)
+victims of human trafficking (number): Victims of human trafficking (Number)
+exploitation of labour (number): Exploitation of labour (Number)
+sexual exploitation (number): Sexual exploitation (Number)
+#16.3.1
+a) police reporting rate for physical assault (%): a) Police reporting rate for physical assault (%)
+c) police reporting rate for robbery (%): c) Police reporting rate for robbery (%)
+#16.3.2
+unsentenced detainees (%): Unsentenced detainees (%)
+#16.4.2
+seized arms and parts (number): Seized arms and parts (Number)
+#16.5.1
+population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%): Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%)
+private persons (donors) suspected in the context of corruption offences (number): Private persons (donors) suspected in the context of corruption offences (Number)
+#16.5.2
+businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%)
+#16.6.2
+population satisfied with their experience of government services during the previous two years (%): Population satisfied with their experience of government services during the previous two years (%)
+#16.7.1
+total female persons in employment (%): Total female persons in employment (%)
+female employees in public sector (%): Female employees in public sector (%)
+#16.7.2
+population who considers their experiences with public agencies free of discrimination during the previous two years (%): Population who considers their experiences with public agencies free of discrimination during the previous two years (%)
+#16.9.1
+children under 5 years of age whose births have been registered with a civil authority (%): Children under 5 years of age whose births have been registered with a civil authority (%)
+#16.10.2
+public access to information (number): Public access to information (Number)
+#16.a.1
+membership ganhri (category a) (number): Membership GANHRI (category A) (Number)
 
 
 footnote: Specification
@@ -522,6 +562,7 @@ under 14 years: Under 14 years
 14 to under 18 years: 14 to under 18 years
 18 to under 21 years: 18 to under 21 years
 21 to under 25 years: 21 to under 25 years
+21 to under 60 years: 21 to under 60 years
 25 years and over: 25 years and over
 0 - unknown age: Unknown Age
 

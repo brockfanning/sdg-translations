@@ -316,6 +316,57 @@ technology: Technology
 "households covered by (%):": "Households covered by (%):"
 3g: "3G"
 lte: LTE
+#10.1.1
+growth rate of income of the bottom 40 per cent of the population (%): Growth rate of income of the bottom 40 per cent of the population (%)
+growth rate of income of the total population (%): Growth rate of income of the total population (%)
+#10.2.1
+population living below 50% of median income (%): Population living below 50% of median income (%)
+#10.4.1
+labour share of gdp (%): Labour share of GDP (%)
+#10.5.1
+capital to assets ratio (%): Capital to assets ratio (%)
+liquid assets to short-term liabilities (%): Liquid assets to short-term liabilities (%)
+net open position in foreign exchange to capital (%): Net open position in foreign exchange to capital (%)
+nonperforming loans net of provisions to capital (%): Nonperforming loans net of provisions to capital (%)
+nonperforming loans net of provisions to gross loans (%): Nonperforming loans net of provisions to gross loans (%)
+regulatory tier 1 capital to risk-weighted assets (%): Regulatory Tier 1 capital to risk-weighted assets (%)
+return on assets (%): Return on assets (%)
+#10.b.1
+total official and private flows (net disbursements) (mn usd, constant prices (2016)): Total Official and Private Flows (net disbursements) (Mn USD, constant prices (2016))
+type of flow: Type of flow
+ODA (net disbursements): ODA (net disbursements)
+OOF (net disbursements): OOF (net disbursements)
+officially supported export credits (net disbursements): Officially Supported Export Credits (net disbursements)
+private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
+private sector flows at market terms (net disbursements): Private Sector Flows at market terms (net disbursements)
+#11.1.1
+material deprivation for the housing dimension (one to four items) (%): Material deprivation for the housing dimension (one to four items) (%)
+population considering their dwelling as too dark (%): Population considering their dwelling as too dark (%)
+population living in an area with crime, violence or vandalism (%): Population living in an area with crime, violence or vandalism (%)
+population living in an area with noise pollution (%): Population living in an area with noise pollution (%)
+population living in households with moisture damages (%): Population living in households with moisture damages (%)
+#11.2.1
+population that has convenient access to public transport (within 500 meters) (%): Population that has convenient access to public transport (within 500 meters) (%)
+population that has convenient access to public transport (within 10 minutes walking distance) (%): Population that has convenient access to public transport (within 10 minutes walking distance) (%)
+#11.3.1
+land consumption rate  (%): Land consumption rate (%)
+population growth rate (%): Population growth rate (%)
+proportion of settlement and transport areas to population (2010 = 100): Proportion of settlement and transport areas to population (2010 = 100)
+ratio of land consumption rate to population growth rate (year-to-year): Ratio of land consumption rate to population growth rate (year-to-year)
+#11.3.2
+cities with a legally required direct participation of civil society in urban planning and management (%): Cities with a legally required direct participation of civil society in urban planning and management (%)
+#11.4.1
+goverment spending on environmental protection (cofog section 5) (bn eur): Goverment spending on environmental protection (COFOG section 5) (Bn EUR)
+goverment spending on recreation, culture and religion (cofog section 8) (bn eur): Goverment spending on recreation, culture and religion (COFOG section 8) (Bn EUR)
+#11.6.1
+total municipal solid waste generated (1 000 t): Total municipal solid waste generated <br>(1 000 t)
+municipal solid waste regularly collected and treated (%): Municipal solid waste regularly collected and treated (%)
+#11.6.2
+population weighted annual mean levels of pm10 (ug/m3): "Population weighted annual mean levels of PM10 (&micro;g/m<sup>3</sup>)"
+#11.7.1
+share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%)
+
+
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide <br>(per 100 000 inhabitants)
 victims of intentional homicide (number): Victims of intentional homicide (Number)
@@ -379,13 +430,6 @@ schleswig-holstein: Schleswig-Holstein
 thuringia: Thuringia
 
 25 to under 75 years: 25 to under 75 years
-
-type of flow: Type of flow
-ODA (net disbursements): ODA (net disbursements)
-OOF (net disbursements): OOF (net disbursements)
-officially supported export credits (net disbursements): Officially Supported Export Credits (net disbursements)
-private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
-private sector flows at market terms (net disbursements): Private Sector Flows at market terms (net disbursements)
 
 18 to under 30 years: 18 to under 30 years
 30 to under 45 years: 30 to under 45 years

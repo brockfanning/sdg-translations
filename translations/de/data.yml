@@ -316,6 +316,57 @@ technology: Technologie
 "households covered by (%):": "Haushalte, die mit (%):"
 3g: 3G abgedeckt sind
 lte: LTE abgedeckt sind
+#10.1.1
+growth rate of income of the bottom 40 per cent of the population (%): Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung (%)
+growth rate of income of the total population (%): Wachstumsrate des Einkommens der gesamten Bevölkerung (%)
+#10.2.1
+population living below 50% of median income (%): Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt (%)
+#10.4.1
+labour share of gdp (%): Anteil des Arbeitnehmerentgelts am BIP (%)
+#10.5.1
+capital to assets ratio (%): Eigenkapitalquote (%)
+liquid assets to short-term liabilities (%): Verbindlichkeiten (%)
+net open position in foreign exchange to capital (%): Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln (%)
+nonperforming loans net of provisions to capital (%): Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital (%)
+nonperforming loans net of provisions to gross loans (%): Anteil der notleidenden Kredite an den Bruttokrediten insgesamt (%)
+regulatory tier 1 capital to risk-weighted assets (%): Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen (%)
+return on assets (%): Gesamtkapitalrentabilität (%)
+#10.b.1
+total official and private flows (net disbursements) (mn usd, constant prices (2016)): Öffentliche und Private Nettoentwicklungsausgaben insgesamt (Mill. USD, konstante Preise (2016))
+type of flow: Art der Finanzströme
+oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
+oof (net disbursements): Andere öffentliche Nettoleistungen (OOF)
+officially supported export credits (net disbursements): Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
+private concessional flows (net disbursements): Private Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)
+private sector flows at market terms (net disbursements): Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
+#11.1.1
+material deprivation for the housing dimension (one to four items) (%): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme) (%)
+population considering their dwelling as too dark (%): Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet (%)
+population living in an area with crime, violence or vandalism (%): Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt (%)
+population living in an area with noise pollution (%): Bevölkerung mit Lärmbelästigung in deren Wohnumgebung (%)
+population living in households with moisture damages (%): Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt (%)
+#11.2.1
+population that has convenient access to public transport (within 500 meters) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern) (%)
+population that has convenient access to public transport (within 10 minutes walking distance) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen) (%)
+#11.3.1
+land consumption rate  (%): Flächenverbrauchsrate (%)
+population growth rate (%): Bevölkerungsentwicklung (%)
+proportion of settlement and transport areas to population (2010 = 100): Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung (2010 = 100)
+ratio of land consumption rate to population growth rate (year-to-year): Verhältnis Flächenverbrauchsrate zur Bevölkerungsentwicklung
+#11.3.2
+cities with a legally required direct participation of civil society in urban planning and management (%): Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung (%)
+#11.4.1
+goverment spending on environmental protection (cofog section 5) (bn eur): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5) (Mrd. EUR)
+goverment spending on recreation, culture and religion (cofog section 8) (bn eur): Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8) (Mrd. EUR)
+#11.6.1
+total municipal solid waste generated (1 000 t): Erzeugte Siedlungsabfälle <br>(1 000 t)
+municipal solid waste regularly collected and treated (%): Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden (%)
+#11.6.2
+population weighted annual mean levels of PM10 (ug/m3): Bevölkerungsgewichtete Jahresmittelwerte von PM10 (µg/m³)
+#11.7.1
+share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Anteil der Erholungsflächen an der Siedlungs- und Verkehrsfläche in Städten ab 100.000 Einwohner (%)
+
+
 #16.1.1
 victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung <br> (je 100 000 Einwohner)
 victims of intentional homicide (number): Opfer vorsätzlicher Tötung (Anzahl)
@@ -378,13 +429,6 @@ schleswig-holstein: Schleswig-Holstein
 thuringia: Thüringen
 
 25 to under 75 years: 25 bis unter 75 Jahre
-
-type of flow: Art der Finanzströme
-oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
-oof (net disbursements): Andere öffentliche Nettoleistungen (OOF)
-officially supported export credits (net disbursements): Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
-private concessional flows (net disbursements): Private Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)
-private sector flows at market terms (net disbursements): Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
 
 18 to under 30 years: 18 bis unter 30 Jahre
 30 to under 45 years: 30 bis unter 45 Jahre

@@ -28,8 +28,6 @@ ratio: Ratio
 total: Total
 year: Year
 
-undefined: No data
-
 #ages
 0 - unknown age: Unknown Age
 10 to under 16 years: 10 to under 16 years
@@ -54,6 +52,8 @@ under 18 years: under 18 years
 55 to under 65 years: 55 to under 65 years
 60 years and over: 60 years and over
 65 years and over: 65 years and over
+
+undefined: No data
 
 #units
 #1.2.1

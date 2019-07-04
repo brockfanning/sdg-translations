@@ -5,7 +5,7 @@ footnote: Anmerkung
 data_footnote: Anmerkung
 data-footnote: Anmerkung
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
-  Es können nicht alle Zeitreihen dargestellt werden
+  Es können nicht alle Zeitreihen dargestellt werden.
 download_chart: Grafik im CSV-Format speichern
 download_csv: im CSV-Format speichern
 download_csv_title: im CSV-Format speichern
@@ -46,5 +46,3 @@ unit_of_measurement: Copyright
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
-
-no_data: LoremIpsum123

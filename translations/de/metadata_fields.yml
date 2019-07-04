@@ -80,4 +80,6 @@ target_id: Unterzielnummerierung
 un_custodian_agency: UN Custodian Agency
 un_designated_tier: UN Tier Klassifikation
 
-data_footnote: footnote
+footnote: Anmerkung
+data_footnote: Anmerkung
+data-footnote: Anmerkung

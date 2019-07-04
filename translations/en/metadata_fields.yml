@@ -80,4 +80,6 @@ target_id: Target number
 un_custodian_agency: UN custodian agency
 un_designated_tier: UN designated tier
 
-data_footnote: footnote
+footnote: Specification
+data_footnote: Specification
+data-footnote: Specification

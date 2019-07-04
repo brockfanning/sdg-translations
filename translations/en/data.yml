@@ -28,6 +28,8 @@ ratio: Ratio
 total: Total
 year: Year
 
+undefined: No data
+
 #ages
 0 - unknown age: Unknown Age
 10 to under 16 years: 10 to under 16 years
@@ -618,3 +620,4 @@ c) death registration (%): c) Death registration (%)
 
 footnote: Specification
 data_footnote: Specification
+data-footnote: Specification

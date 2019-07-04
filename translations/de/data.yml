@@ -53,6 +53,8 @@ under 18 years: unter 18 Jahren
 60 years and over: 60 Jahre und mehr
 65 years and over: 65 Jahre und mehr
 
+undefined: Keine Daten
+
 #units
 #1.2.1
 at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote (nach Eurostat-Definition) (%)
@@ -229,7 +231,7 @@ victims of female genital mutilation (number): Opfer von Verstümmelung weiblich
 time spent on unpaid domestic and care work (%): Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird (%)
 #5.5.1
 seats held by women in national parliament (%): Sitze im nationalen Parlament, die Frauen inne haben (%)
-"Seats held by women in the parliament of (%):": "Sitze in den Landesparlamenten, die Frauen inne haben (%):"
+"seats held by women in the parliament of (%):": "Sitze in den Landesparlamenten, die Frauen inne haben (%):"
 region: Bundesland
 baden-Wuerttemberg: Baden-Württemberg
 bavaria: Bayern
@@ -618,3 +620,4 @@ c) death registration (%): c) Registrierung der Sterbefälle (%)
 
 footnote: Anmerkung
 data_footnote: Anmerkung
+data-footnote: Anmerkung

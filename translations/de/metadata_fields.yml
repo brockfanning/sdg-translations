@@ -69,7 +69,7 @@ source_statistical_classification_3: Datentyp
 source_statistical_classification_4: Datentyp
 source_statistical_classification_5: Datentyp
 source_statistical_classification_6: Datentyp
-source_url_1: Link zur Datenquelle
+source_url_1: Link zur <br>Datenquelle
 source_url_2: Link zur <br>Datenquelle
 source_url_3: Link zur <br>Datenquelle
 source_url_4: Link zur <br>Datenquelle
@@ -78,7 +78,7 @@ source_url_6: Link zur <br>Datenquelle
 target: Unterziel
 target_id: Unterzielnummerierung
 un_custodian_agency: UN Custodian Agency
-un_designated_tier: <a href="https://www.bmjv.de/DE/Startseite/Startseite_node.html">UN Tier Klassifikation</a>
+un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/">UN Tier Klassifikation</a>
 
 footnote: Anmerkung
 data_footnote: Anmerkung

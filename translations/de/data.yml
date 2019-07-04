@@ -574,7 +574,7 @@ proportion of domestic expenditures funded by national taxes and insurance contr
 proportion of net oda to gni (%): Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE (%)
 proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%): Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE (%)
 #17.6.2
-Fixed internet broadband access lines (per 100 inhabitants): Internet-Breitband-Zugänge (je 100 Einwohner)
+fixed internet broadband access lines (per 100 inhabitants): Internet-Breitband-Zugänge (je 100 Einwohner)
 speed: Geschwindigkeit
 a) over 144 kbps to under 2 mbps: Über 144 kbit/s bis unter 2 Mbit/s
 b) 2 mbps to under 10 mbps: 2 Mbit/s bis unter 10 Mbit/s
@@ -592,7 +592,7 @@ available income of private households (bn eur):  Verfügbares Einkommen private
 consumption by private households (bn eur): Konsum privater Haushalte (Mrd. EUR)
 debt level of the total public budget (bn eur): Schuldenstand des öffentlichen Gesamthaushaltes (Mrd. EUR)
 government fiscal balance (bn eur): Finanzierungssaldo des Staates (Mrd. EUR)
-goss fixed capital formation (bn eur): Bruttoanlageinvestitionen (Mrd. EUR)
+gross fixed capital formation (bn eur): Bruttoanlageinvestitionen (Mrd. EUR)
 hours worked by employees (mn h ): Geleistete Arbeitsstunden der Arbeitnehmer (Mill. h)
 hours worked by persons employed (mn h ): Geleistete Arbeitsstunden der Erwerbstätigen (Mill. h)
 labour productivity per hour worked by employee (2010 = 100): Arbeitsproduktivität je geleisteter Arbeitnehmerstunde (2010 = 100)
@@ -605,11 +605,11 @@ national sustainable development strategie (number): Nationale nachhaltige Entwi
 #17.15.1
 proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%): Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit (%)
 proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%): Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit (%)
-Proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden (%)
+proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden (%)
 #17.18.2
 countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics (number): Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik (Anzahl)
 #17.19.1
-oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn uad, constant prices (2016)): Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
+oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016)): Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
 oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016)): Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
 #17.19.2
 a) at least one population and housing census in the last 10 years conducted (number): a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren (Anzahl)

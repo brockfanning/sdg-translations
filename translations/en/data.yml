@@ -1,9 +1,11 @@
 sex: Sex
+sex (all age groups): Sex (all age groups)
 female: Female
 male: Male
 other: Other
 unknown: Unknown
 age: Age group
+age (male and female): Age group (male and female)
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban

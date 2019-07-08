@@ -1,9 +1,11 @@
 sex: Geschlecht
+sex (all age groups): Geschlecht (alle Altersklassen)
 female: Weiblich
 male: Männlich
 other: Divers
 unknown: unbekannte
 age: Altersgruppe
+age (male and female): Altersgruppe (männlich und weiblich)
 urbanisation: Verstädterungsgrad
 rural: Ländlich
 urban: Städtisch

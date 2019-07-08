@@ -79,7 +79,3 @@ target: Unterziel
 target_id: Unterzielnummerierung
 un_custodian_agency: UN Custodian Agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/">UN Tier Klassifikation</a> #<span>Hover over me!</span> <div>I will show on hover</div>
-
-footnote: Anmerkung
-data_footnote: Anmerkung
-data-footnote: Anmerkung

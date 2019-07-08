@@ -1,5 +1,6 @@
 indicator: Indicator
 indicators: Indicators
+found_in_goals: Indicators
 goal: Goal
 goals: Goals
 sdg: Sustainable Development Goals

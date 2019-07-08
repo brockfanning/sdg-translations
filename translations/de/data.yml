@@ -1,6 +1,6 @@
 sex: Geschlecht
 sex (all age groups): Geschlecht (alle Altersklassen)
-"Sex (all age groups, with and without disabilitiey)": Geschlecht (alle Altersklassen, mit und ohne Behinderung)
+"sex (all age groups, with and without disabilities)": Geschlecht (alle Altersklassen, mit und ohne Behinderung)
 sex (15 to under 75 years): Geschlecht (15 bis unter 75 Jahre)
 female: Weiblich
 male: Männlich
@@ -8,7 +8,7 @@ other: Divers
 unknown: unbekannte
 age: Altersklassen
 age (male and female): Altersgruppe (männlich und weiblich)
-"Age (male and female, with and without disabilities)": Altersgruppe (männlich und weiblich, mit und ohne Behinderung)
+"age (male and female, with and without disabilities)": Altersgruppe (männlich und weiblich, mit und ohne Behinderung)
 urbanisation: Verstädterungsgrad
 rural: Ländlich
 urban: Städtisch

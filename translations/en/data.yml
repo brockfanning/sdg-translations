@@ -1,6 +1,6 @@
 sex: Sex
 sex (all age groups): Sex (all age groups)
-"sex (all age groups, with and without disabilities)": Sex (all age groups, with and without disabilities)
+"sex (all age groups, with and without disabilities)": Sex (all age groups; with and without disabilities)
 sex (15 to under 75 years): Sex (15 to under 75 years)
 female: Female
 male: Male
@@ -8,7 +8,7 @@ other: Other
 unknown: Unknown
 age: Age group
 age (male and female): Age group (male and female)
-"age (male and female, with and without disabilities)": Age (male and female, with and without disabilities)
+"age (male and female, with and without disabilities)": Age (male and female; with and without disabilities)
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban
@@ -19,7 +19,7 @@ quintile3: Quintile 3
 quintile4: Quintile 4
 quintile5: Quintile 5 (richest)
 disability: Disability status
-"disability (all age groups, male and female)": "Disability (all age groups, male and female)"
+"disability (all age groups, male and female)": "Disability (all age groups; male and female)"
 disabled: Persons with disability
 nondisabled: Persons without disability
 education: Education level

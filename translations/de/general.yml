@@ -1,5 +1,6 @@
 goal: Ziel
 goals: Ziele
+one_goal: einem Ziel
 found_in_goals: Zielen
 home: Home
 indicator: Indikator
@@ -9,4 +10,3 @@ opens_new_window: in neuem Fenster öffnen
 sdg: Ziele für Nachhaltige Entwicklung
 target: Unterziel
 targets: Unterziele
-1: einem

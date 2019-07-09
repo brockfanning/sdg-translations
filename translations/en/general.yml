@@ -1,6 +1,7 @@
-indicator: Indicator
-indicators: Indicators
-found_in_goals: Indicators
+indicator: indicator
+indicators: indicators
+one_goal: one goal
+found_in_goals: goals
 goal: Goal
 goals: Goals
 sdg: Sustainable Development Goals
@@ -9,4 +10,3 @@ loading: Loading search results
 opens_new_window: opens in a new window
 target: Target
 targets: Targets
-1: one

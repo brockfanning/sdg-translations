@@ -1,5 +1,9 @@
 indicator: Indicator
 indicators: Indicators
+indicator_cap: Indicator
+indicators_cap: Indicators
+indicator_low: indicator
+indicators_low: indicators
 one_indicator: One indicator
 one_goal: one goal
 found_in_goals: goals

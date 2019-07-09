@@ -413,11 +413,12 @@ officially supported export credits (net disbursements): Officially Supported Ex
 private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
 private sector flows at market terms (net disbursements): Private Sector Flows at market terms (net disbursements)
 #11.1.1
-material deprivation for the housing dimension (one to four items) (%): Material deprivation for the housing dimension (one to four items) (%)
-population considering their dwelling as too dark (%): Population considering their dwelling as too dark (%)
-population living in an area with crime, violence or vandalism (%): Population living in an area with crime, violence or vandalism (%)
-population living in an area with noise pollution (%): Population living in an area with noise pollution (%)
-population living in households with moisture damages (%): Population living in households with moisture damages (%)
+items: Items
+material deprivation for the housing dimension (one to four items): Material deprivation for the housing dimension (one to four items) (%)
+population considering their dwelling as too dark: Population considering their dwelling as too dark (%)
+population living in an area with crime, violence or vandalism: Population living in an area with crime, violence or vandalism (%)
+population living in an area with noise pollution: Population living in an area with noise pollution (%)
+population living in households with moisture damages: Population living in households with moisture damages (%)
 #11.2.1
 population that has convenient access to public transport (within 500 meters) (%): Population that has convenient access to public transport (within 500 meters) (%)
 population that has convenient access to public transport (within 10 minutes walking distance) (%): Population that has convenient access to public transport (within 10 minutes walking distance) (%)

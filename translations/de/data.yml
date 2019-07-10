@@ -301,8 +301,8 @@ transboundary basin area with an operational arrangement for water cooperation (
 flowing water bodies: Fließgewässer
 standing water bodies: Stehende Gewässer
 #6.a.1
-oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für verwandte Zwecke (Mill. USD, konstante Preise (2016))
-oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise (2016))
+b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für verwandte Zwecke (Mill. USD, konstante Preise (2016))
+a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise (2016))
 #7.1.1
 households and small-sized enterprises connected to the electricity network (1 000): Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind <br>(1 000)
 population with access to electricity (%): Bevölkerung mit Zugang zu Elektrizität (%)
@@ -311,7 +311,7 @@ renewable energy share in gross final energy consumption (according to national 
 renewable energy share in total final energy consumption (according to un definition) (%): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition) (%)
 #7.3.1
 energy intensity measured in terms of primary energy and gdp (2010 = 100): Energieintensität gemessen in Bezug auf Primärenergie und BIP  (2010 = 100)
-energy intensity measured in terms of primary energy and gdp (mj/eur): Energieintensität gemessen in Bezug auf Primärenergie und BIP
+energy intensity measured in terms of primary energy and gdp (mj/eur): Energieintensität gemessen in Bezug auf Primärenergie und BIP (MJ/EUR)
 #8.1.1
 annual growth rate of real gdp per capita (%): Jährliche Wachstumsrate des realen BIP pro Kopf (%)
 #8.2.1
@@ -553,8 +553,8 @@ exploitation of labour, 21 to under 60 years: Ausbeutung der Arbeitskraft, 21 bi
 exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
 exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
 #16.3.1
-a) police reporting rate for physical assault (%): a) Anzeigequote bei Körperverletzung (%)
-c) police reporting rate for robbery (%): c) Anzeigequote bei Raub (%)
+a) police reporting rate for physical assault (%): Anzeigequote bei Körperverletzung (%)
+c) police reporting rate for robbery (%): Anzeigequote bei Raub (%)
 #16.3.2
 unsentenced detainees (%): Nicht-verurteilte Gefangene (%)
 #16.4.2

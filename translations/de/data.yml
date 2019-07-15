@@ -111,50 +111,50 @@ oda (gross disbursements) to the agriculture sector (mn usd, constant prices (20
 #2.b.2
 export refunds (eur): Ausfuhrerstattungen (EUR)
 #3.1.1
-maternal mortality (per 100 000 live births): Müttersterblichkeit <br>(je 100 000 Lebendgeborenen)
+maternal mortality (per 100 000 live births): Müttersterblichkeit (je 100 000 Lebendgeborenen)
 #3.1.2
 live births in hospitals (%): Lebendgeborene in Krankenhäusern (%)
 #3.2.1
-infant mortality rate (under 1 year) (per 1 000 live births): Säuglingssterblichkeit (unter 1 Jahr) <br>(je 1 000 Lebendgeborenen)
-under-five mortality rate (per 1 000 live births): Kindersterblichkeit unter 5 Jahren <br>(je 1 000 Lebendgeborenen)
+infant mortality rate (under 1 year) (per 1 000 live births): Säuglingssterblichkeit (unter 1 Jahr) (je 1 000 Lebendgeborenen)
+under-five mortality rate (per 1 000 live births): Kindersterblichkeit unter 5 Jahren (je 1 000 Lebendgeborenen)
 #3.2.2
-neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen <br>(je 1 000 Lebendgeborenen)
+neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen (je 1 000 Lebendgeborenen)
 #3.3.1
-hiv incidence (per 1 000 inhabitants): Auftreten von HIV <br>(je 1 000 Einwohnern)
+hiv incidence (per 1 000 inhabitants): Auftreten von HIV (je 1 000 Einwohnern)
 #3.3.2
-tuberculosis incidence (per 100 000 inhabitants): Auftreten von Tuberkulose <br>(je 100 000 Einwohner)
+tuberculosis incidence (per 100 000 inhabitants): Auftreten von Tuberkulose (je 100 000 Einwohner)
 #3.3.3
-malaria incidence (per 1 000 inhabitants): Auftreten von Malaria <br>(je 1 000 Einwohner)
+malaria incidence (per 1 000 inhabitants): Auftreten von Malaria (je 1 000 Einwohner)
 #3.3.4
-hepatitis b incidence  (per 100 000  inhabitants): Auftreten von Hepatitis B <br>(je 100 000 Einwohner)
+hepatitis b incidence  (per 100 000  inhabitants): Auftreten von Hepatitis B (je 100 000 Einwohner)
 #3.4.1
-mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von (1&nbsp;000):"
+mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von (1 000):"
 a) cardiovascular disease: a) Herz-Kreislauferkrankungen
 b) cancer: b) bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
 d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
 #3.4.2
-suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit <br>(je 100 000 Einwohner)
+suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit (je 100 000 Einwohner)
 #3.5.1
-inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen <br>(1 000)
+inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen (1 000)
 type of dependence: Art der Abhängigkeit
 inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
 #3.5.2
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels UN-Faktoren) (Liter puren Alkohols pro Einwohner)
 alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels nationalen Faktoren) (Liter puren Alkohols pro Einwohner)
 #3.6.1
-fatalities due to road traffic accidents (per 100 000 inhabitants): Todesfälle durch Straßenverkehrsunfälle <br>(je 100 000 Einwohner)
+fatalities due to road traffic accidents (per 100 000 inhabitants): Todesfälle durch Straßenverkehrsunfälle (je 100 000 Einwohner)
 #3.7.2
-giving birth between 10 to under 15 years (per 1 000 women of same age): Geburten im Alter von 10 bis unter 15 Jahren <br>(je 1 000 Frauen gleichen Alters)
-giving birth between 15 to under 20 years (per 1 000 women of same age): Geburten im Alter von 15 bis unter 20 Jahren <br>(je 1 000 Frauen gleichen Alters)
+giving birth between 10 to under 15 years (per 1 000 women of same age): Geburten im Alter von 10 bis unter 15 Jahren (je 1 000 Frauen gleichen Alters)
+giving birth between 15 to under 20 years (per 1 000 women of same age): Geburten im Alter von 15 bis unter 20 Jahren (je 1 000 Frauen gleichen Alters)
 #3.9.2
 type of disease: Art der Erkrankung
-mortality rate attributed to  (per 100 000 inhabitants): Sterblichkeit aufgrund von <br>(je 100 000 Einwohner)
+mortality rate attributed to  (per 100 000 inhabitants): Sterblichkeit aufgrund von (je 100 000 Einwohner)
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
 protein-energy malnutrition: Energie- und Eiweißmangelernährung
 #3.9.3
-mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung <br>(je 100 000 Einwohner)
+mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung (je 100 000 Einwohner)
 #3.a.1
 current tobacco use among persons aged 15 years and older (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (%)
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung) (%)
@@ -166,7 +166,7 @@ coverage of hpv containing vaccine of 15 years old girls (%): HPV-Impfquote bei 
 #3.b.2
 oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise (2016))
 #3.c.1
-health workers - practising concept (per 10 000 inhabitants): Gesundheitspersonal (mit direktem Patientenkontakt) <br>(je 10 000 Einwohner)
+health workers - practising concept (per 10 000 inhabitants): Gesundheitspersonal (mit direktem Patientenkontakt) (je 10 000 Einwohner)
 profession: Beruf
 b) dentists: Zahnärzte
 health workers: Gesundheitspersonal
@@ -280,7 +280,7 @@ type of water body: Art des Gewässers
 river water bodies: Fließgewässer
 open water bodies: Seen und Talsperren
 #6.4.1
-water use efficiency (2010 = 100): Wasserproduktivität <br>(2010 = 100)
+water use efficiency (2010 = 100): Wasserproduktivität (2010 = 100)
 economic sector: Wirtschaftszweig
 "agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
 "mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
@@ -304,7 +304,7 @@ standing water bodies: Stehende Gewässer
 b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für verwandte Zwecke (Mill. USD, konstante Preise (2016))
 a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise (2016))
 #7.1.1
-households and small-sized enterprises connected to the electricity network (1 000): Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind <br>(1 000)
+households and small-sized enterprises connected to the electricity network (1 000): Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind (1 000)
 population with access to electricity (%): Bevölkerung mit Zugang zu Elektrizität (%)
 #7.2.1
 renewable energy share in gross final energy consumption (according to national definition) (%): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition) (%)
@@ -334,18 +334,18 @@ young people (15 to under 25 years) neither in employment nor in education and t
 #8.7.1
 young victims of trafficking in human beings with intent to exploit man power (number): Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft (Anzahl)
 #8.8.1
-fatal occupational accidents (per 100 000 employees): Tödliche Arbeitsunfälle <br>(je 100 000 Beschäftigte)
-non-fatal occupational accidents (per 100 000 employees): Nicht-tödliche Arbeitsunfälle <br>(je 100 000 Beschäftigte)
+fatal occupational accidents (per 100 000 employees): Tödliche Arbeitsunfälle (je 100 000 Beschäftigte)
+non-fatal occupational accidents (per 100 000 employees): Nicht-tödliche Arbeitsunfälle (je 100 000 Beschäftigte)
 #8.9.1
 share of tourism industries to total value added (%): Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung (%)
 #8.9.2
-persons employed in accommodation (1 000): Tätige Personen im Gastgewerbe <br>(1 000)
-persons employed in tourism industries (1 000): Erwerbstätige im Tourismus <br>(1 000)
+persons employed in accommodation (1 000): Tätige Personen im Gastgewerbe (1 000)
+persons employed in tourism industries (1 000): Erwerbstätige im Tourismus (1 000)
 #8.10.1
-a) branches of payment service providers (per 100 000 adults): a) Zweigstellen von Zahlungsverkehrsdienstleistern <br>(je 100 000 Erwachsenen)
-b) atms of national payment service providers (per 100 000 adults): b) Bankautomaten von inländischen Zahlungsdienstleistern <br>(je 100 000 Einwohner)
+a) branches of payment service providers (per 100 000 adults): a) Zweigstellen von Zahlungsverkehrsdienstleistern (je 100 000 Erwachsenen)
+b) atms of national payment service providers (per 100 000 adults): b) Bankautomaten von inländischen Zahlungsdienstleistern (je 100 000 Einwohner)
 #8.10.2
-accounts at payment service providers (1 000): Konten bei Zahlungsverkehrsdienstleistern <br>(1 000)
+accounts at payment service providers (1 000): Konten bei Zahlungsverkehrsdienstleistern (1 000)
 type of account: Kontoart
 online accounts: Online-Konten
 current accounts: Girokonten
@@ -371,8 +371,10 @@ manufacturing persons employed (%): Erwerbstätige im Verarbeitenden Gewerbe (%)
 #9.3.1
 gross value added of small-scale industries in manufacturing (%): Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe (%)
 #9.4.1
-co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR (konstant 2010))
-co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
+co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR (konstant 2010))
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
+#co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR (konstant 2010))
+#co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
 #9.5.1
 proportion of r&d expenditures to gdp (%): Verhältnis der F&E-Ausgaben zum BIP (%)
 #9.5.2
@@ -432,9 +434,9 @@ ratio of land consumption rate to population growth rate (year-to-year): Verhäl
 cities with a legally required direct participation of civil society in urban planning and management (%): Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung (%)
 #11.4.1
 goverment spending on environmental protection (cofog section 5) (bn eur): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5) (Mrd. EUR)
-goverment spending on recreation, culture and religion (cofog section 8) (bn eur): Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8) <br>(Mrd. EUR)
+goverment spending on recreation, culture and religion (cofog section 8) (bn eur): Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8) (Mrd. EUR)
 #11.6.1
-total municipal solid waste generated (1 000 t): Erzeugte Siedlungsabfälle <br>(1 000 t)
+total municipal solid waste generated (1 000 t): Erzeugte Siedlungsabfälle (1 000 t)
 municipal solid waste regularly collected and treated (%): Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden (%)
 #11.6.2
 population weighted annual mean levels of pm10 (ug/m3): Bevölkerungsgewichtete Jahresmittelwerte von PM10 (ug/m<sup>3</sup>)
@@ -499,10 +501,10 @@ forest area under an independently verified forest management certification sche
 #15.4.2
 mountain green cover index (%): "'Mountain Green Cover' Index"
 classification: Klassifikation
-class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 <br>(Höhe 2 500 - 3 500 Meter)
-class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 <br>(Höhe 1 500 - 2 500 Meter)
-class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 <br>(Höhe 1 000 - 1 500 Meter)
-class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 <br>(Höhe  300 - 1 000 Meter)
+class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2 500 - 3 500 Meter)
+class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1 500 - 2 500 Meter)
+class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1 000 - 1 500 Meter)
+class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe  300 - 1 000 Meter)
 #15.5.1
 red list index (%): Rote Liste Index (%)
 #15.7.1
@@ -517,7 +519,7 @@ a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (20
 documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten (Anzahl)
 seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes (Anzahl)
 #16.1.1
-victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung <br> (je 100 000 Einwohner)
+victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung  (je 100 000 Einwohner)
 victims of intentional homicide (number): Opfer vorsätzlicher Tötung (Anzahl)
 #16.1.3
 population subjected to physical violence (%): Bevölkerung, die körperlicher Gewalt ausgesetzt war (%)
@@ -530,12 +532,12 @@ children at acute risk of harm with signs of physical or psychological abuse (%)
 children at acute risk of harm with signs of physical abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung (%)
 children at acute risk of harm with signs of psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung (%)
 #16.2.2
-victims of human trafficking (per 100 000 inhabitants): Opfer von Menschenhandel <br>(je 100 000 Einwohner)
-exploitation of labour (per 100 000 inhabitants): Ausbeutung der Arbeitskraft <br>(je 100 000 Einwohner)
-sexual exploitation (per 100 000 inhabitants): Sexuelle Ausbeutung <br>(je 100 000 Einwohner)
-victims of human trafficking (number): Opfer von Menschenhandel <br>(Anzahl)
-exploitation of labour (number): Ausbeutung der Arbeitskraft <br>(Anzahl)
-sexual exploitation (number): Sexuelle Ausbeutung <br>(Anzahl)
+victims of human trafficking (per 100 000 inhabitants): Opfer von Menschenhandel (je 100 000 Einwohner)
+exploitation of labour (per 100 000 inhabitants): Ausbeutung der Arbeitskraft (je 100 000 Einwohner)
+sexual exploitation (per 100 000 inhabitants): Sexuelle Ausbeutung (je 100 000 Einwohner)
+victims of human trafficking (number): Opfer von Menschenhandel (Anzahl)
+exploitation of labour (number): Ausbeutung der Arbeitskraft (Anzahl)
+sexual exploitation (number): Sexuelle Ausbeutung (Anzahl)
 form of exploitation: Art der Ausbeutung
 sexual exploitation: Sexuelle Ausbeutung
 exploitation of labour: Ausbeutung der Arbeitskraft
@@ -609,7 +611,7 @@ hours worked by employees (mn h ): Geleistete Arbeitsstunden der Arbeitnehmer (M
 hours worked by persons employed (mn h ): Geleistete Arbeitsstunden der Erwerbstätigen (Mill. h)
 labour productivity per hour worked by employee (2010 = 100): Arbeitsproduktivität je geleisteter Arbeitnehmerstunde (2010 = 100)
 labour productivity per hour worked by persons employed (2010 = 100): Arbeitsproduktivität je geleisteter Erwerbstätigenstunde (2010 = 100)
-persons employed (1 000): Erwerbstätige <br>(1 000)
+persons employed (1 000): Erwerbstätige (1 000)
 real gdp per capita (2010 = 100): Reales BIP pro Kopf (2010 = 100)
 trade balance (bn eur): Außenbeitrag (Mrd. EUR)
 #17.14.1

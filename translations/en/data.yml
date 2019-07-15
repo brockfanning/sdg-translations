@@ -111,50 +111,50 @@ oda (gross disbursements) to the agriculture sector (mn usd, constant prices (20
 #2.b.2
 export refunds (eur): Export refunds (EUR)
 #3.1.1
-maternal mortality (per 100 000 live births): Maternal mortality <br>(per 100 000 live births)
+maternal mortality (per 100 000 live births): Maternal mortality (per 100 000 live births)
 #3.1.2
 live births in hospitals (%): Live births in hospitals (%)
 #3.2.1
-infant mortality rate (under 1 year) (per 1 000 live births): Infant mortality rate (under 1 year) <br>(per 1 000 live births)
-under-five mortality rate (per 1 000 live births): Under-five mortality rate <br>(per 1 000 live births)
+infant mortality rate (under 1 year) (per 1 000 live births): Infant mortality rate (under 1 year) (per 1 000 live births)
+under-five mortality rate (per 1 000 live births): Under-five mortality rate (per 1 000 live births)
 #3.2.2
-neonatal mortality rate (per 1 000 live births): Neonatal mortality rate <br>(per 1 000 live births)
+neonatal mortality rate (per 1 000 live births): Neonatal mortality rate (per 1 000 live births)
 #3.3.1
-hiv incidence (per 1 000 inhabitants): HIV incidence <br>(per 1 000 inhabitants)
+hiv incidence (per 1 000 inhabitants): HIV incidence (per 1 000 inhabitants)
 #3.3.2
-tuberculosis incidence (per 100 000 inhabitants): Tuberculosis incidence <br>(per 100 000 inhabitants)
+tuberculosis incidence (per 100 000 inhabitants): Tuberculosis incidence (per 100 000 inhabitants)
 #3.3.3
-malaria incidence (per 1 000 inhabitants): Malaria incidence <br>(per 1 000 inhabitants)
+malaria incidence (per 1 000 inhabitants): Malaria incidence (per 1 000 inhabitants)
 #3.3.4
-hepatitis b incidence  (per 100 000  inhabitants): Hepatitis B incidence <br>(per 100 000 inhabitants)
+hepatitis b incidence  (per 100 000  inhabitants): Hepatitis B incidence (per 100 000 inhabitants)
 #3.4.1
-mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Mortality rate of persons aged 30 to under 70 years attributed to <br>(1 000):"
+mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Mortality rate of persons aged 30 to under 70 years attributed to (1 000):"
 a) cardiovascular disease: a) cardiovascular disease
 b) cancer: b) cancer
 c) diabetes mellitus: c) diabetes mellitus
 d) chronic respiratory disease: d) chronic respiratory disease
 #3.4.2
-suicide mortality rate (per 100 000 inhabitants): Suicide mortality rate <br>(per 100 000 inhabitants)
+suicide mortality rate (per 100 000 inhabitants): Suicide mortality rate (per 100 000 inhabitants)
 #3.5.1
-inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Inpatient treatment of dependence syndrom due to psychoactive substance use <br>(1 000)
+inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Inpatient treatment of dependence syndrom due to psychoactive substance use (1 000)
 type of dependence: Type of dependence
 inpatient treatment of alcohol dependence: Inpatient treatment of alcohol dependence
 #3.5.2
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by UN factors) (Litres of pure alcohol per capita)
 alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by national factors) (Litres of pure alcohol per capita)
 #3.6.1
-fatalities due to road traffic accidents (per 100 000 inhabitants): Fatalities due to road traffic accidents <br>(per 100 000 inhabitants)
+fatalities due to road traffic accidents (per 100 000 inhabitants): Fatalities due to road traffic accidents (per 100 000 inhabitants)
 #3.7.2
-giving birth between 10 to under 15 years (per 1 000 women of same age): Giving birth between 10 to under 15 years <br>(per 1 000 women of same age)
-giving birth between 15 to under 20 years (per 1 000 women of same age): Giving birth between 15 to under 20 years <br>(per 1 000 women of same age)
+giving birth between 10 to under 15 years (per 1 000 women of same age): Giving birth between 10 to under 15 years (per 1 000 women of same age)
+giving birth between 15 to under 20 years (per 1 000 women of same age): Giving birth between 15 to under 20 years (per 1 000 women of same age)
 #3.9.2
 type of disease: Type of disease
-mortality rate attributed to  (per 100 000 inhabitants): Mortality rate attributed to <br>(per 100 000 inhabitants)
+mortality rate attributed to  (per 100 000 inhabitants): Mortality rate attributed to (per 100 000 inhabitants)
 diarrhoea: diarrhoea
 intestinal nematode infections: intestinal nematode infections
 protein-energy malnutrition: protein-energy malnutrition
 #3.9.3
-mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Mortality rate attributed to unintentional poisoning <br>(per 100 000 inhabitants)
+mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Mortality rate attributed to unintentional poisoning (per 100 000 inhabitants)
 #3.a.1
 current tobacco use among persons aged 15 years and older (%): Current tobacco use among persons aged 15 years and older (%)
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population) (%)
@@ -166,7 +166,7 @@ coverage of hpv containing vaccine of 15 years old girls (%): Coverage of HPV co
 #3.b.2
 oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016)): ODA (gross disbursements) to medical research and basic health sectors (Mn USD, constant prices (2016))
 #3.c.1
-health workers - practising concept (per 10 000 inhabitants): Health workers - Practising concept <br>(per 10 000 inhabitants)
+health workers - practising concept (per 10 000 inhabitants): Health workers - Practising concept (per 10 000 inhabitants)
 profession: Profession
 b) dentists: Dentists
 health workers: Health workers
@@ -304,7 +304,7 @@ standing water bodies: Standing water bodies
 b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): ODA (gross disbursements) for other related water and sanitation purposes (Mn USD, constant prices (2016))
 a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): ODA (gross disbursements) for water and sanitation (Mn USD, constant prices (2016))
 #7.1.1
-households and small-sized enterprises connected to the electricity network (1 000): Households and small-sized enterprises connected to the electricity network <br>(1 000)
+households and small-sized enterprises connected to the electricity network (1 000): Households and small-sized enterprises connected to the electricity network (1 000)
 population with access to electricity (%): Population with access to electricity (%)
 #7.2.1
 renewable energy share in gross final energy consumption (according to national definition) (%): Renewable energy share in gross final energy consumption (according to national definition) (%)
@@ -334,18 +334,18 @@ young people (15 to under 25 years) neither in employment nor in education and t
 #8.7.1
 young victims of trafficking in human beings with intent to exploit man power (number): Young victims of trafficking in human beings with intent to exploit man power (Number)
 #8.8.1
-fatal occupational accidents (per 100 000 employees): Fatal occupational accidents <br>(per 100 000 employees)
-non-fatal occupational accidents (per 100 000 employees): Non-fatal occupational accidents <br>(per 100 000 employees)
+fatal occupational accidents (per 100 000 employees): Fatal occupational accidents (per 100 000 employees)
+non-fatal occupational accidents (per 100 000 employees): Non-fatal occupational accidents (per 100 000 employees)
 #8.9.1
 share of tourism industries to total value added (%): Share of tourism industries to total value added (%)
 #8.9.2
-persons employed in accommodation (1 000): Persons employed in accommodation <br>(1 000)
-persons employed in tourism industries (1 000): Persons employed in tourism industries <br>(1 000)
+persons employed in accommodation (1 000): Persons employed in accommodation (1 000)
+persons employed in tourism industries (1 000): Persons employed in tourism industries (1 000)
 #8.10.1
-a) branches of payment service providers (per 100 000 adults): a) Branches of payment service providers <br>(per 100 000 adults)
-b) atms of national payment service providers (per 100 000 adults): b) ATMs of national payment service providers <br>(per 100 000 adults)
+a) branches of payment service providers (per 100 000 adults): a) Branches of payment service providers (per 100 000 adults)
+b) atms of national payment service providers (per 100 000 adults): b) ATMs of national payment service providers (per 100,000 adults)
 #8.10.2
-accounts at payment service providers (1 000): Accounts at payment service providers <br>(1 000)
+accounts at payment service providers (1 000): Accounts at payment service providers (1,000)
 type of account: Type of account
 online accounts: Online accounts
 current accounts: Current accounts
@@ -371,8 +371,10 @@ manufacturing persons employed (%): Manufacturing persons employed (%)
 #9.3.1
 gross value added of small-scale industries in manufacturing (%): Gross value added of small-scale industries in manufacturing (%)
 #9.4.1
-co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR (constant 2010))
-co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR (constant 2010))
+co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO2-emission (without land use, land-use change and forestry) per real GDP (g/EUR (constant 2010))
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO2-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR (constant 2010))
+#co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR (constant 2010))
+#co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR (constant 2010))
 #9.5.1
 proportion of r&d expenditures to gdp (%): Proportion of R&D expenditures to GDP (%)
 #9.5.1
@@ -434,7 +436,7 @@ cities with a legally required direct participation of civil society in urban pl
 goverment spending on environmental protection (cofog section 5) (bn eur): Goverment spending on environmental protection (COFOG section 5) (Bn EUR)
 goverment spending on recreation, culture and religion (cofog section 8) (bn eur): Goverment spending on recreation, culture and religion (COFOG section 8) (Bn EUR)
 #11.6.1
-total municipal solid waste generated (1 000 t): Total municipal solid waste generated <br>(1 000 t)
+total municipal solid waste generated (1 000 t): Total municipal solid waste generated (1 000 t)
 municipal solid waste regularly collected and treated (%): Municipal solid waste regularly collected and treated (%)
 #11.6.2
 population weighted annual mean levels of pm10 (ug/m3): Population weighted annual mean levels of PM10 (ug/m<sup>3</sup>)  # &micro; #
@@ -499,10 +501,10 @@ forest area under an independently verified forest management certification sche
 #15.4.2
 mountain green cover index (%): Mountain Green Cover Index (%)
 classification: Classification
-class 3 areas (elevation 2500-3500 meters): Class 3 areas <br>(Elevation 2 500 - 3 500 meters)
-class 4 areas (elevation 1500-2500 meters): Class 4 areas <br>(Elevation 1 500 - 2 500 meters)
-class 5 areas (elevation 1000-1500 meters): Class 5 areas <br>(Elevation 1 000 - 1 500 meters)
-class 6 areas (elevation  300 -1000 meters): Class 6 areas <br>(Elevation  300 - 1 000 meters)
+class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2 500 - 3 500 meters)
+class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1 500 - 2 500 meters)
+class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1 000 - 1 500 meters)
+class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation  300 - 1 000 meters)
 #15.5.1
 red list index (%): Red List Index (%)
 #15.7.1
@@ -517,7 +519,7 @@ a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (20
 documents issued for the import and export of protected species (number): Documents issued for the import and export of protected species (Number)
 seizures by authorities concerning the protection of species (number): Seizures by authorities concerning the protection of species (Number)
 #16.1.1
-victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide <br>(per 100 000 inhabitants)
+victims of intentional homicide (per 100 000 inhabitants): Victims of intentional homicide (per 100 000 inhabitants)
 victims of intentional homicide (number): Victims of intentional homicide (Number)
 #16.1.3
 population subjected to physical violence (%): Population subjected to physical violence (%)
@@ -530,9 +532,9 @@ children at acute risk of harm with signs of physical or psychological abuse (%)
 children at acute risk of harm with signs of physical abuse (%): Children at acute risk of harm with signs of physical abuse (%)
 children at acute risk of harm with signs of psychological abuse (%): Children at acute risk of harm with signs of psychological abuse (%)
 #16.2.2
-victims of human trafficking (per 100 000 inhabitants): Victims of human trafficking <br>(per 100 000 inhabitants)
-exploitation of labour (per 100 000 inhabitants): Exploitation of labour <br>(per 100 000 inhabitants)
-sexual exploitation (per 100 000 inhabitants): Sexual exploitation <br>(per 100 000 inhabitants)
+victims of human trafficking (per 100 000 inhabitants): Victims of human trafficking (per 100 000 inhabitants)
+exploitation of labour (per 100 000 inhabitants): Exploitation of labour (per 100 000 inhabitants)
+sexual exploitation (per 100 000 inhabitants): Sexual exploitation (per 100 000 inhabitants)
 victims of human trafficking (number): Victims of human trafficking (Number)
 exploitation of labour (number): Exploitation of labour (Number)
 sexual exploitation (number): Sexual exploitation (Number)

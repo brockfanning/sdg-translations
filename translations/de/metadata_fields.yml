@@ -39,8 +39,8 @@ source_next_release_3: Nächste Veröffentlichung am
 source_next_release_4: Nächste Veröffentlichung am
 source_next_release_5: Nächste Veröffentlichung am
 source_next_release_6: Nächste Veröffentlichung am
-source_organisation_1: Organisation
-source_organisation_2: Organisation
+source_organisation_1: Jahr #Organisation
+source_organisation_2: Jahr #Organisation
 source_organisation_3: Organisation
 source_organisation_4: Organisation
 source_organisation_5: Organisation
@@ -69,8 +69,8 @@ source_statistical_classification_3: Datentyp
 source_statistical_classification_4: Datentyp
 source_statistical_classification_5: Datentyp
 source_statistical_classification_6: Datentyp
-source_url_1: Link zur <br>Datenquelle
-source_url_2: Link zur <br>Datenquelle
+source_url_1: Ziel #Link zur <br>Datenquelle
+source_url_2: Ziel #Link zur <br>Datenquelle
 source_url_3: Link zur <br>Datenquelle
 source_url_4: Link zur <br>Datenquelle
 source_url_5: Link zur <br>Datenquelle

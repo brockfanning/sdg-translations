@@ -256,6 +256,25 @@ saxony: Saxony
 saxony-anhalt: Saxony-Anhalt
 schleswig-holstein: Schleswig-Holstein
 thuringia: Thuringia
+
+Saarland: Saarland
+Baden-Württemberg: Baden-Wuerttemberg
+Nordrhein-Westfalen: North Rhine-Westphalia
+Bremen: Bremen
+Hessen: Hesse
+Brandenburg: Brandenburg
+Niedersachsen: Lower Saxony
+Mecklenburg-Vorpommern: Mecklenburg Western Pomerania
+Rheinland-Pfalz: Rhineland Palatinate
+Berlin: Berlin
+Sachsen: Saxony
+Sachsen-Anhalt: Saxony-Anhalt
+Hamburg: Hamburg
+Schleswig-Holstein: Schleswig-Holstein
+Thüringen: Thuringia
+Bayern: Bavaria
+
+
 #5.5.2
 women in managerial positions (%): Women in managerial positions (%)
 #5.b.1
@@ -287,7 +306,7 @@ economic sector: Economic sector
 "services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G to T)"
 #6.4.2
 level of waterstress: Level of waterstress
-"Level of water stress (%):": "Level of water stress (%):"
+"level of water stress (%):": "Level of water stress (%):"
 share of withdrawal in renewable water resources: share of withdrawal in renewable water resources
 share of withdrawal in renewable water resources (excluding cooling water): share of withdrawal in renewable water resources (excluding cooling water)
 #6.5.1
@@ -295,9 +314,9 @@ degree of integrated water resources management implementation (%): Degree of in
 #6.5.2
 transboundary basin area with an operational arrangement for water cooperation (%): Transboundary basin area with an operational arrangement for water cooperation (%)
 #6.6.1
-"Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Sub-indicator 1: Spatial extent of water-related ecosystems (%)"
-"Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Sub-indicator 3:  Quantity discharge of water in rivers (%)"
-"Sub-indicator 4: Water bodies with good quality (%)": "Sub-indicator 4: Water bodies with good quality (%)"
+"sub-indicator 1: spatial extent of water-related ecosystems (%)": "Sub-indicator 1: Spatial extent of water-related ecosystems (%)"
+"sub-indicator 3:  quantity discharge of water in rivers (%)": "Sub-indicator 3:  Quantity discharge of water in rivers (%)"
+"sub-indicator 4: water bodies with good quality (%)": "Sub-indicator 4: Water bodies with good quality (%)"
 flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies
 #6.a.1
@@ -409,8 +428,8 @@ return on assets (%): Return on assets (%)
 #10.b.1
 total official and private flows (net disbursements) (mn usd, constant prices (2016)): Total Official and Private Flows (net disbursements) (Mn USD, constant prices (2016))
 type of flow: Type of flow
-ODA (net disbursements): ODA (net disbursements)
-OOF (net disbursements): OOF (net disbursements)
+oda (net disbursements): ODA (net disbursements)
+oof (net disbursements): OOF (net disbursements)
 officially supported export credits (net disbursements): Officially Supported Export Credits (net disbursements)
 private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
 private sector flows at market terms (net disbursements): Private Sector Flows at market terms (net disbursements)
@@ -441,7 +460,7 @@ municipal solid waste regularly collected and treated (%): Municipal solid waste
 #11.6.2
 population weighted annual mean levels of pm10 (ug/m3): Population weighted annual mean levels of PM10 (ug/m<sup>3</sup>)  # &micro; #
 population weighted annual mean levels of pm10 (&micro;g/m3): Population weighted annual mean levels of PM10 (&micro;g/m3)
-population weighted annual mean levels of PM10 (micrograms per cubic meter): Population weighted annual mean levels of PM10 (micrograms per cubic meter)
+population weighted annual mean levels of pm10 (micrograms per cubic meter): Population weighted annual mean levels of PM10 (micrograms per cubic meter)
 #11.7.1
 share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%)
 #12.2.1

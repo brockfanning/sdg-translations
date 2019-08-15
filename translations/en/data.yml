@@ -33,6 +33,7 @@ number: Number
 ratio: Ratio
 total: Total
 Year: Year
+timeseries: Time series
 
 #ages
 0 - unknown age: Unknown Age

@@ -33,6 +33,7 @@ number: Nummer
 ratio: Verhältnis
 total: Insgesamt
 Year: Jahr
+timeseries: Zeitreihe
 
 #ages
 0 - unknown age: Unbekanntes Alter
@@ -59,7 +60,8 @@ under 18 years: unter 18 Jahren
 60 years and over: 60 Jahre und mehr
 65 years and over: 65 Jahre und mehr
 
-timeseries: Zeitreihe
+#units
+per 100 000 adults: je 100 000 Erwachsene
 
 #units
 #1.2.1

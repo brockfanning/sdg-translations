@@ -63,6 +63,8 @@ under 18 years: under 18 years
 #units
 per 100 000 adults: Per 100 000 adults
 percentage (%): Percentage (%)
+per 1 mn inhabitants: per 1 Mn inhabitants
+eur/h: EUR/h
 
 #1.2.1
 at-risk-of-poverty rate (according to eurostat definition) (%): At-risk-of-poverty rate (according to Eurostat definition) (%)
@@ -349,6 +351,8 @@ dmc per real gdp (2010 = 100): DMC per real GDP (2010 = 100)
 #8.5.1
 average hourly earnings of employees (eur/h): Average hourly earnings of employees (EUR/h)
 gender pay gap (%): Gender Pay Gap (%)
+average hourly earnings of employees: Average hourly earnings of employees
+gender pay gap: Gender Pay Gap
 #8.5.2
 unemployment rate (15 to under 75 years) (%): Unemployment rate (15 to under 75 years) (%)
 #8.6.1
@@ -401,8 +405,10 @@ co2 emissions per gross value added (price adjusted) in manufacturing industries
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR (constant 2010))
 #9.5.1
 proportion of r&d expenditures to gdp (%): Proportion of R&D expenditures to GDP (%)
-#9.5.1
+proportion of r&d expenditures to gdp: Proportion of R&D expenditures to GDP
+#9.5.2
 researchers in full-time equivalents (per 1 mn inhabitants): Researchers in full-time equivalents (per 1 Mn inhabitants)
+researchers in full-time equivalents: Researchers in full-time equivalents
 #9.a.1
 oda (gross disbursements) to infrastructure (mn usd, constant prices (2016)): ODA (gross disbursements) to infrastructure (Mn USD, constant prices (2016))
 oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016)): ODA and OOF (gross disbursements) to infrastructure (Mn USD, constant prices (2016))
@@ -631,8 +637,8 @@ consumption by private households (bn eur): Consumption by private households (B
 debt level of the total public budget (bn eur): Debt level of the total public budget (Bn EUR)
 government fiscal balance (bn eur): Government fiscal balance (Bn EUR)
 goss fixed capital formation (bn eur): Gross fixed capital formation (Bn EUR)
-hours worked by employees (mn h ): Hours worked by employees (Mn h )
-hours worked by persons employed (mn h ): Hours worked by persons employed (Mn h )
+hours worked by employees (mn h ): Hours worked by employees (Mn h)
+hours worked by persons employed (mn h ): Hours worked by persons employed (Mn h)
 labour productivity per hour worked by employee (2010 = 100): Labour productivity per hour worked by employee (2010 = 100)
 labour productivity per hour worked by persons employed (2010 = 100): Labour productivity per hour worked by persons employed (2010 = 100)
 persons employed (1 000): Persons employed (1 000)

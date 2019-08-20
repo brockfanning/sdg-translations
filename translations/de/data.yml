@@ -64,6 +64,8 @@ under 18 years: unter 18 Jahren
 per 100 000 adults: Je 100 000 Erwachsene
 percentage (%): Prozent (%)
 
+eur/h: EUR/h
+
 #units
 #1.2.1
 at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote (nach Eurostat-Definition) (%)
@@ -331,6 +333,8 @@ dmc per real gdp (2010 = 100): Inländische Materialverwendung (DMC) zum realen 
 #8.5.1
 average hourly earnings of employees (eur/h): Durchschnittlicher Stundenlohn Beschäftigter (EUR/h)
 gender pay gap (%): Verdienstabstand (%)
+average hourly earnings of employees: Durchschnittlicher Stundenlohn Beschäftigter
+gender pay gap: Verdienstabstand
 #8.5.2
 unemployment rate (15 to under 75 years) (%): Arbeitslosenquote (15 bis unter 75 Jahre) (%)
 #8.6.1
@@ -383,6 +387,7 @@ co2 emissions per gross value added (price adjusted) in manufacturing industries
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
 #9.5.1
 proportion of r&d expenditures to gdp (%): Verhältnis der F&E-Ausgaben zum BIP (%)
+proportion of r&d expenditures to gdp: Verhältnis der F&E-Ausgaben zum BIP
 #9.5.2
 researchers in full-time equivalents (per 1 mn inhabitants): Wissenschaftler in Vollzeitäquivalenten (je 1 Mill. Einwohner)
 #9.a.1

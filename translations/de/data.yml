@@ -90,6 +90,7 @@ kg per capita: kg je Einwohner
 ph-value: pH-Wert
 mn h: Mill. h
 mn usd, constant prices (2016): Mill. USD, konstante Preise (2016)
+g/eur (constant 2010): g/EUR (konstant 2010)
 
 
 
@@ -408,8 +409,8 @@ manufacturing persons employed: Erwerbstätige im Verarbeitenden Gewerbe
 #9.3.1
 gross value added of small-scale industries in manufacturing: Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe
 #9.4.1
-co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
-co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
+co2 emission (without land use, land-use change and forestry) per real gdp: CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
+co2 emissions per gross value added (price adjusted) in manufacturing industries: CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1

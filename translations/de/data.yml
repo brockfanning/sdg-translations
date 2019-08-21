@@ -1,25 +1,25 @@
 sex: Geschlecht
-sex (all age groups): Geschlecht (alle Altersklassen)
-"sex (all age groups, with and without disabilities)": Geschlecht (alle Altersklassen; mit und ohne Behinderung)
-sex (15 to under 75 years): Geschlecht (15 bis unter 75 Jahre)
+sex (all age groups): Geschlecht
+"sex (all age groups, with and without disabilities)": Geschlecht
+sex: Geschlecht
 female: Weiblich
 male: Männlich
 other: Divers
 unknown: unbekannte
 age: Altersklasse
-age (male and female): Altersklasse (männlich und weiblich)
-"age (male and female, with and without disabilities)": Altersklasse (männlich und weiblich; mit und ohne Behinderung)
+age (male and female): Altersklasse
+"age (male and female, with and without disabilities)": Altersklasse
 urbanisation: Verstädterungsgrad
 rural: Ländlich
 urban: Städtisch
 income: Einkommen oder Vermögen Quantil
-quintile1: Quintil 1 (ärmste)
+quintile1: Quintil 1
 quintile2: Quintil 2
 quintile3: Quintil 3
 quintile4: Quintil 4
-quintile5: Quintil 5 (reichste)
+quintile5: Quintil 5
 disability: Behinderungsstatus
-"disability (all age groups, male and female)": Behinderungsstatus (alle Altersgruppen; männlich und weiblich)
+"disability (all age groups, male and female)": Behinderungsstatus
 disabled: Menschen mit Behinderung
 nondisabled: Personen ohne Behinderung
 education: Bildungsniveau
@@ -62,46 +62,46 @@ under 18 years: unter 18 Jahren
 
 #units
 per 100 000 adults: Je 100 000 Erwachsene
-percentage (%): Prozent (%)
+percentage: Prozent
 
 eur/h: EUR/h
 
-#units
+#time series
 #1.2.1
-at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote (nach Eurostat-Definition) (%)
-at-risk-of-poverty rate (according to eurostat definition): Armutsgefährdungsquote (nach Eurostat-Definition)
+at-risk-of-poverty rate (according to eurostat definition): Armutsgefährdungsquote
+at-risk-of-poverty rate (according to eurostat definition): Armutsgefährdungsquote
 #1.2.2
-at-risk-of-poverty or social exclusion (according to eurostat definition) (%): Armutsgefährdung oder soziale Ausgrenzung (nach Eurostat-Definition) (%)
-extensive material deprivation (%): Erhebliche materielle Deprivation (%)
+at-risk-of-poverty or social exclusion (according to eurostat definition): Armutsgefährdung oder soziale Ausgrenzung
+extensive material deprivation: Erhebliche materielle Deprivation
 #1.3.1
-b) population covered by health insurance (%): Bevölkerung mit Krankenversicherungsschutz (%)
-a) unemployed persons with unemployment benefits (%): Arbeitslose Leistungsbezieher (%)
+b) population covered by health insurance: Bevölkerung mit Krankenversicherungsschutz
+a) unemployed persons with unemployment benefits: Arbeitslose Leistungsbezieher
 #1.5.3
-strategy for adaptation to climate change (number): Anpassungsstrategie an den Klimawandel
+strategy for adaptation to climate change: Anpassungsstrategie an den Klimawandel
 #1.a.1
-government spending on foreign economic aid (cofog group 01-2) (%): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2) (%)
+government spending on foreign economic aid (cofog group 01-2): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
 #1.a.2
-government spending on education (cofog section 09) (%): Staatsausgaben für Bildung (COFOG Abteilung 09) (%)
-government spending on health (cofog section 07) (%): Staatsausgaben für Gesundheit (COFOG Abteilung 07) (%)
-government spending on social protection (cofog section 10) (%): Staatsausgaben für soziale Sicherung (COFOG Abteilung 10) (%)
+government spending on education (cofog section 09): Staatsausgaben für Bildung (COFOG Abteilung 09)
+government spending on health (cofog section 07): Staatsausgaben für Gesundheit (COFOG Abteilung 07)
+government spending on social protection (cofog section 10): Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
 #2.2.1
-stunting among children under the age of 5 years (%): Kleinwuchs bei Kindern unter 5 Jahren (%)
+stunting among children under the age of 5 years: Kleinwuchs bei Kindern unter 5 Jahren
 #2.2.2
-overweight among children under the age of 5 years (%): Übergewicht bei Kindern unter 5 Jahren (%)
-wasting among children under the age of 5 years (%): Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren (%)
+overweight among children under the age of 5 years: Übergewicht bei Kindern unter 5 Jahren
+wasting among children under the age of 5 years: Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren
 #2.3.1
-labour productivity in agriculture (2010 = 100): Arbeitsproduktivität in der Landwirtschaft (2010 = 100)
-labour productivity in forestry  (2010 = 100): Arbeitsproduktivität in der Forstwirtschaft (2010 = 100)
+labour productivity in agriculture: Arbeitsproduktivität in der Landwirtschaft
+labour productivity in forestry : Arbeitsproduktivität in der Forstwirtschaft
 #2.4.1
-agricultural area under productive and organic agriculture practices (%): Landwirtschaftliche Flächen unter ökologischer Bewirtschaftung (%)
-ecological farming area in total agricultural area (%): Ökoanbaufläche an der gesamten Agrarfläche (%)
+agricultural area under productive and organic agriculture practices: Landwirtschaftliche Flächen unter ökologischer Bewirtschaftung
+ecological farming area in total agricultural area: Ökoanbaufläche an der gesamten Agrarfläche
 #2.5.1
-animal genetic resources (number): Tiergenetische Ressourcen (Anzahl)
-plant genetic resources (number): Pflanzengenetische Ressourcen (Anzahl)
+animal genetic resources: Tiergenetische Ressourcen
+plant genetic resources: Pflanzengenetische Ressourcen
 #2.5.2
-local livestock breeds (horses, cows, pigs, sheep and goats) (number): Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen) (Anzahl)
-level of risk of extinction (according to fao classification) (%): Gefährdungskategorie (nach FAO-Klassifikation) (%)
-level of risk of extinction (according to national classification) (%): Gefährdungskategorie (nach nationaler Klassifikation) (%)
+local livestock breeds (horses, cows, pigs, sheep and goats): Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)
+level of risk of extinction (according to fao classification): Gefährdungskategorie (nach FAO-Klassifikation)
+level of risk of extinction (according to national classification): Gefährdungskategorie (nach nationaler Klassifikation)
 level of risk of extinction: Gefährdungskategorie
 a) at risk: Gefährdet
 b) not at risk: Nicht gefährdet
@@ -113,66 +113,66 @@ b) under observation: Beobachtungspopulationen
 #2.a.1
 agriculture orientation index for government expenditures: '"Agriculture Orientation Index" für Staatsausgaben'
 #2.a.2
-oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für die Landwirtschaft (Mill. USD, konstante Preise (2016))
+oda (gross disbursements) to the agriculture sector (mn usd, constant prices): Bruttoentwicklungsausgaben für die Landwirtschaft (Mill. USD, konstante Preise)
 #2.b.2
-export refunds (eur): Ausfuhrerstattungen (EUR)
+export refunds: Ausfuhrerstattungen
 #3.1.1
-maternal mortality (per 100 000 live births): Müttersterblichkeit (je 100 000 Lebendgeborenen)
+maternal mortality: Müttersterblichkeit
 #3.1.2
-live births in hospitals (%): Lebendgeborene in Krankenhäusern (%)
+live births in hospitals: Lebendgeborene in Krankenhäusern
 #3.2.1
-infant mortality rate (under 1 year) (per 1 000 live births): Säuglingssterblichkeit (unter 1 Jahr) (je 1 000 Lebendgeborenen)
-under-five mortality rate (per 1 000 live births): Kindersterblichkeit unter 5 Jahren (je 1 000 Lebendgeborenen)
+infant mortality rate (under 1 year): Säuglingssterblichkeit (unter 1 Jahr)
+under-five mortality rate: Kindersterblichkeit unter 5 Jahren
 #3.2.2
-neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen (je 1 000 Lebendgeborenen)
+neonatal mortality rate: Sterberate bei Neugeborenen
 #3.3.1
-hiv incidence (per 1 000 inhabitants): Auftreten von HIV (je 1 000 Einwohnern)
+hiv incidence: Auftreten von HIV
 #3.3.2
-tuberculosis incidence (per 100 000 inhabitants): Auftreten von Tuberkulose (je 100 000 Einwohner)
+tuberculosis incidence: Auftreten von Tuberkulose
 #3.3.3
-malaria incidence (per 1 000 inhabitants): Auftreten von Malaria (je 1 000 Einwohner)
+malaria incidence: Auftreten von Malaria
 #3.3.4
-hepatitis b incidence  (per 100 000  inhabitants): Auftreten von Hepatitis B (je 100 000 Einwohner)
+hepatitis b incidence : Auftreten von Hepatitis B
 #3.4.1
-mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von (1 000):"
+mortality rate of persons aged 30 to under 70 years attributed to: "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von:"
 a) cardiovascular disease: a) Herz-Kreislauferkrankungen
 b) cancer: b) bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
 d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
 #3.4.2
-suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit (je 100 000 Einwohner)
+suicide mortality rate: Selbstmordsterblichkeit
 #3.5.1
-inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen (1 000)
+inpatient treatment of dependence syndrom due to psychoactive substance use: Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
 type of dependence: Art der Abhängigkeit
 inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
 #3.5.2
-alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels UN-Faktoren) (Liter puren Alkohols pro Einwohner)
-alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels nationalen Faktoren) (Liter puren Alkohols pro Einwohner)
+alcohol consumption (conversion by un factors): Alkoholkonsum (Umrechnung mittels UN-Faktoren)
+alcohol consumption (conversion by national factors): Alkoholkonsum (Umrechnung mittels nationalen Faktoren)
 #3.6.1
-fatalities due to road traffic accidents (per 100 000 inhabitants): Todesfälle durch Straßenverkehrsunfälle (je 100 000 Einwohner)
+fatalities due to road traffic accidents: Todesfälle durch Straßenverkehrsunfälle
 #3.7.2
-giving birth between 10 to under 15 years (per 1 000 women of same age): Geburten im Alter von 10 bis unter 15 Jahren (je 1 000 Frauen gleichen Alters)
-giving birth between 15 to under 20 years (per 1 000 women of same age): Geburten im Alter von 15 bis unter 20 Jahren (je 1 000 Frauen gleichen Alters)
+giving birth between 10 to under 15 years: Geburten im Alter von 10 bis unter 15 Jahren
+giving birth between 15 to under 20 years: Geburten im Alter von 15 bis unter 20 Jahren
 #3.9.2
 type of disease: Art der Erkrankung
-mortality rate attributed to  (per 100 000 inhabitants): Sterblichkeit aufgrund von (je 100 000 Einwohner)
+mortality rate attributed to : Sterblichkeit aufgrund von
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
 protein-energy malnutrition: Energie- und Eiweißmangelernährung
 #3.9.3
-mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung (je 100 000 Einwohner)
+mortality rate attributed to unintentional poisoning: Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
 #3.a.1
-current tobacco use among persons aged 15 years and older (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (%)
-current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung) (%)
+current tobacco use among persons aged 15 years and older: Tabakgebrauch in der Bevölkerung ab 15 Jahren
+current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 #3.b.1
-coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%): DTP-Impfquote zum Schuleintritt (%)
-coverage of measles containing vaccine at school entrance (%): Masern-Impfquote zum Schuleintritt (%)
-coverage of pneumococcal conjugate vaccine at school entrance (%): Pneumokokken-Impfquote zum Schuleintritt (%)
-coverage of hpv containing vaccine of 15 years old girls (%): HPV-Impfquote bei 15-jährigen Mädchen (%)
+coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance: DTP-Impfquote zum Schuleintritt
+coverage of measles containing vaccine at school entrance: Masern-Impfquote zum Schuleintritt
+coverage of pneumococcal conjugate vaccine at school entrance: Pneumokokken-Impfquote zum Schuleintritt
+coverage of hpv containing vaccine of 15 years old girls: HPV-Impfquote bei 15-jährigen Mädchen
 #3.b.2
-oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise (2016))
+oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise)
 #3.c.1
-health workers - practising concept (per 10 000 inhabitants): Gesundheitspersonal (mit direktem Patientenkontakt) (je 10 000 Einwohner)
+health workers - practising concept: Gesundheitspersonal (mit direktem Patientenkontakt)
 profession: Beruf
 b) dentists: Zahnärzte
 health workers: Gesundheitspersonal
@@ -180,23 +180,23 @@ c) nursing and midwifery personnel: Medizinisches Pflegepersonal sowie Personal 
 d) pharmacists: Apotheker
 a) medical doctors: Ärzte
 #3.d.1
-average of 13 ihr core capacity scores (%): Durchschnitt der 13 IGV-Kapazitäten-Punktwerte (%)
+average of 13 ihr core capacity scores: Durchschnitt der 13 IGV-Kapazitäten-Punktwerte
 #4.1.1
 subject: Fach
-a) children and youths in grades 2/3 with a minimum proficiency level in (%): "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in (%):"
-c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in (%):"
+a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in:"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in:"
 mathematics: Mathematik
 reading: Lesen
 #4.2.2
-children in child day care at the age of 5 (%): Kinder in Kindertagesbetreuung im Alter von 5 Jahren (%)
+children in child day care at the age of 5: Kinder in Kindertagesbetreuung im Alter von 5 Jahren
 #4.3.1
-participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der 15 bis unter 25-Jährigen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten (%)
-participation rate of adults in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten (%)
+participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months: Teilnahmequote der 15 bis unter 25-Jährigen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
+participation rate of adults in formal and non-formal education and training in the previous 12 months: Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
 #4.4.1
-persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten (%)
+persons (10 years and older) with computer-related activities in the last 12 months: Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten
 activities: Aktivitäten
 copying or moving of files and folders: Kopieren oder Verschieben von Dateien und Ordnern
-installing software or apps: Installation von Software oder Anwendungen (Apps)
+installing software or apps: Installation von Software oder Anwendungen
 creating electronic presentations or documents with text, images, tables or charts: Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen
 transferring files between a computer or other devices: Übertragung von Dateien zwischen Computern oder anderen Geräten
 writing a computer program using a programming language: Schreiben eines Programms in einer Programmiersprache
@@ -204,47 +204,47 @@ writing a computer program using a programming language: Schreiben eines Program
 indicator: Indikator
 gender parity index of: Geschlechtsparitätsindex zum
 sdg indicator 4-2-2: SDG Indikator 4.2.2
-sdg indicator 4-3-1 (adults): SDG Indikator 4.3.1 (Erwachsene)
-sdg indicator 4-3-1 (youth): SDG Indikator 4.3.1 (Jugendliche)
+sdg indicator 4-3-1: SDG Indikator 4.3.1
+sdg indicator 4-3-1: SDG Indikator 4.3.1
 #4.6.1
 level of proficiency: Leistungsniveau
-"adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen (%)"
-"adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen (%)"
+"adult population achieving at least a fixed level of proficiency in functional a) literacy skills:": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen"
+"adult population achieving at least a fixed level of proficiency in functional b) numeracy skills:": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen"
 minimum requirement level i: Mindestniveau Stufe I
 minimum requirement level ii: Mindestniveau Stufe II
 #4.a.1
 facilities: Ausstattung
-"schools with access to (%):": "Schulen mit Zugang zu (%):"
+"schools with access to:": "Schulen mit Zugang zu:"
 a) electricity: a) Elektrizität
 b) the internet for pedagogical purposes: b) Internet für pädagogische Zwecke
 c) computers for pedagogical purposes: c) Computer für pädagogische Zwecke
 d) adapted infrastructure and materials for students with disabilities:  d) Infrastruktur und Materialien für Studierende mit Behinderung
 e) basic drinking water: e) Trinkwasser
 f) single-sex basic sanitation facilities: f) geschlechterspezifische, grundlegende sanitäre Anlagen
-g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen (gemäß der WASH Indikator-Definition)
+g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen
 #4.b.1
-oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Studienplatzkosten (Mill. USD, konstante Preise (2016))
-oda (gross disbursements) for scholarships (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Stipendien (Mill. USD, konstante Preise (2016))
+oda (gross disbursements) for imputed student costs (mn usd, constant prices): Bruttoentwicklungsausgaben für Studienplatzkosten (Mill. USD, konstante Preise)
+oda (gross disbursements) for scholarships (mn usd, constant prices): Bruttoentwicklungsausgaben für Stipendien (Mill. USD, konstante Preise)
 #5.1.1
 area of law: Rechtsgebiet
-"legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich (%):"
+"legal frameworks that promote, enforce and monitor gender equality regarding:": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich:"
 employment and economic benefits: Erwerbstätigkeit und wirtschaftlicher Nutzen
 marriage and family: Ehe und Familie
 overarching legal frameworks and public life: übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
 violence against women:  Gewalt gegen Frauen
 #5.2.1
-female victims of criminal offences having/ had a intimate relationship with the suspect (number): Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen (Anzahl)
+female victims of criminal offences having/ had a intimate relationship with the suspect: Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen
 #5.3.1
-married girls under 18 years (%): Verheiratete Mädchen unter 18 Jahren (%)
-married girls under 15 years (%): Verheiratete Mädchen unter 15 Jahren (%)
-married girls under 18 years (number): Verheiratete Mädchen unter 18 Jahren (Anzahl)
+married girls under 18 years: Verheiratete Mädchen unter 18 Jahren
+married girls under 15 years: Verheiratete Mädchen unter 15 Jahren
+married girls under 18 years: Verheiratete Mädchen unter 18 Jahren
 #5.3.1
-victims of female genital mutilation (number): Opfer von Verstümmelung weiblicher Genitalien (Anzahl)
+victims of female genital mutilation: Opfer von Verstümmelung weiblicher Genitalien
 #5.4.1
-time spent on unpaid domestic and care work (%): Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird (%)
+time spent on unpaid domestic and care work: Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird
 #5.5.1
-seats held by women in national parliament (%): Sitze im nationalen Parlament, die Frauen innehaben (%)
-"seats held by women in the parliament of (%):": "Sitze in den Landesparlamenten, die Frauen innehaben (%):"
+seats held by women in national parliament: Sitze im nationalen Parlament, die Frauen innehaben
+"seats held by women in the parliament of:": "Sitze in den Landesparlamenten, die Frauen innehaben:"
 region: Bundesland
 baden-wuerttemberg: Baden-Württemberg
 bavaria: Bayern
@@ -263,108 +263,108 @@ saxony-anhalt: Sachsen-Anhalt
 schleswig-holstein: Schleswig-Holstein
 thuringia: Thüringen
 #5.5.2
-women in managerial positions (%): Frauen in Führungspositionen (%)
+women in managerial positions: Frauen in Führungspositionen
 #5.b.1
-penetration rate mobile communication (related to the population) (%): Penetrationsrate Mobilfunk (bezogen auf die Bevölkerung) (%)
-private households with at least one mobile phone (%): Privathaushalte mit mindestens einem Mobiltelefon (%)
+penetration rate mobile communication (related to the population): Penetrationsrate Mobilfunk (bezogen auf die Bevölkerung)
+private households with at least one mobile phone: Privathaushalte mit mindestens einem Mobiltelefon
 #6.1.1
-population connected to the public water supply system (%): Bevölkerung mit Anschluss an die öffentliche Wasserversorgung (%)
-population using safely managed drinking water services (%): Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung (%)
+population connected to the public water supply system: Bevölkerung mit Anschluss an die öffentliche Wasserversorgung
+population using safely managed drinking water services: Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung
 #6.2.1
-a) population using safely managed sanitation services (%): a) Bevölkerung mit einer sicher verwalteten Abwasserversorgung (%)
-b) population with a bathtub or a shower (%): b) Bevölkerung mit einer Badewanne oder Dusche (%)
+a) population using safely managed sanitation services: a) Bevölkerung mit einer sicher verwalteten Abwasserversorgung
+b) population with a bathtub or a shower: b) Bevölkerung mit einer Badewanne oder Dusche
 #6.3.1
-wastewater safely treated (%): Sicher behandeltes Abwasser (%)
+wastewater safely treated: Sicher behandeltes Abwasser
 type of treatment: Art der Behandlung
 untreated wastewater that does not have to undergo treatment: Abwasser, das keiner Abwasserbehandlung bedarf
 cooling water: Kühlwasser
 other wastewater that does not have to undergo treatment: Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf
 #6.3.2
-water bodies with good quality (%): Gewässer mit guter Wasserqualität (%)
+water bodies with good quality: Gewässer mit guter Wasserqualität
 water bodies with good quality: Gewässer mit guter Wasserqualität
 type of water body: Art des Gewässers
 river water bodies: Fließgewässer
 open water bodies: Seen und Talsperren
 #6.4.1
-water use efficiency (2010 = 100): Wasserproduktivität (2010 = 100)
+water use efficiency: Wasserproduktivität
 economic sector: Wirtschaftszweig
-"agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
-"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
-"services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G bis T)"
+"agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei"
+"mimec (nace rev 2, sections b, c, d, f)": "MIMEC"
+"services (nace rev 2, sections e, g to t)": "Dienstleistungen"
 #6.4.2
 level of waterstress: Nutzung der Wasserressourcen
-"level of water stress (%):": "Nutzung der Wasserressourcen (%):"
+"level of water stress:": "Nutzung der Wasserressourcen:"
 share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
-share of withdrawal in renewable water resources (excluding cooling water): Anteil der Gewinnung (ohne Abwasser aus Kühlsystemen) an den erneuerbaren Wasserressourcen
+share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
 #6.5.1
-degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements (%)
+degree of integrated water resources management implementation: Grad der Implementierung eines integrierten Wasserressourcenmanagements
 #6.5.2
-transboundary basin area with an operational arrangement for water cooperation (%): Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation (%)
+transboundary basin area with an operational arrangement for water cooperation: Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation
 #6.6.1
-"Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Subindikator 1: Fläche der wasserbezogenen Ökosysteme (%)"
-"Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Subindikator 3: Wasserabfluss über Flüsse (%)"
-"Sub-indicator 4: Water bodies with good quality (%)": "Subindikator 4: Gewässer mit guter Wasserqualität (%)"
+"Sub-indicator 1: Spatial extent of water-related ecosystems": "Subindikator 1: Fläche der wasserbezogenen Ökosysteme"
+"Sub-indicator 3:  Quantity discharge of water in rivers": "Subindikator 3: Wasserabfluss über Flüsse"
+"Sub-indicator 4: Water bodies with good quality": "Subindikator 4: Gewässer mit guter Wasserqualität"
 flowing water bodies: Fließgewässer
 standing water bodies: Stehende Gewässer
 #6.a.1
-b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für verwandte Zwecke (Mill. USD, konstante Preise (2016))
-a) oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise (2016))
+b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices): Bruttoentwicklungsausgaben für verwandte Zwecke (Mill. USD, konstante Preise)
+a) oda (gross disbursements) for water and sanitation (mn usd, constant prices): Bruttoentwicklungsausgaben für Wasser und Sanitär (Mill. USD, konstante Preise)
 #7.1.1
-households and small-sized enterprises connected to the electricity network (1 000): Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind (1 000)
-population with access to electricity (%): Bevölkerung mit Zugang zu Elektrizität (%)
+households and small-sized enterprises connected to the electricity network: Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind
+population with access to electricity: Bevölkerung mit Zugang zu Elektrizität
 #7.2.1
-renewable energy share in gross final energy consumption (according to national definition) (%): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition) (%)
-renewable energy share in total final energy consumption (according to un definition) (%): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition) (%)
+renewable energy share in gross final energy consumption (according to national definition): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition)
+renewable energy share in total final energy consumption (according to un definition): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition)
 #7.3.1
-energy intensity measured in terms of primary energy and gdp (2010 = 100): Energieintensität gemessen in Bezug auf Primärenergie und BIP  (2010 = 100)
-energy intensity measured in terms of primary energy and gdp (mj/eur): Energieintensität gemessen in Bezug auf Primärenergie und BIP (MJ/EUR)
+energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP 
+energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP
 #8.1.1
-annual growth rate of real gdp per capita (%): Jährliche Wachstumsrate des realen BIP pro Kopf (%)
+annual growth rate of real gdp per capita: Jährliche Wachstumsrate des realen BIP pro Kopf
 #8.2.1
-annual growth rate of real gdp per employed person (%): Jährliche Wachstumsrate des realen BIP pro Beschäftigten (%)
+annual growth rate of real gdp per employed person: Jährliche Wachstumsrate des realen BIP pro Beschäftigten
 #8.4.1
-rmc (abiotic and biotic material) (mn t ): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe) (Mill. t)
-rmc per capita (t per capita): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner (t je Einwohner)
-rmc per real gdp (2010 = 100): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP  (2010 = 100)
+rmc (abiotic and biotic material): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe)
+rmc per capita: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner
+rmc per real gdp: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP 
 #8.4.2
-dmc (abiotic and biotic material) (mn t ): Inländische Materialverwendung (DMC; abiotische und biotische Rohstoffe) (Mill. t)
-dmc per capita (t per capita): Inländische Materialverwendung (DMC) je Einwohner (t je Einwohner)
-dmc per real gdp (2010 = 100): Inländische Materialverwendung (DMC) zum realen BIP (2010 = 100)
+dmc (abiotic and biotic material): Inländische Materialverwendung (DMC; abiotische und biotische Rohstoffe)
+dmc per capita: Inländische Materialverwendung (DMC) je Einwohner
+dmc per real gdp: Inländische Materialverwendung (DMC) zum realen BIP
 #8.5.1
-average hourly earnings of employees (eur/h): Durchschnittlicher Stundenlohn Beschäftigter (EUR/h)
-gender pay gap (%): Verdienstabstand (%)
+average hourly earnings of employees (eur/h): Durchschnittlicher Stundenlohn Beschäftigter
+gender pay gap: Verdienstabstand
 average hourly earnings of employees: Durchschnittlicher Stundenlohn Beschäftigter
 gender pay gap: Verdienstabstand
 #8.5.2
-unemployment rate (15 to under 75 years) (%): Arbeitslosenquote (15 bis unter 75 Jahre) (%)
+unemployment rate: Arbeitslosenquote
 #8.6.1
-young people (15 to under 25 years) neither in employment nor in education and training  (neet rates) (%): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten) (%)
+young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 #8.7.1
-young victims of trafficking in human beings with intent to exploit man power (number): Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft (Anzahl)
+young victims of trafficking in human beings with intent to exploit man power: Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
 #8.8.1
-fatal occupational accidents (per 100 000 employees): Tödliche Arbeitsunfälle (je 100 000 Beschäftigte)
-non-fatal occupational accidents (per 100 000 employees): Nicht-tödliche Arbeitsunfälle (je 100 000 Beschäftigte)
+fatal occupational accidents: Tödliche Arbeitsunfälle
+non-fatal occupational accidents: Nicht-tödliche Arbeitsunfälle
 #8.9.1
-share of tourism industries to total value added (%): Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung (%)
+share of tourism industries to total value added: Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung
 #8.9.2
-persons employed in accommodation (1 000): Tätige Personen im Gastgewerbe (1 000)
-persons employed in tourism industries (1 000): Erwerbstätige im Tourismus (1 000)
+persons employed in accommodation: Tätige Personen im Gastgewerbe
+persons employed in tourism industries: Erwerbstätige im Tourismus
 #8.10.1
-a) branches of payment service providers (per 100 000 adults): a) Zweigstellen von Zahlungsverkehrsdienstleistern (je 100 000 Erwachsenen)
-b) atms of national payment service providers (per 100 000 adults): b) Bankautomaten von inländischen Zahlungsdienstleistern (je 100 000 Erwachsenen)
+a) branches of payment service providers: a) Zweigstellen von Zahlungsverkehrsdienstleistern
+b) atms of national payment service providers: b) Bankautomaten von inländischen Zahlungsdienstleistern
 a) branches of payment service providers: a) Zweigstellen von Zahlungsverkehrsdienstleistern
 b) atms of national payment service providers: b) Bankautomaten von inländischen Zahlungsdienstleistern
 #8.10.2
-accounts at payment service providers (1 000): Konten bei Zahlungsverkehrsdienstleistern (1 000)
+accounts at payment service providers: Konten bei Zahlungsverkehrsdienstleistern
 type of account: Kontoart
 online accounts: Online-Konten
 current accounts: Girokonten
 #8.a.1
-aid for trade commitments (oda and oof) (mn usd, constant prices (2016)): Verpflichtungen zur Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise (2016))
-aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016)): Bruttoauszahlungen für Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise (2016))
+aid for trade commitments (oda and oof) (mn usd, constant prices): Verpflichtungen zur Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise)
+aid for trade gross disbursements (oda and oof) (mn usd, constant prices): Bruttoauszahlungen für Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise)
 #9.1.2
-a) passenger transport (mn pkm): a) Personenverkehr (Mill. Pkm)
-b) freight transport (mn tkm): b) Güterverkehr  (Mill. tkm)
+a) passenger transport: a) Personenverkehr
+b) freight transport: b) Güterverkehr 
 mode of transport: Verkehrsmittel
 road transport: Straßenverkehr
 rail transport: Eisenbahnverkehr
@@ -373,182 +373,182 @@ motorised private transport: Motorisierter Individualverkehr
 inland waterway transport: Binnenschifffahrt
 "transport via pipeline: crude oil": "Transport in Rohrleitungen: Rohöl"
 #9.2.1
-manufacturing gross value added as a proportion of gdp (%): Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP (%)
-manufacturing gross value added as a proportion of total gross value added (%): Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt (%)
-manufacturing gross value added per capita (eur): Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf (EUR)
+manufacturing gross value added as a proportion of gdp: Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP
+manufacturing gross value added as a proportion of total gross value added: Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt
+manufacturing gross value added per capita: Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf
 #9.2.2
-manufacturing persons employed (%): Erwerbstätige im Verarbeitenden Gewerbe (%)
+manufacturing persons employed: Erwerbstätige im Verarbeitenden Gewerbe
 #9.3.1
-gross value added of small-scale industries in manufacturing (%): Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe (%)
+gross value added of small-scale industries in manufacturing: Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe
 #9.4.1
-co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR (konstant 2010))
-co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
-#co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR (konstant 2010))
-#co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR (konstant 2010))
+co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
+#co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
+#co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1
-proportion of r&d expenditures to gdp (%): Verhältnis der F&E-Ausgaben zum BIP (%)
+proportion of r&d expenditures to gdp: Verhältnis der F&E-Ausgaben zum BIP
 proportion of r&d expenditures to gdp: Verhältnis der F&E-Ausgaben zum BIP
 #9.5.2
-researchers in full-time equivalents (per 1 mn inhabitants): Wissenschaftler in Vollzeitäquivalenten (je 1 Mill. Einwohner)
+researchers in full-time equivalents: Wissenschaftler in Vollzeitäquivalenten
 #9.a.1
-oda (gross disbursements) to infrastructure (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für Infrastruktur (Mill. USD, konstante Preise (2016))
-oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016)): Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur (Mill. USD, konstante Preise (2016))
+oda (gross disbursements) to infrastructure (mn usd, constant prices): Bruttoentwicklungsausgaben für Infrastruktur (Mill. USD, konstante Preise)
+oda and oof (gross disbursements) to infrastructure (mn usd, constant prices): Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur (Mill. USD, konstante Preise)
 #9.b.1
-gross value added of medium- and high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe (%)
-gross value added of high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe (%)
-gross value added of medium-high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe (%)
+gross value added of medium- and high-tech industries to total manufacturing value added: Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe
+gross value added of high-tech industries to total manufacturing value added: Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe
+gross value added of medium-high-tech industries to total manufacturing value added: Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe
 #9.c.1
 technology: Technologie
-"households covered by (%):": "Haushalte, die mit (%):"
+"households covered by:": "Haushalte, die mit:"
 3g: 3G abgedeckt sind
 lte: LTE abgedeckt sind
 #10.1.1
-growth rate of income of the bottom 40 per cent of the population (%): Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung (%)
-growth rate of income of the total population (%): Wachstumsrate des Einkommens der gesamten Bevölkerung (%)
+growth rate of income of the bottom 40 per cent of the population: Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung
+growth rate of income of the total population: Wachstumsrate des Einkommens der gesamten Bevölkerung
 #10.2.1
-population living below 50% of median income (%): Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt (%)
+population living below 50% of median income: Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt
 #10.4.1
-labour share of gdp (%): Anteil des Arbeitnehmerentgelts am BIP (%)
+labour share of gdp: Anteil des Arbeitnehmerentgelts am BIP
 #10.5.1
-capital to assets ratio (%): Eigenkapitalquote (%)
-liquid assets to short-term liabilities (%): Verbindlichkeiten (%)
-net open position in foreign exchange to capital (%): Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln (%)
-nonperforming loans net of provisions to capital (%): Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital (%)
-nonperforming loans net of provisions to gross loans (%): Anteil der notleidenden Kredite an den Bruttokrediten insgesamt (%)
-regulatory tier 1 capital to risk-weighted assets (%): Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen (%)
-return on assets (%): Gesamtkapitalrentabilität (%)
+capital to assets ratio: Eigenkapitalquote
+liquid assets to short-term liabilities: Verbindlichkeiten
+net open position in foreign exchange to capital: Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln
+nonperforming loans net of provisions to capital: Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital
+nonperforming loans net of provisions to gross loans: Anteil der notleidenden Kredite an den Bruttokrediten insgesamt
+regulatory tier 1 capital to risk-weighted assets: Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
+return on assets: Gesamtkapitalrentabilität
 #10.b.1
-total official and private flows (net disbursements) (mn usd, constant prices (2016)): Öffentliche und Private Nettoentwicklungsausgaben insgesamt (Mill. USD, konstante Preise (2016))
+total official and private flows (mn usd, constant prices): Öffentliche und Private Nettoentwicklungsausgaben insgesamt (Mill. USD, konstante Preise)
 type of flow: Art der Finanzströme
-oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
-oof (net disbursements): Andere öffentliche Nettoleistungen (OOF)
-officially supported export credits (net disbursements): Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
-private concessional flows (net disbursements): Private konzessionäre Leistungen (der Nichtregierungsorganisationen) (Nettoauszahlungen)
-private sector flows at market terms (net disbursements): Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
+oda: Öffentliche Nettoentwicklungsausgaben
+oof: Andere öffentliche Nettoleistungen
+officially supported export credits: Öffentlich unterstützte Exportkredite
+private concessional flows: Private konzessionäre Leistungen (der Nichtregierungsorganisationen)
+private sector flows at market terms: Private Leistungen zu marktüblichen Bedingungen
 #11.1.1
 items: Probleme
-material deprivation for the housing dimension (one to four items) (%): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme) (%)
-population considering their dwelling as too dark: Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet (%)
-population living in an area with crime, violence or vandalism: Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt (%)
-population living in an area with noise pollution: Bevölkerung mit Lärmbelästigung in deren Wohnumgebung (%)
-population living in households with moisture damages: Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt (%)
+material deprivation for the housing dimension (one to four items): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme)
+population considering their dwelling as too dark: Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet
+population living in an area with crime, violence or vandalism: Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt
+population living in an area with noise pollution: Bevölkerung mit Lärmbelästigung in deren Wohnumgebung
+population living in households with moisture damages: Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt
 #11.2.1
-population that has convenient access to public transport (within 500 meters) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern) (%)
-population that has convenient access to public transport (within 10 minutes walking distance) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen) (%)
+population that has convenient access to public transport (within 500 meters): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)
+population that has convenient access to public transport (within 10 minutes walking distance): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)
 mobility impaired people: Menschen mit Mobilitätseinschränkung
 #11.3.1
-land consumption rate  (%): Flächenverbrauchsrate (%)
-population growth rate (%): Bevölkerungsentwicklung (%)
-proportion of settlement and transport areas to population (2010 = 100): Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung (2010 = 100)
-ratio of land consumption rate to population growth rate (year-to-year): Verhältnis Flächenverbrauchsrate zur Bevölkerungsentwicklung
+land consumption rate : Flächenverbrauchsrate
+population growth rate: Bevölkerungsentwicklung
+proportion of settlement and transport areas to population: Verhältnis der Siedlungs- und Verkehrsfläche zur Bevölkerung
+ratio of land consumption rate to population growth rate: Verhältnis Flächenverbrauchsrate zur Bevölkerungsentwicklung
 #11.3.2
-cities with a legally required direct participation of civil society in urban planning and management (%): Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung (%)
+cities with a legally required direct participation of civil society in urban planning and management: Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung
 #11.4.1
-goverment spending on environmental protection (cofog section 5) (bn eur): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5) (Mrd. EUR)
-goverment spending on recreation, culture and religion (cofog section 8) (bn eur): Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8) (Mrd. EUR)
+goverment spending on environmental protection (cofog section 5): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5)
+goverment spending on recreation, culture and religion (cofog section 8): Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8)
 #11.6.1
-total municipal solid waste generated (1 000 t): Erzeugte Siedlungsabfälle (1 000 t)
-municipal solid waste regularly collected and treated (%): Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden (%)
+total municipal solid waste generated: Erzeugte Siedlungsabfälle
+municipal solid waste regularly collected and treated: Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden
 #11.6.2
-population weighted annual mean levels of pm10 (ug/m3): Bevölkerungsgewichtete Jahresmittelwerte von PM10 (ug/m<sup>3</sup>)
-population weighted annual mean levels of pm10 (&micro;g/m3): Bevölkerungsgewichtete Jahresmittelwerte von PM10 (&micro;g/m3)
-population weighted annual mean levels of pm10 (micrograms per cubic meter): Bevölkerungsgewichtete Jahresmittelwerte von PM10 (Mikrogramm pro Kubikmeter)
+population weighted annual mean levels of pm10 (ug/m3): Bevölkerungsgewichtete Jahresmittelwerte von PM10
+population weighted annual mean levels of pm10: Bevölkerungsgewichtete Jahresmittelwerte von PM10
+population weighted annual mean levels of pm10: Bevölkerungsgewichtete Jahresmittelwerte von PM10
 #11.7.1
-share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Anteil der Erholungsflächen an der Siedlungs- und Verkehrsfläche in Städten ab 100 000 Einwohner (%)
+share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants: Anteil der Erholungsflächen an der Siedlungs- und Verkehrsfläche in Städten ab 100 000 Einwohner
 #12.2.1
-rmc (abiotic and biotic material) (mn t): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe) (Mill. t)
-rmc per capita (t per capita): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner (t je Einwohner)
-rmc per real gdp (2010 = 100): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP (t pro realem BIP (2010 = 100))
+rmc (abiotic and biotic material): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe)
+rmc per capita: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner
+rmc per real gdp: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP (t pro realem BIP)
 #12.2.2
-dmc (abiotic and biotic material) (mn t ): Inländische Materialverwendung (DMC; abiotische und biotische Rohstoffe) (Mill. t)
-dmc per capita (t per capita): Inländische Materialverwendung (DMC) je Einwohner (t je Einwohner)
-dmc per real gdp (2010 = 100): Inländische Materialverwendung (DMC) zum realen BIP (t pro realem BIP (2010 = 100))
+dmc (abiotic and biotic material): Inländische Materialverwendung (DMC; abiotische und biotische Rohstoffe)
+dmc per capita: Inländische Materialverwendung (DMC) je Einwohner
+dmc per real gdp: Inländische Materialverwendung (DMC) zum realen BIP (t pro realem BIP)
 #12.4.1
-compliance with the basel convention (%): Übereinstimmung mit dem Basler Übereinkommen (%)
-compliance with the minamata convention (%): Übereinstimmung mit dem Minamata Übereinkommen (%)
-compliance with the montreal protocol (%): Übereinstimmung mit dem Montrealer Protokoll (%)
-compliance with the rotterdam convention (%): Übereinstimmung mit dem Rotterdamer Übereinkommen (%)
-compliance with the stockholm convention (%): Übereinstimmung mit dem Stockholmer Übereinkommen (%)
+compliance with the basel convention: Übereinstimmung mit dem Basler Übereinkommen
+compliance with the minamata convention: Übereinstimmung mit dem Minamata Übereinkommen
+compliance with the montreal protocol: Übereinstimmung mit dem Montrealer Protokoll
+compliance with the rotterdam convention: Übereinstimmung mit dem Rotterdamer Übereinkommen
+compliance with the stockholm convention: Übereinstimmung mit dem Stockholmer Übereinkommen
 #12.4.2
 type of waste treatment: Art der Abfallbehandlung
-a) hazardous waste generated per capita (kg per capita): a) Erzeugte gefährliche Abfälle (kg je Einwohner)
-b) hazardous waste treated (%): b) Behandelte gefährliche Abfälle (%)
+a) hazardous waste generated per capita: a) Erzeugte gefährliche Abfälle
+b) hazardous waste treated: b) Behandelte gefährliche Abfälle
 deposit onto or into land and land treatment and release into water bodies: Ablagerung auf oder im Boden und Bodenbehandlung und Freisetzung in Gewässern
 energy recovery: Energierückgewinnung
 incineration: Verbrennung
 recovery other than energy recovery: Verwertung anderer als die der Energierückgewinnung
 #12.5.1
-municipal waste recycled (t): Recycelte Siedlungsabfälle (t)
-national recycling rate of municipal waste (%): Nationale Recyclingquote von Siedlungsabfällen (%)
+municipal waste recycled: Recycelte Siedlungsabfälle
+national recycling rate of municipal waste: Nationale Recyclingquote von Siedlungsabfällen
 #12.6.1
-organisations with emas registration (number): Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS) (Anzahl)
+organisations with emas registration: Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)
 #12.7.1
 sustainability programme: Nachhaltigkeitsstrategie
 #14.3.1
-average ph-concentration in the german bight (ph-value): Durchschnittliche pH-Konzentration in der Deutschen Bucht (pH-Wert)
+average ph-concentration in the german bight: Durchschnittliche pH-Konzentration in der Deutschen Bucht
 #14.4.1
-fish stocks within biologically sustainable levels (%): Nachhaltig befischte Fischbestände (%)
-monitored fish stocks based on the msy approach that are professionally exploited (%): Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen (%)
+fish stocks within biologically sustainable levels: Nachhaltig befischte Fischbestände
+monitored fish stocks based on the msy approach that are professionally exploited: Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen
 sea: Meer
 greater north sea: Nordsee
 baltic sea: Ostsee
 #14.5.1
-protected marine area  (%): Meeresschutzgebiete (%)
-marine key biodiversity areas (kbas) covered by protected areas (%): Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen (%)
+protected marine area : Meeresschutzgebiete
+marine key biodiversity areas (kbas) covered by protected areas: Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
 #14.6.1
 degree of combat illegal, unreported and unregulated fishing: Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei
 #14.a.1
-federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur): Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft (Mill. EUR)
+federal budget on research and development in the field of coastal, ocean and polar science, geoscience: Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft
 #15.1.1
-forest area (%): Waldfläche (%)
+forest area: Waldfläche
 #15.1.2
-protected terrestrial areas (%): Schutzgebiete an Land (%)
-key biodiversity areas (kbas) covered by protected areas (%): Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen (%)
+protected terrestrial areas: Schutzgebiete an Land
+key biodiversity areas (kbas) covered by protected areas: Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
 #15.2.1
-above-ground biomass stock in forest (mn t): Gesamtbestand der obererdigen Biomasse in Wäldern (Mill. t)
-forest area located within protected areas (%): Waldfläche in Schutzgebieten (%)
-forest area net change rate (%): Jährliche Veränderung der Waldfläche (%)
-forest area under an independently verified forest management certification scheme (%): Waldflächen mit einem unabhängig geprüften Wald-Management-System (%)
+above-ground biomass stock in forest: Gesamtbestand der obererdigen Biomasse in Wäldern
+forest area located within protected areas: Waldfläche in Schutzgebieten
+forest area net change rate: Jährliche Veränderung der Waldfläche
+forest area under an independently verified forest management certification scheme: Waldflächen mit einem unabhängig geprüften Wald-Management-System
 #15.4.2
-mountain green cover index (%): "'Mountain Green Cover' Index"
+mountain green cover index: "'Mountain Green Cover' Index"
 classification: Klassifikation
-class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2 500 - 3 500 Meter)
-class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1 500 - 2 500 Meter)
-class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1 000 - 1 500 Meter)
-class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe  300 - 1 000 Meter)
+class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3
+class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4
+class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5
+class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6
 #15.5.1
-red list index (%): Rote Liste Index (%)
+red list index: Rote Liste Index
 #15.7.1
-documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten (Anzahl)
-seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes (Anzahl)
+documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
+seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
 #15.a.1
-a) oda (commitments) for biodiversity (mn usd, constant prices (2016)): Verpflichtungen (ODA) für Biodiversität (Mill. USD, konstante Preise (2016))
-b) environmental protection expenditure (mn eur): Umweltschutzausgaben (Mill. EUR)
+a) oda (commitments) for biodiversity (mn usd, constant prices): Verpflichtungen für Biodiversität (Mill. USD, konstante Preise)
+b) environmental protection expenditure: Umweltschutzausgaben
 #15.b.1
-a) oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für den Forstsektor (Mill. USD, konstante Preise (2016))
+a) oda (gross disbursements) to the forestry sector (mn usd, constant prices): Bruttoentwicklungsausgaben für den Forstsektor (Mill. USD, konstante Preise)
 #15.c.1
-documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten (Anzahl)
-seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes (Anzahl)
+documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
+seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
 #16.1.1
-victims of intentional homicide (per 100 000 inhabitants): Opfer vorsätzlicher Tötung  (je 100 000 Einwohner)
-victims of intentional homicide (number): Opfer vorsätzlicher Tötung (Anzahl)
+victims of intentional homicide: Opfer vorsätzlicher Tötung 
+victims of intentional homicide: Opfer vorsätzlicher Tötung
 #16.1.3
-population subjected to physical violence (%): Bevölkerung, die körperlicher Gewalt ausgesetzt war (%)
-population who were victims of criminal offences (%): Bevölkerung, die Opfer einer Straftat war (%)
-victims of criminal offences (number): Opfer von Straftaten (Anzahl)
+population subjected to physical violence: Bevölkerung, die körperlicher Gewalt ausgesetzt war
+population who were victims of criminal offences: Bevölkerung, die Opfer einer Straftat war
+victims of criminal offences: Opfer von Straftaten
 #16.1.4
-population not living in an area with crime, violence or vandalism (%): Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt (%)
+population not living in an area with crime, violence or vandalism: Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt
 #16.2.1
-children at acute risk of harm with signs of physical or psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung (%)
-children at acute risk of harm with signs of physical abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung (%)
-children at acute risk of harm with signs of psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung (%)
+children at acute risk of harm with signs of physical or psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung
+children at acute risk of harm with signs of physical abuse: Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung
+children at acute risk of harm with signs of psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
 #16.2.2
-victims of human trafficking (per 100 000 inhabitants): Opfer von Menschenhandel (je 100 000 Einwohner)
-exploitation of labour (per 100 000 inhabitants): Ausbeutung der Arbeitskraft (je 100 000 Einwohner)
-sexual exploitation (per 100 000 inhabitants): Sexuelle Ausbeutung (je 100 000 Einwohner)
-victims of human trafficking (number): Opfer von Menschenhandel (Anzahl)
-exploitation of labour (number): Ausbeutung der Arbeitskraft (Anzahl)
-sexual exploitation (number): Sexuelle Ausbeutung (Anzahl)
+victims of human trafficking: Opfer von Menschenhandel
+exploitation of labour: Ausbeutung der Arbeitskraft
+sexual exploitation: Sexuelle Ausbeutung
+victims of human trafficking: Opfer von Menschenhandel
+exploitation of labour: Ausbeutung der Arbeitskraft
+sexual exploitation: Sexuelle Ausbeutung
 form of exploitation: Art der Ausbeutung
 sexual exploitation: Sexuelle Ausbeutung
 exploitation of labour: Ausbeutung der Arbeitskraft
@@ -566,40 +566,40 @@ exploitation of labour, 21 to under 60 years: Ausbeutung der Arbeitskraft, 21 bi
 exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
 exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
 #16.3.1
-a) police reporting rate for physical assault (%): Anzeigequote bei Körperverletzung (%)
-c) police reporting rate for robbery (%): Anzeigequote bei Raub (%)
+a) police reporting rate for physical assault: Anzeigequote bei Körperverletzung
+c) police reporting rate for robbery: Anzeigequote bei Raub
 #16.3.2
-unsentenced detainees (%): Nicht-verurteilte Gefangene (%)
+unsentenced detainees: Nicht-verurteilte Gefangene
 #16.4.2
-seized arms and parts (number): Sichergestellte Waffen und Waffenteile (Anzahl)
+seized arms and parts: Sichergestellte Waffen und Waffenteile
 #16.5.1
-population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years) (%): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren) (%)
-private persons (donors) suspected in the context of corruption offences (number): Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten (%)
+population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
+private persons (donors) suspected in the context of corruption offences: Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten
 #16.5.2
-businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren) (%)
+businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 #16.6.2
-population satisfied with their experience of government services during the previous two years (%): Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war (%)
+population satisfied with their experience of government services during the previous two years: Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war
 #16.7.1
-total female persons in employment (%): Weibliche Erwerbstätige insgesamt (%)
-female employees in public sector (%): Weibliche Beschäftigte des öffentlichen Dienstes (%)
+total female persons in employment: Weibliche Erwerbstätige insgesamt
+female employees in public sector: Weibliche Beschäftigte des öffentlichen Dienstes
 #16.7.2
-population who considers their experiences with public agencies free of discrimination during the previous two years (%): Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet (%)
+population who considers their experiences with public agencies free of discrimination during the previous two years: Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet
 #16.9.1
-children under 5 years of age whose births have been registered with a civil authority (%): Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist (%)
+children under 5 years of age whose births have been registered with a civil authority: Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist
 #16.10.2
-public access to information (number): Öffentlicher Zugang zu Informationen (Anzahl)
+public access to information: Öffentlicher Zugang zu Informationen
 #16.a.1
-membership ganhri (category a) (number): Mitgliedschaft GANHRI (Kategorie A) (Anzahl)
+membership ganhri (category a): Mitgliedschaft GANHRI (Kategorie A)
 #17.1.1
-proportion of total government revenue to gdp (%): Verhältnis der Gesamteinnahmen des Staates zum BIP (%)
+proportion of total government revenue to gdp: Verhältnis der Gesamteinnahmen des Staates zum BIP
 #17.1.2
-proportion of domestic expenditures funded by national taxes (%): Anteil der Staatsausgaben, die durch Steuern finanziert werden (%)
-proportion of domestic expenditures funded by national taxes and insurance contributions (%): Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden (%)
+proportion of domestic expenditures funded by national taxes: Anteil der Staatsausgaben, die durch Steuern finanziert werden
+proportion of domestic expenditures funded by national taxes and insurance contributions: Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden
 #17.2.1
-proportion of net oda to gni (%): Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE (%)
-proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%): Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE (%)
+proportion of net oda to gni: Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE
+proportion of bilateral and imputed multilateral net oda for ldcs to the gni: Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE
 #17.6.2
-fixed internet broadband access lines (per 100 inhabitants): Internet-Breitband-Zugänge (je 100 Einwohner)
+fixed internet broadband access lines: Internet-Breitband-Zugänge
 speed: Geschwindigkeit
 a) over 144 kbps to under 2 mbps: Über 144 kbit/s bis unter 2 Mbit/s
 b) 2 mbps to under 10 mbps: 2 Mbit/s bis unter 10 Mbit/s
@@ -607,36 +607,36 @@ c) 10 mbps to under 30 mbps: 10 Mbit/s bis unter 30 Mbit/s
 d) 30 mbps to under 100 mbps: 30 Mbit/s bis unter 100 Mbit/s
 e) 100 mbps and over: 100 Mbit/s und mehr
 #17.8.1
-population using the internet in the last three months (%): Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat (%)
+population using the internet in the last three months: Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat
 #17.9.1
-oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016)): Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise (2016))
-oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016)): Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise (2016))
+oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices): Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise)
+oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices): Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise)
 #17.13.1
-annual growth rate of real gdp (%): Jährliche Wachstumsrate des realen BIP (%)
-available income of private households (bn eur):  Verfügbares Einkommen privater Haushalte (Mrd. EUR)
-consumption by private households (bn eur): Konsum privater Haushalte (Mrd. EUR)
-debt level of the total public budget (bn eur): Schuldenstand des öffentlichen Gesamthaushaltes (Mrd. EUR)
-government fiscal balance (bn eur): Finanzierungssaldo des Staates (Mrd. EUR)
-gross fixed capital formation (bn eur): Bruttoanlageinvestitionen (Mrd. EUR)
-hours worked by employees (mn h ): Geleistete Arbeitsstunden der Arbeitnehmer (Mill. h)
-hours worked by persons employed (mn h ): Geleistete Arbeitsstunden der Erwerbstätigen (Mill. h)
-labour productivity per hour worked by employee (2010 = 100): Arbeitsproduktivität je geleisteter Arbeitnehmerstunde (2010 = 100)
-labour productivity per hour worked by persons employed (2010 = 100): Arbeitsproduktivität je geleisteter Erwerbstätigenstunde (2010 = 100)
-persons employed (1 000): Erwerbstätige (1 000)
-real gdp per capita (2010 = 100): Reales BIP pro Kopf (2010 = 100)
-trade balance (bn eur): Außenbeitrag (Mrd. EUR)
+annual growth rate of real gdp: Jährliche Wachstumsrate des realen BIP
+available income of private households:  Verfügbares Einkommen privater Haushalte
+consumption by private households: Konsum privater Haushalte
+debt level of the total public budget: Schuldenstand des öffentlichen Gesamthaushaltes
+government fiscal balance: Finanzierungssaldo des Staates
+gross fixed capital formation: Bruttoanlageinvestitionen
+hours worked by employees: Geleistete Arbeitsstunden der Arbeitnehmer
+hours worked by persons employed: Geleistete Arbeitsstunden der Erwerbstätigen
+labour productivity per hour worked by employee: Arbeitsproduktivität je geleisteter Arbeitnehmerstunde
+labour productivity per hour worked by persons employed: Arbeitsproduktivität je geleisteter Erwerbstätigenstunde
+persons employed: Erwerbstätige
+real gdp per capita: Reales BIP pro Kopf
+trade balance: Außenbeitrag
 #17.14.1
-national sustainable development strategie (number): Nationale nachhaltige Entwicklungsstrategie
+national sustainable development strategie: Nationale nachhaltige Entwicklungsstrategie
 #17.15.1
-proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%): Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit (%)
-proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%): Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit (%)
-proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden (%)
+proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation: Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit
+proportion of results indicators drawn from country-led results frameworks by providers of development cooperation: Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit
+proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation: Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden
 #17.18.2
-countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics (number): Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik (Anzahl)
+countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics: Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik
 #17.19.1
-oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016)): Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
-oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016)): Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise (2016))
+oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices): Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise)
+oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices): Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise)
 #17.19.2
-a) at least one population and housing census in the last 10 years conducted (number): a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren (Anzahl)
-b) birth registration (%): b) Registrierung der Geburten (%)
-c) death registration (%): c) Registrierung der Sterbefälle (%)
+a) at least one population and housing census in the last 10 years conducted: a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren
+b) birth registration: b) Registrierung der Geburten
+c) death registration: c) Registrierung der Sterbefälle

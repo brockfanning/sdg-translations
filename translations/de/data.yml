@@ -89,7 +89,7 @@ micrograms per cubic meter: Mikrogramm pro Kubikmeter
 kg per capita: kg je Einwohner
 ph-value: pH-Wert
 mn h: Mill. h
-mn usd, constant prices (2016): Mill. USD, konstante Preise (2016)
+"mn usd, constant prices (2016)": Mill. USD, konstante Preise (2016)
 g/eur (constant 2010): g/EUR (konstant 2010)
 
 
@@ -127,7 +127,7 @@ ecological farming area in total agricultural area: Ökoanbaufläche an der gesa
 animal genetic resources: Tiergenetische Ressourcen
 plant genetic resources: Pflanzengenetische Ressourcen
 #2.5.2
-local livestock breeds (horses, cows, pigs, sheep and goats): Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)
+"local livestock breeds (horses, cows, pigs, sheep and goats)": Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)
 level of risk of extinction (according to fao classification): Gefährdungskategorie (nach FAO-Klassifikation)
 level of risk of extinction (according to national classification): Gefährdungskategorie (nach nationaler Klassifikation)
 level of risk of extinction: Gefährdungskategorie
@@ -193,12 +193,12 @@ mortality rate attributed to unintentional poisoning: Sterblichkeit aufgrund von
 current tobacco use among persons aged 15 years and older: Tabakgebrauch in der Bevölkerung ab 15 Jahren
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 #3.b.1
-coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance: DTP-Impfquote zum Schuleintritt
+"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": DTP-Impfquote zum Schuleintritt
 coverage of measles containing vaccine at school entrance: Masern-Impfquote zum Schuleintritt
 coverage of pneumococcal conjugate vaccine at school entrance: Pneumokokken-Impfquote zum Schuleintritt
 coverage of hpv containing vaccine of 15 years old girls: HPV-Impfquote bei 15-jährigen Mädchen
 #3.b.2
-oda (gross disbursements) to medical research and basic health sectors: Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise)
+oda (gross disbursements) to medical research and basic health sectors: Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
 #3.c.1
 health workers - practising concept: Gesundheitspersonal (mit direktem Patientenkontakt)
 profession: Beruf
@@ -225,7 +225,7 @@ persons (10 years and older) with computer-related activities in the last 12 mon
 activities: Aktivitäten
 copying or moving of files and folders: Kopieren oder Verschieben von Dateien und Ordnern
 installing software or apps: Installation von Software oder Anwendungen
-creating electronic presentations or documents with text, images, tables or charts: Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen
+"creating electronic presentations or documents with text, images, tables or charts": Erstellung von Präsentationen oder Dokumenten mit Text, Bildern, Tabellen oder Diagrammen
 transferring files between a computer or other devices: Übertragung von Dateien zwischen Computern oder anderen Geräten
 writing a computer program using a programming language: Schreiben eines Programms in einer Programmiersprache
 #4.5.1
@@ -317,8 +317,8 @@ open water bodies: Seen und Talsperren
 water use efficiency: Wasserproduktivität
 economic sector: Wirtschaftszweig
 "agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei"
-"mimec (nace rev 2, sections b, c, d, f)": "MIMEC"
-"services (nace rev 2, sections e, g to t)": "Dienstleistungen"
+"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (nace rev 2, sections b, c, d, f)"
+"services (nace rev 2, sections e, g to t)": "Dienstleistungen (nace rev 2, sections e, g to t)"
 #6.4.2
 level of waterstress: Nutzung der Wasserressourcen
 "level of water stress:": "Nutzung der Wasserressourcen"
@@ -409,18 +409,17 @@ manufacturing persons employed: Erwerbstätige im Verarbeitenden Gewerbe
 #9.3.1
 gross value added of small-scale industries in manufacturing: Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe
 #9.4.1
-co2 emission (without land use, land-use change and forestry) per real gdp: CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
+"co2 emission (without land use, land-use change and forestry) per real gdp": CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1
 proportion of r&d expenditures to gdp: Verhältnis der F&E-Ausgaben zum BIP
-proportion of r&d expenditures to gdp: Verhältnis der F&E-Ausgaben zum BIP
 #9.5.2
 researchers in full-time equivalents: Wissenschaftler in Vollzeitäquivalenten
 #9.a.1
-oda (gross disbursements) to infrastructure (mn usd, constant prices): Bruttoentwicklungsausgaben für Infrastruktur (Mill. USD, konstante Preise)
-oda and oof (gross disbursements) to infrastructure (mn usd, constant prices): Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur (Mill. USD, konstante Preise)
+oda (gross disbursements) to infrastructure: Bruttoentwicklungsausgaben für Infrastruktur
+oda and oof (gross disbursements) to infrastructure: Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur
 #9.b.1
 gross value added of medium- and high-tech industries to total manufacturing value added: Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe
 gross value added of high-tech industries to total manufacturing value added: Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe
@@ -446,7 +445,7 @@ nonperforming loans net of provisions to gross loans: Anteil der notleidenden Kr
 regulatory tier 1 capital to risk-weighted assets: Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
 return on assets: Gesamtkapitalrentabilität
 #10.b.1
-total official and private flows (mn usd, constant prices): Öffentliche und Private Nettoentwicklungsausgaben insgesamt (Mill. USD, konstante Preise)
+total official and private flows: Öffentliche und Private Nettoentwicklungsausgaben insgesamt
 type of flow: Art der Finanzströme
 oda: Öffentliche Nettoentwicklungsausgaben
 oof: Andere öffentliche Nettoleistungen
@@ -457,7 +456,7 @@ private sector flows at market terms: Private Leistungen zu marktüblichen Bedin
 items: Probleme
 material deprivation for the housing dimension (one to four items): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme)
 population considering their dwelling as too dark: Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet
-population living in an area with crime, violence or vandalism: Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt
+"population living in an area with crime, violence or vandalism": Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt
 population living in an area with noise pollution: Bevölkerung mit Lärmbelästigung in deren Wohnumgebung
 population living in households with moisture damages: Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt
 #11.2.1
@@ -473,7 +472,7 @@ ratio of land consumption rate to population growth rate: Verhältnis Flächenve
 cities with a legally required direct participation of civil society in urban planning and management: Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung
 #11.4.1
 goverment spending on environmental protection (cofog section 5): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5)
-goverment spending on recreation, culture and religion (cofog section 8): Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8)
+"goverment spending on recreation, culture and religion (cofog section 8)": Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8)
 #11.6.1
 total municipal solid waste generated: Erzeugte Siedlungsabfälle
 municipal solid waste regularly collected and treated: Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden
@@ -524,9 +523,9 @@ baltic sea: Ostsee
 protected marine area : Meeresschutzgebiete
 marine key biodiversity areas (kbas) covered by protected areas: Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
 #14.6.1
-degree of combat illegal, unreported and unregulated fishing: Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei
+"degree of combat illegal, unreported and unregulated fishing": Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei
 #14.a.1
-federal budget on research and development in the field of coastal, ocean and polar science, geoscience: Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft
+"federal budget on research and development in the field of coastal, ocean and polar science, geoscience": Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft
 #15.1.1
 forest area: Waldfläche
 #15.1.2
@@ -550,10 +549,10 @@ red list index: Rote Liste Index
 documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
 seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
 #15.a.1
-a) oda (commitments) for biodiversity (mn usd, constant prices): Verpflichtungen für Biodiversität (Mill. USD, konstante Preise)
+a) oda (commitments) for biodiversity: Verpflichtungen für Biodiversität
 b) environmental protection expenditure: Umweltschutzausgaben
 #15.b.1
-a) oda (gross disbursements) to the forestry sector (mn usd, constant prices): Bruttoentwicklungsausgaben für den Forstsektor (Mill. USD, konstante Preise)
+a) oda (gross disbursements) to the forestry sector: Bruttoentwicklungsausgaben für den Forstsektor
 #15.c.1
 documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
 seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
@@ -565,7 +564,7 @@ population subjected to physical violence: Bevölkerung, die körperlicher Gewal
 population who were victims of criminal offences: Bevölkerung, die Opfer einer Straftat war
 victims of criminal offences: Opfer von Straftaten
 #16.1.4
-population not living in an area with crime, violence or vandalism: Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt
+"population not living in an area with crime, violence or vandalism": Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt
 #16.2.1
 children at acute risk of harm with signs of physical or psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung
 children at acute risk of harm with signs of physical abuse: Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung
@@ -580,19 +579,19 @@ sexual exploitation: Sexuelle Ausbeutung
 form of exploitation: Art der Ausbeutung
 sexual exploitation: Sexuelle Ausbeutung
 exploitation of labour: Ausbeutung der Arbeitskraft
-sexual exploitation, under 14 years: Sexuelle Ausbeutung, unter 14 Jahren
-sexual exploitation, 14 to under 18 years: Sexuelle Ausbeutung, 14 bis unter 18 Jahre
-sexual exploitation, 18 to under 21 years: Sexuelle Ausbeutung, 18 bis unter 21 Jahre
-sexual exploitation, 21 to under 25 years: Sexuelle Ausbeutung, 21 bis unter 25 Jahre
-sexual exploitation, 25 years and over: Sexuelle Ausbeutung, 25 Jahre und mehr
-sexual exploitation, male: Sexuelle Ausbeutung, Männlich
-sexual exploitation, female:  Sexuelle Ausbeutung, Weiblich
-exploitation of labour, under 14 years: Ausbeutung der Arbeitskraft, unter 14 Jahren
-exploitation of labour, 14 to under 18 years: Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre
-exploitation of labour, 18 to under 21 years: Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre
-exploitation of labour, 21 to under 60 years: Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
-exploitation of labour, male: Ausbeutung der Arbeitskraft, Männlich
-exploitation of labour, female:  Ausbeutung der Arbeitskraft, Weiblich
+"sexual exploitation, under 14 years": Sexuelle Ausbeutung, unter 14 Jahren
+"sexual exploitation, 14 to under 18 years": Sexuelle Ausbeutung, 14 bis unter 18 Jahre
+"sexual exploitation, 18 to under 21 years": Sexuelle Ausbeutung, 18 bis unter 21 Jahre
+"sexual exploitation, 21 to under 25 years": Sexuelle Ausbeutung, 21 bis unter 25 Jahre
+"sexual exploitation, 25 years and over": Sexuelle Ausbeutung, 25 Jahre und mehr
+"sexual exploitation, male": Sexuelle Ausbeutung, Männlich
+"sexual exploitation, female":  Sexuelle Ausbeutung, Weiblich
+"exploitation of labour, under 14 years": Ausbeutung der Arbeitskraft, unter 14 Jahren
+"exploitation of labour, 14 to under 18 years": Ausbeutung der Arbeitskraft, 14 bis unter 18 Jahre
+"exploitation of labour, 18 to under 21 years": Ausbeutung der Arbeitskraft, 18 bis unter 21 Jahre
+"exploitation of labour, 21 to under 60 years": Ausbeutung der Arbeitskraft, 21 bis unter 60 Jahre
+"exploitation of labour, male": Ausbeutung der Arbeitskraft, Männlich
+"exploitation of labour, female":  Ausbeutung der Arbeitskraft, Weiblich
 #16.3.1
 a) police reporting rate for physical assault: Anzeigequote bei Körperverletzung
 c) police reporting rate for robbery: Anzeigequote bei Raub
@@ -637,8 +636,8 @@ e) 100 mbps and over: 100 Mbit/s und mehr
 #17.8.1
 population using the internet in the last three months: Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat
 #17.9.1
-oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices): Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise)
-oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices): Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen) (Mill. USD, konstante Preise)
+oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation): Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
+oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation): Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
 #17.13.1
 annual growth rate of real gdp: Jährliche Wachstumsrate des realen BIP
 available income of private households:  Verfügbares Einkommen privater Haushalte
@@ -662,8 +661,8 @@ proportion of results indicators which will be monitored using government source
 #17.18.2
 countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics: Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik
 #17.19.1
-oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices): Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise)
-oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices): Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern (Mill. USD, konstante Preise)
+oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries: Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
+oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries: Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
 #17.19.2
 a) at least one population and housing census in the last 10 years conducted: a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren
 b) birth registration: b) Registrierung der Geburten

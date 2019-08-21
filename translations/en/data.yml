@@ -89,7 +89,7 @@ micrograms per cubic meter: Micrograms per cubic meter
 kg per capita: kg per capita
 ph-value: ph-value
 mn h: Mn h
-mn usd, constant prices (2016): Mn USD, constant prices (2016)
+"mn usd, constant prices (2016)": Mn USD, constant prices (2016)
 g/eur (constant 2010): g/EUR (constant 2010)
 
 
@@ -126,7 +126,7 @@ ecological farming area in total agricultural area: Ecological farming area in t
 animal genetic resources: Animal genetic resources
 plant genetic resources: Plant genetic resources
 #2.5.2
-local livestock breeds (horses, cows, pigs, sheep and goats): Local livestock breeds (horses, cows, pigs, sheep and goats)
+"local livestock breeds (horses, cows, pigs, sheep and goats)": Local livestock breeds (horses, cows, pigs, sheep and goats)
 level of risk of extinction (according to fao classification): Level of risk of extinction (according to FAO classification)
 level of risk of extinction (according to national classification): Level of risk of extinction (according to national classification)
 level of risk of extinction: Level of risk of extinction
@@ -192,7 +192,7 @@ mortality rate attributed to unintentional poisoning: Mortality rate attributed 
 current tobacco use among persons aged 15 years and older: Current tobacco use among persons aged 15 years and older
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
 #3.b.1
-coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance: Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
+"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
 coverage of measles containing vaccine at school entrance: Coverage of measles containing vaccine at school entrance
 coverage of pneumococcal conjugate vaccine at school entrance: Coverage of pneumococcal conjugate vaccine at school entrance
 coverage of hpv containing vaccine of 15 years old girls: Coverage of HPV containing vaccine of 15 years old girls
@@ -224,7 +224,7 @@ persons (10 years and older) with computer-related activities in the last 12 mon
 activities: Activities
 copying or moving of files and folders: Copying or moving of files and folders
 installing software or apps: Installing software or apps
-creating electronic presentations or documents with text, images, tables or charts: Creating electronic presentations or documents with text, images, tables or charts
+"creating electronic presentations or documents with text, images, tables or charts": Creating electronic presentations or documents with text, images, tables or charts
 transferring files between a computer or other devices: Transferring files between a computer or other devices
 writing a computer program using a programming language: Writing a computer program using a programming language
 #4.5.1
@@ -427,7 +427,7 @@ manufacturing persons employed: Manufacturing persons employed
 #9.3.1
 gross value added of small-scale industries in manufacturing: Gross value added of small-scale industries in manufacturing
 #9.4.1
-co2 emission (without land use, land-use change and forestry) per real gdp: CO2-emission (without land use, land-use change and forestry) per real GDP
+"co2 emission (without land use, land-use change and forestry) per real gdp": CO2-emission (without land use, land-use change and forestry) per real GDP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO2-emissions per gross value added (price adjusted) in manufacturing industries
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR)
@@ -463,7 +463,7 @@ nonperforming loans net of provisions to gross loans: Nonperforming loans net of
 regulatory tier 1 capital to risk-weighted assets: Regulatory Tier 1 capital to risk-weighted assets
 return on assets: Return on assets
 #10.b.1
-total official and private flows (mn usd, constant prices): Total Official and Private Flows (Mn USD, constant prices)
+total official and private flows: Total Official and Private Flows
 type of flow: Type of flow
 oda: ODA
 oof: OOF
@@ -474,7 +474,7 @@ private sector flows at market terms: Private Sector Flows at market terms
 items: Items
 material deprivation for the housing dimension (one to four items): Material deprivation for the housing dimension (one to four items)
 population considering their dwelling as too dark: Population considering their dwelling as too dark
-population living in an area with crime, violence or vandalism: Population living in an area with crime, violence or vandalism
+"population living in an area with crime, violence or vandalism": Population living in an area with crime, violence or vandalism
 population living in an area with noise pollution: Population living in an area with noise pollution
 population living in households with moisture damages: Population living in households with moisture damages
 #11.2.1
@@ -490,7 +490,7 @@ ratio of land consumption rate to population growth rate: Ratio of land consumpt
 cities with a legally required direct participation of civil society in urban planning and management: Cities with a legally required direct participation of civil society in urban planning and management
 #11.4.1
 goverment spending on environmental protection (cofog section 5): Goverment spending on environmental protection (COFOG section 5)
-goverment spending on recreation, culture and religion (cofog section 8): Goverment spending on recreation, culture and religion (COFOG section 8)
+"goverment spending on recreation, culture and religion (cofog section 8)": Goverment spending on recreation, culture and religion (COFOG section 8)
 #11.6.1
 total municipal solid waste generated: Total municipal solid waste generated
 municipal solid waste regularly collected and treated: Municipal solid waste regularly collected and treated
@@ -541,9 +541,9 @@ baltic sea: Baltic Sea
 protected marine area : Protected marine area
 marine key biodiversity areas (kbas) covered by protected areas: Marine Key Biodiversity Areas (KBAs) covered by protected areas
 #14.6.1
-degree of combat illegal, unreported and unregulated fishing: Degree of combat illegal, unreported and unregulated fishing
+"degree of combat illegal, unreported and unregulated fishing": Degree of combat illegal, unreported and unregulated fishing
 #14.a.1
-federal budget on research and development in the field of coastal, ocean and polar science, geoscience: Federal budget on research and development in the field of coastal, ocean and polar science, geoscience
+"federal budget on research and development in the field of coastal, ocean and polar science, geoscience": Federal budget on research and development in the field of coastal, ocean and polar science, geoscience
 #15.1.1
 forest area: Forest area
 #15.1.2
@@ -567,10 +567,10 @@ red list index: Red List Index
 documents issued for the import and export of protected species: Documents issued for the import and export of protected species
 seizures by authorities concerning the protection of species: Seizures by authorities concerning the protection of species
 #15.a.1
-a) oda (commitments) for biodiversity (mn usd, constant prices): ODA (commitments) for biodiversity (Mn USD, constant prices)
+a) oda (commitments) for biodiversity: ODA (commitments) for biodiversity
 b) environmental protection expenditure: Environmental protection expenditure
 #15.b.1
-a) oda (gross disbursements) to the forestry sector (mn usd, constant prices): ODA (gross disbursements) to the forestry sector (Mn USD, constant prices)
+a) oda (gross disbursements) to the forestry sector: ODA (gross disbursements) to the forestry sector
 #15.c.1
 documents issued for the import and export of protected species: Documents issued for the import and export of protected species
 seizures by authorities concerning the protection of species: Seizures by authorities concerning the protection of species
@@ -582,7 +582,7 @@ population subjected to physical violence: Population subjected to physical viol
 population who were victims of criminal offences: Population who were victims of criminal offences
 victims of criminal offences: Victims of criminal offences
 #16.1.4
-population not living in an area with crime, violence or vandalism: Population not living in an area with crime, violence or vandalism
+"population not living in an area with crime, violence or vandalism": Population not living in an area with crime, violence or vandalism
 #16.2.1
 children at acute risk of harm with signs of physical or psychological abuse: Children at acute risk of harm with signs of physical or psychological abuse
 children at acute risk of harm with signs of physical abuse: Children at acute risk of harm with signs of physical abuse
@@ -597,19 +597,19 @@ sexual exploitation: Sexual exploitation
 form of exploitation: Form of exploitation
 sexual exploitation: Sexual exploitation
 exploitation of labour: Exploitation of labour
-sexual exploitation, under 14 years: Sexual exploitation, under 14 years
-sexual exploitation, 14 to under 18 years: Sexual exploitation, 14 to under 18 years
-sexual exploitation, 18 to under 21 years: Sexual exploitation, 18 to under 21 years
-sexual exploitation, 21 to under 25 years: Sexual exploitation, 21 to under 25 years
-sexual exploitation, 25 years and over: Sexual exploitation, 25 years and over
-sexual exploitation, male: Sexual exploitation, male
-sexual exploitation, female: Sexual exploitation, female
-exploitation of labour, under 14 years: Exploitation of labour, under 14 years
-exploitation of labour, 14 to under 18 years: Exploitation of labour, 14 to under 18 years
-exploitation of labour, 18 to under 21 years: Exploitation of labour, 18 to under 21 years
-exploitation of labour, 21 to under 60 years: Exploitation of labour, 21 to under 60 years
-exploitation of labour, male: Exploitation of labour, male
-exploitation of labour, female: Exploitation of labour, female
+"sexual exploitation, under 14 years": Sexual exploitation, under 14 years
+"sexual exploitation, 14 to under 18 years": Sexual exploitation, 14 to under 18 years
+"sexual exploitation, 18 to under 21 years": Sexual exploitation, 18 to under 21 years
+"sexual exploitation, 21 to under 25 years": Sexual exploitation, 21 to under 25 years
+"sexual exploitation, 25 years and over": Sexual exploitation, 25 years and over
+"sexual exploitation, male": Sexual exploitation, male
+"sexual exploitation, female": Sexual exploitation, female
+"exploitation of labour, under 14 years": Exploitation of labour, under 14 years
+"exploitation of labour, 14 to under 18 years": Exploitation of labour, 14 to under 18 years
+"exploitation of labour, 18 to under 21 years": Exploitation of labour, 18 to under 21 years
+"exploitation of labour, 21 to under 60 years": Exploitation of labour, 21 to under 60 years
+"exploitation of labour, male": Exploitation of labour, male
+"exploitation of labour, female": Exploitation of labour, female
 #16.3.1
 a) police reporting rate for physical assault: Police reporting rate for physical assault
 c) police reporting rate for robbery: Police reporting rate for robbery
@@ -654,8 +654,8 @@ e) 100 mbps and over: 100 Mbps and over
 #17.8.1
 population using the internet in the last three months: Population using the internet in the last three months
 #17.9.1
-oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices): ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation) (Mn USD, constant prices)
-oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices): ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation) (Mn USD, constant prices)
+oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation): ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation)
+oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation): ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation)
 #17.13.1
 annual growth rate of real gdp: Annual growth rate of real GDP
 available income of private households: Available income of private households
@@ -679,8 +679,8 @@ proportion of results indicators which will be monitored using government source
 #17.18.2
 countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics: Countries with nationale statistical legislation exists that complies with the Fundamental Principles of Offical Statistics
 #19.19.1
-oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn uad, constant prices): ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries (Mn USD, constant prices)
-oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices): ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (Mn USD, constant prices)
+oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries: ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries
+oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries: ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries
 #17.19.2
 a) at least one population and housing census in the last 10 years conducted: a) At least one population and housing census in the last 10 years conducted
 b) birth registration: b) Birth registration

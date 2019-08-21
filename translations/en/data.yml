@@ -1,14 +1,16 @@
 sex: Sex
 sex (all age groups): Sex (all age groups)
-"sex (all age groups, with and without disabilities)": Sex
+"sex (all age groups, with and without disabilities)": Sex (all age groups, with and without disabilities)
 sex: Sex
 female: Female
 male: Male
+male and female: male and female
 other: Other
 unknown: Unknown
 age: Age group
 age (male and female): Age group (male and female)
 "age (male and female, with and without disabilities)": Age (male and female, with and without disabilities)
+all age groups: all age groups
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban
@@ -19,7 +21,7 @@ quintile3: Quintile 3
 quintile4: Quintile 4
 quintile5: Quintile 5
 disability: Disability status
-"disability (all age groups, male and female)": "Disability"
+"disability (all age groups, male and female)": "Disability (all age groups, male and female)"
 disabled: Persons with disability
 nondisabled: Persons without disability
 education: Education level
@@ -382,7 +384,7 @@ gender pay gap: Gender Pay Gap
 average hourly earnings of employees: Average hourly earnings of employees
 gender pay gap: Gender Pay Gap
 #8.5.2
-unemployment rate (15 to under 75 years): Unemployment rate (15 to under 75 years)
+unemployment rate: Unemployment rate
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 #8.7.1
@@ -427,8 +429,8 @@ manufacturing persons employed: Manufacturing persons employed
 #9.3.1
 gross value added of small-scale industries in manufacturing: Gross value added of small-scale industries in manufacturing
 #9.4.1
-"co2 emission (without land use, land-use change and forestry) per real gdp": CO2-emission (without land use, land-use change and forestry) per real GDP
-co2 emissions per gross value added (price adjusted) in manufacturing industries: CO2-emissions per gross value added (price adjusted) in manufacturing industries
+"co2 emission (without land use, land-use change and forestry) per real gdp": CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP
+co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR)
 #9.5.1

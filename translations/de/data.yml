@@ -1,14 +1,16 @@
 sex: Geschlecht
-sex (all age groups): Geschlecht
-"sex (all age groups, with and without disabilities)": Geschlecht
+sex (all age groups): Geschlecht (alle Altersklassen)
+"sex (all age groups, with and without disabilities)": Geschlecht (alle Altersklassen, mit und ohne Behinderung)
 sex: Geschlecht
 female: Weiblich
 male: Männlich
+male and female: männlich und weiblich
 other: Divers
 unknown: unbekannte
 age: Altersklasse
 age (male and female): Altersklasse (männlich und weiblich)
-"age (male and female, with and without disabilities)": Altersklasse (männlich und weiblich, mit und ohne Behinderungsstatus)
+"age (male and female, with and without disabilities)": Altersklasse (männlich und weiblich, mit und ohne Behinderungs)
+all age groups: alle Altersklassen
 urbanisation: Verstädterungsgrad
 rural: Ländlich
 urban: Städtisch
@@ -19,7 +21,7 @@ quintile3: Quintil 3
 quintile4: Quintil 4
 quintile5: Quintil 5
 disability: Behinderungsstatus
-"disability (all age groups, male and female)": Behinderungsstatus
+"disability (all age groups, male and female)": Behinderungsstatus (alle Altersklassen, männlich und weiblich)
 disabled: Menschen mit Behinderung
 nondisabled: Personen ohne Behinderung
 education: Bildungsniveau
@@ -211,8 +213,8 @@ a) medical doctors: Ärzte
 average of 13 ihr core capacity scores: Durchschnitt der 13 IGV-Kapazitäten-Punktwerte
 #4.1.1
 subject: Fach
-a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in:"
-c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in:"
+a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in"
 mathematics: Mathematik
 reading: Lesen
 #4.2.2
@@ -364,7 +366,7 @@ gender pay gap: Verdienstabstand
 average hourly earnings of employees: Durchschnittlicher Stundenlohn Beschäftigter
 gender pay gap: Verdienstabstand
 #8.5.2
-unemployment rate (15 to under 75 years): Arbeitslosenquote (15 bis unter 75 Jahre)
+unemployment rate: Arbeitslosenquote
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 #8.7.1
@@ -409,8 +411,8 @@ manufacturing persons employed: Erwerbstätige im Verarbeitenden Gewerbe
 #9.3.1
 gross value added of small-scale industries in manufacturing: Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe
 #9.4.1
-"co2 emission (without land use, land-use change and forestry) per real gdp": CO2-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
-co2 emissions per gross value added (price adjusted) in manufacturing industries: CO2-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
+"co2 emission (without land use, land-use change and forestry) per real gdp": CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
+co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1

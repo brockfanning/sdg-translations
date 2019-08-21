@@ -7,8 +7,8 @@ male: Männlich
 other: Divers
 unknown: unbekannte
 age: Altersklasse
-age (male and female): Altersklasse
-"age (male and female, with and without disabilities)": Altersklasse
+age (male and female): Altersklasse (männlich und weiblich)
+"age (male and female, with and without disabilities)": Altersklasse (männlich und weiblich, mit und ohne Behinderungsstatus)
 urbanisation: Verstädterungsgrad
 rural: Ländlich
 urban: Städtisch
@@ -363,7 +363,7 @@ gender pay gap: Verdienstabstand
 average hourly earnings of employees: Durchschnittlicher Stundenlohn Beschäftigter
 gender pay gap: Verdienstabstand
 #8.5.2
-unemployment rate: Arbeitslosenquote
+unemployment rate (15 to under 75 years): Arbeitslosenquote (15 bis unter 75 Jahre)
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 #8.7.1
@@ -387,8 +387,8 @@ type of account: Kontoart
 online accounts: Online-Konten
 current accounts: Girokonten
 #8.a.1
-aid for trade commitments (oda and oof) (mn usd, constant prices): Verpflichtungen zur Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise)
-aid for trade gross disbursements (oda and oof) (mn usd, constant prices): Bruttoauszahlungen für Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise)
+aid for trade commitments (oda and oof): Verpflichtungen zur Handelshilfe (ODA und OOF)
+aid for trade gross disbursements (oda and oof): Bruttoauszahlungen für Handelshilfe (ODA und OOF)
 #9.1.2
 a) passenger transport: a) Personenverkehr
 b) freight transport: b) Güterverkehr

@@ -8,7 +8,7 @@ other: Other
 unknown: Unknown
 age: Age group
 age (male and female): Age group (male and female)
-"age (male and female, with and without disabilities)": Age
+"age (male and female, with and without disabilities)": Age (male and female, with and without disabilities)
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban
@@ -381,7 +381,7 @@ gender pay gap: Gender Pay Gap
 average hourly earnings of employees: Average hourly earnings of employees
 gender pay gap: Gender Pay Gap
 #8.5.2
-unemployment rate: Unemployment rate
+unemployment rate (15 to under 75 years): Unemployment rate (15 to under 75 years)
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 #8.7.1
@@ -405,8 +405,8 @@ type of account: Type of account
 online accounts: Online accounts
 current accounts: Current accounts
 #8.a.1
-aid for trade commitments (oda and oof) (mn usd, constant prices): Aid for trade commitments (ODA and OOF) (Mn USD, constant prices)
-aid for trade gross disbursements (oda and oof) (mn usd, constant prices): Aid for trade gross disbursements (ODA and OOF) (Mn USD, constant prices)
+aid for trade commitments (oda and oof): Aid for trade commitments (ODA and OOF)
+aid for trade gross disbursements (oda and oof): Aid for trade gross disbursements (ODA and OOF)
 #9.1.2
 a) passenger transport: a) Passenger transport
 b) freight transport: b) Freight transport

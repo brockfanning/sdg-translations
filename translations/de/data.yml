@@ -89,6 +89,7 @@ micrograms per cubic meter: Mikrogramm pro Kubikmeter
 kg per capita: kg je Einwohner
 ph-value: pH-Wert
 mn h: Mill. h
+mn usd, constant prices (2016): Mill. USD, konstante Preise (2016)
 
 
 
@@ -139,7 +140,7 @@ b) under observation: Beobachtungspopulationen
 #2.a.1
 '"agriculture orientation index" for government expenditures': '"Agriculture Orientation Index" für Staatsausgaben'
 #2.a.2
-oda (gross disbursements) to the agriculture sector (mn usd, constant prices): Bruttoentwicklungsausgaben für die Landwirtschaft (Mill. USD, konstante Preise)
+oda (gross disbursements) to the agriculture sector: Bruttoentwicklungsausgaben für die Landwirtschaft
 #2.b.2
 export refunds: Ausfuhrerstattungen
 #3.1.1
@@ -196,7 +197,7 @@ coverage of measles containing vaccine at school entrance: Masern-Impfquote zum 
 coverage of pneumococcal conjugate vaccine at school entrance: Pneumokokken-Impfquote zum Schuleintritt
 coverage of hpv containing vaccine of 15 years old girls: HPV-Impfquote bei 15-jährigen Mädchen
 #3.b.2
-oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise)
+oda (gross disbursements) to medical research and basic health sectors: Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor (Mill. USD, konstante Preise)
 #3.c.1
 health workers - practising concept: Gesundheitspersonal (mit direktem Patientenkontakt)
 profession: Beruf
@@ -230,8 +231,8 @@ writing a computer program using a programming language: Schreiben eines Program
 indicator: Indikator
 gender parity index of: Geschlechtsparitätsindex zum
 sdg indicator 4-2-2: SDG Indikator 4.2.2
-sdg indicator 4-3-1: SDG Indikator 4.3.1
-sdg indicator 4-3-1: SDG Indikator 4.3.1
+sdg indicator 4-3-1 (adults): SDG Indikator 4.3.1 (Erwachsene)
+sdg indicator 4-3-1 (youth): SDG Indikator 4.3.1 (Jugendliche)
 #4.6.1
 level of proficiency: Leistungsniveau
 "adult population achieving at least a fixed level of proficiency in functional a) literacy skills:": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen"
@@ -240,7 +241,7 @@ minimum requirement level i: Mindestniveau Stufe I
 minimum requirement level ii: Mindestniveau Stufe II
 #4.a.1
 facilities: Ausstattung
-"schools with access to:": "Schulen mit Zugang zu:"
+"schools with access to:": "Schulen mit Zugang zu"
 a) electricity: a) Elektrizität
 b) the internet for pedagogical purposes: b) Internet für pädagogische Zwecke
 c) computers for pedagogical purposes: c) Computer für pädagogische Zwecke
@@ -249,11 +250,11 @@ e) basic drinking water: e) Trinkwasser
 f) single-sex basic sanitation facilities: f) geschlechterspezifische, grundlegende sanitäre Anlagen
 g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen
 #4.b.1
-oda (gross disbursements) for imputed student costs (mn usd, constant prices): Bruttoentwicklungsausgaben für Studienplatzkosten (Mill. USD, konstante Preise)
-oda (gross disbursements) for scholarships (mn usd, constant prices): Bruttoentwicklungsausgaben für Stipendien (Mill. USD, konstante Preise)
+oda (gross disbursements) for imputed student costs: Bruttoentwicklungsausgaben für Studienplatzkosten
+oda (gross disbursements) for scholarships: Bruttoentwicklungsausgaben für Stipendien
 #5.1.1
 area of law: Rechtsgebiet
-"legal frameworks that promote, enforce and monitor gender equality regarding:": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich:"
+"legal frameworks that promote, enforce and monitor gender equality regarding:": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich"
 employment and economic benefits: Erwerbstätigkeit und wirtschaftlicher Nutzen
 marriage and family: Ehe und Familie
 overarching legal frameworks and public life: übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
@@ -270,7 +271,7 @@ victims of female genital mutilation: Opfer von Verstümmelung weiblicher Genita
 time spent on unpaid domestic and care work: Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird
 #5.5.1
 seats held by women in national parliament: Sitze im nationalen Parlament, die Frauen innehaben
-"seats held by women in the parliament of:": "Sitze in den Landesparlamenten, die Frauen innehaben:"
+"seats held by women in the parliament of:": "Sitze in den Landesparlamenten, die Frauen innehaben"
 region: Bundesland
 baden-wuerttemberg: Baden-Württemberg
 bavaria: Bayern

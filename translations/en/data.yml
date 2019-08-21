@@ -89,6 +89,7 @@ micrograms per cubic meter: Micrograms per cubic meter
 kg per capita: kg per capita
 ph-value: ph-value
 mn h: Mn h
+mn usd, constant prices (2016): Mn USD, constant prices (2016)
 
 
 #time series
@@ -138,7 +139,7 @@ b) under observation: Under observation
 #2.a.1
 '"agriculture orientation index" for government expenditures': Agriculture orientation index for government expenditures
 #2.a.2
-oda (gross disbursements) to the agriculture sector (mn usd, constant prices): ODA (gross disbursements) to the agriculture sector (Mn USD, constant prices)
+oda (gross disbursements) to the agriculture sector: ODA (gross disbursements) to the agriculture sector
 #2.b.2
 export refunds: Export refunds
 #3.1.1
@@ -195,7 +196,7 @@ coverage of measles containing vaccine at school entrance: Coverage of measles c
 coverage of pneumococcal conjugate vaccine at school entrance: Coverage of pneumococcal conjugate vaccine at school entrance
 coverage of hpv containing vaccine of 15 years old girls: Coverage of HPV containing vaccine of 15 years old girls
 #3.b.2
-oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices): ODA (gross disbursements) to medical research and basic health sectors (Mn USD, constant prices)
+oda (gross disbursements) to medical research and basic health sectors: ODA (gross disbursements) to medical research and basic health sectors
 #3.c.1
 health workers - practising concept: Health workers - Practising concept
 profession: Profession
@@ -208,8 +209,8 @@ a) medical doctors: Medical doctors
 average of 13 ihr core capacity scores: Average of 13 IHR core capacity scores
 #4.1.1
 subject: Subject
-a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Children and youths in grades 2/3 with a minimum proficiency level in:"
-c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Children and youths at the end of lower secondary education with a minimum proficiency level in:"
+a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Children and youths in grades 2/3 with a minimum proficiency level in"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Children and youths at the end of lower secondary education with a minimum proficiency level in"
 mathematics: mathematics
 reading: reading
 #4.2.2
@@ -229,8 +230,8 @@ writing a computer program using a programming language: Writing a computer prog
 indicator: Indicator
 gender parity index of: Gender Parity Index of
 sdg indicator 4-2-2: SDG indicator 4.2.2
-sdg indicator 4-3-1: SDG indicator 4.3.1
-sdg indicator 4-3-1: SDG indicator 4.3.1
+sdg indicator 4-3-1 (adults): SDG indicator 4.3.1 (adults)
+sdg indicator 4-3-1 (youth): SDG indicator 4.3.1 (youth)
 #4.6.1
 level of proficiency: Level of proficiency
 "adult population achieving at least a fixed level of proficiency in functional a) literacy skills:": "Adult population achieving at least a fixed level of proficiency in functional: a) literacy skills"
@@ -239,7 +240,7 @@ minimum requirement level i: minimum requirement level I
 minimum requirement level ii: minimum requirement level II
 #4.a.1
 facilities: Facilities
-"schools with access to:": "Schools with access to:"
+"schools with access to:": "Schools with access to"
 a) electricity: a) electricity
 b) the internet for pedagogical purposes: b) the Internet for pedagogical purposes
 c) computers for pedagogical purposes: c) computers for pedagogical purposes
@@ -248,8 +249,8 @@ e) basic drinking water: e) basic drinking water
 f) single-sex basic sanitation facilities: f) single-sex basic sanitation facilities
 g) basic handwashing facilities (as per the wash indicator definitions): g) basic handwashing facilities
 #4.b.1
-oda (gross disbursements) for imputed student costs (mn usd, constant prices): ODA (gross disbursements) for imputed student costs (Mn USD, constant prices)
-oda (gross disbursements) for scholarships (mn usd, constant prices): ODA (gross disbursements) for scholarships (Mn USD, constant prices)
+oda (gross disbursements) for imputed student costs: ODA (gross disbursements) for imputed student costs
+oda (gross disbursements) for scholarships: ODA (gross disbursements) for scholarships
 #5.1.1
 area of law: Area of Law
 "legal frameworks that promote, enforce and monitor gender equality regarding:": "Legal frameworks that promote, enforce and monitor gender equality regarding:"

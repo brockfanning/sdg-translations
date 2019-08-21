@@ -61,6 +61,7 @@ under 18 years: unter 18 Jahren
 65 years and over: 65 Jahre und mehr
 
 #units
+"%": Prozent (%)
 per 100 000 adults: Je 100 000 Erwachsene
 percentage: Prozent
 
@@ -316,7 +317,7 @@ population with access to electricity: Bevölkerung mit Zugang zu Elektrizität
 renewable energy share in gross final energy consumption (according to national definition): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition)
 renewable energy share in total final energy consumption (according to un definition): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition)
 #7.3.1
-energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP 
+energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP
 energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP
 #8.1.1
 annual growth rate of real gdp per capita: Jährliche Wachstumsrate des realen BIP pro Kopf
@@ -325,7 +326,7 @@ annual growth rate of real gdp per employed person: Jährliche Wachstumsrate des
 #8.4.1
 rmc (abiotic and biotic material): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe)
 rmc per capita: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner
-rmc per real gdp: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP 
+rmc per real gdp: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) zum realen BIP
 #8.4.2
 dmc (abiotic and biotic material): Inländische Materialverwendung (DMC; abiotische und biotische Rohstoffe)
 dmc per capita: Inländische Materialverwendung (DMC) je Einwohner
@@ -364,7 +365,7 @@ aid for trade commitments (oda and oof) (mn usd, constant prices): Verpflichtung
 aid for trade gross disbursements (oda and oof) (mn usd, constant prices): Bruttoauszahlungen für Handelshilfe (ODA und OOF) (Mill. USD, konstante Preise)
 #9.1.2
 a) passenger transport: a) Personenverkehr
-b) freight transport: b) Güterverkehr 
+b) freight transport: b) Güterverkehr
 mode of transport: Verkehrsmittel
 road transport: Straßenverkehr
 rail transport: Eisenbahnverkehr
@@ -530,7 +531,7 @@ a) oda (gross disbursements) to the forestry sector (mn usd, constant prices): B
 documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
 seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
 #16.1.1
-victims of intentional homicide: Opfer vorsätzlicher Tötung 
+victims of intentional homicide: Opfer vorsätzlicher Tötung
 victims of intentional homicide: Opfer vorsätzlicher Tötung
 #16.1.3
 population subjected to physical violence: Bevölkerung, die körperlicher Gewalt ausgesetzt war

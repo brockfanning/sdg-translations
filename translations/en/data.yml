@@ -62,12 +62,34 @@ under 18 years: under 18 years
 
 #units
 "%": Percentage (%)
-per 100 000 adults: Per 100 000 adults
-percentage: Percentage
-index: Index
+per 100 000 adults: per 100 000 adults
+percentage: percentage
+index: index
 eur: Eur
-per 1 mn inhabitants: per 1 Mn inhabitants
 eur/h: EUR/h
+g/eur: g/EUR
+mj/eur: MJ/EUR
+bn eur: Bn EUR
+mn eur: Mn EUR
+per 100 000 live births: Per 100 000 live births
+per 1 000 live births: Per 1000 live births
+per 100 inhabitants: Per 100 inhabitants
+per 1 000 inhabitants: Per 1 000 inhabitants
+per 10 000 inhabitants: Per 10 000 inhabitants
+per 100 000 inhabitants: Per 100 000 inhabitants
+per 1 mn inhabitants: Per 1 Mn inhabitants
+per 1 000 women of same age: Per 1 000 women of same age:
+litres of pure alcohol per capita: Litres of pure alcohol per capita
+mn t: Mn t
+mn tkm: Mn tkm
+t per capita: t per capita
+per 100 000 employees: Per 100 000 employees
+mn pkm: Mn pkm
+micrograms per cubic meter: Micrograms per cubic meter
+kg per capita: kg per capita
+ph-value: ph-value
+mn h: Mn h
+
 
 #time series
 #1.2.1

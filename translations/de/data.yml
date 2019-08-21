@@ -66,8 +66,31 @@ per 100 000 adults: Je 100 000 Erwachsene
 percentage: Prozent
 index: index
 eur: Eur
-
 eur/h: EUR/h
+g/eur: g/EUR
+mj/eur: MJ/EUR
+bn eur: Mrd. EUR
+mn eur: Mill. EUR
+per 100 000 live births: Je 100 000 Lebendgeborenen
+per 100 live births: Je 1000 Lebendgeborenen
+per 100 inhabitants: Je 100 Einwohner
+per 1 000 inhabitants: Je 1 000 Einwohner
+per 10 000 inhabitants: Je 10 000 Einwohner
+per 100 000 inhabitants: Je 100 000 Einwohner
+per 1 mn inhabitants: je 1 Mill. Einwohner
+per 1 000 women of same age: Je 1 000 Frauen gleichen Alters
+litres of pure alcohol per capita: Liter puren Alkohols pro Einwohner
+mn t: Mill. t
+mn tkm: Mill. tkm
+t per capita: t je Einwohner
+per 100 000 employees: Je 100 000 Beschäftigte
+mn pkm: Mill. Pkm
+micrograms per cubic meter: Mikrogramm pro Kubikmeter
+kg per capita: kg je Einwohner
+ph-value: pH-Wert
+mn h: Mill. h
+
+
 
 #time series
 #1.2.1

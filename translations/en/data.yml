@@ -64,7 +64,7 @@ under 18 years: under 18 years
 "%": Percentage (%)
 per 100 000 adults: per 100 000 adults
 percentage: percentage
-index: index
+index: Index
 eur: Euro (€)
 eur/h: EUR/h
 g/eur: g/EUR
@@ -137,7 +137,7 @@ d) rudiments remaining: Rudiments remaining
 c) breeding programs for preservation: Breeding programs for preservation
 b) under observation: Under observation
 #2.a.1
-'"agriculture orientation index" for government expenditures': Agriculture orientation index for government expenditures
+"'agriculture orientation index'for government expenditures": 'Agriculture orientation index' for government expenditures
 #2.a.2
 oda (gross disbursements) to the agriculture sector: ODA (gross disbursements) to the agriculture sector
 #2.b.2
@@ -338,9 +338,9 @@ economic sector: Economic sector
 "services (nace rev 2, sections e, g to t)": "Services"
 #6.4.2
 level of waterstress: Level of waterstress
-"level of water stress:": "Level of water stress:"
-share of withdrawal in renewable water resources: share of withdrawal in renewable water resources
-share of withdrawal in renewable water resources: share of withdrawal in renewable water resources
+"level of water stress:": "Level of water stress"
+share of withdrawal in renewable water resources: Share of withdrawal in renewable water resources
+share of withdrawal in renewable water resources (excluding cooling water): Share of withdrawal in renewable water resources (excluding cooling water)
 #6.5.1
 degree of integrated water resources management implementation: Degree of integrated water resources management implementation
 #6.5.2
@@ -352,8 +352,8 @@ transboundary basin area with an operational arrangement for water cooperation: 
 flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies
 #6.a.1
-b) oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices): ODA (gross disbursements) for other related water and sanitation purposes (Mn USD, constant prices)
-a) oda (gross disbursements) for water and sanitation (mn usd, constant prices): ODA (gross disbursements) for water and sanitation (Mn USD, constant prices)
+b) oda (gross disbursements) for other related water and sanitation purposes: ODA (gross disbursements) for other related water and sanitation purposes
+a) oda (gross disbursements) for water and sanitation: ODA (gross disbursements) for water and sanitation
 #7.1.1
 households and small-sized enterprises connected to the electricity network: Households and small-sized enterprises connected to the electricity network
 population with access to electricity: Population with access to electricity

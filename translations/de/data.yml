@@ -29,7 +29,7 @@ tertiary: Tertiäre Bildung
 occupation: Beruf
 unit: Einheit
 percent: Prozent
-number: Nummer
+number: Anzahl
 ratio: Verhältnis
 total: Insgesamt
 Year: Jahr
@@ -64,6 +64,7 @@ under 18 years: unter 18 Jahren
 "%": Prozent (%)
 per 100 000 adults: Je 100 000 Erwachsene
 percentage: Prozent
+index: Index
 
 eur/h: EUR/h
 
@@ -112,7 +113,7 @@ d) rudiments remaining: Phänotypische Erhaltungspopulationen
 c) breeding programs for preservation: Erhaltungspopulationen
 b) under observation: Beobachtungspopulationen
 #2.a.1
-agriculture orientation index for government expenditures: '"Agriculture Orientation Index" für Staatsausgaben'
+'"agriculture orientation index" for government expenditures': '"Agriculture Orientation Index" für Staatsausgaben'
 #2.a.2
 oda (gross disbursements) to the agriculture sector (mn usd, constant prices): Bruttoentwicklungsausgaben für die Landwirtschaft (Mill. USD, konstante Preise)
 #2.b.2

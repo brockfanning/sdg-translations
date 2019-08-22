@@ -93,6 +93,7 @@ ph-value: pH-Wert
 mn h: Mill. h
 "mn usd, constant prices (2016)": Mill. USD, konstante Preise (2016)
 g/eur (constant 2010): g/EUR (konstant 2010)
+tonnes: t
 
 
 
@@ -449,11 +450,11 @@ return on assets: Gesamtkapitalrentabilität
 #10.b.1
 total official and private flows (net disbursements): Öffentliche und Private Nettoentwicklungsausgaben insgesamt
 type of flow: Art der Finanzströme
-oda: Öffentliche Nettoentwicklungsausgaben
-oof: Andere öffentliche Nettoleistungen
-officially supported export credits: Öffentlich unterstützte Exportkredite
-private concessional flows: Private konzessionäre Leistungen (der Nichtregierungsorganisationen)
-private sector flows at market terms: Private Leistungen zu marktüblichen Bedingungen
+oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
+oof (net disbursements): Andere öffentliche Nettoleistungen (OOF)
+officially supported export credits (net disbursements): Öffentlich unterstützte Exportkredite (Nettoauszahlungen)
+private concessional flows (net disbursements): Private konzessionäre Leistungen der Nichtregierungsorganisationen (Nettoauszahlungen)
+private sector flows at market terms (net disbursements): Private Leistungen zu marktüblichen Bedingungen (Nettoauszahlungen)
 #11.1.1
 items: Probleme
 material deprivation for the housing dimension (one to four items): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme)

@@ -93,6 +93,7 @@ ph-value: ph-value
 mn h: Mn h
 "mn usd, constant prices (2016)": Mn USD, constant prices (2016)
 g/eur (constant 2010): g/EUR (constant 2010)
+tonnes: t
 
 
 #time series
@@ -467,11 +468,11 @@ return on assets: Return on assets
 #10.b.1
 total official and private flows (net disbursements): Total Official and Private Flows (net disbursements)
 type of flow: Type of flow
-oda: ODA
-oof: OOF
-officially supported export credits: Officially Supported Export Credits
-private concessional flows: Private Concessional Flows
-private sector flows at market terms: Private Sector Flows at market terms
+oda (net disbursements): ODA (net disbursements)
+oof (net disbursements): OOF (net disbursements)
+officially supported export credits (net disbursements): Officially Supported Export Credits (net disbursements)
+private concessional flows (net disbursements): Private Concessional Flows (net disbursements)
+private sector flows at market terms (net disbursements): Private Sector Flows at market terms (net disbursements)
 #11.1.1
 items: Items
 material deprivation for the housing dimension (one to four items): Material deprivation for the housing dimension (one to four items)

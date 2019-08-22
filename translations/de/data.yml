@@ -38,7 +38,7 @@ Year: Jahr
 timeseries: Zeitreihe
 
 #ages
-0 - unknown age: Unbekanntes Alter
+0 - unknown age: unbekanntes Alter
 10 to under 16 years: 10 bis unter 16 Jahre
 13 years and under: 13 Jahre und jünger #Unter 14 Jahren
 under 14 years: Unter 14 Jahren
@@ -631,11 +631,11 @@ proportion of bilateral and imputed multilateral net oda for ldcs to the gni: Ve
 #17.6.2
 fixed internet broadband access lines: Internet-Breitband-Zugänge
 speed: Geschwindigkeit
-a) over 144 kbps to under 2 mbps: Über 144 kbit/s bis unter 2 Mbit/s
-b) 2 mbps to under 10 mbps: 2 Mbit/s bis unter 10 Mbit/s
-c) 10 mbps to under 30 mbps: 10 Mbit/s bis unter 30 Mbit/s
-d) 30 mbps to under 100 mbps: 30 Mbit/s bis unter 100 Mbit/s
-e) 100 mbps and over: 100 Mbit/s und mehr
+a) over 144 kbps to under 2 mbps: a) Über 144 kbit/s bis unter 2 Mbit/s
+b) 2 mbps to under 10 mbps: b) 2 Mbit/s bis unter 10 Mbit/s
+c) 10 mbps to under 30 mbps: c) 10 Mbit/s bis unter 30 Mbit/s
+d) 30 mbps to under 100 mbps: d) 30 Mbit/s bis unter 100 Mbit/s
+e) 100 mbps and over: e) 100 Mbit/s und mehr
 #17.8.1
 population using the internet in the last three months: Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat
 #17.9.1

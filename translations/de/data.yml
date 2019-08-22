@@ -319,9 +319,9 @@ open water bodies: Seen und Talsperren
 #6.4.1
 water use efficiency: Wasserproduktivität
 economic sector: Wirtschaftszweig
-"agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei"
-"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (nace rev 2, sections b, c, d, f)"
-"services (nace rev 2, sections e, g to t)": "Dienstleistungen (nace rev 2, sections e, g to t)"
+"agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
+"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
+"services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G to T)"
 #6.4.2
 level of waterstress: Nutzung der Wasserressourcen
 "level of water stress:": "Nutzung der Wasserressourcen"

@@ -337,9 +337,9 @@ open water bodies: Open water bodies
 #6.4.1
 water use efficiency: Water use efficiency
 economic sector: Economic sector
-"agriculture, forestry and fishing (nace rev 2, section a)": "Agriculture, forestry and fishing"
-"mimec (nace rev 2, sections b, c, d, f)": "MIMEC"
-"services (nace rev 2, sections e, g to t)": "Services"
+"agriculture, forestry and fishing (nace rev 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
+"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
+"services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G, to T)"
 #6.4.2
 level of waterstress: Level of waterstress
 "level of water stress:": "Level of water stress"

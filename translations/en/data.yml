@@ -40,12 +40,12 @@ timeseries: Time series
 #ages
 0 - unknown age: Unknown Age
 10 to under 16 years: 10 to under 16 years
-13 years and under: Under 14 years
+13 years and under: 13 Years and under #Under 14 years
 under 14 years: Under 14 years
 14 to under 18 years: 14 to under 18 years
 15 to under 25 years: 15 to under 25 years
 16 to under 25 years: 16 to under 25 years
-17 years and under: Under 18 years
+17 years and under: 17 Years and under #Under 18 years
 under 18 years: under 18 years
 18 to under 21 years: 18 to under 21 years
 18 to under 30 years: 18 to under 30 years

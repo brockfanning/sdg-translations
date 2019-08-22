@@ -465,7 +465,7 @@ nonperforming loans net of provisions to gross loans: Nonperforming loans net of
 regulatory tier 1 capital to risk-weighted assets: Regulatory Tier 1 capital to risk-weighted assets
 return on assets: Return on assets
 #10.b.1
-total official and private flows: Total Official and Private Flows
+total official and private flows (net disbursements): Total Official and Private Flows (net disbursements)
 type of flow: Type of flow
 oda: ODA
 oof: OOF
@@ -559,10 +559,10 @@ forest area under an independently verified forest management certification sche
 #15.4.2
 mountain green cover index: Mountain Green Cover Index
 classification: Classification
-class 3 areas (elevation 2500-3500 meters): Class 3 areas
-class 4 areas (elevation 1500-2500 meters): Class 4 areas
-class 5 areas (elevation 1000-1500 meters): Class 5 areas
-class 6 areas (elevation  300 -1000 meters): Class 6 areas
+class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2500-3500 meters)
+class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1500-2500 meters)
+class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1000-1500 meters)
+class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation 300 -1000 meters)
 #15.5.1
 red list index: Red List Index
 #15.7.1

@@ -447,7 +447,7 @@ nonperforming loans net of provisions to gross loans: Anteil der notleidenden Kr
 regulatory tier 1 capital to risk-weighted assets: Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
 return on assets: Gesamtkapitalrentabilität
 #10.b.1
-total official and private flows: Öffentliche und Private Nettoentwicklungsausgaben insgesamt
+total official and private flows (net disbursements): Öffentliche und Private Nettoentwicklungsausgaben insgesamt
 type of flow: Art der Finanzströme
 oda: Öffentliche Nettoentwicklungsausgaben
 oof: Andere öffentliche Nettoleistungen
@@ -541,10 +541,10 @@ forest area under an independently verified forest management certification sche
 #15.4.2
 mountain green cover index: "'Mountain Green Cover' Index"
 classification: Klassifikation
-class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3
-class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4
-class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5
-class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6
+class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2 500 - 3 500 Meter)
+class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1 500 - 2 500 Meter)
+class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1 000 - 1 500 Meter)
+class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe 300 - 1 000 Meter)
 #15.5.1
 red list index: Rote Liste Index
 #15.7.1

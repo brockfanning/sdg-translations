@@ -5,12 +5,14 @@ sex: Sex
 female: Female
 male: Male
 male and female: male and female
+1) male and female: male and female
 other: Other
 unknown: Unknown
 age: Age group
 age (male and female): Age group (male and female)
 "age (male and female, with and without disabilities)": Age (male and female, with and without disabilities)
 all age groups: all age groups
+1) all age groups: all age groups
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban
@@ -40,7 +42,7 @@ timeseries: Time series
 #ages
 0 - unknown age: Unknown Age
 10 to under 16 years: 10 to under 16 years
-13 years and under: 13 Years and under #Under 14 years
+13 years and under: 13 years and under #Under 14 years
 under 14 years: Under 14 years
 14 to under 18 years: 14 to under 18 years
 15 to under 25 years: 15 to under 25 years

@@ -5,6 +5,7 @@ footnote: Anmerkung
 dataset_size_warning: Zu viele Zeitreihen ausgewählt, um diese in einer Grafik darzustellen.
   Es können nicht alle Zeitreihen dargestellt werden.
 download_chart: Grafik im CSV-Format speichern
+download_chart_image: Grafik als Bild speichern
 download_csv: im CSV-Format speichern
 download_csv_title: im CSV-Format speichern
 download_headline: Speichern der Headline im CSV-Format

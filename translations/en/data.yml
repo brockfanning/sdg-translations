@@ -2,8 +2,8 @@ sex: Sex
 sex (all age groups): Sex (all age groups)
 "sex (all age groups, with and without disabilities)": Sex (all age groups, with and without disabilities)
 sex: Sex
-female: Female
-male: Male
+female: female
+male: male
 male and female: male and female
 1) male and female: male and female
 other: Other
@@ -36,6 +36,7 @@ percent: Percent
 number: Number
 ratio: Ratio
 total: Total
+1) total: ""
 Year: Year
 timeseries: Time series
 

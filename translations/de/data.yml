@@ -36,6 +36,7 @@ percent: Prozent
 number: Anzahl
 ratio: Verhältnis
 total: Insgesamt
+1) total: ""
 Year: Jahr
 timeseries: Zeitreihe
 

@@ -5,14 +5,14 @@ sex: Sex
 female: female
 male: male
 male and female: male and female
-1) male and female: male and female
+"1) male and female": male and female
 other: Other
 unknown: Unknown
 age: Age group
 age (male and female): Age group (male and female)
 "age (male and female, with and without disabilities)": Age (male and female, with and without disabilities)
 all age groups: all age groups
-1) all age groups: all age groups
+"1) all age groups": all age groups
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban
@@ -36,7 +36,7 @@ percent: Percent
 number: Number
 ratio: Ratio
 total: Total
-1) total: ""
+"1) total": "Total"
 Year: Year
 timeseries: Time series
 

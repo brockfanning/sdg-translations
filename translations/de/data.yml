@@ -5,14 +5,14 @@ sex: Geschlecht
 female: weiblich
 male: männlich
 male and female: männlich und weiblich
-1) male and female: männlich und weiblich
+"1) male and female": männlich und weiblich
 other: Divers
 unknown: unbekannte
 age: Altersklasse
 age (male and female): Altersklasse (männlich und weiblich)
 "age (male and female, with and without disabilities)": Altersklasse (männlich und weiblich, mit und ohne Behinderung)
 all age groups: alle Altersklassen
-1) all age groups: alle Altersklassen
+"1) all age groups": alle Altersklassen
 urbanisation: Verstädterungsgrad
 rural: Ländlich
 urban: Städtisch
@@ -36,7 +36,7 @@ percent: Prozent
 number: Anzahl
 ratio: Verhältnis
 total: Insgesamt
-1) total: ""
+"1) total": "Insgesamt"
 Year: Jahr
 timeseries: "Zeitreihe:"
 

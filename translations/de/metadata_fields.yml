@@ -7,6 +7,7 @@ goal_meta_link: Link zu den globalen Metadaten dieses Indikators
 goal_meta_national_link: Link zu den nationalen Metadaten
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
+dns_indicator_definition: Indikatorenbeschreibung
 indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen

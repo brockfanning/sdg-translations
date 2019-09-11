@@ -10,6 +10,7 @@ indicator_definition: Global indicator description
 dns_indicator_definition: Definition of the indicator
 dns_indicator_intention: Target and intention of the indicators
 dns_indicator_content: Content and progress
+dns_content_url: Content and progress
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 info_url_1: Additional Information

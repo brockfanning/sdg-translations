@@ -10,6 +10,7 @@ indicator_definition: Globale Indikatorenbeschreibung
 dns_indicator_definition: Indikatorenbeschreibung
 dns_indicator_intention: Ziele und Intention der Indikatoren
 dns_indicator_content: Inhalt und Entwicklung
+dns_content_url: Inhalt und Entwicklung
 indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen

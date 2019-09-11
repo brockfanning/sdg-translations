@@ -39,6 +39,7 @@ total: Total
 "1) total": "Total"
 Year: Year
 timeseries: Time series
+area: Area
 
 #ages
 0 - unknown age: Unknown Age
@@ -67,6 +68,7 @@ under 18 years: under 18 years
 
 #units
 "%": Percentage (%)
+"shares in %": Shares in %
 per 100 000 adults: per 100 000 adults
 percentage: percentage
 index: Index
@@ -691,3 +693,12 @@ oda and oof (gross disbursements) of all resources made available to strengthen 
 a) at least one population and housing census in the last 10 years conducted: a) At least one population and housing census in the last 10 years conducted
 b) birth registration: b) Birth registration
 c) death registration: c) Death registration
+
+###############################################################################
+#DNS
+###############################################################################
+eu-28: EU-28
+germany: Germany
+#1.1.a,b
+"a) materially deprived persons": a) Materially deprived persons
+"b) serverely materially deprived persons": b) Serverely materially deprived persons

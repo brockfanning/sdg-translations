@@ -38,7 +38,8 @@ ratio: Verhältnis
 total: Insgesamt
 "1) total": "Insgesamt"
 Year: Jahr
-timeseries: "Zeitreihe:"
+timeseries: "Zeitreihe"
+area: Gebiet
 
 #ages
 0 - unknown age: unbekanntes Alter
@@ -67,6 +68,7 @@ under 18 years: unter 18 Jahren
 
 #units
 "%": Prozent (%)
+"shares in %": Anteile in %
 per 100 000 adults: Je 100 000 Erwachsene
 percentage: Prozent
 index: Index
@@ -673,3 +675,12 @@ oda and oof (gross disbursements) of all resources made available to strengthen 
 a) at least one population and housing census in the last 10 years conducted: a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren
 b) birth registration: b) Registrierung der Geburten
 c) death registration: c) Registrierung der Sterbefälle
+
+###############################################################################
+#DNS
+###############################################################################
+eu-28: EU-28
+germany: Deutschland
+#1.1.a,b
+"a) materially deprived persons": a) Materiell deprivierte Personen
+"b) serverely materially deprived persons": b) Erheblich materiell deprivierte Personen

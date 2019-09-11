@@ -24,7 +24,9 @@ global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Met
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading_map: Karte wird geladen
 map: Karte
+metadata: Metadaten
 national_metadata: Nationale Metadaten
+dns_metadata_blurb: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügbaren
   Zeitreihen für Deutschland zum jeweiligen globalen SDG-Indikator bereitgestellt.
   Die angegebene Datenreihe ist die vergleichbarste, national verfügbare Zeitreihe.

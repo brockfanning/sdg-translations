@@ -688,6 +688,24 @@ eu-28: EU-28
 germany: Deutschland
 adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
 adults (15 years and older): Erwachsene (ab 15 Jahren)
+
+bw: Baden-Württemberg
+by: Bayern
+be: Berlin
+bb: Brandenburg
+hb: Bremen
+hh: Hamburg
+he: Hessen
+mv: Mecklenburg-Vorpommern
+ni: Niedersachsen
+nw: Nordrhein-Westfalen
+rp: Rheinland-Pfalz
+sl: Saarland
+sn: Sachsen
+st: Sachsen-Anhalt
+sh: Schleswig-Holstein
+th: Thüringen
+
 #1.1.a,b
 "a) materially deprived persons": a) Materiell deprivierte Personen
 "b) severely materially deprived persons": b) Erheblich materiell deprivierte Personen

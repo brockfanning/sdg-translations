@@ -69,6 +69,7 @@ under 18 years: under 18 years
 #units
 "%": Percentage (%)
 "shares in %": Shares in %
+"share of all persons in the respective age group in %": Share of all persons in the respective age group in %
 per 100 000 adults: per 100 000 adults
 percentage: percentage
 index: Index
@@ -697,8 +698,19 @@ c) death registration: c) Death registration
 ###############################################################################
 #DNS
 ###############################################################################
+display: Display
+a) time series: Time series
+b) target: Targets
+
+
 eu-28: EU-28
 germany: Germany
+adolescents (12 to 17 years): Adolescents (12 to 17 years)
+adults (15 years and older): Adults (15 years and older)
 #1.1.a,b
 "a) materially deprived persons": a) Materially deprived persons
 "b) severely materially deprived persons": b) Serverely materially deprived persons
+
+
+#3.1.c,d
+adolescent and adult smokers: Adolescent and adult smokers

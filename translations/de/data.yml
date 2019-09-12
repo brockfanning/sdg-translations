@@ -69,6 +69,7 @@ under 18 years: unter 18 Jahren
 #units
 "%": Prozent (%)
 "shares in %": Anteile in %
+"share of all persons in the respective age group in %": Anteil an allen Personen der jeweiligen Altersgruppe, in %
 per 100 000 adults: Je 100 000 Erwachsene
 percentage: Prozent
 index: Index
@@ -679,8 +680,17 @@ c) death registration: c) Registrierung der Sterbefälle
 ###############################################################################
 #DNS
 ###############################################################################
+display: Anzeigen
+a) time series: Zeitreihen
+b) target: Ziele
+
 eu-28: EU-28
 germany: Deutschland
+adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
+adults (15 years and older): Erwachsene (ab 15 Jahren)
 #1.1.a,b
 "a) materially deprived persons": a) Materiell deprivierte Personen
 "b) severely materially deprived persons": b) Erheblich materiell deprivierte Personen
+
+#3.1.c,d
+adolescent and adult smokers: Rauchende Jugendliche und Erwachsene

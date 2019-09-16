@@ -44,6 +44,7 @@ source: Datenquelle
 sources: Datenquellen
 sub_categories: Disaggregationsdimensionen
 table: Tabelle
+timeseries: Zeitreihe
 unit_of_measurement: Copyright
 units_type: Einheit
 variable_hint: Verfügbar

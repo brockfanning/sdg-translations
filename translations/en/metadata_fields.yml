@@ -15,6 +15,14 @@ dns_content_url_text: Content and progress
 indicator_name: Indicator name
 indicator_sort_order: Indicator display order (within Goal page)
 info_url_1: Additional Information
+history_indicator_1: Indicator
+history_target_1: Target
+history_years_1: Year
+history_evaluation_1: Evaluation
+history_indicator_2: Indicator
+history_target_2: Target
+history_years_2: Year
+history_evaluation_2: Evaluation
 national_data_update_url: Data last updated
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available

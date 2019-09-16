@@ -45,11 +45,8 @@ global_metadata_blurb: This table provides information on metadata for SDG
   indicators as defined by the UN Statistical Commission.
   <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
   is provided by the UN Statistics Division.
-history_active_1: true
-history_indicator_1: "1.1.a"
-history_target_1: Anteil der Personen, die materiell depriviert sind, bis 2030 deutlich unter EU-28-Wert halten.
-history_years_1: "2014  2015  2016  2017"
 history: Indicator status summary
+history_blurb: The synoptic table provides information also about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years.
 edit: Edit
 edit_data: Edit Data
 edit_metadata: Edit Metadata

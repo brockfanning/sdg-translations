@@ -22,6 +22,7 @@ global_metadata_blurb: Diese Übersicht stellt Informationen zu den globalen Met
   des jeweiligen SDG-Indikators bereit. Die <a href="https://unstats.un.org/sdgs/metadata/">globalen Metadaten</a> werden durch die Statistische Division der Vereinten Nationen
   bereitgestellt.
 history: Statusübersicht
+history_blurb: In dieser Übersichtstabelle sind jeweils auch die Bewertungen eines Indikators nach Stand der vorhergehenden Jahre angegeben. Daran lässt sich ablesen, ob das Wettersymbol für einen Indikator in den vergangenen Jahren stabil oder eher volatil war.
 legend_help: Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.
 loading_map: Karte wird geladen
 map: Karte

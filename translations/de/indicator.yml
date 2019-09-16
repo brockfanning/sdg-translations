@@ -46,7 +46,8 @@ sources: Datenquellen
 sub_categories: Disaggregationsdimensionen
 table: Tabelle
 timeseries: Zeitreihe
-unit_of_measurement: Copyright
+unit_of_measurement: Einheit
+copyright: Copyright
 units_type: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.

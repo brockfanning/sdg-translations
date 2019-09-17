@@ -1,34 +1,17 @@
-'1':
-  title: No poverty
-'10':
-  title: Reduced inequalities
-'11':
-  title: Sustainable cities & communities
-'12':
-  title: Responsible consumption and production
-'13':
-  title: Climate action
-'14':
-  title: Life below water
-'15':
-  title: Life on land
-'16':
-  title: Peace and justice - strong institutions
-'17':
-  title: Partnerships for the goals
-'2':
-  title: Zero hunger
-'3':
-  title: Good health and well-being
-'4':
-  title: Quality education
-'5':
-  title: Gender equality
-'6':
-  title: Clean water and sanitation
-'7':
-  title: Affordable and clean energy
-'8':
-  title: Decent jobs and economic growth
-'9':
-  title: Industry, innovation and infrastructure
+1-title: No poverty
+10-title: Reduced inequalities
+11-title: Sustainable cities & communities
+12-title: Responsible consumption and production
+13-title: Climate action
+14-title: Life below water
+15-title: Life on land
+16-title: Peace and justice - strong institutions
+17-title: Partnerships for the goals
+2-title: Zero hunger
+3-title: Good health and well-being
+4-title: Quality education
+5-title: Gender equality
+6-title: Clean water and sanitation
+7-title: Affordable and clean energy
+8-title: Decent jobs and economic growth
+9-title: Industry, innovation and infrastructure

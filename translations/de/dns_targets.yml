@@ -1,76 +1,38 @@
-'1.1':
-  title: Armut begrenzen
-'10.1':
-  title: Schulische Bildungserfolge von Ausländern in Deutschland verbessern
-'10.2':
-  title: Zu große Ungleichheit innehalb Deutschlands verhindern
-'11.1':
-  title: Fläche nachhaltig nutzen
-'11.2':
-  title: Mobilität sichern - Umwelt schonen
-'11.3':
-  title: Bezahlbarer Wohnraum für alle
-'12.1':
-  title: Konsum umwelt- und sozialverträglich gestalten
-'12.2':
-  title: Anteil nachhaltiger Produktion stetig erhöhen
-'12.3':
-  title: Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
-'13.1':
-  title: Beitrag zur internationalen Klimafinanzierung leisten
-'14.1':
-  title: Meere und Meeresressourcen schützen und nachhaltig nutzen
-'15.1':
-  title: Arten erhalten - Lebensräume schützen
-'15.2':
-  title: Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren
-'15.3':
-  title: Entwaldung vermeiden
-'16.1':
-  title: Persönliche Sicherheit weiter erhöhen
-'16.2':
-  title: Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen
-'16.3':
-  title: Korruption bekämpfen
-'17.1':
-  title: Nachhaltige Entwicklung unterstützen
-'17.2':
-  title: Wissen international vermitteln
-'17.3':
-  title: Handelschancen der Entwicklungsländer verbessern
-'2.1':
-  title: In unseren Kulturlandschaften umweltverträglich produzieren
-'2.2':
-  title: Das Recht auf Nahrung weltweit verwirklichen
-'3.1':
-  title: Länger gesund leben
-'3.2':
-  title: Gesunde Umwelt erhalten
-'4.1':
-  title: Bildung und Qualifikation kontinuierlich verbessern
-'4.2':
-  title: Vereinbarkeit von Familie und Beruf verbessern
-'5.1':
-  title: Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
-'6.1':
-  title: Minderung der stofflichen Belastung von Gewässern
-'6.2':
-  title: Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität
-'7.1':
-  title: Ressourcen sparsam und effizient nutzen
-'7.2':
-  title: Zukunftsfähige Energieversorgung ausbauen
-'8.1':
-  title: Ressourcen sparsam und effizient nutzen
-'8.2':
-  title: Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
-'8.3':
-  title: Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
-'8.4':
-  title: Wirtschaftsleistung umwelt- und sozialverträglich steigern
-'8.5':
-  title: Beschäftigungsniveau steigern
-'8.6':
-  title: Menschenwürdige Arbeit weltweit ermöglichen
-'9.1':
-  title: Zukunft mit neuen Lösungen gestalten
+1.1-title: Armut begrenzen
+10.1-title: Schulische Bildungserfolge von Ausländern in Deutschland verbessern
+10.2-title: Zu große Ungleichheit innehalb Deutschlands verhindern
+11.1-title: Fläche nachhaltig nutzen
+11.2-title: Mobilität sichern - Umwelt schonen
+11.3-title: Bezahlbarer Wohnraum für alle
+12.1-title: Konsum umwelt- und sozialverträglich gestalten
+12.2-title: Anteil nachhaltiger Produktion stetig erhöhen
+12.3-title: Vorbildwirkung der öffentlichen Hand für nachhaltige öffentliche Beschaffung verwirklichen
+13.1-title: Beitrag zur internationalen Klimafinanzierung leisten
+14.1-title: Meere und Meeresressourcen schützen und nachhaltig nutzen
+15.1-title: Arten erhalten - Lebensräume schützen
+15.2-title: Ökosysteme schützen, Ökosystemleistungen erhalten und Lebensräume bewahren
+15.3-title: Entwaldung vermeiden
+16.1-title: Persönliche Sicherheit weiter erhöhen
+16.2-title: Praktische Maßnahmen zur Bekämpfung der Proliferation, insbesondere von Kleinwaffen, ergreifen
+16.3-title: Korruption bekämpfen
+17.1-title: Nachhaltige Entwicklung unterstützen
+17.2-title: Wissen international vermitteln
+17.3-title: Handelschancen der Entwicklungsländer verbessern
+2.1-title: In unseren Kulturlandschaften umweltverträglich produzieren
+2.2-title: Das Recht auf Nahrung weltweit verwirklichen
+3.1-title: Länger gesund leben
+3.2-title: Gesunde Umwelt erhalten
+4.1-title: Bildung und Qualifikation kontinuierlich verbessern
+4.2-title: Vereinbarkeit von Familie und Beruf verbessern
+5.1-title: Gleichstellung in der Gesellschaft fördern und wirtschaftliche Teilhabe von Frauen global stärken
+6.1-title: Minderung der stofflichen Belastung von Gewässern
+6.2-title: Besserer Zugang zu Trinkwasser- und Sanitärversorgung weltweit, höhere (sichere) Qualität
+7.1-title: Ressourcen sparsam und effizient nutzen
+7.2-title: Zukunftsfähige Energieversorgung ausbauen
+8.1-title: Ressourcen sparsam und effizient nutzen
+8.2-title: Staatsfinanzen konsolidieren - Generationengerechtigkeit schaffen
+8.3-title: Gute Investitionsbedingungen schaffen - Wohlstand dauerhaft erhalten
+8.4-title: Wirtschaftsleistung umwelt- und sozialverträglich steigern
+8.5-title: Beschäftigungsniveau steigern
+8.6-title: Menschenwürdige Arbeit weltweit ermöglichen
+9.1-title: Zukunft mit neuen Lösungen gestalten

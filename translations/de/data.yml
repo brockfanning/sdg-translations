@@ -109,37 +109,59 @@ at-risk-of-poverty rate (according to eurostat definition): Armutsgefährdungsqu
 at-risk-of-poverty rate (according to eurostat definition) (%): Armutsgefährdungsquote
 #1.2.2
 at-risk-of-poverty or social exclusion (according to eurostat definition): Armutsgefährdung oder soziale Ausgrenzung
+at-risk-of-poverty or social exclusion (according to eurostat definition) (%): Armutsgefährdung oder soziale Ausgrenzung
 extensive material deprivation: Erhebliche materielle Deprivation
+extensive material deprivation (%): Erhebliche materielle Deprivation
 #1.3.1
-b) population covered by health insurance: Bevölkerung mit Krankenversicherungsschutz
-a) unemployed persons with unemployment benefits: Arbeitslose Leistungsbezieher
+population covered by health insurance: Bevölkerung mit Krankenversicherungsschutz
+population covered by health insurance (%): Bevölkerung mit Krankenversicherungsschutz
+unemployed persons with unemployment benefits: Arbeitslose Leistungsbezieher
+unemployed persons with unemployment benefits (%): Arbeitslose Leistungsbezieher
 #1.5.3
+strategy for adaptation to climate change: Anpassungsstrategie an den Klimawandel
 strategy for adaptation to climate change: Anpassungsstrategie an den Klimawandel
 #1.a.1
 government spending on foreign economic aid (cofog group 01-2): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
+government spending on foreign economic aid (cofog group 01-2) (%): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
 #1.a.2
-government spending on education (cofog section 09): Staatsausgaben für Bildung (COFOG Abteilung 09)
-government spending on health (cofog section 07): Staatsausgaben für Gesundheit (COFOG Abteilung 07)
-government spending on social protection (cofog section 10): Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
+b) government spending on education (cofog section 09): Staatsausgaben für Bildung (COFOG Abteilung 09)
+b) government spending on education (cofog section 09) (%): Staatsausgaben für Bildung (COFOG Abteilung 09)
+a) government spending on health (cofog section 07): Staatsausgaben für Gesundheit (COFOG Abteilung 07)
+a) government spending on health (cofog section 07) (%): Staatsausgaben für Gesundheit (COFOG Abteilung 07)
+c) government spending on social protection (cofog section 10): Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
+c) government spending on social protection (cofog section 10) (%): Staatsausgaben für soziale Sicherung (COFOG Abteilung 10)
 #2.2.1
 stunting among children under the age of 5 years: Kleinwuchs bei Kindern unter 5 Jahren
+stunting among children under the age of 5 years (%): Kleinwuchs bei Kindern unter 5 Jahren
 #2.2.2
 overweight among children under the age of 5 years: Übergewicht bei Kindern unter 5 Jahren
+overweight among children under the age of 5 years (%): Übergewicht bei Kindern unter 5 Jahren
 wasting among children under the age of 5 years: Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren
+wasting among children under the age of 5 years (%): Untergewicht (bezogen auf die Größe) bei Kindern unter 5 Jahren
 #2.3.1
 labour productivity in agriculture: Arbeitsproduktivität in der Landwirtschaft
+labour productivity in agriculture (2010 = 100): Arbeitsproduktivität in der Landwirtschaft
 labour productivity in forestry : Arbeitsproduktivität in der Forstwirtschaft
+labour productivity in forestry (2010 = 100): Arbeitsproduktivität in der Forstwirtschaft
 #2.4.1
 agricultural area under productive and organic agriculture practices: Landwirtschaftliche Flächen unter ökologischer Bewirtschaftung
+agricultural area under productive and organic agriculture practices (%): Landwirtschaftliche Flächen unter ökologischer Bewirtschaftung
 ecological farming area in total agricultural area: Ökoanbaufläche an der gesamten Agrarfläche
+ecological farming area in total agricultural area (%): Ökoanbaufläche an der gesamten Agrarfläche
 #2.5.1
 animal genetic resources: Tiergenetische Ressourcen
+animal genetic resources (number): Tiergenetische Ressourcen
 plant genetic resources: Pflanzengenetische Ressourcen
+plant genetic resources (number): Pflanzengenetische Ressourcen
 #2.5.2
 "local livestock breeds (horses, cows, pigs, sheep and goats)": Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)
+"local livestock breeds (horses, cows, pigs, sheep and goats) (number)": Einheimische Nutztierrassen (Pferde, Rinder, Schweine, Schafe und Ziegen)
 level of risk of extinction (according to fao classification): Gefährdungskategorie (nach FAO-Klassifikation)
+level of risk of extinction (according to fao classification) (%): Gefährdungskategorie (nach FAO-Klassifikation)
 level of risk of extinction (according to national classification): Gefährdungskategorie (nach nationaler Klassifikation)
+level of risk of extinction (according to national classification) (%): Gefährdungskategorie (nach nationaler Klassifikation)
 level of risk of extinction: Gefährdungskategorie
+level of risk of extinction (%): Gefährdungskategorie
 a) at risk: Gefährdet
 b) not at risk: Nicht gefährdet
 a) not at risk: Nicht gefährdet
@@ -149,67 +171,99 @@ c) breeding programs for preservation: Erhaltungspopulationen
 b) under observation: Beobachtungspopulationen
 #2.a.1
 "'agriculture orientation index' for government expenditures": "'Agriculture Orientation Index' für Staatsausgaben"
+"'agriculture orientation index' for government expenditures (index)": "'Agriculture Orientation Index' für Staatsausgaben"
 #2.a.2
 oda (gross disbursements) to the agriculture sector: Bruttoentwicklungsausgaben für die Landwirtschaft
+oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016)): Bruttoentwicklungsausgaben für die Landwirtschaft
 #2.b.2
 export refunds: Ausfuhrerstattungen
+export refunds (eur): Ausfuhrerstattungen
 #3.1.1
 maternal mortality: Müttersterblichkeit
+maternal mortality (per 100 000 live births): Müttersterblichkeit
 #3.1.2
 live births in hospitals: Lebendgeborene in Krankenhäusern
+live births in hospitals (%): Lebendgeborene in Krankenhäusern
 #3.2.1
 infant mortality rate (under 1 year): Säuglingssterblichkeit (unter 1 Jahr)
+infant mortality rate (under 1 year) (per 1 000 live births): Säuglingssterblichkeit (unter 1 Jahr)
 under-five mortality rate: Kindersterblichkeit unter 5 Jahren
+under-five mortality rate (per 1 000 live births): Kindersterblichkeit unter 5 Jahren
 #3.2.2
 neonatal mortality rate: Sterberate bei Neugeborenen
+neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen
 #3.3.1
 hiv incidence: Auftreten von HIV
+hiv incidence (per 1 000 live births): Auftreten von HIV
 #3.3.2
 tuberculosis incidence: Auftreten von Tuberkulose
+tuberculosis incidence (per 100 000 inhabitants): Auftreten von Tuberkulose
 #3.3.3
 malaria incidence: Auftreten von Malaria
+malaria incidence (per 1 000 inhabitants): Auftreten von Malaria
 #3.3.4
 hepatitis b incidence : Auftreten von Hepatitis B
+hepatitis b incidence (per 100 000 inhabitants): Auftreten von Hepatitis B
 #3.4.1
 mortality rate of persons aged 30 to under 70 years attributed to: "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von"
+mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von"
 a) cardiovascular disease: a) Herz-Kreislauferkrankungen
 b) cancer: b) bösartigen Neubildungen
 c) diabetes mellitus: c) Diabetes mellitus
 d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
 #3.4.2
 suicide mortality rate: Selbstmordsterblichkeit
+suicide mortality rate (1 000): Selbstmordsterblichkeit
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use: Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
+inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
 type of dependence: Art der Abhängigkeit
+type of dependence (1 000): Art der Abhängigkeit
 inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
+inpatient treatment of alcohol dependence (1 000): Stationäre Behandlung bei Alkoholabhängigkeit
 #3.5.2
 alcohol consumption (conversion by un factors): Alkoholkonsum (Umrechnung mittels UN-Faktoren)
+alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels UN-Faktoren)
 alcohol consumption (conversion by national factors): Alkoholkonsum (Umrechnung mittels nationalen Faktoren)
+alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels nationalen Faktoren)
 #3.6.1
 fatalities due to road traffic accidents: Todesfälle durch Straßenverkehrsunfälle
+fatalities due to road traffic accidents (per 100 000 inhabitants): Todesfälle durch Straßenverkehrsunfälle
 #3.7.2
 giving birth between 10 to under 15 years: Geburten im Alter von 10 bis unter 15 Jahren
+giving birth between 10 to under 15 years (per 1 000 women of same age): Geburten im Alter von 10 bis unter 15 Jahren
 giving birth between 15 to under 20 years: Geburten im Alter von 15 bis unter 20 Jahren
+giving birth between 15 to under 20 years (per 1 000 women of same age): Geburten im Alter von 15 bis unter 20 Jahren
 #3.9.2
 type of disease: Art der Erkrankung
 mortality rate attributed to : Sterblichkeit aufgrund von
+mortality rate attributed to (per 100 000 inhabitants): Sterblichkeit aufgrund von
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
 protein-energy malnutrition: Energie- und Eiweißmangelernährung
 #3.9.3
 mortality rate attributed to unintentional poisoning: Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
+mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
 #3.a.1
 current tobacco use among persons aged 15 years and older: Tabakgebrauch in der Bevölkerung ab 15 Jahren
+current tobacco use among persons aged 15 years and older (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
+current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Tabakgebrauch in der Bevölkerung ab 15 Jahren (altersstandardisiert auf die WHO-Standardbevölkerung)
 #3.b.1
 "coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": DTP-Impfquote zum Schuleintritt
+"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)": DTP-Impfquote zum Schuleintritt
 coverage of measles containing vaccine at school entrance: Masern-Impfquote zum Schuleintritt
+coverage of measles containing vaccine at school entrance (%): Masern-Impfquote zum Schuleintritt
 coverage of pneumococcal conjugate vaccine at school entrance: Pneumokokken-Impfquote zum Schuleintritt
+coverage of pneumococcal conjugate vaccine at school entrance (%): Pneumokokken-Impfquote zum Schuleintritt
 coverage of hpv containing vaccine of 15 years old girls: HPV-Impfquote bei 15-jährigen Mädchen
+coverage of hpv containing vaccine of 15 years old girls (%): HPV-Impfquote bei 15-jährigen Mädchen
 #3.b.2
 oda (gross disbursements) to medical research and basic health sectors: Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
+oda (gross disbursements) to medical research and basic health sectors (per 10 000 inhabitants): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
 #3.c.1
 health workers - practising concept: Gesundheitspersonal (mit direktem Patientenkontakt)
+health workers - practising concept (per 10 000 inhabitants): Gesundheitspersonal (mit direktem Patientenkontakt)
 profession: Beruf
 b) dentists: Zahnärzte
 health workers: Gesundheitspersonal

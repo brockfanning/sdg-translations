@@ -108,37 +108,59 @@ at-risk-of-poverty rate (according to eurostat definition): At-risk-of-poverty r
 at-risk-of-poverty rate (according to eurostat definition) (%): At-risk-of-poverty rate
 #1.2.2
 at-risk-of-poverty or social exclusion (according to eurostat definition): At-risk-of-poverty or social exclusion
+at-risk-of-poverty or social exclusion (according to eurostat definition) (%): At-risk-of-poverty or social exclusion
 extensive material deprivation: Extensive material deprivation
+extensive material deprivation (%): Extensive material deprivation
 #1.3.1
-b) population covered by health insurance: Population covered by health insurance
-a) unemployed persons with unemployment benefits: Unemployed persons with unemployment benefits
+population covered by health insurance: Population covered by health insurance
+population covered by health insurance (%): Population covered by health insurance
+unemployed persons with unemployment benefits: Unemployed persons with unemployment benefits
+unemployed persons with unemployment benefits (%): Unemployed persons with unemployment benefits
 #1.5.3
+strategy for adaptation to climate change: Strategy for Adaptation to Climate Change
 strategy for adaptation to climate change: Strategy for Adaptation to Climate Change
 #1.a.1
 government spending on foreign economic aid (cofog group 01-2): Government spending on foreign economic aid (COFOG group 01.2)
+government spending on foreign economic aid (cofog group 01-2) (%): Government spending on foreign economic aid (COFOG group 01.2)
 #1.a.2
-government spending on education (cofog section 09): Government spending on education (COFOG section 09)
-government spending on health (cofog section 07): Government spending on health (COFOG section 07)
-government spending on social protection (cofog section 10): Government spending on social protection (COFOG section 10)
+b) government spending on education (cofog section 09): Government spending on education (COFOG section 09)
+b) government spending on education (cofog section 09) (%): Government spending on education (COFOG section 09)
+a) government spending on health (cofog section 07): Government spending on health (COFOG section 07)
+a) government spending on health (cofog section 07) (%): Government spending on health (COFOG section 07)
+c) government spending on social protection (cofog section 10): Government spending on social protection (COFOG section 10)
+c) government spending on social protection (cofog section 10) (%): Government spending on social protection (COFOG section 10)
 #2.2.1
 stunting among children under the age of 5 years: Stunting among children under the age of 5 years
+stunting among children under the age of 5 years (%): Stunting among children under the age of 5 years
 #2.2.2
 overweight among children under the age of 5 years: Overweight among children under the age of 5 years
+overweight among children under the age of 5 years (%): Overweight among children under the age of 5 years
 wasting among children under the age of 5 years: Wasting among children under the age of 5 years
+wasting among children under the age of 5 years (%): Wasting among children under the age of 5 years
 #2.3.1
 labour productivity in agriculture: Labour productivity in agriculture
+labour productivity in agriculture (2010 = 100): Labour productivity in agriculture
 labour productivity in forestry : Labour productivity in forestry
+labour productivity in forestry (2010 = 100): Labour productivity in forestry
 #2.4.1
 agricultural area under productive and organic agriculture practices: Agricultural area under productive and organic agriculture practices
+agricultural area under productive and organic agriculture practices (%): Agricultural area under productive and organic agriculture practices
 ecological farming area in total agricultural area: Ecological farming area in total agricultural area
+ecological farming area in total agricultural area (%): Ecological farming area in total agricultural area
 #2.5.1
 animal genetic resources: Animal genetic resources
+animal genetic resources (number): Animal genetic resources
 plant genetic resources: Plant genetic resources
+plant genetic resources (number): Plant genetic resources
 #2.5.2
 "local livestock breeds (horses, cows, pigs, sheep and goats)": Local livestock breeds (horses, cows, pigs, sheep and goats)
+"local livestock breeds (horses, cows, pigs, sheep and goats) (number)": Local livestock breeds (horses, cows, pigs, sheep and goats)
 level of risk of extinction (according to fao classification): Level of risk of extinction (according to FAO classification)
+level of risk of extinction (according to fao classification) (%): Level of risk of extinction (according to FAO classification)
 level of risk of extinction (according to national classification): Level of risk of extinction (according to national classification)
+level of risk of extinction (according to national classification) (%): Level of risk of extinction (according to national classification)
 level of risk of extinction: Level of risk of extinction
+level of risk of extinction (%): Level of risk of extinction
 a) at risk: At risk
 b) not at risk: Not at risk
 a) not at risk: Not at risk
@@ -148,67 +170,99 @@ c) breeding programs for preservation: Breeding programs for preservation
 b) under observation: Under observation
 #2.a.1
 "'agriculture orientation index' for government expenditures": "'Agriculture orientation index' for government expenditures"
+"'agriculture orientation index' for government expenditures (index)": "'Agriculture orientation index' for government expenditures"
 #2.a.2
 oda (gross disbursements) to the agriculture sector: ODA (gross disbursements) to the agriculture sector
+oda (gross disbursements) to the agriculture sector (mn usd, constant prices (2016)): ODA (gross disbursements) to the agriculture sector
 #2.b.2
 export refunds: Export refunds
+export refunds (eur): Export refunds
 #3.1.1
 maternal mortality: Maternal mortality
+maternal mortality (per 100 000 live births): Maternal mortality
 #3.1.2
 live births in hospitals: Live births in hospitals
+live births in hospitals (%): Live births in hospitals
 #3.2.1
 infant mortality rate (under 1 year): Infant mortality rate (under 1 year)
+infant mortality rate (under 1 year) (per 1 000 live births): Infant mortality rate (under 1 year)
 under-five mortality rate: Under-five mortality rate
+under-five mortality rate (per 1 000 live births): Under-five mortality rate
 #3.2.2
 neonatal mortality rate: Neonatal mortality rate
+neonatal mortality rate (per 1 000 live births): Neonatal mortality rate
 #3.3.1
 hiv incidence: HIV incidence
+hiv incidence (per 1 000 live births): HIV incidence
 #3.3.2
 tuberculosis incidence: Tuberculosis incidence
+tuberculosis incidence (per 100 000 inhabitants): Tuberculosis incidence
 #3.3.3
 malaria incidence: Malaria incidence
+malaria incidence (per 1 000 inhabitants): Malaria incidence
 #3.3.4
 hepatitis b incidence : Hepatitis B incidence
+hepatitis b incidence (per 100 000 inhabitants): Hepatitis B incidence
 #3.4.1
 mortality rate of persons aged 30 to under 70 years attributed to: "Mortality rate of persons aged 30 to under 70 years attributed to"
+mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Mortality rate of persons aged 30 to under 70 years attributed to"
 a) cardiovascular disease: a) cardiovascular disease
 b) cancer: b) cancer
 c) diabetes mellitus: c) diabetes mellitus
 d) chronic respiratory disease: d) chronic respiratory disease
 #3.4.2
 suicide mortality rate: Suicide mortality rate
+suicide mortality rate (1 000): Suicide mortality rate
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use: Inpatient treatment of dependence syndrom due to psychoactive substance use
+inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Inpatient treatment of dependence syndrom due to psychoactive substance use
 type of dependence: Type of dependence
+type of dependence (1 000): Type of dependence
 inpatient treatment of alcohol dependence: Inpatient treatment of alcohol dependence
+inpatient treatment of alcohol dependence (1 000): Inpatient treatment of alcohol dependence
 #3.5.2
 alcohol consumption (conversion by un factors): Alcohol consumption (conversion by UN factors)
+alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by UN factors)
 alcohol consumption (conversion by national factors): Alcohol consumption (conversion by national factors)
+alcohol consumption (conversion by national factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by national factors)
 #3.6.1
 fatalities due to road traffic accidents: Fatalities due to road traffic accidents
+fatalities due to road traffic accidents (per 100 000 inhabitants): Fatalities due to road traffic accidents
 #3.7.2
 giving birth between 10 to under 15 years: Giving birth between 10 to under 15 years
+giving birth between 10 to under 15 years (per 1 000 women of same age): Giving birth between 10 to under 15 years
 giving birth between 15 to under 20 years: Giving birth between 15 to under 20 years
+giving birth between 15 to under 20 years (per 1 000 women of same age): Giving birth between 15 to under 20 years
 #3.9.2
 type of disease: Type of disease
-mortality rate attributed to : Mortality rate attributed to
+mortality rate attributed to: Mortality rate attributed to
+mortality rate attributed to (per 100 000 inhabitants): Mortality rate attributed to
 diarrhoea: diarrhoea
 intestinal nematode infections: intestinal nematode infections
 protein-energy malnutrition: protein-energy malnutrition
 #3.9.3
 mortality rate attributed to unintentional poisoning: Mortality rate attributed to unintentional poisoning
+mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Mortality rate attributed to unintentional poisoning
 #3.a.1
 current tobacco use among persons aged 15 years and older: Current tobacco use among persons aged 15 years and older
+current tobacco use among persons aged 15 years and older (%): Current tobacco use among persons aged 15 years and older
 current tobacco use among persons aged 15 years and older (age-standardised to who standard population): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
+current tobacco use among persons aged 15 years and older (age-standardised to who standard population) (%): Current tobacco use among persons aged 15 years and older (age-standardised to WHO Standard Population)
 #3.b.1
 "coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
+"coverage of dtp (diphtheria, tetanus and pertussis) containing vaccine at school entrance (%)": Coverage of DTP (diphtheria, tetanus and pertussis) containing vaccine at school entrance
 coverage of measles containing vaccine at school entrance: Coverage of measles containing vaccine at school entrance
+coverage of measles containing vaccine at school entrance (%): Coverage of measles containing vaccine at school entrance
 coverage of pneumococcal conjugate vaccine at school entrance: Coverage of pneumococcal conjugate vaccine at school entrance
+coverage of pneumococcal conjugate vaccine at school entrance (%): Coverage of pneumococcal conjugate vaccine at school entrance
 coverage of hpv containing vaccine of 15 years old girls: Coverage of HPV containing vaccine of 15 years old girls
+coverage of hpv containing vaccine of 15 years old girls (%): Coverage of HPV containing vaccine of 15 years old girls
 #3.b.2
 oda (gross disbursements) to medical research and basic health sectors: ODA (gross disbursements) to medical research and basic health sectors
+oda (gross disbursements) to medical research and basic health sectors (per 10 000 inhabitants): ODA (gross disbursements) to medical research and basic health sectors
 #3.c.1
 health workers - practising concept: Health workers - Practising concept
+health workers - practising concept (per 10 000 inhabitants): Health workers - Practising concept
 profession: Profession
 b) dentists: Dentists
 health workers: Health workers

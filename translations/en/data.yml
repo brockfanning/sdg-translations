@@ -329,23 +329,28 @@ oda (gross disbursements) for scholarships: ODA (gross disbursements) for schola
 #5.1.1
 area of law: Area of Law
 "legal frameworks that promote, enforce and monitor gender equality regarding:": "Legal frameworks that promote, enforce and monitor gender equality regarding:"
+"legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Legal frameworks that promote, enforce and monitor gender equality regarding:"
 employment and economic benefits: employment and economic benefits
 marriage and family: marriage and family
 overarching legal frameworks and public life: overarching legal frameworks and public life
 violence against women: violence against women
 #5.2.1
 female victims of criminal offences having/ had a intimate relationship with the suspect: Female victims of criminal offences having/ had a intimate relationship with the suspect
+female victims of criminal offences having/ had a intimate relationship with the suspect (number): Female victims of criminal offences having/ had a intimate relationship with the suspect
 #5.3.1
 married girls under 18 years: Married girls under 18 years
 married girls under 15 years: Married girls under 15 years
 married girls under 18 years: Married girls under 18 years
 #5.3.2
 victims of female genital mutilation: Victims of female genital mutilation
+victims of female genital mutilation (number): Victims of female genital mutilation
 #5.4.1
 time spent on unpaid domestic and care work: Time spent on unpaid domestic and care work
+time spent on unpaid domestic and care work (%): Time spent on unpaid domestic and care work
 #5.5.1
 seats held by women in national parliament: Seats held by women in national parliament
 "seats held by women in the parliament of:": "Seats held by women in the parliament of:"
+"seats held by women in the parliament of (%):": "Seats held by women in the parliament of:"
 region: Federal state
 baden-wuerttemberg: Baden-Wuerttemberg
 bavaria: Bavaria
@@ -380,13 +385,14 @@ Hamburg: Hamburg
 Schleswig-Holstein: Schleswig-Holstein
 Thüringen: Thuringia
 Bayern: Bavaria
-
-
 #5.5.2
 women in managerial positions: Women in managerial positions
+women in managerial positions (%): Women in managerial positions
 #5.b.1
 penetration rate mobile communication (related to the population): Penetration rate mobile communication (related to the population)
+penetration rate mobile communication (related to the population) (%): Penetration rate mobile communication (related to the population)
 private households with at least one mobile phone: Private households with at least one mobile phone
+private households with at least one mobile phone (%): Private households with at least one mobile phone
 #6.1.1
 population connected to the public water supply system: Population connected to the public water supply system
 population using safely managed drinking water services : Population using safely managed drinking water services

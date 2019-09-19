@@ -330,23 +330,28 @@ oda (gross disbursements) for scholarships: Bruttoentwicklungsausgaben für Stip
 #5.1.1
 area of law: Rechtsgebiet
 "legal frameworks that promote, enforce and monitor gender equality regarding:": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich"
+"legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich"
 employment and economic benefits: Erwerbstätigkeit und wirtschaftlicher Nutzen
 marriage and family: Ehe und Familie
 overarching legal frameworks and public life: übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
 violence against women:  Gewalt gegen Frauen
 #5.2.1
 female victims of criminal offences having/ had a intimate relationship with the suspect: Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen
+female victims of criminal offences having/ had a intimate relationship with the suspect (number): Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen
 #5.3.1
 married girls under 18 years: Verheiratete Mädchen unter 18 Jahren
 married girls under 15 years: Verheiratete Mädchen unter 15 Jahren
 married girls under 18 years: Verheiratete Mädchen unter 18 Jahren
-#5.3.1
+#5.3.2
 victims of female genital mutilation: Opfer von Verstümmelung weiblicher Genitalien
+victims of female genital mutilation (number): Opfer von Verstümmelung weiblicher Genitalien
 #5.4.1
 time spent on unpaid domestic and care work: Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird
+time spent on unpaid domestic and care work (%): Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird
 #5.5.1
 seats held by women in national parliament: Sitze im nationalen Parlament, die Frauen innehaben
 "seats held by women in the parliament of:": "Sitze in den Landesparlamenten, die Frauen innehaben"
+"seats held by women in the parliament of (%):": "Sitze in den Landesparlamenten, die Frauen innehaben"
 region: Bundesland
 baden-wuerttemberg: Baden-Württemberg
 bavaria: Bayern
@@ -366,9 +371,12 @@ schleswig-holstein: Schleswig-Holstein
 thuringia: Thüringen
 #5.5.2
 women in managerial positions: Frauen in Führungspositionen
+women in managerial positions (%): Frauen in Führungspositionen
 #5.b.1
 penetration rate mobile communication (related to the population): Penetrationsrate Mobilfunk (bezogen auf die Bevölkerung)
+penetration rate mobile communication (related to the population) (%): Penetrationsrate Mobilfunk (bezogen auf die Bevölkerung)
 private households with at least one mobile phone: Privathaushalte mit mindestens einem Mobiltelefon
+private households with at least one mobile phone (%): Privathaushalte mit mindestens einem Mobiltelefon
 #6.1.1
 population connected to the public water supply system: Bevölkerung mit Anschluss an die öffentliche Wasserversorgung
 population using safely managed drinking water services: Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung

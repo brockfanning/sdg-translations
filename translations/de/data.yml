@@ -272,19 +272,26 @@ d) pharmacists: Apotheker
 a) medical doctors: Ärzte
 #3.d.1
 average of 13 ihr core capacity scores: Durchschnitt der 13 IGV-Kapazitäten-Punktwerte
+average of 13 ihr core capacity scores (%): Durchschnitt der 13 IGV-Kapazitäten-Punktwerte
 #4.1.1
 subject: Fach
 a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in"
+a) children and youths in grades 2/3 with a minimum proficiency level in (%): "a) Kinder und Jugendliche in den Klassen 2/3 mit einem Mindestleistungsniveau in"
 c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in"
 mathematics: Mathematik
 reading: Lesen
 #4.2.2
 children in child day care at the age of 5: Kinder in Kindertagesbetreuung im Alter von 5 Jahren
+children in child day care at the age of 5 (%): Kinder in Kindertagesbetreuung im Alter von 5 Jahren
 #4.3.1
 participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months: Teilnahmequote der 15 bis unter 25-Jährigen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
+participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der 15 bis unter 25-Jährigen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
 participation rate of adults in formal and non-formal education and training in the previous 12 months: Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
+participation rate of adults in formal and non-formal education and training in the previous 12 months (%): Teilnahmequote der Erwachsenen in der formalen und non-formalen Bildung und Ausbildung in den letzten 12 Monaten
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months: Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten
+persons (10 years and older) with computer-related activities in the last 12 months (%): Personen (10 Jahre und älter) mit computerbezogenen Aktivitäten in den letzten 12 Monaten
 activities: Aktivitäten
 copying or moving of files and folders: Kopieren oder Verschieben von Dateien und Ordnern
 installing software or apps: Installation von Software oder Anwendungen
@@ -300,12 +307,15 @@ sdg indicator 4-3-1 (youth): SDG Indikator 4.3.1 (Jugendliche)
 #4.6.1
 level of proficiency: Leistungsniveau
 "adult population achieving at least a fixed level of proficiency in functional a) literacy skills:": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen"
+"adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: a) Lesen"
 "adult population achieving at least a fixed level of proficiency in functional b) numeracy skills:": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen"
+"adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen"
 minimum requirement level i: Mindestniveau Stufe I
 minimum requirement level ii: Mindestniveau Stufe II
 #4.a.1
 facilities: Ausstattung
 "schools with access to:": "Schulen mit Zugang zu"
+"schools with access to (%):": "Schulen mit Zugang zu"
 a) electricity: a) Elektrizität
 b) the internet for pedagogical purposes: b) Internet für pädagogische Zwecke
 c) computers for pedagogical purposes: c) Computer für pädagogische Zwecke
@@ -315,7 +325,9 @@ f) single-sex basic sanitation facilities: f) geschlechterspezifische, grundlege
 g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen
 #4.b.1
 oda (gross disbursements) for imputed student costs: Bruttoentwicklungsausgaben für Studienplatzkosten
+"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für Studienplatzkosten
 oda (gross disbursements) for scholarships: Bruttoentwicklungsausgaben für Stipendien
+"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für Stipendien
 #5.1.1
 area of law: Rechtsgebiet
 "legal frameworks that promote, enforce and monitor gender equality regarding:": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich"

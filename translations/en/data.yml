@@ -271,19 +271,26 @@ d) pharmacists: Pharmacists
 a) medical doctors: Medical doctors
 #3.d.1
 average of 13 ihr core capacity scores: Average of 13 IHR core capacity scores
+average of 13 ihr core capacity scores (%): Average of 13 IHR core capacity scores
 #4.1.1
 subject: Subject
 a) children and youths in grades 2/3 with a minimum proficiency level in: "a) Children and youths in grades 2/3 with a minimum proficiency level in"
+a) children and youths in grades 2/3 with a minimum proficiency level in (%): "a) Children and youths in grades 2/3 with a minimum proficiency level in"
 c) children and youths at the end of lower secondary education with a minimum proficiency level in: "c) Children and youths at the end of lower secondary education with a minimum proficiency level in"
+c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Children and youths at the end of lower secondary education with a minimum proficiency level in"
 mathematics: mathematics
 reading: reading
 #4.2.2
 children in child day care at the age of 5: Children in child day care at the age of 5
+children in child day care at the age of 5 (%): Children in child day care at the age of 5
 #4.3.1
 participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months: Participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months
+participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months (%): Participation rate of 15 to under 25 years old persons in formal and non-formal education and training in the previous 12 months
 participation rate of adults in formal and non-formal education and training in the previous 12 months: Participation rate of adults in formal and non-formal education and training in the previous 12 months
+participation rate of adults in formal and non-formal education and training in the previous 12 months (%): Participation rate of adults in formal and non-formal education and training in the previous 12 months
 #4.4.1
 persons (10 years and older) with computer-related activities in the last 12 months: Persons (10 years and older) with computer-related activities in the last 12 months
+persons (10 years and older) with computer-related activities in the last 12 months (%): Persons (10 years and older) with computer-related activities in the last 12 months
 activities: Activities
 copying or moving of files and folders: Copying or moving of files and folders
 installing software or apps: Installing software or apps
@@ -299,12 +306,15 @@ sdg indicator 4-3-1 (youth): SDG indicator 4.3.1 (youth)
 #4.6.1
 level of proficiency: Level of proficiency
 "adult population achieving at least a fixed level of proficiency in functional a) literacy skills:": "Adult population achieving at least a fixed level of proficiency in functional: a) literacy skills"
+"adult population achieving at least a fixed level of proficiency in functional a) literacy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: a) literacy skills"
 "adult population achieving at least a fixed level of proficiency in functional b) numeracy skills:": "Adult population achieving at least a fixed level of proficiency in functional: b) numeracy skills"
+"adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: b) numeracy skills"
 minimum requirement level i: minimum requirement level I
 minimum requirement level ii: minimum requirement level II
 #4.a.1
 facilities: Facilities
 "schools with access to:": "Schools with access to"
+"schools with access to (%):": "Schools with access to"
 a) electricity: a) electricity
 b) the internet for pedagogical purposes: b) the Internet for pedagogical purposes
 c) computers for pedagogical purposes: c) computers for pedagogical purposes
@@ -314,7 +324,9 @@ f) single-sex basic sanitation facilities: f) single-sex basic sanitation facili
 g) basic handwashing facilities (as per the wash indicator definitions): g) basic handwashing facilities
 #4.b.1
 oda (gross disbursements) for imputed student costs: ODA (gross disbursements) for imputed student costs
+"oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))": ODA (gross disbursements) for imputed student costs
 oda (gross disbursements) for scholarships: ODA (gross disbursements) for scholarships
+"oda (gross disbursements) for scholarships (mn usd, constant prices (2016))": ODA (gross disbursements) for scholarships
 #5.1.1
 area of law: Area of Law
 "legal frameworks that promote, enforce and monitor gender equality regarding:": "Legal frameworks that promote, enforce and monitor gender equality regarding:"

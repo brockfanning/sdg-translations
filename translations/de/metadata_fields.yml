@@ -7,12 +7,12 @@ goal_meta_link: Link zu den globalen Metadaten dieses Indikators
 goal_meta_national_link: Link zu den nationalen Metadaten
 history_indicator_1: Indikator
 history_target_1: Ziel
-history_years_1: Jahr
-history_url_1: Bewertung
+history_year_d_1: Jahr
+history_status_year_d_1: Bewertung
 history_indicator_2: Indikator
 history_target_2: Ziel
-history_years_2: Jahr
-history_url_2: Bewertung
+history_year_d_2: Jahr
+history_status_year_d_2: Bewertung
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
 dns_indicator_definition: Indikatorenbeschreibung

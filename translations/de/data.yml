@@ -2,12 +2,12 @@ sex: Geschlecht
 sex (all age groups): Geschlecht (alle Altersklassen)
 "sex (all age groups, with and without disabilities)": Geschlecht (alle Altersklassen, mit und ohne Behinderung)
 sex: Geschlecht
-female: weiblich
-male: männlich
+female: Weiblich
+male: Männlich
 male and female: männlich und weiblich
 "1) male and female": männlich und weiblich
 other: Divers
-unknown: unbekannte
+unknown: Unbekannte
 age: Altersklasse
 age (male and female): Altersklasse (männlich und weiblich)
 "age (male and female, with and without disabilities)": Altersklasse (männlich und weiblich, mit und ohne Behinderung)
@@ -42,7 +42,7 @@ timeseries: "Zeitreihe"
 area: Gebiet
 
 #ages
-0 - unknown age: unbekanntes Alter
+0 - unknown age: Unbekanntes Alter
 10 to under 16 years: 10 bis unter 16 Jahre
 13 years and under: 13 Jahre und jünger #Unter 14 Jahren
 under 14 years: Unter 14 Jahren
@@ -50,7 +50,7 @@ under 14 years: Unter 14 Jahren
 15 to under 25 years: 15 bis unter 25 Jahre
 16 to under 25 years: 16 bis unter 25 Jahre
 17 years and under: 17 Jahre und jünger #Unter 18 Jahren
-under 18 years: unter 18 Jahren
+under 18 years: Unter 18 Jahren
 18 to under 65 years: 18 bis unter 65 Jahre
 18 to under 21 years: 18 bis unter 21 Jahre
 18 to under 30 years: 18 bis unter 30 Jahre
@@ -85,7 +85,7 @@ per 100 inhabitants: Je 100 Einwohner
 per 1 000 inhabitants: Je 1 000 Einwohner
 per 10 000 inhabitants: Je 10 000 Einwohner
 per 100 000 inhabitants: Je 100 000 Einwohner
-per 1 mn inhabitants: je 1 Mill. Einwohner
+per 1 mn inhabitants: jJe 1 Mill. Einwohner
 per 1 000 women of same age: Je 1 000 Frauen gleichen Alters
 litres of pure alcohol per capita: Liter puren Alkohols pro Einwohner
 mn t: Mill. t

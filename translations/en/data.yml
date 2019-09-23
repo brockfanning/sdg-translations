@@ -2,17 +2,17 @@ sex: Sex
 sex (all age groups): Sex (all age groups)
 "sex (all age groups, with and without disabilities)": Sex (all age groups, with and without disabilities)
 sex: Sex
-female: female
-male: male
-male and female: male and female
-"1) male and female": male and female
+female: Female
+male: Male
+male and female: Male and female
+"1) male and female": Male and female
 other: Other
 unknown: Unknown
 age: Age group
 age (male and female): Age group (male and female)
 "age (male and female, with and without disabilities)": Age (male and female, with and without disabilities)
-all age groups: all age groups
-"1) all age groups": all age groups
+all age groups: All age groups
+"1) all age groups": All age groups
 urbanisation: Degree of urbanisation
 rural: Rural
 urban: Urban
@@ -49,7 +49,7 @@ under 14 years: Under 14 years
 14 to under 18 years: 14 to under 18 years
 15 to under 25 years: 15 to under 25 years
 16 to under 25 years: 16 to under 25 years
-17 years and under: 17 Years and under #Under 18 years
+17 years and under: 17 years and under #Under 18 years
 under 18 years: under 18 years
 18 to under 21 years: 18 to under 21 years
 18 to under 30 years: 18 to under 30 years

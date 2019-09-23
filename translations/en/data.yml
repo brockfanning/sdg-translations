@@ -192,7 +192,7 @@ neonatal mortality rate: Neonatal mortality rate
 neonatal mortality rate (per 1 000 live births): Neonatal mortality rate
 #3.3.1
 hiv incidence: HIV incidence
-hiv incidence (per 1 000 live births): HIV incidence
+hiv incidence (per 1 000 inhabitants): HIV incidence
 #3.3.2
 tuberculosis incidence: Tuberculosis incidence
 tuberculosis incidence (per 100 000 inhabitants): Tuberculosis incidence
@@ -211,7 +211,7 @@ c) diabetes mellitus: c) diabetes mellitus
 d) chronic respiratory disease: d) chronic respiratory disease
 #3.4.2
 suicide mortality rate: Suicide mortality rate
-suicide mortality rate (1 000): Suicide mortality rate
+suicide mortality rate (per 100 000 inhabitants): Suicide mortality rate
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use: Inpatient treatment of dependence syndrom due to psychoactive substance use
 inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Inpatient treatment of dependence syndrom due to psychoactive substance use
@@ -258,7 +258,7 @@ coverage of hpv containing vaccine of 15 years old girls: Coverage of HPV contai
 coverage of hpv containing vaccine of 15 years old girls (%): Coverage of HPV containing vaccine of 15 years old girls
 #3.b.2
 oda (gross disbursements) to medical research and basic health sectors: ODA (gross disbursements) to medical research and basic health sectors
-oda (gross disbursements) to medical research and basic health sectors (per 10 000 inhabitants): ODA (gross disbursements) to medical research and basic health sectors
+"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))": ODA (gross disbursements) to medical research and basic health sectors
 #3.c.1
 health workers - practising concept: Health workers - Practising concept
 health workers - practising concept (per 10 000 inhabitants): Health workers - Practising concept
@@ -349,6 +349,7 @@ time spent on unpaid domestic and care work: Time spent on unpaid domestic and c
 time spent on unpaid domestic and care work (%): Time spent on unpaid domestic and care work
 #5.5.1
 seats held by women in national parliament: Seats held by women in national parliament
+seats held by women in national parliament (%): Seats held by women in national parliament
 "seats held by women in the parliament of:": "Seats held by women in the parliament of:"
 "seats held by women in the parliament of (%):": "Seats held by women in the parliament of:"
 region: Federal state
@@ -395,46 +396,60 @@ private households with at least one mobile phone: Private households with at le
 private households with at least one mobile phone (%): Private households with at least one mobile phone
 #6.1.1
 population connected to the public water supply system: Population connected to the public water supply system
+population connected to the public water supply system (%): Population connected to the public water supply system
 population using safely managed drinking water services : Population using safely managed drinking water services
+population using safely managed drinking water services (%): Population using safely managed drinking water services
 #6.2.1
 a) population using safely managed sanitation services: a) Population using safely managed sanitation services
+a) population using safely managed sanitation services (%): a) Population using safely managed sanitation services
 b) population with a bathtub or a shower: b) Population with a bathtub or a shower
+b) population with a bathtub or a shower (%): b) Population with a bathtub or a shower
 #6.3.1
 wastewater safely treated: Wastewater safely treated
+wastewater safely treated (%): Wastewater safely treated
 type of treatment: Type of treatment
 untreated wastewater that does not have to undergo treatment: Untreated wastewater that does not have to undergo treatment
 cooling water: Cooling water
 other wastewater that does not have to undergo treatment: Other wastewater that does not have to undergo treatment
 #6.3.2
 water bodies with good quality: Water bodies with good quality
-water bodies with good quality: Water bodies with good quality
+water bodies with good quality (%): Water bodies with good quality
 type of water body: Type of water body
 river water bodies: River water bodies
 open water bodies: Open water bodies
 #6.4.1
 water use efficiency: Water use efficiency
+water use efficiency (2010 = 100): Water use efficiency
 economic sector: Economic sector
-"agriculture, forestry and fishing (nace rev 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
-"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
-"services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G, to T)"
+"a) agriculture, forestry and fishing (nace rev 2, section a)": "Agriculture, forestry and fishing (NACE Rev. 2, section A)"
+"b) mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, sections B, C, D, F)"
+"c) services (nace rev 2, sections e, g to t)": "Services (NACE Rev. 2, sections E, G, to T)"
 #6.4.2
 level of waterstress: Level of waterstress
 "level of water stress:": "Level of water stress"
+"level of water stress (%):": "Level of water stress"
 share of withdrawal in renewable water resources: Share of withdrawal in renewable water resources
 share of withdrawal in renewable water resources (excluding cooling water): Share of withdrawal in renewable water resources (excluding cooling water)
 #6.5.1
 degree of integrated water resources management implementation: Degree of integrated water resources management implementation
+degree of integrated water resources management implementation (%): Degree of integrated water resources management implementation
 #6.5.2
 transboundary basin area with an operational arrangement for water cooperation: Transboundary basin area with an operational arrangement for water cooperation
+transboundary basin area with an operational arrangement for water cooperation (%): Transboundary basin area with an operational arrangement for water cooperation
 #6.6.1
 "sub-indicator 1: spatial extent of water-related ecosystems": "Sub-indicator 1: Spatial extent of water-related ecosystems"
+"sub-indicator 1: spatial extent of water-related ecosystems (%)": "Sub-indicator 1: Spatial extent of water-related ecosystems"
 "sub-indicator 3:  quantity discharge of water in rivers": "Sub-indicator 3:  Quantity discharge of water in rivers"
+"sub-indicator 3:  quantity discharge of water in rivers (%)": "Sub-indicator 3:  Quantity discharge of water in rivers"
 "sub-indicator 4: water bodies with good quality": "Sub-indicator 4: Water bodies with good quality"
+"sub-indicator 4: water bodies with good quality (%)": "Sub-indicator 4: Water bodies with good quality"
 flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies
 #6.a.1
 b) oda (gross disbursements) for other related water and sanitation purposes: ODA (gross disbursements) for other related water and sanitation purposes
+oda (gross disbursements) for other related water and sanitation purposes (%): ODA (gross disbursements) for other related water and sanitation purposes
 a) oda (gross disbursements) for water and sanitation: ODA (gross disbursements) for water and sanitation
+oda (gross disbursements) for water and sanitation (%): ODA (gross disbursements) for water and sanitation
 #7.1.1
 households and small-sized enterprises connected to the electricity network: Households and small-sized enterprises connected to the electricity network
 population with access to electricity: Population with access to electricity

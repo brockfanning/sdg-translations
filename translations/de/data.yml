@@ -193,7 +193,7 @@ neonatal mortality rate: Sterberate bei Neugeborenen
 neonatal mortality rate (per 1 000 live births): Sterberate bei Neugeborenen
 #3.3.1
 hiv incidence: Auftreten von HIV
-hiv incidence (per 1 000 live births): Auftreten von HIV
+hiv incidence (per 1 000 inhabitants): Auftreten von HIV
 #3.3.2
 tuberculosis incidence: Auftreten von Tuberkulose
 tuberculosis incidence (per 100 000 inhabitants): Auftreten von Tuberkulose
@@ -212,7 +212,7 @@ c) diabetes mellitus: c) Diabetes mellitus
 d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
 #3.4.2
 suicide mortality rate: Selbstmordsterblichkeit
-suicide mortality rate (1 000): Selbstmordsterblichkeit
+suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit
 #3.5.1
 inpatient treatment of dependence syndrom due to psychoactive substance use: Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
 inpatient treatment of dependence syndrom due to psychoactive substance use (1 000): Stationäre Behandlung bei Abhängigkeit durch psychotrope Substanzen
@@ -259,7 +259,7 @@ coverage of hpv containing vaccine of 15 years old girls: HPV-Impfquote bei 15-j
 coverage of hpv containing vaccine of 15 years old girls (%): HPV-Impfquote bei 15-jährigen Mädchen
 #3.b.2
 oda (gross disbursements) to medical research and basic health sectors: Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
-oda (gross disbursements) to medical research and basic health sectors (per 10 000 inhabitants): Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
+"oda (gross disbursements) to medical research and basic health sectors (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für medizinische Forschung und den Basisgesundheitssektor
 #3.c.1
 health workers - practising concept: Gesundheitspersonal (mit direktem Patientenkontakt)
 health workers - practising concept (per 10 000 inhabitants): Gesundheitspersonal (mit direktem Patientenkontakt)
@@ -350,6 +350,7 @@ time spent on unpaid domestic and care work: Zeit, die für unbezahlte Haus- und
 time spent on unpaid domestic and care work (%): Zeit, die für unbezahlte Haus- und Pflegearbeit aufgewendet wird
 #5.5.1
 seats held by women in national parliament: Sitze im nationalen Parlament, die Frauen innehaben
+seats held by women in national parliament (%): Sitze im nationalen Parlament, die Frauen innehaben
 "seats held by women in the parliament of:": "Sitze in den Landesparlamenten, die Frauen innehaben"
 "seats held by women in the parliament of (%):": "Sitze in den Landesparlamenten, die Frauen innehaben"
 region: Bundesland
@@ -379,46 +380,60 @@ private households with at least one mobile phone: Privathaushalte mit mindesten
 private households with at least one mobile phone (%): Privathaushalte mit mindestens einem Mobiltelefon
 #6.1.1
 population connected to the public water supply system: Bevölkerung mit Anschluss an die öffentliche Wasserversorgung
+population connected to the public water supply system (%): Bevölkerung mit Anschluss an die öffentliche Wasserversorgung
 population using safely managed drinking water services: Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung
+population using safely managed drinking water services (%): Bevölkerung mit einer sicher verwalteten Trinkwasserversorgung
 #6.2.1
 a) population using safely managed sanitation services: a) Bevölkerung mit einer sicher verwalteten Abwasserversorgung
+a) population using safely managed sanitation services (%): a) Bevölkerung mit einer sicher verwalteten Abwasserversorgung
 b) population with a bathtub or a shower: b) Bevölkerung mit einer Badewanne oder Dusche
+b) population with a bathtub or a shower (%): b) Bevölkerung mit einer Badewanne oder Dusche
 #6.3.1
 wastewater safely treated: Sicher behandeltes Abwasser
+wastewater safely treated (%): Sicher behandeltes Abwasser
 type of treatment: Art der Behandlung
 untreated wastewater that does not have to undergo treatment: Abwasser, das keiner Abwasserbehandlung bedarf
 cooling water: Kühlwasser
 other wastewater that does not have to undergo treatment: Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf
 #6.3.2
 water bodies with good quality: Gewässer mit guter Wasserqualität
-water bodies with good quality: Gewässer mit guter Wasserqualität
+water bodies with good quality (%): Gewässer mit guter Wasserqualität
 type of water body: Art des Gewässers
 river water bodies: Fließgewässer
 open water bodies: Seen und Talsperren
 #6.4.1
 water use efficiency: Wasserproduktivität
+water use efficiency (2010 = 100): Wasserproduktivität
 economic sector: Wirtschaftszweig
-"agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
-"mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
-"services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G to T)"
+"a) agriculture, forestry and fishing (nace rev 2, section a)": "Land- und Forstwirtschaft, Fischerei (NACE Rev. 2, Abschnitt A)"
+"b) mimec (nace rev 2, sections b, c, d, f)": "MIMEC (NACE Rev. 2, Abschnitte B, C, D, F)"
+"c) services (nace rev 2, sections e, g to t)": "Dienstleistungen (NACE Rev. 2, Abschnitte E, G to T)"
 #6.4.2
 level of waterstress: Nutzung der Wasserressourcen
 "level of water stress:": "Nutzung der Wasserressourcen"
+"level of water stress (%):": "Nutzung der Wasserressourcen"
 share of withdrawal in renewable water resources: Anteil der Gewinnung an den erneuerbaren Wasserressourcen
 share of withdrawal in renewable water resources (excluding cooling water): Anteil der Gewinnung an den erneuerbaren Wasserressourcen (ohne Kühlwasser)
 #6.5.1
 degree of integrated water resources management implementation: Grad der Implementierung eines integrierten Wasserressourcenmanagements
+degree of integrated water resources management implementation (%): Grad der Implementierung eines integrierten Wasserressourcenmanagements
 #6.5.2
 transboundary basin area with an operational arrangement for water cooperation: Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation
+transboundary basin area with an operational arrangement for water cooperation (%): Grenzüberschreitende Flussgebiete mit einer internationalen Wasserkooperation
 #6.6.1
 "Sub-indicator 1: Spatial extent of water-related ecosystems": "Subindikator 1: Fläche der wasserbezogenen Ökosysteme"
+"Sub-indicator 1: Spatial extent of water-related ecosystems (%)": "Subindikator 1: Fläche der wasserbezogenen Ökosysteme"
 "Sub-indicator 3:  Quantity discharge of water in rivers": "Subindikator 3: Wasserabfluss über Flüsse"
+"Sub-indicator 3:  Quantity discharge of water in rivers (%)": "Subindikator 3: Wasserabfluss über Flüsse"
 "Sub-indicator 4: Water bodies with good quality": "Subindikator 4: Gewässer mit guter Wasserqualität"
+"Sub-indicator 4: Water bodies with good quality (%)": "Subindikator 4: Gewässer mit guter Wasserqualität"
 flowing water bodies: Fließgewässer
 standing water bodies: Stehende Gewässer
 #6.a.1
 b) oda (gross disbursements) for other related water and sanitation purposes: Bruttoentwicklungsausgaben für verwandte Zwecke
+oda (gross disbursements) for other related water and sanitation purposes (%): Bruttoentwicklungsausgaben für verwandte Zwecke
 a) oda (gross disbursements) for water and sanitation: Bruttoentwicklungsausgaben für Wasser und Sanitär
+oda (gross disbursements) for water and sanitation (%): Bruttoentwicklungsausgaben für Wasser und Sanitär
 #7.1.1
 households and small-sized enterprises connected to the electricity network: Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind
 population with access to electricity: Bevölkerung mit Zugang zu Elektrizität

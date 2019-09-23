@@ -447,22 +447,26 @@ flowing water bodies: Flowing water bodies
 standing water bodies: Standing water bodies
 #6.a.1
 b) oda (gross disbursements) for other related water and sanitation purposes: ODA (gross disbursements) for other related water and sanitation purposes
-oda (gross disbursements) for other related water and sanitation purposes (%): ODA (gross disbursements) for other related water and sanitation purposes
+"oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))": ODA (gross disbursements) for other related water and sanitation purposes
 a) oda (gross disbursements) for water and sanitation: ODA (gross disbursements) for water and sanitation
-oda (gross disbursements) for water and sanitation (%): ODA (gross disbursements) for water and sanitation
+"oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))": ODA (gross disbursements) for water and sanitation
 #7.1.1
 households and small-sized enterprises connected to the electricity network: Households and small-sized enterprises connected to the electricity network
 population with access to electricity: Population with access to electricity
 #7.2.1
 renewable energy share in gross final energy consumption (according to national definition): Renewable energy share in gross final energy consumption (according to national definition)
+renewable energy share in gross final energy consumption (according to national definition) (%): Renewable energy share in gross final energy consumption (according to national definition)
 renewable energy share in total final energy consumption (according to un definition): Renewable energy share in total final energy consumption (according to UN definition)
+renewable energy share in total final energy consumption (according to un definition) (%): Renewable energy share in total final energy consumption (according to UN definition)
 #7.3.1
 energy intensity measured in terms of primary energy and gdp: Energy intensity measured in terms of primary energy and GDP
 energy intensity measured in terms of primary energy and gdp: Energy intensity measured in terms of primary energy and GDP
 #8.1.1
 annual growth rate of real gdp per capita: Annual growth rate of real GDP per capita
+annual growth rate of real gdp per capita (%): Annual growth rate of real GDP per capita
 #8.2.1
 annual growth rate of real gdp per employed person: Annual growth rate of real GDP per employed person
+annual growth rate of real gdp per employed person (%): Annual growth rate of real GDP per employed person
 #8.4.1
 rmc (abiotic and biotic material): RMC (abiotic and biotic material)
 rmc per capita: RMC per capita
@@ -478,31 +482,42 @@ average hourly earnings of employees: Average hourly earnings of employees
 gender pay gap: Gender Pay Gap
 #8.5.2
 unemployment rate: Unemployment rate
+unemployment rate (%): Unemployment rate
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
+young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%): Young people (15 to under 25 years) neither in employment nor in education and training  (NEET rates)
 #8.7.1
 young victims of trafficking in human beings with intent to exploit man power: Young victims of trafficking in human beings with intent to exploit man power
+young victims of trafficking in human beings with intent to exploit man power (number): Young victims of trafficking in human beings with intent to exploit man power
 #8.8.1
 fatal occupational accidents: Fatal occupational accidents
+fatal occupational accidents (per 100 000 employees): Fatal occupational accidents
 non-fatal occupational accidents: Non-fatal occupational accidents
+non-fatal occupational accidents (per 100 000 employees): Non-fatal occupational accidents
 #8.9.1
 share of tourism industries to total value added: Share of tourism industries to total value added
+share of tourism industries to total value added (%): Share of tourism industries to total value added
 #8.9.2
 persons employed in accommodation: Persons employed in accommodation
+persons employed in accommodation (1 000): Persons employed in accommodation
 persons employed in tourism industries: Persons employed in tourism industries
+persons employed in tourism industries (1 000): Persons employed in tourism industries
 #8.10.1
 a) branches of payment service providers: a) Branches of payment service providers
 b) atms of national payment service providers: b) ATMs of national payment service providers
-a) branches of payment service providers: a) Branches of payment service providers
-b) atms of national payment service providers: b) ATMs of national payment service providers
+a) branches of payment service providers (per 100 000 adults): a) Branches of payment service providers
+b) atms of national payment service providers (per 100 000 adults): b) ATMs of national payment service providers
 #8.10.2
 accounts at payment service providers: Accounts at payment service providers
+accounts at payment service providers (1 000): Accounts at payment service providers
 type of account: Type of account
 online accounts: Online accounts
 current accounts: Current accounts
 #8.a.1
 aid for trade commitments (oda and oof): Aid for trade commitments (ODA and OOF)
+"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))": Aid for trade commitments (ODA and OOF)
 aid for trade gross disbursements (oda and oof): Aid for trade gross disbursements (ODA and OOF)
+"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))": Aid for trade gross disbursements (ODA and OOF)
 #9.1.2
 a) passenger transport: a) Passenger transport
 b) freight transport: b) Freight transport

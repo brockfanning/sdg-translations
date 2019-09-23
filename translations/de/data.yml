@@ -431,22 +431,26 @@ flowing water bodies: Fließgewässer
 standing water bodies: Stehende Gewässer
 #6.a.1
 b) oda (gross disbursements) for other related water and sanitation purposes: Bruttoentwicklungsausgaben für verwandte Zwecke
-oda (gross disbursements) for other related water and sanitation purposes (%): Bruttoentwicklungsausgaben für verwandte Zwecke
+"oda (gross disbursements) for other related water and sanitation purposes (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für verwandte Zwecke
 a) oda (gross disbursements) for water and sanitation: Bruttoentwicklungsausgaben für Wasser und Sanitär
-oda (gross disbursements) for water and sanitation (%): Bruttoentwicklungsausgaben für Wasser und Sanitär
+"oda (gross disbursements) for water and sanitation (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für Wasser und Sanitär
 #7.1.1
 households and small-sized enterprises connected to the electricity network: Haushalte und Kleinbetriebe, die an das Elektrizitätsnetzwerk angebunden sind
 population with access to electricity: Bevölkerung mit Zugang zu Elektrizität
 #7.2.1
 renewable energy share in gross final energy consumption (according to national definition): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition)
+renewable energy share in gross final energy consumption (according to national definition) (%): Anteil der erneuerbaren Energien am Bruttoendenergieverbrauch (nach nationaler Definition)
 renewable energy share in total final energy consumption (according to un definition): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition)
+renewable energy share in total final energy consumption (according to un definition) (%): Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch (nach UN-Definition)
 #7.3.1
 energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP
 energy intensity measured in terms of primary energy and gdp: Energieintensität gemessen in Bezug auf Primärenergie und BIP
 #8.1.1
 annual growth rate of real gdp per capita: Jährliche Wachstumsrate des realen BIP pro Kopf
+annual growth rate of real gdp per capita (%): Jährliche Wachstumsrate des realen BIP pro Kopf
 #8.2.1
 annual growth rate of real gdp per employed person: Jährliche Wachstumsrate des realen BIP pro Beschäftigten
+annual growth rate of real gdp per employed person (%): Jährliche Wachstumsrate des realen BIP pro Beschäftigten
 #8.4.1
 rmc (abiotic and biotic material): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe)
 rmc per capita: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner
@@ -462,31 +466,42 @@ average hourly earnings of employees: Durchschnittlicher Stundenlohn Beschäftig
 gender pay gap: Verdienstabstand
 #8.5.2
 unemployment rate: Erwerbslosenquote
+unemployment rate (%): Erwerbslosenquote
 #8.6.1
 young people (15 to under 25 years) neither in employment nor in education and training  (neet rates): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
+young people (15 to under 25 years) neither in employment nor in education and training (neet rates) (%): Jugendliche (15 bis unter 25 Jahre), die weder eine Arbeit haben, noch in einer schulischen oder beruflichen Ausbildung sind (NEET-Raten)
 #8.7.1
 young victims of trafficking in human beings with intent to exploit man power: Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
+young victims of trafficking in human beings with intent to exploit man power (number): Kinder als Opfer von Menschenhandel zum Zweck der Ausbeutung der Arbeitskraft
 #8.8.1
 fatal occupational accidents: Tödliche Arbeitsunfälle
+fatal occupational accidents (per 100 000 employees): Tödliche Arbeitsunfälle
 non-fatal occupational accidents: Nicht-tödliche Arbeitsunfälle
+non-fatal occupational accidents (per 100 000 employees): Nicht-tödliche Arbeitsunfälle
 #8.9.1
 share of tourism industries to total value added: Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung
+share of tourism industries to total value added (%): Anteil des Tourismusbereichs an der gesamten Bruttowertschöpfung
 #8.9.2
 persons employed in accommodation: Tätige Personen im Gastgewerbe
+persons employed in accommodation 1 000): Tätige Personen im Gastgewerbe
 persons employed in tourism industries: Erwerbstätige im Tourismus
+persons employed in tourism industries (1 000): Erwerbstätige im Tourismus
 #8.10.1
 a) branches of payment service providers: a) Zweigstellen von Zahlungsverkehrsdienstleistern
 b) atms of national payment service providers: b) Bankautomaten von inländischen Zahlungsdienstleistern
-a) branches of payment service providers: a) Zweigstellen von Zahlungsverkehrsdienstleistern
-b) atms of national payment service providers: b) Bankautomaten von inländischen Zahlungsdienstleistern
+a) branches of payment service providers (per 100 000 adults): a) Zweigstellen von Zahlungsverkehrsdienstleistern
+b) atms of national payment service providers (per 100 000 adults): b) Bankautomaten von inländischen Zahlungsdienstleistern
 #8.10.2
 accounts at payment service providers: Konten bei Zahlungsverkehrsdienstleistern
+accounts at payment service providers (1 000): Konten bei Zahlungsverkehrsdienstleistern
 type of account: Kontoart
 online accounts: Online-Konten
 current accounts: Girokonten
 #8.a.1
 aid for trade commitments (oda and oof): Verpflichtungen zur Handelshilfe (ODA und OOF)
+"aid for trade commitments (oda and oof) (mn usd, constant prices (2016))": Verpflichtungen zur Handelshilfe (ODA und OOF)
 aid for trade gross disbursements (oda and oof): Bruttoauszahlungen für Handelshilfe (ODA und OOF)
+"aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))": Bruttoauszahlungen für Handelshilfe (ODA und OOF)
 #9.1.2
 a) passenger transport: a) Personenverkehr
 b) freight transport: b) Güterverkehr

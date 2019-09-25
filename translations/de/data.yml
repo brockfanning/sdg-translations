@@ -543,21 +543,33 @@ technology: Technologie
 lte: LTE abgedeckt sind
 #10.1.1
 growth rate of income of the bottom 40 per cent of the population: Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung
+growth rate of income of the bottom 40 per cent of the population (%): Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung
 growth rate of income of the total population: Wachstumsrate des Einkommens der gesamten Bevölkerung
+growth rate of income of the total population (%): Wachstumsrate des Einkommens der gesamten Bevölkerung
 #10.2.1
 population living below 50% of median income: Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt
+population living below 50% of median income (%): Bevölkerung, die mit weniger als 50% des mittleren Einkommens lebt
 #10.4.1
 labour share of gdp: Anteil des Arbeitnehmerentgelts am BIP
+labour share of gdp (%): Anteil des Arbeitnehmerentgelts am BIP
 #10.5.1
 capital to assets ratio: Eigenkapitalquote
+capital to assets ratio (%): Eigenkapitalquote
 liquid assets to short-term liabilities: Verbindlichkeiten
+liquid assets to short-term liabilities (%): Verbindlichkeiten
 net open position in foreign exchange to capital: Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln
+net open position in foreign exchange to capital (%): Relation zwischen offener Fremdwährungsposition und regulatorischen Eigenmitteln
 nonperforming loans net of provisions to capital: Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital
+nonperforming loans net of provisions to capital (%): Relation zwischen notleidenden Krediten (abzüglich Risikovorsorge) und bilanziellem Eigenkapital
 nonperforming loans net of provisions to gross loans: Anteil der notleidenden Kredite an den Bruttokrediten insgesamt
+nonperforming loans net of provisions to gross loans (%): Anteil der notleidenden Kredite an den Bruttokrediten insgesamt
 regulatory tier 1 capital to risk-weighted assets: Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
+regulatory tier 1 capital to risk-weighted assets (%): Relation zwischen regulatorischem Kernkapital (Tier 1) und anrechnungspflichtigen Positionen
 return on assets: Gesamtkapitalrentabilität
+return on assets (%): Gesamtkapitalrentabilität
 #10.b.1
 total official and private flows (net disbursements): Öffentliche und Private Nettoentwicklungsausgaben insgesamt
+"total official and private flows (net disbursements) (mn usd, constant prices (2016))": Öffentliche und Private Nettoentwicklungsausgaben insgesamt
 type of flow: Art der Finanzströme
 oda (net disbursements): Öffentliche Nettoentwicklungsausgaben (ODA)
 oof (net disbursements): Andere öffentliche Nettoleistungen (OOF)

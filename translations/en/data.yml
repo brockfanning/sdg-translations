@@ -559,21 +559,33 @@ technology: Technology
 lte: LTE
 #10.1.1
 growth rate of income of the bottom 40 per cent of the population: Growth rate of income of the bottom 40 per cent of the population
+growth rate of income of the bottom 40 per cent of the population (%): Growth rate of income of the bottom 40 per cent of the population
 growth rate of income of the total population: Growth rate of income of the total population
+growth rate of income of the total population (%): Growth rate of income of the total population
 #10.2.1
 population living below 50% of median income: Population living below 50% of median income
+population living below 50% of median income (%): Population living below 50% of median income
 #10.4.1
 labour share of gdp: Labour share of GDP
+labour share of gdp (%): Labour share of GDP
 #10.5.1
 capital to assets ratio: Capital to assets ratio
+capital to assets ratio (%): Capital to assets ratio
 liquid assets to short-term liabilities: Liquid assets to short-term liabilities
+liquid assets to short-term liabilities (%): Liquid assets to short-term liabilities
 net open position in foreign exchange to capital: Net open position in foreign exchange to capital
+net open position in foreign exchange to capital (%): Net open position in foreign exchange to capital
 nonperforming loans net of provisions to capital: Nonperforming loans net of provisions to capital
+nonperforming loans net of provisions to capital (%): Nonperforming loans net of provisions to capital
 nonperforming loans net of provisions to gross loans: Nonperforming loans net of provisions to gross loans
+nonperforming loans net of provisions to gross loans (%): Nonperforming loans net of provisions to gross loans
 regulatory tier 1 capital to risk-weighted assets: Regulatory Tier 1 capital to risk-weighted assets
+regulatory tier 1 capital to risk-weighted assets (%): Regulatory Tier 1 capital to risk-weighted assets
 return on assets: Return on assets
+return on assets (%): Return on assets
 #10.b.1
 total official and private flows (net disbursements): Total Official and Private Flows (net disbursements)
+"total official and private flows (net disbursements) (mn usd, constant prices (2016))": Total Official and Private Flows (net disbursements)
 type of flow: Type of flow
 oda (net disbursements): ODA (net disbursements)
 oof (net disbursements): OOF (net disbursements)

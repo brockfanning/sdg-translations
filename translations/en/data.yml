@@ -520,7 +520,9 @@ aid for trade gross disbursements (oda and oof): Aid for trade gross disbursemen
 "aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))": Aid for trade gross disbursements (ODA and OOF)
 #9.1.2
 a) passenger transport: a) Passenger transport
+passenger transport (mn pkm): a) Passenger transport
 b) freight transport: b) Freight transport
+freight transport (mn tkm): b) Freight transport
 mode of transport: Mode of transport
 road transport: Road transport
 rail transport: Rail transport
@@ -530,31 +532,46 @@ inland waterway transport: Inland waterway transport
 "transport via pipeline: crude oil": "Transport via pipeline: crude oil"
 #9.2.1
 manufacturing gross value added as a proportion of gdp: Manufacturing gross value added as a proportion of GDP
+manufacturing gross value added as a proportion of gdp (%): Manufacturing gross value added as a proportion of GDP
 manufacturing gross value added as a proportion of total gross value added: Manufacturing gross value added as a proportion of total gross value added
+manufacturing gross value added as a proportion of total gross value added (%): Manufacturing gross value added as a proportion of total gross value added
 manufacturing gross value added per capita: Manufacturing gross value added per capita
+manufacturing gross value added per capita (eur): Manufacturing gross value added per capita
 #9.2.2
 manufacturing persons employed: Manufacturing persons employed
+manufacturing persons employed (%): Manufacturing persons employed
 #9.3.1
 gross value added of small-scale industries in manufacturing: Gross value added of small-scale industries in manufacturing
+gross value added of small-scale industries in manufacturing (%): Gross value added of small-scale industries in manufacturing
 #9.4.1
 "co2 emission (without land use, land-use change and forestry) per real gdp": CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP
+"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010))": CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-emission (without land use, land-use change and forestry) per real GDP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-emissions per gross value added (price adjusted) in manufacturing industries (g/EUR)
 #9.5.1
 proportion of r&d expenditures to gdp: Proportion of R&D expenditures to GDP
+proportion of r&d expenditures to gdp (%): Proportion of R&D expenditures to GDP
 #9.5.2
 researchers in full-time equivalents: Researchers in full-time equivalents
+researchers in full-time equivalents (per 1 mn inhabitants): Researchers in full-time equivalents
 #9.a.1
 oda (gross disbursements) to infrastructure: ODA (gross disbursements) to infrastructure
+"oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))": ODA (gross disbursements) to infrastructure
 oda and oof (gross disbursements) to infrastructure: ODA and OOF (gross disbursements) to infrastructure
+"oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))": ODA and OOF (gross disbursements) to infrastructure
 #9.b.1
 gross value added of medium- and high-tech industries to total manufacturing value added: Gross value added of medium- and high-tech industries to total manufacturing value added
+gross value added of medium- and high-tech industries to total manufacturing value added (%): Gross value added of medium- and high-tech industries to total manufacturing value added
 gross value added of high-tech industries to total manufacturing value added: Gross value added of high-tech industries to total manufacturing value added
+gross value added of high-tech industries to total manufacturing value added (%): Gross value added of high-tech industries to total manufacturing value added
 gross value added of medium-high-tech industries to total manufacturing value added: Gross value added of medium-high-tech industries to total manufacturing value added
+gross value added of medium-high-tech industries to total manufacturing value added (%): Gross value added of medium-high-tech industries to total manufacturing value added
 #9.c.1
 technology: Technology
 "households covered by:": "Households covered by:"
+"households covered by (%):": "Households covered by:"
 3g: "3G"
 lte: LTE
 #10.1.1

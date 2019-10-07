@@ -85,7 +85,7 @@ per 100 inhabitants: Je 100 Einwohner
 per 1 000 inhabitants: Je 1 000 Einwohner
 per 10 000 inhabitants: Je 10 000 Einwohner
 per 100 000 inhabitants: Je 100 000 Einwohner
-per 1 mn inhabitants: jJe 1 Mill. Einwohner
+per 1 mn inhabitants: Je 1 Mill. Einwohner
 per 1 000 women of same age: Je 1 000 Frauen gleichen Alters
 litres of pure alcohol per capita: Liter puren Alkohols pro Einwohner
 mn t: Mill. t
@@ -504,7 +504,9 @@ aid for trade gross disbursements (oda and oof): Bruttoauszahlungen für Handels
 "aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))": Bruttoauszahlungen für Handelshilfe (ODA und OOF)
 #9.1.2
 a) passenger transport: a) Personenverkehr
+passenger transport (mn pkn): a) Personenverkehr
 b) freight transport: b) Güterverkehr
+freight transport (mn tkm): b) Güterverkehr
 mode of transport: Verkehrsmittel
 road transport: Straßenverkehr
 rail transport: Eisenbahnverkehr
@@ -514,31 +516,46 @@ inland waterway transport: Binnenschifffahrt
 "transport via pipeline: crude oil": "Transport in Rohrleitungen: Rohöl"
 #9.2.1
 manufacturing gross value added as a proportion of gdp: Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP
+manufacturing gross value added as a proportion of gdp (%): Bruttowertschöpfung im Verarbeitenden Gewerbe im Verhältnis zum BIP
 manufacturing gross value added as a proportion of total gross value added: Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt
+manufacturing gross value added as a proportion of total gross value added (%): Verhältnis der Bruttowertschöpfung im Verarbeitenden Gewerbe an der Bruttowertschöpfung insgesamt
 manufacturing gross value added per capita: Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf
+manufacturing gross value added per capita (eur): Bruttowertschöpfung im Verarbeitenden Gewerbe pro Kopf
 #9.2.2
 manufacturing persons employed: Erwerbstätige im Verarbeitenden Gewerbe
+manufacturing persons employed (%): Erwerbstätige im Verarbeitenden Gewerbe
 #9.3.1
 gross value added of small-scale industries in manufacturing: Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe
+gross value added of small-scale industries in manufacturing (%): Bruttowertschöpfung kleiner Unternehmen im Verarbeitenden Gewerbe
 #9.4.1
 "co2 emission (without land use, land-use change and forestry) per real gdp": CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
+"co2 emission (without land use, land-use change and forestry) per real gdp (g/eur (constant 2010))": CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP
 co2 emissions per gross value added (price adjusted) in manufacturing industries: CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
+co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur (constant 2010)): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe
 #co2 emission (without land use, land-use change and forestry) per real gdp (g/eur): CO<sub>2</sub>-Emissionen (ohne Landnutzung, Landnutzungsänderungen und Forstwirtschaft) zum realen BIP (g/EUR)
 #co2 emissions per gross value added (price adjusted) in manufacturing industries (g/eur): CO<sub>2</sub>-Emissionen zur Bruttowertschöpfung (preisbereinigt) im Verarbeitenden Gewerbe (g/EUR)
 #9.5.1
 proportion of r&d expenditures to gdp: Verhältnis der F&E-Ausgaben zum BIP
+proportion of r&d expenditures to gdp (%): Verhältnis der F&E-Ausgaben zum BIP
 #9.5.2
 researchers in full-time equivalents: Wissenschaftler in Vollzeitäquivalenten
+researchers in full-time equivalents (per 1 mn inhabitants): Wissenschaftler in Vollzeitäquivalenten
 #9.a.1
 oda (gross disbursements) to infrastructure: Bruttoentwicklungsausgaben für Infrastruktur
+"oda (gross disbursements) to infrastructure (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für Infrastruktur
 oda and oof (gross disbursements) to infrastructure: Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur
+"oda and oof (gross disbursements) to infrastructure (mn usd, constant prices (2016))": Gesamte öffentliche, internationale Unterstützung (öffentliche Entwicklungsausgaben und andere öffentliche Leistungen) für Infrastruktur
 #9.b.1
 gross value added of medium- and high-tech industries to total manufacturing value added: Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe
+gross value added of medium- and high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium- und High-Tech-Industrien am Verarbeitenden Gewerbe
 gross value added of high-tech industries to total manufacturing value added: Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe
+gross value added of high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der High-Tech-Industrien am Verarbeitenden Gewerbe
 gross value added of medium-high-tech industries to total manufacturing value added: Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe
+gross value added of medium-high-tech industries to total manufacturing value added (%): Bruttowertschöpfung der Medium-High-Tech-Industrien am Verarbeitenden Gewerbe
 #9.c.1
 technology: Technologie
 "households covered by:": "Haushalte, die mit:"
+"households covered by (%):": "Haushalte, die mit:"
 3g: 3G abgedeckt sind
 lte: LTE abgedeckt sind
 #10.1.1

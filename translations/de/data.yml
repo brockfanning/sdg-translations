@@ -504,7 +504,7 @@ aid for trade gross disbursements (oda and oof): Bruttoauszahlungen für Handels
 "aid for trade gross disbursements (oda and oof) (mn usd, constant prices (2016))": Bruttoauszahlungen für Handelshilfe (ODA und OOF)
 #9.1.2
 a) passenger transport: a) Personenverkehr
-passenger transport (mn pkn): a) Personenverkehr
+passenger transport (mn pkm): a) Personenverkehr
 b) freight transport: b) Güterverkehr
 freight transport (mn tkm): b) Güterverkehr
 mode of transport: Verkehrsmittel
@@ -596,13 +596,16 @@ private sector flows at market terms (net disbursements): Private Leistungen zu 
 #11.1.1
 items: Probleme
 material deprivation for the housing dimension (one to four items): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme)
+material deprivation for the housing dimension (one to four items) (%): Materielle Deprivation bezogen auf die Wohn-Dimension (ein bis vier Probleme)
 population considering their dwelling as too dark: Bevölkerung, deren Wohnung/Haus zu wenig Tageslicht bietet
 "population living in an area with crime, violence or vandalism": Bevölkerung, in deren Wohnumgebung es Kriminalität, Gewalt oder Vandalismus gibt
 population living in an area with noise pollution: Bevölkerung mit Lärmbelästigung in deren Wohnumgebung
 population living in households with moisture damages: Bevölkerung, in deren Wohnung/Haus es Feuchtigkeitsschäden gibt
 #11.2.1
 population that has convenient access to public transport (within 500 meters): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)
+population that has convenient access to public transport (within 500 meters) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 500 Metern)
 population that has convenient access to public transport (within 10 minutes walking distance): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)
+population that has convenient access to public transport (within 10 minutes walking distance) (%): Bevölkerung, die Zugang zu öffentlichen Verkehrsmitteln hat (innerhalb von 10 Minuten zu Fuß zu erreichen)
 mobility impaired people: Menschen mit Mobilitätseinschränkung
 #11.3.1
 land consumption rate : Flächenverbrauchsrate

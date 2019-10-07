@@ -118,7 +118,7 @@ unemployed persons with unemployment benefits: Unemployed persons with unemploym
 unemployed persons with unemployment benefits (%): Unemployed persons with unemployment benefits
 #1.5.3
 strategy for adaptation to climate change: Strategy for Adaptation to Climate Change
-strategy for adaptation to climate change: Strategy for Adaptation to Climate Change
+strategy for adaptation to climate change (number): Strategy for Adaptation to Climate Change
 #1.a.1
 government spending on foreign economic aid (cofog group 01-2): Government spending on foreign economic aid (COFOG group 01.2)
 government spending on foreign economic aid (cofog group 01-2) (%): Government spending on foreign economic aid (COFOG group 01.2)
@@ -657,10 +657,15 @@ dmc per capita: DMC per capita
 dmc per real gdp: DMC per real GDP
 #12.4.1
 compliance with the basel convention: Compliance with the Basel Convention
+compliance with the basel convention (%): Compliance with the Basel Convention
 compliance with the minamata convention: Compliance with the Minamata Convention
+compliance with the minamata convention (%): Compliance with the Minamata Convention
 compliance with the montreal protocol: Compliance with the Montreal Protocol
+compliance with the montreal protocol (%): Compliance with the Montreal Protocol
 compliance with the rotterdam convention: Compliance with the Rotterdam Convention
+compliance with the rotterdam convention (%): Compliance with the Rotterdam Convention
 compliance with the stockholm convention: Compliance with the Stockholm Convention
+compliance with the stockholm convention (%): Compliance with the Stockholm Convention
 #12.4.2
 type of waste treatment: Type of waste treatment
 a) hazardous waste generated per capita: a) Hazardous waste generated per capita
@@ -674,28 +679,39 @@ municipal waste recycled: Municipal waste recycled
 national recycling rate of municipal waste: National recycling rate of municipal waste
 #12.6.1
 organisations with emas registration: Organisations with EMAS registration
+organisations with emas registration (number): Organisations with EMAS registration
 #12.7.1
 sustainability programme: Sustainability Programme
 #14.3.1
 average ph-concentration in the german bight: Average pH-concentration in the German Bight
+average ph-concentration in the german bight (ph-value): Average pH-concentration in the German Bight
 #14.4.1
 fish stocks within biologically sustainable levels: Fish stocks within biologically sustainable levels
+fish stocks within biologically sustainable levels (%): Fish stocks within biologically sustainable levels
 monitored fish stocks based on the msy approach that are professionally exploited: Monitored fish stocks based on the MSY approach that are professionally exploited
+monitored fish stocks based on the msy approach that are professionally exploited (%): Monitored fish stocks based on the MSY approach that are professionally exploited
 sea: Sea
 greater north sea: Greater North Sea
 baltic sea: Baltic Sea
 #14.5.1
 protected marine area : Protected marine area
+protected marine area (%): Protected marine area
 marine key biodiversity areas (kbas) covered by protected areas: Marine Key Biodiversity Areas (KBAs) covered by protected areas
+marine key biodiversity areas (kbas) covered by protected areas (%): Marine Key Biodiversity Areas (KBAs) covered by protected areas
 #14.6.1
 "degree of combat illegal, unreported and unregulated fishing": Degree of combat illegal, unreported and unregulated fishing
+"degree of combat illegal, unreported and unregulated fishing (/)": Degree of combat illegal, unreported and unregulated fishing
 #14.a.1
 "federal budget on research and development in the field of coastal, ocean and polar science, geoscience": Federal budget on research and development in the field of coastal, ocean and polar science, geoscience
+"federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)": Federal budget on research and development in the field of coastal, ocean and polar science, geoscience
 #15.1.1
 forest area: Forest area
+forest area (%): Forest area
 #15.1.2
 protected terrestrial areas: Protected terrestrial areas
+protected terrestrial areas (%): Protected terrestrial areas
 key biodiversity areas (kbas) covered by protected areas: Key Biodiversity Areas (KBAs) covered by protected areas
+key biodiversity areas (kbas) covered by protected areas (%): Key Biodiversity Areas (KBAs) covered by protected areas
 #15.2.1
 above-ground biomass stock in forest: Above-ground biomass stock in forest
 forest area located within protected areas: Forest area located within protected areas
@@ -703,6 +719,7 @@ forest area net change rate: Forest area net change rate
 forest area under an independently verified forest management certification scheme: Forest area under an independently verified forest management certification scheme
 #15.4.2
 mountain green cover index: Mountain Green Cover Index
+mountain green cover index (%): Mountain Green Cover Index
 classification: Classification
 class 3 areas (elevation 2500-3500 meters): Class 3 areas (Elevation 2500-3500 meters)
 class 4 areas (elevation 1500-2500 meters): Class 4 areas (Elevation 1500-2500 meters)
@@ -710,14 +727,19 @@ class 5 areas (elevation 1000-1500 meters): Class 5 areas (Elevation 1000-1500 m
 class 6 areas (elevation  300 -1000 meters): Class 6 areas (Elevation 300 -1000 meters)
 #15.5.1
 red list index: Red List Index
+red list index (%): Red List Index
 #15.7.1
 documents issued for the import and export of protected species: Documents issued for the import and export of protected species
+documents issued for the import and export of protected species (number): Documents issued for the import and export of protected species
 seizures by authorities concerning the protection of species: Seizures by authorities concerning the protection of species
+seizures by authorities concerning the protection of species (number): Seizures by authorities concerning the protection of species
 #15.a.1
 a) oda (commitments) for biodiversity: ODA (commitments) for biodiversity
 b) environmental protection expenditure: Environmental protection expenditure
 #15.b.1
 a) oda (gross disbursements) to the forestry sector: ODA (gross disbursements) to the forestry sector
+"oda (commitments) for biodiversity (mn usd, constant prices (2016))": ODA (gross disbursements) to the forestry sector
+"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))": ODA (commitments) for biodiversity
 #15.c.1
 documents issued for the import and export of protected species: Documents issued for the import and export of protected species
 seizures by authorities concerning the protection of species: Seizures by authorities concerning the protection of species
@@ -730,10 +752,14 @@ population who were victims of criminal offences: Population who were victims of
 victims of criminal offences: Victims of criminal offences
 #16.1.4
 "population not living in an area with crime, violence or vandalism": Population not living in an area with crime, violence or vandalism
+"population not living in an area with crime, violence or vandalism (%)": Population not living in an area with crime, violence or vandalism
 #16.2.1
 children at acute risk of harm with signs of physical or psychological abuse: Children at acute risk of harm with signs of physical or psychological abuse
+children at acute risk of harm with signs of physical or psychological abuse (%): Children at acute risk of harm with signs of physical or psychological abuse
 children at acute risk of harm with signs of physical abuse: Children at acute risk of harm with signs of physical abuse
+children at acute risk of harm with signs of physical abuse (%): Children at acute risk of harm with signs of physical abuse
 children at acute risk of harm with signs of psychological abuse: Children at acute risk of harm with signs of psychological abuse
+children at acute risk of harm with signs of psychological abuse (%): Children at acute risk of harm with signs of psychological abuse
 #16.2.2
 victims of human trafficking: Victims of human trafficking
 exploitation of labour: Exploitation of labour
@@ -759,29 +785,41 @@ exploitation of labour: Exploitation of labour
 "exploitation of labour, female": Exploitation of labour, female
 #16.3.1
 a) police reporting rate for physical assault: Police reporting rate for physical assault
+a) police reporting rate for physical assault (%): Police reporting rate for physical assault
 c) police reporting rate for robbery: Police reporting rate for robbery
+c) police reporting rate for robbery (%): Police reporting rate for robbery
 #16.3.2
 unsentenced detainees: Unsentenced detainees
+unsentenced detainees (%): Unsentenced detainees
 #16.4.2
 seized arms and parts: Seized arms and parts
+seized arms and parts (number): Seized arms and parts
 #16.5.1
 population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years)
 private persons (donors) suspected in the context of corruption offences: Private persons (donors) suspected in the context of corruption offences
 #16.5.2
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
+businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years)
 #16.6.2
 population satisfied with their experience of government services during the previous two years: Population satisfied with their experience of government services during the previous two years
+population satisfied with their experience of government services during the previous two years (%): Population satisfied with their experience of government services during the previous two years
 #16.7.1
 total female persons in employment: Total female persons in employment
+total female persons in employment (%): Total female persons in employment
 female employees in public sector: Female employees in public sector
+female employees in public sector (%): Female employees in public sector
 #16.7.2
 population who considers their experiences with public agencies free of discrimination during the previous two years: Population who considers their experiences with public agencies free of discrimination during the previous two years
+population who considers their experiences with public agencies free of discrimination during the previous two years (%): Population who considers their experiences with public agencies free of discrimination during the previous two years
 #16.9.1
 children under 5 years of age whose births have been registered with a civil authority: Children under 5 years of age whose births have been registered with a civil authority
+children under 5 years of age whose births have been registered with a civil authority (%): Children under 5 years of age whose births have been registered with a civil authority
 #16.10.2
 public access to information: Public access to information
+public access to information (number): Public access to information
 #16.a.1
 membership ganhri (category a): Membership GANHRI (category A)
+membership ganhri (category a) (number): Membership GANHRI (category A)
 #17.1.1
 proportion of total government revenue to gdp: Proportion of total government revenue to GDP
 #17.1.2

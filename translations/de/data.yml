@@ -119,7 +119,7 @@ unemployed persons with unemployment benefits: Arbeitslose Leistungsbezieher
 unemployed persons with unemployment benefits (%): Arbeitslose Leistungsbezieher
 #1.5.3
 strategy for adaptation to climate change: Anpassungsstrategie an den Klimawandel
-strategy for adaptation to climate change: Anpassungsstrategie an den Klimawandel
+strategy for adaptation to climate change (number): Anpassungsstrategie an den Klimawandel
 #1.a.1
 government spending on foreign economic aid (cofog group 01-2): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
 government spending on foreign economic aid (cofog group 01-2) (%): Staatsausgaben für Wirtschaftshilfe für das Ausland (COFOG Gruppe 01.2)
@@ -641,10 +641,15 @@ dmc per capita: Inländische Materialverwendung (DMC) je Einwohner
 dmc per real gdp: Inländische Materialverwendung (DMC) zum realen BIP (t pro realem BIP)
 #12.4.1
 compliance with the basel convention: Übereinstimmung mit dem Basler Übereinkommen
+compliance with the basel convention (%): Übereinstimmung mit dem Basler Übereinkommen
 compliance with the minamata convention: Übereinstimmung mit dem Minamata Übereinkommen
+compliance with the minamata convention (%): Übereinstimmung mit dem Minamata Übereinkommen
 compliance with the montreal protocol: Übereinstimmung mit dem Montrealer Protokoll
+compliance with the montreal protocol (%): Übereinstimmung mit dem Montrealer Protokoll
 compliance with the rotterdam convention: Übereinstimmung mit dem Rotterdamer Übereinkommen
+compliance with the rotterdam convention (%): Übereinstimmung mit dem Rotterdamer Übereinkommen
 compliance with the stockholm convention: Übereinstimmung mit dem Stockholmer Übereinkommen
+compliance with the stockholm convention (%): Übereinstimmung mit dem Stockholmer Übereinkommen
 #12.4.2
 type of waste treatment: Art der Abfallbehandlung
 a) hazardous waste generated per capita: a) Erzeugte gefährliche Abfälle
@@ -658,28 +663,39 @@ municipal waste recycled: Recycelte Siedlungsabfälle
 national recycling rate of municipal waste: Nationale Recyclingquote von Siedlungsabfällen
 #12.6.1
 organisations with emas registration: Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)
+organisations with emas registration (number): Organisationen mit Umweltmanagement und Registrierung bei der Umweltprüfung (EMAS)
 #12.7.1
 sustainability programme: Nachhaltigkeitsstrategie
 #14.3.1
 average ph-concentration in the german bight: Durchschnittliche pH-Konzentration in der Deutschen Bucht
+average ph-concentration in the german bight (ph-value): Durchschnittliche pH-Konzentration in der Deutschen Bucht
 #14.4.1
 fish stocks within biologically sustainable levels: Nachhaltig befischte Fischbestände
+fish stocks within biologically sustainable levels (%): Nachhaltig befischte Fischbestände
 monitored fish stocks based on the msy approach that are professionally exploited: Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen
+monitored fish stocks based on the msy approach that are professionally exploited (%): Untersuchte Fischbestände zu den wirtschaftlich genutzten Beständen
 sea: Meer
 greater north sea: Nordsee
 baltic sea: Ostsee
 #14.5.1
 protected marine area : Meeresschutzgebiete
+protected marine area (%): Meeresschutzgebiete
 marine key biodiversity areas (kbas) covered by protected areas: Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
+marine key biodiversity areas (kbas) covered by protected areas (%): Marine Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
 #14.6.1
 "degree of combat illegal, unreported and unregulated fishing": Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei
+"degree of combat illegal, unreported and unregulated fishing (/)": Grad der Bekämpfung illegaler, nicht gemeldeter und ungeregelter Fischerei
 #14.a.1
 "federal budget on research and development in the field of coastal, ocean and polar science, geoscience": Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft
+"federal budget on research and development in the field of coastal, ocean and polar science, geoscience (mn eur)": Bundeshaushalt für Forschung und Entwicklung im Bereich Küsten-, Ozean- und Polarforschung, Geowissenschaft
 #15.1.1
 forest area: Waldfläche
+forest area (%): Waldfläche
 #15.1.2
 protected terrestrial areas: Schutzgebiete an Land
+protected terrestrial areas (%): Schutzgebiete an Land
 key biodiversity areas (kbas) covered by protected areas: Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
+key biodiversity areas (kbas) covered by protected areas (%): Schlüsselgebiete der biologischen Vielfalt, die unter Schutz stehen
 #15.2.1
 above-ground biomass stock in forest: Gesamtbestand der obererdigen Biomasse in Wäldern
 forest area located within protected areas: Waldfläche in Schutzgebieten
@@ -687,6 +703,7 @@ forest area net change rate: Jährliche Veränderung der Waldfläche
 forest area under an independently verified forest management certification scheme: Waldflächen mit einem unabhängig geprüften Wald-Management-System
 #15.4.2
 mountain green cover index: "'Mountain Green Cover' Index"
+mountain green cover index (%): "'Mountain Green Cover' Index"
 classification: Klassifikation
 class 3 areas (elevation 2500-3500 meters): Gebiete der Klasse 3 (Höhe 2 500 - 3 500 Meter)
 class 4 areas (elevation 1500-2500 meters): Gebiete der Klasse 4 (Höhe 1 500 - 2 500 Meter)
@@ -694,14 +711,19 @@ class 5 areas (elevation 1000-1500 meters): Gebiete der Klasse 5 (Höhe 1 000 - 
 class 6 areas (elevation  300 -1000 meters): Gebiete der Klasse 6 (Höhe 300 - 1 000 Meter)
 #15.5.1
 red list index: Rote Liste Index
+red list index (%): Rote Liste Index
 #15.7.1
 documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
+documents issued for the import and export of protected species (number): Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
 seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
+seizures by authorities concerning the protection of species (number): Aufgriffe aufgrund des Artenschutzes
 #15.a.1
 a) oda (commitments) for biodiversity: Verpflichtungen für Biodiversität
 b) environmental protection expenditure: Umweltschutzausgaben
 #15.b.1
 a) oda (gross disbursements) to the forestry sector: Bruttoentwicklungsausgaben für den Forstsektor
+"oda (commitments) for biodiversity (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für den Forstsektor
+"oda (gross disbursements) to the forestry sector (mn usd, constant prices (2016))": Verpflichtungen für Biodiversität
 #15.c.1
 documents issued for the import and export of protected species: Ausgestellte Dokumente für die Ein- und Ausfuhr von geschützten Arten
 seizures by authorities concerning the protection of species: Aufgriffe aufgrund des Artenschutzes
@@ -714,10 +736,14 @@ population who were victims of criminal offences: Bevölkerung, die Opfer einer 
 victims of criminal offences: Opfer von Straftaten
 #16.1.4
 "population not living in an area with crime, violence or vandalism": Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt
+"population not living in an area with crime, violence or vandalism (%)": Bevölkerung, in deren Wohnumgebung es keine Kriminalität, Gewalt oder Vandalismus gibt
 #16.2.1
 children at acute risk of harm with signs of physical or psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung
+children at acute risk of harm with signs of physical or psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche oder psychische Misshandlung
 children at acute risk of harm with signs of physical abuse: Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung
+children at acute risk of harm with signs of physical abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für körperliche Misshandlung
 children at acute risk of harm with signs of psychological abuse: Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
+children at acute risk of harm with signs of psychological abuse (%): Akute Kindeswohlgefährdung mit Anzeichen für psychische Misshandlung
 #16.2.2
 victims of human trafficking: Opfer von Menschenhandel
 exploitation of labour: Ausbeutung der Arbeitskraft
@@ -743,29 +769,41 @@ exploitation of labour: Ausbeutung der Arbeitskraft
 "exploitation of labour, female":  Ausbeutung der Arbeitskraft, Weiblich
 #16.3.1
 a) police reporting rate for physical assault: Anzeigequote bei Körperverletzung
+a) police reporting rate for physical assault (%): Anzeigequote bei Körperverletzung
 c) police reporting rate for robbery: Anzeigequote bei Raub
+c) police reporting rate for robbery (%): Anzeigequote bei Raub
 #16.3.2
 unsentenced detainees: Nicht-verurteilte Gefangene
+unsentenced detainees (%): Nicht-verurteilte Gefangene
 #16.4.2
 seized arms and parts: Sichergestellte Waffen und Waffenteile
+seized arms and parts (number): Sichergestellte Waffen und Waffenteile
 #16.5.1
 population who had the impression that public officials are corruptible (during their interactions with public agencies in the previous two years): Bevölkerung, die den Eindruck hatte, dass Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 private persons (donors) suspected in the context of corruption offences: Tatverdächtige Privatpersonen (Geber) im Rahmen von Korruptionsstraftaten
 #16.5.2
 businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
+businesses who had the impression that public officials are corruptible (during interactions with public agencies in the previous two years) (%): Unternehmen, die den Eindruck hatten, Beschäftigte des öffentlichen Dienstes bestechlich waren (während ihrer Interaktionen mit öffentlichen Einrichtungen in den vergangenen zwei Jahren)
 #16.6.2
 population satisfied with their experience of government services during the previous two years: Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war
+population satisfied with their experience of government services during the previous two years (%): Bevölkerung, die mit den Behördendiensten während der letzten zwei Jahre zufrieden war
 #16.7.1
 total female persons in employment: Weibliche Erwerbstätige insgesamt
+total female persons in employment (%): Weibliche Erwerbstätige insgesamt
 female employees in public sector: Weibliche Beschäftigte des öffentlichen Dienstes
+female employees in public sector (%): Weibliche Beschäftigte des öffentlichen Dienstes
 #16.7.2
 population who considers their experiences with public agencies free of discrimination during the previous two years: Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet
+population who considers their experiences with public agencies free of discrimination during the previous two years (%): Bevölkerung, die in den letzten zwei Jahren ihre Erfahrungen mit öffentlichen Einrichtungen als diskriminierungsfrei erachtet
 #16.9.1
 children under 5 years of age whose births have been registered with a civil authority: Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist
+children under 5 years of age whose births have been registered with a civil authority (%): Kinder unter 5 Jahren, deren Geburt von einer Zivilbehörde registriert worden ist
 #16.10.2
 public access to information: Öffentlicher Zugang zu Informationen
+public access to information (number): Öffentlicher Zugang zu Informationen
 #16.a.1
 membership ganhri (category a): Mitgliedschaft GANHRI (Kategorie A)
+membership ganhri (category a) (number): Mitgliedschaft GANHRI (Kategorie A)
 #17.1.1
 proportion of total government revenue to gdp: Verhältnis der Gesamteinnahmen des Staates zum BIP
 #17.1.2

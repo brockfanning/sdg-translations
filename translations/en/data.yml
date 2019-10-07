@@ -630,18 +630,23 @@ proportion of settlement and transport areas to population: Proportion of settle
 ratio of land consumption rate to population growth rate: Ratio of land consumption rate to population growth rate
 #11.3.2
 cities with a legally required direct participation of civil society in urban planning and management: Cities with a legally required direct participation of civil society in urban planning and management
+cities with a legally required direct participation of civil society in urban planning and management (%): Cities with a legally required direct participation of civil society in urban planning and management
 #11.4.1
 goverment spending on environmental protection (cofog section 5): Goverment spending on environmental protection (COFOG section 5)
+goverment spending on environmental protection (cofog section 5) (%): Goverment spending on environmental protection (COFOG section 5)
 "goverment spending on recreation, culture and religion (cofog section 8)": Goverment spending on recreation, culture and religion (COFOG section 8)
+"goverment spending on recreation, culture and religion (cofog section 8) (%)": Goverment spending on recreation, culture and religion (COFOG section 8)
 #11.6.1
 total municipal solid waste generated: Total municipal solid waste generated
 municipal solid waste regularly collected and treated: Municipal solid waste regularly collected and treated
 #11.6.2
 population weighted annual mean levels of pm10 (ug/m3): Population weighted annual mean levels of PM10  # &micro; #
 population weighted annual mean levels of pm10: Population weighted annual mean levels of PM10
-population weighted annual mean levels of pm10: Population weighted annual mean levels of PM10
+population weighted annual mean levels of pm10 (micrograms per cubic meter): Population weighted annual mean levels of PM10
 #11.7.1
 share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants: Share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants
+share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants
+#11.b.1
 #12.2.1
 rmc (abiotic and biotic material): RMC (abiotic and biotic material)
 rmc per capita: RMC per capita

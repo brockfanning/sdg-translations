@@ -614,18 +614,23 @@ proportion of settlement and transport areas to population: Verhältnis der Sied
 ratio of land consumption rate to population growth rate: Verhältnis Flächenverbrauchsrate zur Bevölkerungsentwicklung
 #11.3.2
 cities with a legally required direct participation of civil society in urban planning and management: Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung
+cities with a legally required direct participation of civil society in urban planning and management (%): Städte mit gesetzlich vorgeschriebener öffentlicher Beteiligung bei der Stadtplanung
 #11.4.1
 goverment spending on environmental protection (cofog section 5): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5)
+goverment spending on environmental protection (cofog section 5) (bn eur): Ausgaben des Staates für Umweltschutz  (COFOG Gruppe 5)
 "goverment spending on recreation, culture and religion (cofog section 8)": Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8)
+"goverment spending on recreation, culture and religion (cofog section 8) (bn eur)": Ausgaben des Staates für Freizeitgestaltung, Sport, Kultur und Religion (COFOG Gruppe 8)
 #11.6.1
 total municipal solid waste generated: Erzeugte Siedlungsabfälle
 municipal solid waste regularly collected and treated: Siedlungsabfälle, die regelmäßig gesammelt und behandelt werden
 #11.6.2
 population weighted annual mean levels of pm10 (ug/m3): Bevölkerungsgewichtete Jahresmittelwerte von PM10
 population weighted annual mean levels of pm10: Bevölkerungsgewichtete Jahresmittelwerte von PM10
-population weighted annual mean levels of pm10: Bevölkerungsgewichtete Jahresmittelwerte von PM10
+population weighted annual mean levels of pm10 (micrograms per cubic meter): Bevölkerungsgewichtete Jahresmittelwerte von PM10
 #11.7.1
 share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants: Anteil der Erholungsflächen an der Siedlungs- und Verkehrsfläche in Städten ab 100 000 Einwohner
+share of recreational area to settlement and transport areas in cities with more than 100 000 inhabitants (%): Anteil der Erholungsflächen an der Siedlungs- und Verkehrsfläche in Städten ab 100 000 Einwohner
+#11.b.1
 #12.2.1
 rmc (abiotic and biotic material): Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC; abiotische und biotische Rohstoffe)
 rmc per capita: Inländische Rohstoffverwendung in Rohstoffäquivalenten (RMC) je Einwohner

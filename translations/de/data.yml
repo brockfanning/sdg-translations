@@ -555,9 +555,9 @@ gross value added of medium-high-tech industries to total manufacturing value ad
 #9.c.1
 technology: Technologie
 "households covered by:": "Haushalte, die mit:"
-"households covered by (%):": "Haushalte, die mit:"
-3g: 3G abgedeckt sind
-lte: LTE abgedeckt sind
+"households covered by (%):": "Haushalte, die mit Mobilfunk abgedeckt sind"
+3g: '3G'
+lte: LTE
 #10.1.1
 growth rate of income of the bottom 40 per cent of the population: Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung
 growth rate of income of the bottom 40 per cent of the population (%): Wachstumsrate des Einkommens der ärmsten 40 Prozent der Bevölkerung

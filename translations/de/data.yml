@@ -806,14 +806,20 @@ membership ganhri (category a): Mitgliedschaft GANHRI (Kategorie A)
 membership ganhri (category a) (number): Mitgliedschaft GANHRI (Kategorie A)
 #17.1.1
 proportion of total government revenue to gdp: Verhältnis der Gesamteinnahmen des Staates zum BIP
+proportion of total government revenue to gdp (%): Verhältnis der Gesamteinnahmen des Staates zum BIP
 #17.1.2
 proportion of domestic expenditures funded by national taxes: Anteil der Staatsausgaben, die durch Steuern finanziert werden
+proportion of domestic expenditures funded by national taxes (%): Anteil der Staatsausgaben, die durch Steuern finanziert werden
 proportion of domestic expenditures funded by national taxes and insurance contributions: Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden
+proportion of domestic expenditures funded by national taxes and insurance contributions (%): Anteil der Staatsausgaben, die durch Steuern und Sozialversicherungsausgaben finanziert werden
 #17.2.1
 proportion of net oda to gni: Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE
+proportion of net oda to gni (%): Verhältnis der öffentlichen Nettoentwicklungsausgaben zum BNE
 proportion of bilateral and imputed multilateral net oda for ldcs to the gni: Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE
+proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%): Verhältnis der bilateralen sowie multilateralen öffentlichen Nettoentwicklungslausgaben für die am wenigsten entwickelten Länder (LDCs) zum BNE
 #17.6.2
 fixed internet broadband access lines: Internet-Breitband-Zugänge
+fixed internet broadband access lines (per 100 inhabitants): Internet-Breitband-Zugänge
 speed: Geschwindigkeit
 a) over 144 kbps to under 2 mbps: a) Über 144 kbit/s bis unter 2 Mbit/s
 b) 2 mbps to under 10 mbps: b) 2 Mbit/s bis unter 10 Mbit/s
@@ -822,9 +828,12 @@ d) 30 mbps to under 100 mbps: d) 30 Mbit/s bis unter 100 Mbit/s
 e) 100 mbps and over: e) 100 Mbit/s und mehr
 #17.8.1
 population using the internet in the last three months: Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat
+population using the internet in the last three months (%): Bevölkerung, die das Internet in den letzten drei Monaten genutzt hat
 #17.9.1
 oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation): Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
+"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))": Verpflichtungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
 oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation): Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
+"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))": Bruttozahlungen (ODA und OOF) an Entwicklungsländer zum Kapazitätenaufbau und nationalen Planungen (ohne Süd-Süd-Kooperationen)
 #17.13.1
 annual growth rate of real gdp: Jährliche Wachstumsrate des realen BIP
 available income of private households:  Verfügbares Einkommen privater Haushalte
@@ -841,15 +850,22 @@ real gdp per capita: Reales BIP pro Kopf
 trade balance: Außenbeitrag
 #17.14.1
 national sustainable development strategie: Nationale nachhaltige Entwicklungsstrategie
+national sustainable development strategie (number): Nationale nachhaltige Entwicklungsstrategie
 #17.15.1
 proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation: Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit
+proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%): Anteil neuer Entwicklungsmaßnahmen in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit
 proportion of results indicators drawn from country-led results frameworks by providers of development cooperation: Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit
+proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%): Anteil der Ergebnisindikatoren in den länderspezifischen Ergebnisframeworks von Gebern von Entwicklungszusammenarbeit
 proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation: Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden
+proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Anteil von Ergebnisindikatoren, die von Gebern von Entwicklungszusammenarbeit unter Einsatz von Regierungsquellen und Monitoringsystemen überwacht werden
 #17.18.2
 countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics: Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik
+countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics (number): Länder mit nationaler statistischer Gesetzgebung im Einklang mit den Grundsätzen der amtlichen Statistik
 #17.19.1
 oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries: Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
+"oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))": Finanzzusagen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
 oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries: Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
+"oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))": Bruttozahlungen (ODA und OOF) zum Ausbau statistischer Kapazitäten in Entwicklungsländern
 #17.19.2
 a) at least one population and housing census in the last 10 years conducted: a) Durchführung mindestens einer Bevölkerungs- und Wohnungszählung in den letzten 10 Jahren
 b) birth registration: b) Registrierung der Geburten

@@ -822,14 +822,20 @@ membership ganhri (category a): Membership GANHRI (category A)
 membership ganhri (category a) (number): Membership GANHRI (category A)
 #17.1.1
 proportion of total government revenue to gdp: Proportion of total government revenue to GDP
+proportion of total government revenue to gdp (%): Proportion of total government revenue to GDP
 #17.1.2
 proportion of domestic expenditures funded by national taxes: Proportion of domestic expenditures funded by national taxes
+proportion of domestic expenditures funded by national taxes (%): Proportion of domestic expenditures funded by national taxes
 proportion of domestic expenditures funded by national taxes and insurance contributions: Proportion of domestic expenditures funded by national taxes and insurance contributions
+proportion of domestic expenditures funded by national taxes and insurance contributions (%): Proportion of domestic expenditures funded by national taxes and insurance contributions
 #17.2.1
 proportion of net oda to gni: Proportion of net ODA to GNI
+proportion of net oda to gni (%): Proportion of net ODA to GNI
 proportion of bilateral and imputed multilateral net oda for ldcs to the gni: Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI
+proportion of bilateral and imputed multilateral net oda for ldcs to the gni (%): Proportion of bilateral and imputed multilateral net ODA for LDCs to the GNI
 #17.6.2
 fixed internet broadband access lines: Fixed internet broadband access lines
+fixed internet broadband access lines (per 100 inhabitants): Fixed internet broadband access lines
 speed: Speed
 a) over 144 kbps to under 2 mbps: a) Over 144 Kbps to under 2 Mbps
 b) 2 mbps to under 10 mbps: b) 2 Mbps to under 10 Mbps
@@ -838,9 +844,12 @@ d) 30 mbps to under 100 mbps: d) 30 Mbps to under 100 Mbps
 e) 100 mbps and over: e) 100 Mbps and over
 #17.8.1
 population using the internet in the last three months: Population using the internet in the last three months
+population using the internet in the last three months (%): Population using the internet in the last three months
 #17.9.1
 oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation): ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation)
+"oda and oof (commitments) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))": ODA and OOF (commitments) to developing countries for capacity building and national planning (without South-South cooperation)
 oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation): ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation)
+"oda and oof (gross disbursements) to developing countries for capacity building and national planning (without south-south cooperation) (mn usd, constant prices (2016))": ODA and OOF (gross disbursements) to developing countries for capacity building and national planning (without South-South cooperation)
 #17.13.1
 annual growth rate of real gdp: Annual growth rate of real GDP
 available income of private households: Available income of private households
@@ -857,15 +866,22 @@ real gdp per capita: Real GDP per capita
 trade balance: Trade balance
 #17.14.1
 national sustainable development strategie: National Sustainable Development Strategie
+national sustainable development strategie (number): National Sustainable Development Strategie
 #17.15.1
 proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation: Proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation
+proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation (%): Proportion of new development interventions drawn from country-led result frameworks by providers of development cooperation
 proportion of results indicators drawn from country-led results frameworks by providers of development cooperation: Proportion of results indicators drawn from country-led results frameworks by providers of development cooperation
+proportion of results indicators drawn from country-led results frameworks by providers of development cooperation (%): Proportion of results indicators drawn from country-led results frameworks by providers of development cooperation
 proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation: Proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation
+proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation (%): Proportion of results indicators which will be monitored using government sources and monitoring systems by providers of development cooperation
 #17.18.2
 countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics: Countries with nationale statistical legislation exists that complies with the Fundamental Principles of Offical Statistics
+countries with nationale statistical legislation exists that complies with the fundamental principles of offical statistics (number): Countries with nationale statistical legislation exists that complies with the Fundamental Principles of Offical Statistics
 #19.19.1
 oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries: ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries
+"oda and oof (commitments) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))": ODA and OOF (commitments) of all resources made available to strengthen statistical capacity in developing countries
 oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries: ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries
+"oda and oof (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries (mn usd, constant prices (2016))": ODA and OOF (gross disbursements) of all resources made available to strengthen statistical capacity in developing countries
 #17.19.2
 a) at least one population and housing census in the last 10 years conducted: a) At least one population and housing census in the last 10 years conducted
 b) birth registration: b) Birth registration

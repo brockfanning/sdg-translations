@@ -893,6 +893,8 @@ c) death registration: c) Death registration
 display: Display
 a) time series: Time series
 b) target: Targets
+b) target (min): Targets (minimum)
+b) target (max): Targets (maximum)
 
 
 eu-28: EU-28

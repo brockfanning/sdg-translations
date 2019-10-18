@@ -875,6 +875,7 @@ c) death registration: c) Registrierung der Sterbefälle
 #DNS
 ###############################################################################
 display: Anzeigen
+Display: Anzeigen
 a) time series: Zeitreihen
 b) target: Ziele
 b) target (min): Ziele (Minimum)

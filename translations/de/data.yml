@@ -876,10 +876,10 @@ c) death registration: c) Registrierung der Sterbefälle
 ###############################################################################
 display: Anzeigen
 Display: Anzeigen
-a) time series: Zeitreihen
+a) time series: Zeitreihe
 b) target: Ziele
-b) target (min): Ziele (Minimum)
-b) target (max): Ziele (Maximum)
+b) target (min): Ziel (Minimum)
+b) target (max): Ziel (Maximum)
 
 eu-28: EU-28
 germany: Deutschland

@@ -18,6 +18,7 @@ targets: Targets
 dns_target: Range of indicators and postulates
 dns: Sustainable development in Germany
 link_sdg: To the SDG-Indicators page
+link_sdg_indicator: Go to the page of the corresponding SDG indicator
 target_link_sdg: SDG-Goal
 indicator_link_sdg: SDG-Indicator
 next_indicator: Next indicator

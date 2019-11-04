@@ -21,5 +21,6 @@ link_sdg: To the SDG-Indicators page
 target_link_sdg: SDG-Goal
 indicator_link_sdg: SDG-Indicator
 next_indicator: Next indicator
-
 prev_indicator: Previous indicator
+next_goal: Next goal
+prev_goal: Previous goal

@@ -912,9 +912,7 @@ adults (15 years and older): Adults (15 years and older)
 0- to 2-year-olds: 0- to 2-year-olds
 3- to 5-year-olds: 3- to 5-year-olds
 20 - 64 years: 20 to 64 years
-60 - 64 yaers: 60 to 64 years
-61 - 64 yaers: 61 to 64 years
-62 - 64 yaers: 62 to 64 years
+60 - 64 years: 60 to 64 years
 
 #1.1.a,b
 "a) materially deprived persons": a) Materially deprived persons
@@ -945,7 +943,7 @@ nox: NO<sub>x</sub>
 nmvoc: NMVOC
 so2: SO<sub>2</sub>
 #3.2.b
-"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": "Particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year"
+"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": "Particulate matter exposure (pm10), of at least 20 micro-g per m<sup>3</sup> air on average per year"
 #4.1.a
 early school leavers (18- to 24-year-olds): Early school leavers (18- to 24-year-olds)
 #4.1.b
@@ -995,6 +993,7 @@ partnership for sustainable textiles: Partnership for sustainable textiles
 private and public spending on research and development: Private and public spending on research and development
 #10.1
 foreign school graduates: Foreign school graduates
+german school graduates (share of all german leavers): German school graduates (share of all german leavers)
 #10.2
 gini coefficient of equivalised income before social transfers: Gini coefficient of equivalised income before social transfers
 #11.1.a
@@ -1017,7 +1016,6 @@ final energy consumption per tonne-kilometre: Final energy consumption per tonne
 #11.2.b
 final energy consumption in passenger transport: Final energy consumption in passenger transport
 passenger transport performance: Passenger transport performance
-final energy consumption per passenger-kilometre: Final energy consumption per passenger-kilometre
 #11.2.c
 travel time by public transport to the nearest medium-sized or large city: Travel time by public transport to the nearest medium-sized or large city
 #11.3
@@ -1026,8 +1024,14 @@ travel time by public transport to the nearest medium-sized or large city: Trave
 "market share of products certified by independently verified sustainability labelling schemes": "Market share of products certified by independently verified sustainability labelling schemes"
 #12.1.b
 energy consumption and co2 emissions by private households: Energy consumption and CO<sub>2</sub> emissions by private households
+direct co2 emissions and co2 content of consumer goods: direct CO<sub>2</sub> emissions and CO<sub>2</sub> content of consumer goods
+final energy consumption per passenger-kilometre: Final energy consumption per passenger-kilometre
+energy content of consumer goods: Energy content of consumer goods
+direct energy consumption: Direct energy consumption
 #12.2
 use of the emas eco-management system in germany: Use of the emas eco-management system in germany
+employees in thousands: Employees in thousands
+emas organisational locations: EMAS organisational locations
 #12.3
 responsible public procurement: Responsible public procurement
 recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration
@@ -1042,8 +1046,8 @@ north sea: North sea
 baltic sea: Baltic sea
 #14.1.b
 sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks: Sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks
-
-
+proportion of msy examined in all managed stocks: Proportion of MSY examined in all managed stocks
+proportion of sustainable managed stocks in all msy examined stocks: Proportion of sustainable managed stocks in all MSY examined stocks
 #15.1
 species diversity and landscape quality: Species diversity and landscape quality
 sub-index forests: Sub-index forests
@@ -1077,3 +1081,4 @@ researchers from other developing and emerging countries: Researchers from other
 #17.3
 imports from the least developed countries (ldcs): Imports from the least developed countries (LDCs)
 imports from ldcs: Imports from LDCs
+imports of processed products from ldcs: Imports of processed products from LDCs

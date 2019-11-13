@@ -895,12 +895,9 @@ typification: Räumliche Typologie
 adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
 adults (15 years and older): Erwachsene (ab 15 Jahren)
 0- to 2-year-olds: 0- bis 2-Jährige
-3- to 5-year-olds: 0- bis 2-Jährige
+3- to 5-year-olds: 3- bis 5-Jährige
 20 - 64 years: 20 bis 64 Jahre
-60 - 64 yaers: 60 bis 64 Jahre
-61 - 64 yaers: 61 bis 64 Jahre
-62 - 64 yaers: 62 bis 64 Jahre
-
+60 - 64 years: 60 bis 64 Jahre
 
 bw: Baden-Württemberg
 by: Bayern
@@ -943,12 +940,12 @@ share of adults suffering from obesity: Anteil der Erwachsenen mit Adipositas (F
 #3.2.a
 emissions of air pollutants: Emissionen von Luftschadstoffen
 nh3: NH<sub>3</sub>
-pm2.5: PM<sub>2.5</sub>
+pm2.5: PM<sub>2,5</sub>
 nox: NO<sub>x</sub>
 nmvoc: NMVOC
 so2: SO<sub>2</sub>
 #3.2.b
-"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": Feinstaubexposition (PM10) oberhalb des WHO-Richtwertes von mindestens 20 μg pro m3 Luft im Jahresmittel
+"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": Feinstaubexposition (PM10) oberhalb des WHO-Richtwertes von mindestens 20 μg pro m<sup>3</sup> Luft im Jahresmittel
 #4.1.a
 early school leavers (18- to 24-year-olds): Frühe Schulabgängerinnen und Schulabgänger (18- bis 24-Jährige)
 #4.1.b
@@ -998,18 +995,19 @@ partnership for sustainable textiles: Bündnis für nachhaltige Textilien
 private and public spending on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
 #10.1
 foreign school graduates: Ausländische Schulabsolventinnen und -absolventen
+german school graduates (share of all german leavers): Deutsche Schulabsolventinnen und -absolventen (Anteil an allen deutschen Abgängerinnen und Abgängern)
 #10.2
 gini coefficient of equivalised income before social transfers: Verfügbares Äquivalenzeinkommen (Gini-Koeffizent)
 #11.1.a
 expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsfläche
-"recreation area, cemeteries": "Erholungsfläche, Friedhof"
-"building and adjacent open area, commercial/ industrial area": Gebäude- und Freifläche, Betriebsfläche
+"recreation area, cemeteries": "Erholungsflächen & Friedhöfe"
+"building and adjacent open area, commercial/ industrial area": Gebäude-, Frei- & Betriebsfläche
 transport area: Verkehrsfläche
 "settlement and transport area (total, moving four-year average)": Insgesamt (gleitender Vierjahresdurchschnitt)
 #11.1.b
 change in open space per capita: Veränderung der Freiraumfläche je Einwohnerin und Einwohner
-rural areas: ländliche Räume
-non-rural areas: nicht ländliche Räume
+rural areas: Ländliche Räume
+non-rural areas: Nicht ländliche Räume
 #11.1.c
 inhabitans per square kilometre of settlement and transport area: Einwohnerinnen und Einwohner je Quadratkilometer Siedlungs- und Verkehrsfläche
 #11.2.a
@@ -1029,8 +1027,13 @@ travel time by public transport to the nearest medium-sized or large city: Reise
 "market share of products certified by independently verified sustainability labelling schemes": Marktanteil von Produkten mit staatlichen Umweltzeichen
 #12.1.b
 energy consumption and co2 emissions by private households: Energieverbrauch und CO<sub>2</sub>-Emissionen der privaten Haushalte
+direct co2 emissions and co2 content of consumer goods: Direkte CO<sub>2</sub>-Emissionen und CO2-Gehalt der Konsumgüter
+energy content of consumer goods: Energiegehalt der Konsumgüter
+direct energy consumption: Direkter Energieverbrauch
 #12.2
 use of the emas eco-management system in germany: Einsatz des Umweltmanagementsystems EMAS in Deutschland
+employees in thousands: Beschäftigte in Tausend
+emas organisational locations: EMAS-Organisationsstandorte
 #12.3
 responsible public procurement: Nachhaltige öffentliche Beschaffung
 recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
@@ -1045,7 +1048,8 @@ north sea: Nordsee
 baltic sea: Ostsee
 #14.1.b
 sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen
-
+proportion of msy examined in all managed stocks: MSY-untersuchte an allen bewirtschafteten Beständen
+proportion of sustainable managed stocks in all msy examined stocks: Anteil der Nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
 
 #15.1
 species diversity and landscape quality: Artenvielfalt und Landschaftsqualität
@@ -1080,3 +1084,4 @@ researchers from other developing and emerging countries: Forschende aus den üb
 #17.3
 imports from the least developed countries (ldcs): Einfuhren aus LDCs
 imports from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs
+imports of processed products from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs

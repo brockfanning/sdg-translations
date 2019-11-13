@@ -900,10 +900,22 @@ b) target: Targets
 b) target (min): Targets (minimum)
 b) target (max): Targets (maximum)
 
+air pollutants: Air pollutants
+criminal offences: Criminal offences
+
 eu-28: EU-28
 germany: Germany
+typification: Spatial typologie
+
 adolescents (12 to 17 years): Adolescents (12 to 17 years)
 adults (15 years and older): Adults (15 years and older)
+0- to 2-year-olds: 0- to 2-year-olds
+3- to 5-year-olds: 3- to 5-year-olds
+20 - 64 years: 20 to 64 years
+60 - 64 yaers: 60 to 64 years
+61 - 64 yaers: 61 to 64 years
+62 - 64 yaers: 62 to 64 years
+
 #1.1.a,b
 "a) materially deprived persons": a) Materially deprived persons
 "b) severely materially deprived persons": b) Serverely materially deprived persons
@@ -934,3 +946,134 @@ nmvoc: NMVOC
 so2: SO<sub>2</sub>
 #3.2.b
 "particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": "Particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year"
+#4.1.a
+early school leavers (18- to 24-year-olds): Early school leavers (18- to 24-year-olds)
+#4.1.b
+30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education: 30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education
+#4.2.a,b
+children in institutional all-day care: Children in institutional all-day care
+#5.1.a
+difference between average gross hourly earnings of women and men: Difference between average gross hourly earnings of women and men
+#5.1.b
+women on supervisory boards: Women on supervisory boards
+#5.1.c
+girls and women reached by the vocational qualification programmes of  german development cooperation: Girls and women reached by the vocational qualification programmes of  german development cooperation
+#6.1.a
+phosphorous in flowing waters: Phosphorous in flowing waters
+#6.1.b
+nitrate in groundwater: Nitrate in groundwater
+#6.2
+access to drinking water and sanitation subsidised by germany: Access to drinking water and sanitation subsidised by germany
+#7.1.a,b
+final energy productivity and primary energy consumption: Final energy productivity and primary energy consumption
+a) final energy productivity: Final energy productivity
+b) primary energy consumption: Primary energy consumption
+#7.2.a
+generation of renewable energies relative to gross final energy consumption: Generation of renewable energies relative to gross final energy consumption
+#7.2.b
+electricity generated from renewable energy sources: Electricity generated from renewable energy sources
+#8.1
+raw material input productivity: Raw material input productivity
+"consumption, investments and exports (price-adjusted)": "Consumption, investments and exports (price-adjusted)"
+"raw material use for consumption, investments and exports": "Raw material use for consumption, investments and exports"
+raw material input productivity: Raw material input productivity
+#8.2.a,b
+funding balance and structural governmental funding balance: Funding balance and structural governmental funding balance
+funding balance (share of gross domestic product (at current prices) in %): Funding balance (share of gross domestic product (at current prices) in %)
+structural funding balance (share of gross domestic product (at current prices) in %): Structural funding balance (share of gross domestic product (at current prices) in %)
+gross domestic produkt (price-adjusted) (year-on-year changes in %): Gross domestic produkt (price-adjusted) (year-on-year changes in %)
+#8.2.c
+public debt: public debt
+#8.3
+#8.4
+gross domestic product per capita: Gross domestic product per capita
+#8.5.a,b
+working population: Working population
+#8.6
+partnership for sustainable textiles: Partnership for sustainable textiles
+#9.1
+private and public spending on research and development: Private and public spending on research and development
+#10.1
+foreign school graduates: Foreign school graduates
+#10.2
+gini coefficient of equivalised income before social transfers: Gini coefficient of equivalised income before social transfers
+#11.1.a
+expansion of settlement and transport area: Expansion of settlement and transport area
+"recreation area, cemeteries": "Recreation area, cemeteries"
+"building and adjacent open area, commercial/ industrial area": "Building and adjacent open area, commercial/ industrial area"
+transport area: Transport area
+"settlement and transport area (total, moving four-year average)": "Total (moving four-year average)"
+#11.1.b
+change in open space per capita: Change in open space per capita
+rural areas: Rural areas
+non-rural areas: Non-rural areas
+#11.1.c
+inhabitans per square kilometre of settlement and transport area: Inhabitans per square kilometre of settlement and transport area
+#11.2.a
+final energy consumption in freight transport: Final energy consumption in freight transport
+final energy consumption for the carriage of goods: Final energy consumption for the carriage of goods
+goods transport performance: Goods transport performance
+final energy consumption per tonne-kilometre: Final energy consumption per tonne-kilometre
+#11.2.b
+final energy consumption in passenger transport: Final energy consumption in passenger transport
+passenger transport performance: Passenger transport performance
+final energy consumption per passenger-kilometre: Final energy consumption per passenger-kilometre
+#11.2.c
+travel time by public transport to the nearest medium-sized or large city: Travel time by public transport to the nearest medium-sized or large city
+#11.3
+"share of people in households that spend more than 40% of their disposable income on living expenses": "Share of people in households that spend more than 40% of their disposable income on living expenses"
+#12.1.a
+"market share of products certified by independently verified sustainability labelling schemes": "Market share of products certified by independently verified sustainability labelling schemes"
+#12.1.b
+energy consumption and co2 emissions by private households: Energy consumption and CO<sub>2</sub> emissions by private households
+#12.2
+use of the emas eco-management system in germany: Use of the emas eco-management system in germany
+#12.3
+responsible public procurement: Responsible public procurement
+recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration
+co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub> emissions per mileage of motor vehicles of the public sector
+#13.1.a
+greenhouse gas emissions in co2 equivalents: Greenhouse gas emissions in CO<sub>2</sub> equivalents
+#13.1.b
+"german funding primarily to developing and emerging countries for climate protection": "German funding primarily to developing and emerging countries for climate protection"
+#14.1.a
+total nitrogen input into baltic/north seas via selected german inflows: Total nitrogen input into baltic/north seas via selected german inflows
+north sea: North sea
+baltic sea: Baltic sea
+#14.1.b
+sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks: Sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks
+
+
+#15.1
+species diversity and landscape quality: Species diversity and landscape quality
+sub-index forests: Sub-index forests
+sub-index settlements: Sub-index settlements
+sub-index farmland: Sub-index farmland
+sub-index inland waters: Sub-index inland waters
+sub-index coasts/seas: Sub-index coasts/seas
+#15.2
+ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded: Ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded
+#15.3
+"payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook": "Payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook"
+#16.1
+criminal offences: Criminal offences
+serious and grievous bodily harm: Serious and grievous bodily harm
+fraud: Fraud
+burglary in homes: Burglary in homes
+#16.2
+"number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world": "Number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world"
+#16.3.a,b
+corruption perceptions index: Corruption perceptions index
+rating for germany: Rating for germany
+number of partner countries of german development cooperation whose rating has improved compared with 2012": number of partner countries of german development cooperation whose rating has improved compared with 2012"
+#17.1
+share of expenditure for official development assistance in gross national income: Share of expenditure for official development assistance in gross national income
+#17.2
+students and researchers from developing and emerging countries in germany: Students and researchers from developing and emerging countries in germany
+students from ldcs: Students from LDCs
+students from other developing and emerging countries: Students from other developing and emerging countries
+researchers from ldcs: Researchers from LDCs
+researchers from other developing and emerging countries: Researchers from other developing and emerging countries
+#17.3
+imports from the least developed countries (ldcs): Imports from the least developed countries (LDCs)
+imports from ldcs: Imports from LDCs

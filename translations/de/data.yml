@@ -884,10 +884,23 @@ b) target: Ziele
 b) target (min): Ziel (Minimum)
 b) target (max): Ziel (Maximum)
 
+air pollutants: Luftschadstoffe
+criminla offences: Straftaten
+
 eu-28: EU-28
 germany: Deutschland
+typification: Räumliche Typologie
+
+
 adolescents (12 to 17 years): Jugendliche (12 bis 17 Jahre)
 adults (15 years and older): Erwachsene (ab 15 Jahren)
+0- to 2-year-olds: 0- bis 2-Jährige
+3- to 5-year-olds: 0- bis 2-Jährige
+20 - 64 years: 20 bis 64 Jahre
+60 - 64 yaers: 60 bis 64 Jahre
+61 - 64 yaers: 61 bis 64 Jahre
+62 - 64 yaers: 62 bis 64 Jahre
+
 
 bw: Baden-Württemberg
 by: Bayern
@@ -923,8 +936,8 @@ premature mortality: Vorzeitige Sterblichkeit
 adolescent and adult smokers: Rauchende Jugendliche und Erwachsene
 #3.1.e
 share of overweight and obese 11- to 17-year-old adolescents: Anteil der Jugendlichen (11 bis 17 Jahre) mit Übergewicht
-overweight: Übergewicht
-obese: "Darunter: Adipositas"
+overweight: Übergewicht (inklusive Adipositas)
+obese: "Adipositas"
 #3.1.f
 share of adults suffering from obesity: Anteil der Erwachsenen mit Adipositas (Fettleibigkeit)
 #3.2.a
@@ -936,3 +949,134 @@ nmvoc: NMVOC
 so2: SO<sub>2</sub>
 #3.2.b
 "particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": Feinstaubexposition (PM10) oberhalb des WHO-Richtwertes von mindestens 20 μg pro m3 Luft im Jahresmittel
+#4.1.a
+early school leavers (18- to 24-year-olds): Frühe Schulabgängerinnen und Schulabgänger (18- bis 24-Jährige)
+#4.1.b
+30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education: 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Bildungsabschluss
+#4.2.a,b
+children in institutional all-day care: Kinder in Ganztagsbetreuung in Tageseinrichtungen
+#5.1.a
+difference between average gross hourly earnings of women and men: Unterschied zwischen den durchschnittlichen Bruttostundenverdiensten von Frauen und Männern
+#5.1.b
+women on supervisory boards: Frauen in Aufsichtsräten
+#5.1.c
+girls and women reached by the vocational qualification programmes of  german development cooperation: Mädchen und Frauen, die durch berufliche Qualifizierungsmaßnahmen deutscher entwicklungspolitischer Zusammenarbeit erreicht wurden
+#6.1.c
+phosphorous in flowing waters: Phosphor in Fließgewässern
+#6.1.b
+nitrate in groundwater: Nitrat im Grundwasser
+#6.2
+access to drinking water and sanitation subsidised by germany: Von Deutschland geförderter Zugang zu Trinkwasser- und Sanitärversorgung weltweit
+#7.1.a,b
+final energy productivity and primary energy consumption: Endenergieproduktivität und Primärenergieverbrauch
+a) final energy productivity: Endenergieproduktivität
+b) primary energy consumption: Primärenergieverbrauch
+#7.2.a
+generation of renewable energies relative to gross final energy consumption: Erzeugung erneuerbarer Energien in Relation zum Brutto-Endenergieverbrauch
+#7.2.b
+electricity generated from renewable energy sources: Strom aus erneuerbaren Energiequellen
+#8.1
+raw material input productivity: Gesamtrohstoffproduktivität
+"consumption, investments and exports (price-adjusted)": Konsum, Investitionen und Exporte (preisbereinigt)
+"raw material use for consumption, investments and exports": "Rohstoffeinsatz für Konsum, Investitionen und Exporte"
+raw material input productivity: Gesamtrohstoffproduktivität
+#8.2.a,b
+funding balance and structural governmental funding balance: Finanzierungssaldo und struktureller Finanzierungssaldo des Staates
+funding balance (share of gross domestic product (at current prices) in %): "Finanzierungssaldo (Anteil am Bruttoinlandsprodukt (in jeweiligen Preisen), in %)"
+structural funding balance (share of gross domestic product (at current prices) in %): "Struktureller Finanzierungssaldo (Anteil am Bruttoinlandsprodukt (in jeweiligen Preisen), in %)"
+gross domestic produkt (price-adjusted) (year-on-year changes in %): Bruttoinlandsprodukt (preisbereinigt) (Veränderung gegenüber dem Vorjahr, in %)
+#8.2.c
+public debt: Öffentlicher Schuldenstand
+#8.3
+#8.4
+gross domestic product per capita: Bruttoinlandsprodukt je Einwohnerin und Einwohner
+#8.5.a,b
+working population: Erwerbstätigenquote
+#8.6
+partnership for sustainable textiles: Bündnis für nachhaltige Textilien
+#9.1
+private and public spending on research and development: Private und öffentliche Ausgaben für Forschung und Entwicklung
+#10.1
+foreign school graduates: Ausländische Schulabsolventinnen und -absolventen
+#10.2
+gini coefficient of equivalised income before social transfers: Verfügbares Äquivalenzeinkommen (Gini-Koeffizent)
+#11.1.a
+expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsfläche
+"recreation area, cemeteries": "Erholungsfläche, Friedhof"
+"building and adjacent open area, commercial/ industrial area": Gebäude- und Freifläche, Betriebsfläche
+transport area: Verkehrsfläche
+"settlement and transport area (total, moving four-year average)": Insgesamt (gleitender Vierjahresdurchschnitt)
+#11.1.b
+change in open space per capita: Veränderung der Freiraumfläche je Einwohnerin und Einwohner
+rural areas: ländliche Räume
+non-rural areas: nicht ländliche Räume
+#11.1.c
+inhabitans per square kilometre of settlement and transport area: Einwohnerinnen und Einwohner je Quadratkilometer Siedlungs- und Verkehrsfläche
+#11.2.a
+final energy consumption in freight transport: Endenergieverbrauch im Güterverkehr
+final energy consumption for the carriage of goods: Endenergieverbrauch durch Güterbeförderung
+goods transport performance: Güterbeförderungsleistung
+final energy consumption per tonne-kilometre: Energieverbrauch je Tonnenkilometer
+#11.2.b
+final energy consumption in passenger transport: Endenergieverbrauch im Personenverkehr
+passenger transport performance: Personenbeförderungsleistung
+final energy consumption per passenger-kilometre: Energieverbrauch je Personenkilometer
+#11.2.c
+travel time by public transport to the nearest medium-sized or large city: Reisezeit mit öffentlichen Verkehrsmitteln zum nächsten Mittel- oder Oberzentrum
+#11.3
+"share of people in households that spend more than 40% of their disposable income on living expenses": Anteil der Personen in Haushalten, die mehr als 40 % des verfügbaren Einkommens für Wohnen ausgeben
+#12.1.a
+"market share of products certified by independently verified sustainability labelling schemes": Marktanteil von Produkten mit staatlichen Umweltzeichen
+#12.1.b
+energy consumption and co2 emissions by private households: Energieverbrauch und CO<sub>2</sub>-Emissionen der privaten Haushalte
+#12.2
+use of the emas eco-management system in germany: Einsatz des Umweltmanagementsystems EMAS in Deutschland
+#12.3
+responsible public procurement: Nachhaltige öffentliche Beschaffung
+recycled paper bearing the blue angel label as a proportion of the total paper consumption of the federal administration: Anteil Recyclingpapier mit Blauem Engel am Gesamtpapierverbrauch der unmittelbaren Bundesverwaltung
+co2 emissions per mileage of motor vehicles of the public sector: CO<sub>2</sub>-Emissionen je Fahrleistung der Kfz der öffentlichen Hand
+#13.1.a
+greenhouse gas emissions in co2 equivalents: Treibhausgasemissionen in CO<sub>2</sub>-Äquivalenten
+#13.1.b
+"german funding primarily to developing and emerging countries for climate protection": Deutsche Zahlungen vorrangig an Entwicklungs- und Schwellenländer zur Klimafinanzierung
+#14.1.a
+total nitrogen input into baltic/north seas via selected german inflows: Gesamtstickstoffkonzentration in Nord- und Ostsee
+north sea: Nordsee
+baltic sea: Ostsee
+#14.1.b
+sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen
+
+
+#15.1
+species diversity and landscape quality: Artenvielfalt und Landschaftsqualität
+sub-index forests: Teilindex Wälder
+sub-index settlements: Teilindex Siedlungen
+sub-index farmland: Teilindex Agrarland
+sub-index inland waters: Teilindex Binnengewässer
+sub-index coasts/seas: Teilindex Küsten/Meere
+#15.2
+ecosystems in which critical loads for eutrophication due to nitrogen input are exceeded: Ökosysteme mit Überschreitung der Belastungsgrenzen für Eutrophierung durch Stickstoffeinträge
+#15.3
+"payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook": Zahlungen an Entwicklungs- und Schwellenländer für den nachgewiesenen Erhalt bzw. Wiederaufbau von Wäldern unter dem REDD+-Regelwerk
+#16.1
+criminal offences: Straftaten
+serious and grievous bodily harm: Gefährliche und schwere Körperverletzung
+fraud: Betrug
+burglary in homes: Wohnungseinbruchsdiebstahl
+#16.2
+"number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world": Anzahl der in betroffenen Weltregionen durchgeführten Projekte zur Sicherung, Registrierung und Zerstörung von Kleinwaffen und leichten Waffen durch Deutschland
+#16.3.a,b
+corruption perceptions index: Korruptionswahrnehmungsindex
+rating for germany: Bewertung für Deutschland
+number of partner countries of german development cooperation whose rating has improved compared with 2012": Anzahl der Partnerländer deutscher Entwicklungszusammenarbeit, deren Bewertung sich gegenüber 2012 verbessert hat
+#17.1
+share of expenditure for official development assistance in gross national income: Anteil der öffentlichen Entwicklungsausgaben am Bruttonationaleinkommen
+#17.2
+students and researchers from developing and emerging countries in germany: Studierende und Forschende aus Entwicklungs- und Schwellenländern in Deutschland
+students from ldcs: Studierende aus LDCs
+students from other developing and emerging countries: Studierende aus den übrigen Entwicklungs- und Schwellenländern
+researchers from ldcs: Forschende aus LDCs
+researchers from other developing and emerging countries: Forschende aus den übrigen Entwicklungs- und Schwellenländern
+#17.3
+imports from the least developed countries (ldcs): Einfuhren aus LDCs
+imports from ldcs: Einfuhren von weiterverarbeiteten Produkten aus LDCs

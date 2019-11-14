@@ -104,7 +104,12 @@ tonnes: t
 kg/ha: Kilograms per hectare (kg/ha)
 mio. EUR: Millions of euros (Mn €)
 mio.: Millions
-
+1 000 eur: 1 000 €
+ha/d: hectares per day (ha/d)
+m2/(inhabitant*a): m<sup>2</sup>/(inhabitant*a)
+min.: Minutes
+bn EUR: Billions of euros (bn €)
+mg/l: Milligrams per litre (mg/l)
 
 
 #time series

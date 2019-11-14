@@ -68,6 +68,7 @@ under 18 years: under 18 years
 
 #units
 "%": Percentage (%)
+percentage (%): Percentage (%)
 "shares in %": Shares in %
 "share of all persons in the respective age group in %": Share of all persons in the respective age group in %
 per 100 000 adults: per 100 000 adults
@@ -100,6 +101,10 @@ mn h: Mn h
 "mn usd, constant prices (2016)": Mn USD, constant prices (2016)
 g/eur (constant 2010): g/EUR (constant 2010)
 tonnes: t
+kg/ha: Kilograms per hectare (kg/ha)
+mio. EUR: Millions of euros (Mn €)
+mio.: Millions
+
 
 
 #time series
@@ -923,6 +928,8 @@ calculated annual values: Calculated annual values
 "moving five-year average, referring to the middle year": "Moving five-year average, referring to the middle year"
 #2.1.b
 organically farmed agricultural land: Organically farmed agricultural land
+data from destatis: Data from Destatis
+data from bmel: Data from BMEL
 #2.2
 disbursements mainly to developing and newly industrialising countries to support good governance for food security: Disbursements mainly to developing and newly industrialising countries to support good governance for food security
 #3.1.a,b
@@ -931,8 +938,8 @@ premature mortality: Premature mortality
 adolescent and adult smokers: Adolescent and adult smokers
 #3.1.e
 share of overweight and obese 11- to 17-year-old adolescents: Share of overweight and obese 11- to 17-year-old adolescents
-overweight: Overweight
-obese: "Including: Obese"
+overweight: Total (Overweight including obese)
+obese: Obese
 #3.1.f
 share of adults suffering from obesity: Share of adults suffering from obesity
 #3.2.a

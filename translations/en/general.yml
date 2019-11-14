@@ -22,7 +22,7 @@ link_dns: To the DNS-Indicators page
 link_sdg_indicator: Go to the page of the corresponding SDG indicator
 link_sdg_goal: Go to the page of the corresponding SDG Goal
 target_link_sdg: SDG-Goal
-indicator_link_sdg: SDG-Indicator
+indicator_link_sdg: Related global indicator: SDG-
 next_indicator: Next indicator
 prev_indicator: Previous indicator
 next_goal: Next goal

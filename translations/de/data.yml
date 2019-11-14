@@ -68,6 +68,7 @@ under 18 years: Unter 18 Jahren
 
 #units
 "%": Prozent (%)
+percentage (%): Prozent (%)
 "shares in %": Anteile in %
 "share of all persons in the respective age group in %": Anteil an allen Personen der jeweiligen Altersgruppe, in %
 per 100 000 adults: Je 100 000 Erwachsene
@@ -100,6 +101,9 @@ mn h: Mill. h
 "mn usd, constant prices (2016)": Mill. USD, konstante Preise (2016)
 g/eur (constant 2010): g/EUR (konstant 2010)
 tonnes: t
+kg/ha: Kilogramm je Hektar (kg/ha)
+mio. EUR: Millionen Euro (Mio. €)
+mio.: Millionen
 
 
 
@@ -880,7 +884,7 @@ title: Zeitreihe
 dimension: Dimension
 
 a) time series: Zeitreihe
-b) target: Ziele
+b) target: Ziel
 b) target (min): Ziel (Minimum)
 b) target (max): Ziel (Maximum)
 
@@ -925,6 +929,8 @@ calculated annual values: Berechnete jährliche Werte
 "moving five-year average, referring to the middle year": Gleitender Fünfjahresdurchschnitt mit Bezug auf das mittlere Jahr
 #2.1.b
 organically farmed agricultural land: Landwirtschaftliche Fläche unter ökologischer Bewirtschaftung
+data from destatis: Daten des Statistischen Bundesamtes
+data from bmel: Daten des BMEL
 #2.2
 disbursements mainly to developing and newly industrialising countries to support good governance for food security: Zahlungen vorrangig an Entwicklungs- und Schwellenländer zur Unterstützung guter Regierungsführung für Ernährungssicherung
 #3.1.a,b
@@ -933,8 +939,8 @@ premature mortality: Vorzeitige Sterblichkeit
 adolescent and adult smokers: Rauchende Jugendliche und Erwachsene
 #3.1.e
 share of overweight and obese 11- to 17-year-old adolescents: Anteil der Jugendlichen (11 bis 17 Jahre) mit Übergewicht
-overweight: Übergewicht (inklusive Adipositas)
-obese: "Adipositas"
+overweight: Insgesamt (Übergewicht inklusive Adipositas)
+obese: Adipositas
 #3.1.f
 share of adults suffering from obesity: Anteil der Erwachsenen mit Adipositas (Fettleibigkeit)
 #3.2.a
@@ -945,7 +951,7 @@ nox: NO<sub>x</sub>
 nmvoc: NMVOC
 so2: SO<sub>2</sub>
 #3.2.b
-"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": Feinstaubexposition (PM10) oberhalb des WHO-Richtwertes von mindestens 20 μg pro m<sup>3</sup> Luft im Jahresmittel
+"particulate matter exposure (pm10), of at least 20 micro-g per m3 air on average per year": Feinstaubexposition (PM<sub>10</sub>) oberhalb des WHO-Richtwertes von mindestens 20 μg pro m<sup>3</sup> Luft im Jahresmittel
 #4.1.a
 early school leavers (18- to 24-year-olds): Frühe Schulabgängerinnen und Schulabgänger (18- bis 24-Jährige)
 #4.1.b

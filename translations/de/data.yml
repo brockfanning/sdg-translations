@@ -909,6 +909,7 @@ adults (15 years and older): Erwachsene (ab 15 Jahren)
 20 - 64 years: 20 bis 64 Jahre
 60 - 64 years: 60 bis 64 Jahre
 
+germany (total): Deutschland (insgesamt)
 bw: Baden-Württemberg
 by: Bayern
 be: Berlin
@@ -951,6 +952,7 @@ obese: Adipositas
 share of adults suffering from obesity: Anteil der Erwachsenen mit Adipositas (Fettleibigkeit)
 #3.2.a
 emissions of air pollutants: Emissionen von Luftschadstoffen
+Air pollutants overall: Luftschadstoffe insgesamt
 nh3: NH<sub>3</sub>
 pm2.5: PM<sub>2,5</sub>
 nox: NO<sub>x</sub>
@@ -962,6 +964,8 @@ so2: SO<sub>2</sub>
 early school leavers (18- to 24-year-olds): Frühe Schulabgängerinnen und Schulabgänger (18- bis 24-Jährige)
 #4.1.b
 30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education: 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Bildungsabschluss
+tertiary or post-secondary non-tertiary education: Tertiärer oder postsekundarer nicht-tertärer Bildungsabschluss
+tertiary education: Tertiärer Abschluss
 #4.2.a,b
 children in institutional all-day care: Kinder in Ganztagsbetreuung in Tageseinrichtungen
 #5.1.a
@@ -1015,11 +1019,12 @@ expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsf
 "recreation area, cemeteries": "Erholungsflächen & Friedhöfe"
 "building and adjacent open area, commercial/ industrial area": Gebäude-, Frei- & Betriebsfläche
 transport area: Verkehrsfläche
-"settlement and transport area (total, moving four-year average)": Insgesamt (gleitender Vierjahresdurchschnitt)
+"Total (Moving four-year average)": Insgesamt (gleitender Vierjahresdurchschnitt)
 #11.1.b
 change in open space per capita: Veränderung der Freiraumfläche je Einwohnerin und Einwohner
 rural areas: Ländliche Räume
-non-rural areas: Nicht ländliche Räume
+non-rural areas: Nicht-ländliche Räume
+rural and non-rural areas: Ländliche und nicht-ländliche Räume
 #11.1.c
 inhabitans per square kilometre of settlement and transport area: Einwohnerinnen und Einwohner je Quadratkilometer Siedlungs- und Verkehrsfläche
 #11.2.a
@@ -1065,6 +1070,7 @@ proportion of sustainable managed stocks in all msy examined stocks: Anteil der 
 
 #15.1
 species diversity and landscape quality: Artenvielfalt und Landschaftsqualität
+index overall: Index insgesamt
 sub-index forests: Teilindex Wälder
 sub-index settlements: Teilindex Siedlungen
 sub-index farmland: Teilindex Agrarland

@@ -924,6 +924,25 @@ adults (15 years and older): Adults (15 years and older)
 20 - 64 years: 20 to 64 years
 60 - 64 years: 60 to 64 years
 
+Bundesland: Federal state
+germany (total): Germany (total)
+bw: Baden-Wuerttemberg
+by: Bavaria
+be: Berlin
+bb: Brandenburg
+hb: Bremen
+hh: Hamburg
+he: Hesse
+mv: Mecklenburg Western Pomerania
+ni: Lower Saxony
+nw: North Rhine-Westphalia
+rp: Rhineland Palatinate
+sl: Saarland
+sn: Saxony
+st: Saxony-Anhalt
+sh: Schleswig-Holstein
+th: Thuringia
+
 #1.1.a,b
 "a) materially deprived persons": a) Materially deprived persons
 "b) severely materially deprived persons": b) Serverely materially deprived persons
@@ -949,6 +968,7 @@ obese: Obese
 share of adults suffering from obesity: Share of adults suffering from obesity
 #3.2.a
 emissions of air pollutants: Emissions of air pollutants
+air pollutants overall: Air pollutants overall
 nh3: NH<sub>3</sub>
 pm2.5: PM<sub>2.5</sub>
 nox: NO<sub>x</sub>
@@ -960,6 +980,8 @@ so2: SO<sub>2</sub>
 early school leavers (18- to 24-year-olds): Early school leavers (18- to 24-year-olds)
 #4.1.b
 30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education: 30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education
+tertiary or post-secondary non-tertiary education: Tertiary or post-secondary non-tertiary education
+tertiary education: Tertiary education
 #4.2.a,b
 children in institutional all-day care: Children in institutional all-day care
 #5.1.a
@@ -1013,11 +1035,12 @@ expansion of settlement and transport area: Expansion of settlement and transpor
 "recreation area, cemeteries": "Recreation area, cemeteries"
 "building and adjacent open area, commercial/ industrial area": "Building and adjacent open area, commercial/ industrial area"
 transport area: Transport area
-"settlement and transport area (total, moving four-year average)": "Total (moving four-year average)"
+"Total (Moving four-year average)": "Total (moving four-year average)"
 #11.1.b
 change in open space per capita: Change in open space per capita
 rural areas: Rural areas
 non-rural areas: Non-rural areas
+rural and non-rural areas: Rural and non-rural areas
 #11.1.c
 inhabitans per square kilometre of settlement and transport area: Inhabitans per square kilometre of settlement and transport area
 #11.2.a
@@ -1062,6 +1085,7 @@ proportion of msy examined in all managed stocks: Proportion of MSY examined in 
 proportion of sustainable managed stocks in all msy examined stocks: Proportion of sustainable managed stocks in all MSY examined stocks
 #15.1
 species diversity and landscape quality: Species diversity and landscape quality
+index overall: Index overall
 sub-index forests: Sub-index forests
 sub-index settlements: Sub-index settlements
 sub-index farmland: Sub-index farmland

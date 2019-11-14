@@ -1043,7 +1043,7 @@ travel time by public transport to the nearest medium-sized or large city: Reise
 "market share of products certified by independently verified sustainability labelling schemes": Marktanteil von Produkten mit staatlichen Umweltzeichen
 #12.1.b
 energy consumption and co2 emissions by private households: Energieverbrauch und CO<sub>2</sub>-Emissionen der privaten Haushalte
-direct co2 emissions and co2 content of consumer goods: Direkte CO<sub>2</sub>-Emissionen und CO2-Gehalt der Konsumgüter
+direct co2 emissions and co2 content of consumer goods: Direkte CO<sub>2</sub>-Emissionen und CO<sub>2</sub>-Gehalt der Konsumgüter
 energy content of consumer goods: Energiegehalt der Konsumgüter
 direct energy consumption: Direkter Energieverbrauch
 #12.2
@@ -1081,6 +1081,7 @@ ecosystems in which critical loads for eutrophication due to nitrogen input are 
 "payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook": Zahlungen an Entwicklungs- und Schwellenländer für den nachgewiesenen Erhalt bzw. Wiederaufbau von Wäldern unter dem REDD+-Regelwerk
 #16.1
 criminal offences: Straftaten
+other criminal offences: Sonstige Straftaten
 serious and grievous bodily harm: Gefährliche und schwere Körperverletzung
 fraud: Betrug
 burglary in homes: Wohnungseinbruchsdiebstahl

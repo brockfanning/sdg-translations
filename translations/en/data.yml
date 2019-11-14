@@ -1005,15 +1005,14 @@ generation of renewable energies relative to gross final energy consumption: Gen
 #7.2.b
 electricity generated from renewable energy sources: Electricity generated from renewable energy sources
 #8.1
-raw material input productivity: Raw material input productivity
 "consumption, investments and exports (price-adjusted)": "Consumption, investments and exports (price-adjusted)"
 "raw material use for consumption, investments and exports": "Raw material use for consumption, investments and exports"
 raw material input productivity: Raw material input productivity
 #8.2.a,b
 funding balance and structural governmental funding balance: Funding balance and structural governmental funding balance
-funding balance (share of gross domestic product (at current prices) in %): Funding balance (share of gross domestic product (at current prices) in %)
-structural funding balance (share of gross domestic product (at current prices) in %): Structural funding balance (share of gross domestic product (at current prices) in %)
-gross domestic produkt (price-adjusted) (year-on-year changes in %): Gross domestic produkt (price-adjusted) (year-on-year changes in %)
+funding balance (share of gross domestic product (at current prices) in %): Funding balance (share of gross domestic product (at current prices))
+structural funding balance (share of gross domestic product (at current prices) in %): Structural funding balance (share of gross domestic product (at current prices))
+gross domestic produkt (price-adjusted) (year-on-year changes in %): Gross domestic produkt (price-adjusted) (year-on-year changes)
 #8.2.c
 public debt: public debt
 #8.3

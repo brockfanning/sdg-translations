@@ -952,7 +952,7 @@ obese: Adipositas
 share of adults suffering from obesity: Anteil der Erwachsenen mit Adipositas (Fettleibigkeit)
 #3.2.a
 emissions of air pollutants: Emissionen von Luftschadstoffen
-Air pollutants overall: Luftschadstoffe insgesamt
+air pollutants overall: Luftschadstoffe insgesamt
 nh3: NH<sub>3</sub>
 pm2.5: PM<sub>2,5</sub>
 nox: NO<sub>x</sub>
@@ -989,15 +989,14 @@ generation of renewable energies relative to gross final energy consumption: Erz
 #7.2.b
 electricity generated from renewable energy sources: Strom aus erneuerbaren Energiequellen
 #8.1
-raw material input productivity: Gesamtrohstoffproduktivität
 "consumption, investments and exports (price-adjusted)": Konsum, Investitionen und Exporte (preisbereinigt)
 "raw material use for consumption, investments and exports": "Rohstoffeinsatz für Konsum, Investitionen und Exporte"
 raw material input productivity: Gesamtrohstoffproduktivität
 #8.2.a,b
 funding balance and structural governmental funding balance: Finanzierungssaldo und struktureller Finanzierungssaldo des Staates
-funding balance (share of gross domestic product (at current prices) in %): "Finanzierungssaldo (Anteil am Bruttoinlandsprodukt (in jeweiligen Preisen), in %)"
-structural funding balance (share of gross domestic product (at current prices) in %): "Struktureller Finanzierungssaldo (Anteil am Bruttoinlandsprodukt (in jeweiligen Preisen), in %)"
-gross domestic produkt (price-adjusted) (year-on-year changes in %): Bruttoinlandsprodukt (preisbereinigt) (Veränderung gegenüber dem Vorjahr, in %)
+funding balance (share of gross domestic product (at current prices) in %): "Finanzierungssaldo (Anteil am Bruttoinlandsprodukt (in jeweiligen Preisen))"
+structural funding balance (share of gross domestic product (at current prices) in %): "Struktureller Finanzierungssaldo (Anteil am Bruttoinlandsprodukt (in jeweiligen Preisen))"
+gross domestic produkt (price-adjusted) (year-on-year changes in %): Bruttoinlandsprodukt (preisbereinigt) (Veränderung gegenüber dem Vorjahr)
 #8.2.c
 public debt: Öffentlicher Schuldenstand
 #8.3

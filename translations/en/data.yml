@@ -99,17 +99,17 @@ kg per capita: kg per capita
 ph-value: ph-value
 mn h: Mn h
 "mn usd, constant prices (2016)": Mn USD, constant prices (2016)
-g/eur (constant 2010): g/EUR (constant 2010)
+"g/eur (constant 2010)": g/EUR (constant 2010)
 tonnes: t
-kg/ha: Kilograms per hectare (kg/ha)
-mio. EUR: Millions of euros (Mn €)
-mio.: Millions
+"kg/ha": Kilograms per hectare (kg/ha)
+"mio. EUR": Millions of euros (Mn €)
+"mio.": Millions
 1 000 eur: 1 000 €
-ha/d: hectares per day (ha/d)
-m2/(inhabitant*a): m<sup>2</sup>/(inhabitant*a)
-min.: Minutes
+"ha/d": hectares per day (ha/d)
+"m2/(inhabitant*a)": m<sup>2</sup>/(inhabitant*a)
+"min.": Minutes
 bn EUR: Billions of euros (bn €)
-mg/l: Milligrams per litre (mg/l)
+"mg/l": Milligrams per litre (mg/l)
 
 
 #time series

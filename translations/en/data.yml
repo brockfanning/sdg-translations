@@ -903,7 +903,7 @@ c) death registration: c) Death registration
 display: Display
 
 title: Time series
-dimension: Dimension
+dimension: Time series
 
 a) time series: Time series
 b) target: Targets

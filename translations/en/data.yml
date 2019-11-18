@@ -1034,12 +1034,12 @@ expansion of settlement and transport area: Expansion of settlement and transpor
 "recreation area, cemeteries": "Recreation area, cemeteries"
 "building and adjacent open area, commercial/ industrial area": "Building and adjacent open area, commercial/ industrial area"
 transport area: Transport area
-"total (moving four-year average)": "Total (moving four-year average)"
+"a) total (moving four-year average)": "Total (moving four-year average)"
 #11.1.b
 change in open space per capita: Change in open space per capita
 rural areas: Rural areas
 non-rural areas: Non-rural areas
-rural and non-rural areas: Rural and non-rural areas
+a) rural and non-rural areas: Rural and non-rural areas
 #11.1.c
 inhabitans per square kilometre of settlement and transport area: Inhabitans per square kilometre of settlement and transport area
 #11.2.a
@@ -1096,6 +1096,7 @@ ecosystems in which critical loads for eutrophication due to nitrogen input are 
 "payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook": "Payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook"
 #16.1
 criminal offences: Criminal offences
+criminal offences (overall): Criminal offences (total)
 other criminal offences:: Other criminal offences
 serious and grievous bodily harm: Serious and grievous bodily harm
 fraud: Fraud

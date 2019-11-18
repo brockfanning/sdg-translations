@@ -106,7 +106,7 @@ tonnes: t
 "mio.": Millionen
 1 000 eur: 1 000 €
 "ha/d": Hektar pro Tag (ha/d)
-"m2/(inhabitant*a)": "m&sup2;/(Einwohner*a)"
+"m2/(inhabitant*a)": "m<sub>2</sub>/(Einwohner*a)"
 "min.": Minuten
 bn eur: Milliarden Euro (Mrd. €)
 "mg/l": Milligramm pro Liter (mg/l)
@@ -1018,12 +1018,12 @@ expansion of settlement and transport area: Anstieg der Siedlungs- und Verkehrsf
 "recreation area, cemeteries": "Erholungsflächen & Friedhöfe"
 "building and adjacent open area, commercial/ industrial area": Gebäude-, Frei- & Betriebsfläche
 transport area: Verkehrsfläche
-"total (moving four-year average)": Insgesamt (gleitender Vierjahresdurchschnitt)
+"a) total (moving four-year average)": Insgesamt (gleitender Vierjahresdurchschnitt)
 #11.1.b
 change in open space per capita: Veränderung der Freiraumfläche je Einwohnerin und Einwohner
 rural areas: Ländliche Räume
 non-rural areas: Nicht-ländliche Räume
-rural and non-rural areas: Ländliche und nicht-ländliche Räume
+a) rural and non-rural areas: Ländliche und nicht-ländliche Räume
 #11.1.c
 inhabitans per square kilometre of settlement and transport area: Einwohnerinnen und Einwohner je Quadratkilometer Siedlungs- und Verkehrsfläche
 #11.2.a
@@ -1066,7 +1066,6 @@ baltic sea: Ostsee
 sustainably fished stocks of fish in the north and baltic sea as a proportion of all msy examined stocks: Anteil der nachhaltig befischten Fischbestände in Nord- und Ostsee an allen MSY-untersuchten Beständen
 proportion of msy examined in all managed stocks: MSY-untersuchte an allen bewirtschafteten Beständen
 proportion of sustainable managed stocks in all msy examined stocks: Anteil der Nachhaltig bewirtschafteten Bestände an allen MSY-untersuchten Beständen
-
 #15.1
 species diversity and landscape quality: Artenvielfalt und Landschaftsqualität
 index overall: Index insgesamt
@@ -1081,6 +1080,7 @@ ecosystems in which critical loads for eutrophication due to nitrogen input are 
 "payments to developing and emerging countries for the verified preservation or restoration of forests under the redd+ rulebook": Zahlungen an Entwicklungs- und Schwellenländer für den nachgewiesenen Erhalt bzw. Wiederaufbau von Wäldern unter dem REDD+-Regelwerk
 #16.1
 criminal offences: Straftaten
+criminal offences (overall): Straftaten (insgesamt)
 other criminal offences: Sonstige Straftaten
 serious and grievous bodily harm: Gefährliche und schwere Körperverletzung
 fraud: Betrug

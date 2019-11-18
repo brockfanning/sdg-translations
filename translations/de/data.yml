@@ -106,7 +106,7 @@ tonnes: t
 "mio.": Millionen
 1 000 eur: 1 000 €
 "ha/d": Hektar pro Tag (ha/d)
-"m2/(inhabitant*a)": m<sub>2</sub>/(Einwohner*a)
+"m2/(inhabitant*a)": Quadratmeter pro Jahr
 "min.": Minuten
 bn eur: Milliarden Euro (Mrd. €)
 "mg/l": Milligramm pro Liter (mg/l)
@@ -964,7 +964,7 @@ so2: SO<sub>2</sub>
 early school leavers (18- to 24-year-olds): Frühe Schulabgängerinnen und Schulabgänger (18- bis 24-Jährige)
 #4.1.b
 30-to 34-year-olds who have completed a programme of tertiary or post-secondary non-tertiary education: 30- bis 34-Jährige mit tertiärem oder postsekundarem nicht-tertiären Bildungsabschluss
-tertiary or post-secondary non-tertiary education: Tertiärer oder postsekundarer nicht-tertärer Bildungsabschluss
+tertiary or post-secondary non-tertiary education: Insgesamt #Tertiärer oder postsekundarer nicht-tertärer Bildungsabschluss
 tertiary education: Tertiärer Abschluss
 #4.2.a,b
 children in institutional all-day care: Kinder in Ganztagsbetreuung in Tageseinrichtungen

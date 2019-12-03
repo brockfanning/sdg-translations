@@ -17,8 +17,8 @@ target: Target
 targets: Targets
 dns_target: Range of indicators and postulates
 dns: Sustainable development in Germany
-link_sdg: Global indicators on Goal
-link_dns: National indicators on Goal
+link_sdg: Global indicators on
+link_dns: National indicators on
 link_sdg_indicator: Go to the page of the corresponding SDG indicator
 link_sdg_goal: Go to the page of the corresponding SDG Goal
 target_link_sdg: SDG-Goal
@@ -28,6 +28,6 @@ prev_indicator: Previous indicator
 next_goal: Next goal
 prev_goal: Previous goal
 title: German Indicators For The Sustainable Development Goals
-meta: Current status of the national indicators for the 17 Sustainable Development Goals (SDGs) in Germany with a publicly available data basis 
+meta: Current status of the national indicators for the 17 Sustainable Development Goals (SDGs) in Germany with a publicly available data basis
 meta_goal: Current status of the national indicators for Sustainable Development Goal
 meta_indicator: Data for Germany for SDG indicator

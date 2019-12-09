@@ -23,7 +23,7 @@ link_sdg_indicator: Go to the page of the corresponding SDG indicator
 link_sdg_goal: Go to the page of the corresponding SDG Goal
 target_link_sdg: Global indicators on
 target_link_dns: National indicators on
-global: - Global
+global: "- Global"
 indicator_link_sdg: "Related global indicator:"
 indicator_link_dns: "Related national indicator:"
 next_indicator: Next indicator

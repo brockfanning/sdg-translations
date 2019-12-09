@@ -21,8 +21,9 @@ link_sdg: Zur Seite der globalen Indikatoren
 link_dns: Zur Seite der nationalen Indikatoren
 link_sdg_indicator: Hier gelangen Sie zur Seite des korrespondierenden SDG-Indikators
 link_sdg_goal: Hier gelangen Sie zur Seite des Ziels der SDG-Indikatoren
-target_link_sdg: Globale Indikatoren zu Ziel
-target_link_dns: Nationale Indikatoren zu Ziel
+target_link_sdg: Globale Indikatoren zu
+target_link_dns: Nationale Indikatoren zu
+global: - Global
 indicator_link_sdg: "Verwandter globaler Indikator:"
 indicator_link_dns: "Verwandter nationaler Indikator:"
 next_indicator: Nächster Indikator

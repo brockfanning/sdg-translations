@@ -5,3 +5,8 @@ reporting_status: Berichtsstatus
 statistics_in_progress: in Bearbeitung
 not_applicable: Nicht zutreffend
 status_by_goal: Status nach Ziel
+Nebel: Keine Bewertung möglich
+Sonne: Bei Fortsetzung der Entwicklung beträgt die Abweichung vom Zielwert weniger als 5 % der Differenz zwischen Zielwert und aktuellem Wert
+Leicht bewölkt: Bei Fortsetzung der Entwicklung würde das Ziel voraussichtlich um mindestens 5 %, aber maximal um 20 % der Differenz zwischen Zielwert und aktuellem Wert verfehlt
+Wolke: Der Indikator entwickelt sich zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung würde das Ziel im Zieljahr aber um mehr als 20 % verfehlt
+Blitz: Der Indikator entwickelt sich nicht in die gewünschte Richtung und somit vergrößert sich der Abstand zum Ziel

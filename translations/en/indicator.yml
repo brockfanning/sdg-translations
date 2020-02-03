@@ -37,7 +37,7 @@ map: Map
 loading_map: Loading map
 national_metadata: National Metadata
 metadata: Metadata
-dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values, if necessary translated into a statistically assessed target value as well as explaining the political intention behind selecting this indicator.
+dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
 national_metadata_blurb: This table provides metadata for the actual indicator
   available from %country_adjective statistics closest to the corresponding
   global SDG indicator. Please note that even when the SDG indicator is

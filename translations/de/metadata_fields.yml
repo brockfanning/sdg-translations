@@ -15,8 +15,8 @@ history_year_d_2: Jahr
 history_status_year_d_2: Bewertung
 indicator: Indikatorennummerierung
 indicator_definition: Globale Indikatorenbeschreibung
-dns_indicator_definition: Definition <sub> (Text aus dem Indikatorenbericht 2018)</sub>
-dns_indicator_intention: Ziele und Intention <sub> (Text aus dem Indikatorenbericht 2018)</sub>
+dns_indicator_definition: Definition <small> (Text aus dem Indikatorenbericht 2018)</small>
+dns_indicator_intention: Ziele und Intention <small> (Text aus dem Indikatorenbericht 2018)</small>
 dns_indicator_content: Inhalt und Entwicklung
 dns_content_url: Inhalt und Entwicklung
 dns_content_url_text: Inhalt und Entwicklung

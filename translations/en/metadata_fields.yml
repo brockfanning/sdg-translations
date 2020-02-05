@@ -7,8 +7,8 @@ goal_meta_link: Link to the global metadata of this indicator
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
 indicator_definition: Global indicator description
-dns_indicator_definition: Definition
-dns_indicator_intention: Target and intention
+dns_indicator_definition: Definition<sub> (Text from the Indicator Report 2018)</sub>
+dns_indicator_intention: Target and intention<sub> (Text from the Indicator Report 2018)</sub>
 dns_indicator_content: Content and progress
 dns_content_url: Content and progress
 dns_content_url_text: Content and progress

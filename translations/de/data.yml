@@ -892,8 +892,8 @@ dimension: Zeitreihe
 
 a) time series: Zeitreihe
 b) target: Ziel
-b) target (min): Ziel (Minimum)
-b) target (max): Ziel (Maximum)
+b) target (min): Ziel
+b) target (max): Ziel
 
 air pollutants: Luftschadstoffe
 criminla offences: Straftaten

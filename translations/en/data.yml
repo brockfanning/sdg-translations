@@ -908,8 +908,8 @@ dimension: Time series
 
 a) time series: Time series
 b) target: Targets
-b) target (min): Targets (minimum)
-b) target (max): Targets (maximum)
+b) target (min): Targets
+b) target (max): Targets
 
 air pollutants: Air pollutants
 criminal offences: Criminal offences

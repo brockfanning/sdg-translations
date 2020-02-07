@@ -3,3 +3,139 @@ indicator: Indicator
 target: Target
 year: Year
 status: Evaluation
+
+
+1-1-ab_1: 1.1.a - material deprivation
+1-1-ab_1_target: percentage of persons who are materially deprived should stay below the level within the european union
+1-1-ab_2: 1.1.b - severe material deprivation
+1-1-ab_2_target: percentage of persons who are severely materially deprived should stay below the level within the european union
+2-1-a_1: 2.1.a - nitrogen surplus in agriculture
+2-1-a_1_target: on an annual average for the period 2028 to 2032, a reduction of the nitrogen surpluses of the overall balance for germany to 70 kilograms per hectare of utilised agricultural area
+2-1-b_1: 2.1.b - organic farming
+2-1-b_1_target: share of organic farming on land used for agriculture to be increased to 20&nbsp;% by 2030
+2-2-a_1: 2.2 - support for good governance in attaining appropriate nutrition globally
+2-2-a_1_target: adequate increase of the share of disbursments used for implementating of guidelines and recommendations made by the un  good governance for food security by 2030. angemessene steigerung des anteils der ausgezahlten mittel für die anwendung von leitlinien und empfehlungen des vn-welternährungsausschusses an den gesamtausgaben für ernährungssicherung bis 2030
+3-1-ab_1: 3.1.a - premature mortality (female)
+3-1-ab_1_target: reduce the premature mortality to 100 deaths per 100,000 female inhabitants by 2030
+3-1-ab_2: 3.1.b - premature mortality (male)
+3-1-ab_2_target: reduce the premature mortality to 190 deaths per 100,000 male inhabitants by 2030
+3-1-cd_1: 3.1.c - smoking rate among adolescents
+3-1-cd_1_target: reduce the proportion to 7&nbsp;% by 2030
+3-1-cd_2: 3.1.d - smoking rate among adults
+3-1-cd_2_target: reduce the proportion to 19&nbsp;% by 2030
+3-1-e_1: 3.1.e - obesity rate among adolescents
+3-1-e_1_target: further increase is to be permanently stopped.
+3-1-f_1: 3.1.f - share of adults suffering from obesity
+3-1-f_1_target: further increase is to be permanently stopped.
+3-2-a_1: 3.2.a - emissions of air pollutants
+3-2-a_1_target: reduce emissions to 55&nbsp;% of the 2005 value by 2030
+3-2-b_1: 3.2.b - share of the population with excessive exposure to pm<sub>10</sub> in germany
+3-2-b_1_target: who particulate matter guideline value of 20 micrograms/ cubic metre for pm<sub>10</sub> to be adhered to as widely as possible by 2030
+4-1-a_1: 4.1.a - early school leavers
+4-1-a_1_target: reduce the proportion to below 10&nbsp;% by 2020
+4-1-b_1: 4.1.b - 30- bis 34-jährige mit tertiärem oder postsekundarem nicht-tertiären abschluss
+4-1-b_1_target: increase the proportion to 42&nbsp;% by 2020
+4-2-ab_1: 4.2.a - children in institutional all-day care (0 to 2-year-olds)
+4-2-ab_1_target: increase the proportion to 35&nbsp;% by 2030
+4-2-ab_2: 4.2.b - children in institutional all-day care (3 to 5-year-olds)
+4-2-ab_2_target: increase the proportion to 60&nbsp;% by 2020 and 70&nbsp;% by 2030
+5-1-a_1: 5.1.a - gender pay gap
+5-1-a_1_target: reduce the gap to 10&nbsp;% by 2020, maintain that proportion up to 2030
+5-1-b_1: 5.1.b - women in management positions in business
+5-1-b_1_target: 30&nbsp;% women in supervisory boards of listed and fully co-determined companies by 2030
+5-1-c_1: 5.1.c - vocational qualification of women and girls through german development assistance
+5-1-c_1_target: increase gradually by one third by 2030 compared with base year 2015
+6-1-a_1: 6.1.a - phosphorous in flowing waters
+6-1-a_1_target: not exceeding benchmark values for specific types of water bodies at all monitoring points by 2030
+6-1-b_1: 6.1.b - nitrate in groundwater
+6-1-b_1_target: not exceeding the threshold value of 50&nbsp;mg/l of nitrate in groundwater by 2030
+6-2-a_1: 6.2 - development cooperation for drinking water and sanitation
+6-2-a_1_target: give 10 million people access to water each year till 2030
+7-1-ab_1: 7.1.a - final energy productivity
+7-1-ab_1_target: increase energy productivity by 2.1&nbsp;% per year from 2008 to 2050
+7-1-ab_2: 7.1.b - primary energy consumption
+7-1-ab_2_target: reduce consumption by 20&nbsp;% by 2020 and by 50&nbsp;% by 2050 compared with 2008
+7-2-a_1: 7.2.a - share of renewable energies in gross final energy consumption
+7-2-a_1_target: increase the proportion to 18&nbsp;% by 2020, to 30&nbsp;% by 2030 and to 60&nbsp;% by 2050
+7-2-b_1: 7.2.b - share of electricity from renewable energy sources in electricity consumption
+7-2-b_1_target: increase the proportion to at least 35&nbsp;% by 2020, to at least 50&nbsp;% by 2030 and to at least 80&nbsp;% by 2050
+8-1-a_1: 8.1 - raw material input productivity
+8-1-a_1_target: trend of the years 2000 – 2010 to be continued up to 2030
+8-2-ab_1: 8.2.a - government deficit
+8-2-ab_1_target: annual government deficit less than 3&nbsp;% of gdp, to be continued up to 2030
+8-2-ab_2: 8.2.b - structural deficit
+8-2-ab_2_target: structurally balanced government budget, general government structural deficit must not exceed 0.5&nbsp;% of gdp, to be continued up to 2030
+8-2-c_1: 8.2.c - government debt
+8-2-c_1_target: ratio of government debt to gdp must not exceed 60&nbsp;%, to be continued up to 2030
+8-3-a_1: 8.3 - gross fixed capital formation in relation to gdp
+8-3-a_1_target: appropriate development of the ratio, to be continued up to 2030
+8-4-a_1: 8.4 - gross domestic product per capita
+8-4-a_1_target: continued and appropriate economic growth
+8-5-ab_1: 8.5.a - employment rate, total (20-64 years)
+8-5-ab_1_target: increase the rate to 78&nbsp;% by 2030
+8-5-ab_2: 8.5.b - employment rate, elders (60-64 years)
+8-5-ab_2_target: increase the rate to 60% by 2030
+8-6-a_1: 8.6 - number of members of the textiles partnership
+8-6-a_1_target: increase the number significantly by 2030
+9-1-a_1: 9.1 - private and public expenditure on research and development
+9-1-a_1_target: at least 3.5&nbsp;% of gdp per year by 2025
+10-1-a_1: 10.1 - foreign school graduates
+10-1-a_1_target: increase the proportion of foreign school leavers with a least a secondary general school certificate by 2030
+10-1-a_2: 10.1 - foreign school graduates
+10-1-a_2_target: bring their proportion into line with that of german school graduates by 2030
+10-2-a_1: 10.2 - gini coefficient of income distribution
+10-2-a_1_target: gini coefficient of income after social transfers to be below the eu-28 average by 2030
+11-1-a_1: 11.1.a - expansion of settlement and transport area
+11-1-a_1_target: limit to 30 ha minus x per day by 2030
+11-1-b_1: 11.1.b - loss of open space area
+11-1-b_1_target: reduce the loss of per capita open space area
+11-1-c_1: 11.1.c - density of settlements
+11-1-c_1_target: no decrease in the density of settlements
+11-2-a_1: 11.2.a - final energy consumption in goods transport
+11-2-a_1_target: reduce by 15 to 20&nbsp;% by 2030
+11-2-b_1: 11.2.b - final energy consumption in passenger transport
+11-2-b_1_target: reduce by 15 to 20&nbsp;% by 2030
+11-2-c_1: 11.2.c - accessibility of medium-sized and large cities by public transport
+11-2-c_1_target: reduce the average travel time by public transport
+11-3-a_1: 11.3 - housing cost overload
+11-3-a_1_target: reduce the proportion of people who overburdened to 13&nbsp;% by 2030
+12-1-a_1: 12.1.a - market share of products certified by publicly managed eco-labelling schemes
+12-1-a_1_target: 34&nbsp;% by 2030
+12-1-b_1: 12.1.b - energy consumption and co<sub>2</sub> emissions from consumption
+12-1-b_1_target: reduce energy consumption continuously
+12-2-a_1: 12.2 - emas eco-management
+12-2-a_1_target: 5,000 locations of organisations by 2030
+12-3-ab_1: 12.3 - responsible procurement
+12-3-ab_1_target: 95&nbsp;% by 2020
+12-3-ab_2: 12.3 - responsible procurement
+12-3-ab_2_target: reduce significantly
+13-1-a_1: 13.1.a - greenhouse gas emissions
+13-1-a_1_target: reduce by at least 40&nbsp;% by 2020, by at least 55&nbsp;% by 2030, by at least 70&nbsp;% by 2040 and by 80 to 95&nbsp;% by 2050 – in each case compared with 1990
+13-1-b_1: 13.1.b - international climate finance for the reduction of greenhouse gases and adaptation to climate change
+13-1-b_1_target: double finance by 2020 relative to 2014
+14-1-a_1: 14.1.aa - nitrogen input to the north sea through german inflows
+14-1-a_1_target: maintain a good quality in accordance with the ordinance on the protection of surface waters (keep annual averages of total nitrogen below 2.8 milligrams per litre)
+14-1-a_2: 14.1.ab - nitrogen input to the baltic sea through german inflows
+14-1-a_2_target: maintain a good quality in accordance with the ordinance on the protection of surface waters (keep annual averages of total nitrogen below 2.6 milligrams per litre)
+14-1-b_1: 14.1.b - proportion of sustainably fished stocks of fish in the north and the baltic sea
+14-1-b_1_target: manage sustainably all fish stocks used for economic purposes in accordance with the msy approach by 2020
+15-1-a_1: 15.1 - biodiversity and landscape quality
+15-1-a_1_target: increase to an index value of 100 by 2030
+15-2-a_1: 15.2 - eutrophication of ecosystems
+15-2-a_1_target: reduce the proportion by 35&nbsp;% compared with 2005
+15-3-a_1: 15.3 - preservation or restoration of forests in developing countries under the redd+ rulebook
+15-3-a_1_target: increase by 2030
+16-1-a_1: 16.1 - criminal offences
+16-1-a_1_target: reduce the number of criminal offences recorded per 100,000 inhabitants to less than 7,000 by 2030
+16-2-a_1: 16.2 - number of projects to secure, register and destroy small arms and light weapons carried out by germany in affected regions of the world
+16-2-a_1_target: by 2030 at least 15 projects each year
+16-3-ab_1: 16.3.a - cpi in germany
+16-3-ab_1_target: improve by 2030
+16-3-ab_2: 16.3.b - partner countries
+16-3-ab_2_target: improve by 2030
+17-1-a_1: 17.1 - expenditure for official development assistance as a proportion of gross national income
+17-1-a_1_target: increase the proportion to 0.7&nbsp;% of gni by 2030
+17-2-a_1: 17.2 - number of students and researchers from developing countries and ldcs per year
+17-2-a_1_target: increase by 10&nbsp;% by 2020, than stabilise
+17-3-a_1: 17.3 - imports from the least developed countries (lcds)
+17-3-a_1_target: "increase the proportion by 100&nbsp;% by 2030 (base year: 2014)"

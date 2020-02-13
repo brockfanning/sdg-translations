@@ -42,7 +42,7 @@ select_all: Alle auswählen
 series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
   angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
   wird.
-series_help_dns: Wählen Sie hier aus, was in der Grafik und in der Tabelle angezeigt werden soll.
+series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 source: Datenquelle
 sources: Datenquellen
 sub_categories: Disaggregationsdimensionen

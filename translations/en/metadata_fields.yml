@@ -23,11 +23,11 @@ history_indicator_2: Indicator
 history_target_2: Target
 history_year_d_2: Year
 history_status_year_d_2: Evaluation
-national_data_update_url: Last modification the code <smal>(data)</smal>
+national_data_update_url: Last modification the code <small>(data)</small>
 national_geographical_coverage: Geographical coverage
 national_indicator_available: Indicator available
 national_indicator_description: Indicator description
-national_metadata_update_url: Last modification the code <smal>(text)</smal>
+national_metadata_update_url: Last modification the code <small>(text)</small>
 source_contact_1: Contact details
 source_contact_2: Contact details
 source_contact_3: Contact details

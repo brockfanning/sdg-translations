@@ -23,11 +23,11 @@ dns_content_url_text: Inhalt und Entwicklung
 indicator_name: Indikatorenbezeichnung
 indicator_sort_order: Indikatorenreihenfolge (in der Zielübersicht)
 info_url_1: Zusätzliche Informationen
-national_data_update_url: Letzte Änderung des Codes <smal>(Daten)</smal> #Daten zuletzt aktualisiert am
+national_data_update_url: Letzte Änderung des Codes <small>(Daten)</small> #Daten zuletzt aktualisiert am
 national_geographical_coverage: Geographische Abdeckung
 national_indicator_available: Verfügbare Datenreihenbezeichnung
 national_indicator_description: Indikatorenbeschreibung
-national_metadata_update_url: Letzte Änderung des Codes <smal>(Texte)</smal> #Metadaten zuletzt aktualisiert am
+national_metadata_update_url: Letzte Änderung des Codes <small>(Texte)</small> #Metadaten zuletzt aktualisiert am
 source_contact_1: Kontaktinformationen
 source_contact_2: Kontaktinformationen
 source_contact_3: Kontaktinformationen

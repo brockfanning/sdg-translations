@@ -50,7 +50,7 @@ global_metadata_blurb: This table provides information on metadata for SDG
   <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
   is provided by the UN Statistics Division.
 history: Indicator status summary
-history_blurb: The synoptic table provides information about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation from the indicator report 2018)</i>
+history_blurb: The synoptic table provides information about the evaluation of an indicator in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>
 edit: Edit
 edit_data: Edit Data
 edit_metadata: Edit Metadata

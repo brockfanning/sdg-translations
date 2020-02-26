@@ -39,13 +39,11 @@ national_metadata_blurb: Im Folgenden werden Metadaten zu den national verfügba
 no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswahlmöglichkeiten
   verfügbar.
 select_all: Alle auswählen
-series_help: Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien
-  angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt
-  wird.
+series_help: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 source: Datenquelle
 sources: Datenquellen
-sub_categories: Disaggregationsdimensionen
+sub_categories: Auswahl
 sub_categories_dns: Disaggregation
 table: Tabelle
 timeseries: Zeitreihe

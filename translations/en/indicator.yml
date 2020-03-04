@@ -1,3 +1,6 @@
+additional_information_blurb: The time series below consists of ranges of numbers instead of individual values.
+  For technical reasons, the presentation in the form of interactive charts and tables is only possible for time series with purely numerical values,
+  therefore the time series is presented here in PDF format.
 select_all: Select all
 clear_all: Clear all
 clear_selections: Clear selections

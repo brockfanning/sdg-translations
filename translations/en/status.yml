@@ -11,4 +11,4 @@ sonne: If the trend continues, the target value will be met or the difference be
 leicht bewölkt: If the trend continues, the indicator will be presumably miss its target by at least 5&nbsp;% and at most 20&nbsp% of the difference between the target value and the current value
 wolke: The indicator is moving in the right direction but if the trend continues, the target value will be missed by more than 20&nbsp;% in the target year
 blitz: The indicator is not moving in the right direction so that the gap to the target value is widening
-status_by_field: Status by %field
+#status_by_field: Status by %field

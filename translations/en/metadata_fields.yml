@@ -93,8 +93,8 @@ target_id: Target number
 un_custodian_agency: UN custodian agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">UN designated tier</a>
 # A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-other_info: Other information
-quality_assurance: Quality assurance
-international_comparability: Comparability with international data/standards
-comments_limitations: Comments and limitations
-rational_interpretation: Rational and interpretation
+#other_info: Other information
+#quality_assurance: Quality assurance
+#international_comparability: Comparability with international data/standards
+#comments_limitations: Comments and limitations
+#rational_interpretation: Rational and interpretation

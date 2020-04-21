@@ -221,10 +221,10 @@ hepatitis b incidence (per 100 000 inhabitants): Auftreten von Hepatitis B
 #3.4.1
 mortality rate of persons aged 30 to under 70 years attributed to: "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von"
 mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Sterblichkeit von Personen im Alter von 30 bis unter 70 Jahren aufgrund von"
-a) cardiovascular disease: a) Herz-Kreislauferkrankungen
-b) cancer: b) bösartigen Neubildungen
-c) diabetes mellitus: c) Diabetes mellitus
-d) chronic respiratory disease: d) chronischen Atemwegserkrankungen
+a) cardiovascular disease: a) Sterblichkeit aufgrund von Herz-Kreislauferkrankungen
+b) cancer: b) Sterblichkeit aufgrund von bösartigen Neubildungen
+c) diabetes mellitus: c) Sterblichkeit aufgrund von Diabetes mellitus
+d) chronic respiratory disease: d) Sterblichkeit aufgrund von chronischen Atemwegserkrankungen
 #3.4.2
 suicide mortality rate: Selbstmordsterblichkeit
 suicide mortality rate (per 100 000 inhabitants): Selbstmordsterblichkeit
@@ -236,6 +236,9 @@ type of dependence (1 000): Art der Abhängigkeit
 inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
 inpatient treatment of alcohol dependence (1 000): Stationäre Behandlung bei Alkoholabhängigkeit
 #3.5.2
+conversion: Umrechnung
+by un factors: Mittels UN-Faktoren
+by national factors: Mittels nationalen Faktoren
 alcohol consumption (conversion by un factors): Alkoholkonsum (Umrechnung mittels UN-Faktoren)
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alkoholkonsum (Umrechnung mittels UN-Faktoren)
 alcohol consumption (conversion by national factors): Alkoholkonsum (Umrechnung mittels nationalen Faktoren)
@@ -255,6 +258,9 @@ mortality rate attributed to (per 100 000 inhabitants): Sterblichkeit aufgrund v
 diarrhoea: Durchfallerkrankungen
 intestinal nematode infections: intestinalen Nematodeninfektionen
 protein-energy malnutrition: Energie- und Eiweißmangelernährung
+mortality rate attributed to diarrhoea: Sterblichkeit aufgrund von Durchfallerkrankungen
+mortality rate attributed to intestinal nematode infections: Sterblichkeit aufgrund von intestinalen Nematodeninfektionen
+mortality rate attributed to protein-energy malnutrition: Sterblichkeit aufgrund von Energie- und Eiweißmangelernährung
 #3.9.3
 mortality rate attributed to unintentional poisoning: Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
 mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Sterblichkeit aufgrund von unbeabsichtigter Vergiftung
@@ -296,6 +302,9 @@ c) children and youths at the end of lower secondary education with a minimum pr
 c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Kinder und Jugendliche am Ende der Sekundarstufe I mit einem Mindestleistungsniveau in"
 mathematics: Mathematik
 reading: Lesen
+education level: Ausbildungsgrad
+b) at the end of lower primary education: b) Am Ende der Grundschule
+c) at the end of lower secondary education: c) Am Ende der Sekundarstufe I
 #4.2.2
 children in child day care at the age of 5: Kinder in Kindertagesbetreuung im Alter von 5 Jahren
 children in child day care at the age of 5 (%): Kinder in Kindertagesbetreuung im Alter von 5 Jahren
@@ -318,8 +327,6 @@ installed software or applications (apps): Installation von Software oder Anwend
 "used spreadsheet`s advanced functions to organize and analyze data, such as sorting, filtering, using formulas, creating charts": Nutzung von erweiterten Tabellenfunktionen zur Organisation und Analyse von Daten, wie beispielsweise Sortieren, Filtern, Formeln und Grafiken
 transferred files between computer and other devices: Übertragung von Dateien zwischen Computern und anderen Geräten
 written code in a programming language: Schreiben eines Programmes in einer Programmiersprache
-
-
 #4.5.1
 indicator: Indikator
 gender parity index of: Geschlechtsparitätsindex
@@ -334,6 +341,9 @@ level of proficiency: Leistungsniveau
 "adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Erwachsene Bevölkerung, die mindestens über Grundkompetenzen verfügt in: b) Rechnen"
 minimum requirement level i: Mindestniveau Stufe I
 minimum requirement level ii: Mindestniveau Stufe II
+skill: Fähigkeit
+a) literacy skills: a) Lesen
+b) numeracy skills: b) Rechnen
 #4.a.1
 facilities: Ausstattung
 "schools with access to:": "Schulen mit Zugang zu"
@@ -345,6 +355,13 @@ d) adapted infrastructure and materials for students with disabilities:  d) Infr
 e) basic drinking water: e) Trinkwasser
 f) single-sex basic sanitation facilities: f) geschlechterspezifische, grundlegende sanitäre Anlagen
 g) basic handwashing facilities (as per the wash indicator definitions):  g) grundlegende Einrichtungen zum Händewaschen
+a) schools with access to electricity: a) Schulen mit Zugang zu Elektrizität
+b) schools with access to the internet for pedagogical purposes: b) Schulen mit Zugang zu Internet für pädagogische Zwecke
+c) schools with access to computers for pedagogical purposes: c) Schulen mit Zugang zu Computer für pädagogische Zwecke
+d) schools with access to adapted infrastructure and materials for students with disabilities:  d) Schulen mit Zugang zu Infrastruktur und Materialien für Studierende mit Behinderung
+e) schools with access to basic drinking water: e) Schulen mit Zugang zu Trinkwasser
+f) schools with access to single-sex basic sanitation facilities: f) Schulen mit Zugang zu geschlechterspezifische, grundlegende sanitäre Anlagen
+g) schools with access to basic handwashing facilities (as per the wash indicator definitions): g) Schulen mit Zugang zu grundlegende Einrichtungen zum Händewaschen
 #4.b.1
 oda (gross disbursements) for imputed student costs: Bruttoentwicklungsausgaben für Studienplatzkosten
 "oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))": Bruttoentwicklungsausgaben für Studienplatzkosten

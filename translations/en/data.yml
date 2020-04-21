@@ -220,10 +220,10 @@ hepatitis b incidence (per 100 000 inhabitants): Hepatitis B incidence
 #3.4.1
 mortality rate of persons aged 30 to under 70 years attributed to: "Mortality rate of persons aged 30 to under 70 years attributed to"
 mortality rate of persons aged 30 to under 70 years attributed to (1 000): "Mortality rate of persons aged 30 to under 70 years attributed to"
-a) cardiovascular disease: a) cardiovascular disease
-b) cancer: b) cancer
-c) diabetes mellitus: c) diabetes mellitus
-d) chronic respiratory disease: d) chronic respiratory disease
+a) cardiovascular disease: a) Mortality rate attributed to cardiovascular disease
+b) cancer: b) Mortality rate attributed to cancer
+c) diabetes mellitus: c) Mortality rate attributed to diabetes mellitus
+d) chronic respiratory disease: d) Mortality rate attributed to chronic respiratory disease
 #3.4.2
 suicide mortality rate: Suicide mortality rate
 suicide mortality rate (per 100 000 inhabitants): Suicide mortality rate
@@ -235,6 +235,9 @@ type of dependence (1 000): Type of dependence
 inpatient treatment of alcohol dependence: Inpatient treatment of alcohol dependence
 inpatient treatment of alcohol dependence (1 000): Inpatient treatment of alcohol dependence
 #3.5.2
+conversion: Conversion
+by un factors: By un factors
+by national factors: By national factors
 alcohol consumption (conversion by un factors): Alcohol consumption (conversion by UN factors)
 alcohol consumption (conversion by un factors) (litres of pure alcohol per capita): Alcohol consumption (conversion by UN factors)
 alcohol consumption (conversion by national factors): Alcohol consumption (conversion by national factors)
@@ -254,6 +257,9 @@ mortality rate attributed to (per 100 000 inhabitants): Mortality rate attribute
 diarrhoea: diarrhoea
 intestinal nematode infections: intestinal nematode infections
 protein-energy malnutrition: protein-energy malnutrition
+diarrhoea: Mortality rate attributed to diarrhoea
+intestinal nematode infections: Mortality rate attributed to intestinal nematode infections
+protein-energy malnutrition: Mortality rate attributed to protein-energy malnutrition
 #3.9.3
 mortality rate attributed to unintentional poisoning: Mortality rate attributed to unintentional poisoning
 mortality rate attributed to unintentional poisoning (per 100 000 inhabitants): Mortality rate attributed to unintentional poisoning
@@ -295,6 +301,9 @@ c) children and youths at the end of lower secondary education with a minimum pr
 c) children and youths at the end of lower secondary education with a minimum proficiency level in (%): "c) Children and youths at the end of lower secondary education with a minimum proficiency level in"
 mathematics: mathematics
 reading: reading
+education level: Education level
+b) at the end of lower primary education: b) At the end of lower primary education
+c) at the end of lower secondary education: c) At the end of lower secondary education
 #4.2.2
 children in child day care at the age of 5: Children in child day care at the age of 5
 children in child day care at the age of 5 (%): Children in child day care at the age of 5
@@ -331,6 +340,10 @@ level of proficiency: Level of proficiency
 "adult population achieving at least a fixed level of proficiency in functional b) numeracy skills (%):": "Adult population achieving at least a fixed level of proficiency in functional: b) numeracy skills"
 minimum requirement level i: minimum requirement level I
 minimum requirement level ii: minimum requirement level II
+skill: Skill
+a) literacy skills: a) Literacy skills
+b) numeracy skills: b) Numeracy skills
+
 #4.a.1
 facilities: Facilities
 "schools with access to:": "Schools with access to"
@@ -342,6 +355,13 @@ d) adapted infrastructure and materials for students with disabilities: d) adapt
 e) basic drinking water: e) basic drinking water
 f) single-sex basic sanitation facilities: f) single-sex basic sanitation facilities
 g) basic handwashing facilities (as per the wash indicator definitions): g) basic handwashing facilities
+a) schools with access to electricity: a) Schools with access to electricity
+b) schools with access to the internet for pedagogical purposes: b) Schools with access to the Internet for pedagogical purposes
+c) schools with access to computers for pedagogical purposes: c) Schools with access to computers for pedagogical purposes
+d) schools with access to adapted infrastructure and materials for students with disabilities: d) Schools with access to adapted infrastructure and materials for students with disabilities
+e) schools with access to basic drinking water: e) Schools with access to basic drinking water
+f) schools with access to single-sex basic sanitation facilities: f) Schools with access to single-sex basic sanitation facilities
+g) schools with access to basic handwashing facilities (as per the wash indicator definitions): g) Schools with access to basic handwashing facilities
 #4.b.1
 oda (gross disbursements) for imputed student costs: ODA (gross disbursements) for imputed student costs
 "oda (gross disbursements) for imputed student costs (mn usd, constant prices (2016))": ODA (gross disbursements) for imputed student costs

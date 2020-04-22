@@ -375,8 +375,8 @@ area of law: Rechtsgebiet
 "legal frameworks that promote, enforce and monitor gender equality regarding (%):": "Rechtliche Rahmenbedingungen zur Förderung, Durchsetzung und Überwachung der Gleichstellung der Geschlechter bezüglich"
 employment and economic benefits: Erwerbstätigkeit und wirtschaftlicher Nutzen
 marriage and family: Ehe und Familie
-overarching legal frameworks and public life: übergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
-violence against women:  Gewalt gegen Frauen
+overarching legal frameworks and public life: Üergreifende rechtliche Rahmenbedingungen und das öffentliche Leben
+violence against women: Gewalt gegen Frauen
 #5.2.1
 female victims of criminal offences having/ had a intimate relationship with the suspect: Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen
 female victims of criminal offences having/ had a intimate relationship with the suspect (number): Weibliche Opfer von Straftaten mit einer aktuellen oder früheren intimen Beziehung zum Verdächtigen
@@ -437,6 +437,10 @@ type of treatment: Art der Behandlung
 untreated wastewater that does not have to undergo treatment: Abwasser, das keiner Abwasserbehandlung bedarf
 cooling water: Kühlwasser
 other wastewater that does not have to undergo treatment: Sonstiges Abwasser, das keiner Abwasserbehandlung bedarf
+
+type of waste water: Art des Abwassers
+safely treated wastewater (total): Sicher behandeltes Abwasser (insgesamt)
+treatment: Behandlung
 #6.3.2
 water bodies with good quality: Gewässer mit guter Wasserqualität
 water bodies with good quality (%): Gewässer mit guter Wasserqualität

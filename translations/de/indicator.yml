@@ -47,7 +47,7 @@ series_help: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werd
 series_help_dns: Wählen Sie hier aus, was in der Grafik bzw. Tabelle angezeigt werden soll.
 source: Datenquelle
 sources: Datenquellen
-sub_categories: "Auswahl:"
+sub_categories: "Auswahl"
 sub_categories_dns: Disaggregation
 table: Tabelle
 timeseries: Zeitreihe

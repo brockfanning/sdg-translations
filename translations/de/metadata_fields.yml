@@ -92,9 +92,8 @@ target: Unterziel
 target_id: Unterzielnummerierung
 un_custodian_agency: UN Custodian Agency
 un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Klicken Sie hier um weitere Informationen zur UN-Tierklassifikation zu erhalten.">UN Tier Klassifikation</a>
-# A label describing information - any other metadata about a particular indicator - not covered by more specific labels
-#other_info: Weitere Informationen
-#quality_assurance: Qualitätssicherung
-#international_comparability: Vergleichbarkeit mit internationalen Daten/Standards
-#comments_limitations: Kommentare und Einschränkungen
-#rational_interpretation: Verständniss und Interpretation
+other_info: Weitere Informationen
+quality_assurance: Qualitätssicherung
+international_comparability: Vergleichbarkeit mit internationalen Daten/Standards
+comments_limitations: CKommentare und Einschränkungen
+rational_interpretation: Rationalität und Interpretation

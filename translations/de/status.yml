@@ -11,4 +11,4 @@ sonne: Bei Fortsetzung der Entwicklung beträgt die Abweichung vom Zielwert weni
 leicht bewölkt: Bei Fortsetzung der Entwicklung würde das Ziel voraussichtlich um mindestens 5&nbsp;%, aber maximal um 20&nbsp;% der Differenz zwischen Zielwert und aktuellem Wert verfehlt
 wolke: Der Indikator entwickelt sich zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung würde das Ziel im Zieljahr aber um mehr als 20&nbsp;% verfehlt
 blitz: Der Indikator entwickelt sich nicht in die gewünschte Richtung und somit vergrößert sich der Abstand zum Ziel
-#status_by_field: Status nach %field
+status_by_field: Status nach %field

@@ -4,6 +4,7 @@ sex (all age groups): Geschlecht (alle Altersklassen)
 sex: Geschlecht
 female: Weiblich
 male: Männlich
+unknown: Unbekannt
 male and female: Beide Geschlechter
 "1) male and female": männlich und weiblich
 other: Divers
@@ -237,6 +238,9 @@ type of dependence: Art der Abhängigkeit
 type of dependence (1 000): Art der Abhängigkeit
 inpatient treatment of alcohol dependence: Stationäre Behandlung bei Alkoholabhängigkeit
 inpatient treatment of alcohol dependence (1 000): Stationäre Behandlung bei Alkoholabhängigkeit
+drugs: Drogen
+alcohol and other psychoactive substances: Alkohol und andere psychoaktive Substanzen
+substance: Substanz
 #3.5.2
 conversion: Umrechnung
 by un factors: Mittels UN-Faktoren

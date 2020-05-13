@@ -40,16 +40,12 @@ loading_map: Loading map
 national_metadata: National Metadata
 metadata: Metadata
 dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
-national_metadata_blurb: This table provides metadata for the actual indicator
-  available from %country_adjective statistics closest to the corresponding
-  global SDG indicator. Please note that even when the SDG indicator is
-  fully available from %country_adjective statistics, this table
-  should be consulted for information on national methodology and other
-  country specific metadata information.
+national_metadata_blurb: The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines for the calculation of the indicator - so-called global metadata. The national time series presented here should correspond as closely as possible to the global metadata.
+Shown below are the national time series that fit the specifications best as well as their comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.
 global_metadata: Global Metadata
 global_metadata_blurb: This table provides information on metadata for SDG
-  indicators as defined by the UN Statistical Commission.
-  <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a>
+  indicators.
+  <a href="https://unstats.un.org/sdgs/metadata/">Global metadata</a>
   is provided by the UN Statistics Division.
 history: Indicator status summary
 history_blurb: The synoptic table provides information about the evaluation of the indicator for Germany in previous years. It shows if the weather symbol assigned to an indicator was rather stable or volatile in the past years. <i>(Evaluation of the indicator report 2018)</i>

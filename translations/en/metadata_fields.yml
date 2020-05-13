@@ -2,7 +2,7 @@ comments_limitations: Other information
 computation_calculations: Calculations
 computation_definitions: Definitions
 computation_units: Unit of measurement
-comparison_sdg: Comparability with UN metadata
+comparison_sdg: Comparability with global metadata
 goal_meta_link: Link to the global metadata of this indicator
 goal_meta_national_link: Link to national metadata
 indicator: Indicator number
@@ -25,7 +25,7 @@ history_year_d_2: Year
 history_status_year_d_2: Evaluation
 national_data_update_url: Last modification of code <small>(data)</small>
 national_geographical_coverage: Geographical coverage
-national_indicator_available: Indicator available
+national_indicator_available: Time series available
 national_indicator_description: Indicator description
 national_metadata_update_url: Last modification of code <small>(text)</small>
 source_contact_1: Contact details
@@ -90,8 +90,8 @@ source_url_5: Link to <br>data source
 source_url_6: Link to <br>data source
 target: Target name
 target_id: Target number
-un_custodian_agency: UN custodian agency
-un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">UN designated tier</a>
+un_custodian_agency: Custodian agency
+un_designated_tier: <a href="https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/" title="Click here for further information on the UN_Tier classification.">Designated tier</a>
 other_info: Other information
 quality_assurance: Quality assurance
 international_comparability: Comparability with international data/standards

@@ -41,7 +41,7 @@ national_metadata: National Metadata
 metadata: Metadata
 dns_metadata_blurb: This table includes additional information to the above visualized indicators, i.e. a short definition of this indicator and a description of the politically determined target values as well as explaining the political intention behind selecting this indicator.
 national_metadata_blurb: The international organisations (custodian agencies) that are responsible for the respective SDG-indicator publish methodological guidelines for the calculation of the indicator - so-called global metadata. The national time series presented here should correspond as closely as possible to the global metadata.
-Shown below are the national time series that fit the specifications best as well as their comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.
+  Shown below are the national time series that fit the specifications best as well as their comparability to the global metadata. Please find further methodical and country-specific information of the time series in the related national metadata sheet.
 global_metadata: Global Metadata
 global_metadata_blurb: This table provides information on metadata for SDG
   indicators.
